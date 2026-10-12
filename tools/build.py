@@ -35,6 +35,27 @@ for f in glob.glob(os.path.join(a.data, "*.json")):
     if isinstance(d, dict) and d.get("name"):
         INFO[d["name"]] = d
 
+def load_dir(path):
+    out = []
+    for f in glob.glob(os.path.join(path, "*.json")):
+        try:
+            d = json.load(open(f, encoding="utf8"))
+        except Exception:
+            continue
+        d = d.get("data", d) if isinstance(d, dict) else d
+        if isinstance(d, dict):
+            out.append(d)
+    return out
+DATA_ROOT = os.path.dirname(a.data.rstrip("/"))
+META = {d["name"]: d for d in load_dir(os.path.join(DATA_ROOT, "herbmeta")) if d.get("name")}
+FIELD = {}
+for d in load_dir(os.path.join(DATA_ROOT, "fieldnotes")):
+    if d.get("herb"):
+        FIELD.setdefault(d["herb"], []).append(d)
+REPO = "https://github.com/balsang12/nongmani-yakcho"
+def local_names(n):
+    return sorted({x.get("value") for x in FIELD.get(n, []) if x.get("kind") == "name" and x.get("value")})
+
 def classic_of(n):
     i = INFO.get(n, {})
     if (i.get("classic") or {}).get("has"):
@@ -69,6 +90,8 @@ def rich(n):
     score += 1 if (i.get("modern") or {}).get("papers") else 0
     score += 1 if i.get("toxic") else 0
     score += 1 if i.get("traditional", {}).get("text") else 0
+    score += 1 if FIELD.get(n) else 0
+    score += 1 if (META.get(n) or {}).get("review") else 0
     return score >= 2
 
 CSS = """
@@ -99,6 +122,9 @@ ul.src{font-size:13px;color:var(--muted);padding-left:18px}ul.src a{color:var(--
 .grid a:hover{background:var(--pine-soft)}
 .search{width:100%;padding:12px 14px;font-size:16px;border:1.5px solid var(--pine);border-radius:12px;background:var(--surface);color:var(--ink)}
 details{border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:var(--surface);margin:6px 0}summary{cursor:pointer;font-weight:700}
+ul.check{list-style:none;padding-left:0}ul.check li::before{content:"☐ ";color:var(--muted)}
+table.fn{border-collapse:collapse;width:100%;font-size:12px;text-align:center;min-width:420px}table.fn th,table.fn td{border:1px solid var(--line);padding:3px 2px}table.fn td:first-child,table.fn th:first-child{text-align:left;padding-left:8px;white-space:nowrap}table.fn td.on{background:var(--pine);color:var(--pine-ink)}
+.scroll{overflow-x:auto}.trust{font-size:14px}.trust b{margin-right:6px}
 footer{border-top:1px solid var(--line);padding-block:24px;font-size:13px;color:var(--muted)}
 """
 
@@ -112,10 +138,12 @@ def page(path, title, desc, body, jsonld=None, index=True, crumbs=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">{'' if index else '<meta name="robots" content="noindex,follow">'}
 <link rel="canonical" href="{E(canon)}"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="article"><meta property="og:url" content="{E(canon)}"><meta property="og:locale" content="ko_KR">
 <base href="{E(BASE)}/"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap">
+<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#2B5B41"><link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>{CSS}</style>{ld}</head><body>
 <header class="top"><div class="wrap"><a class="logo" href="./">농부와 <i>심마니</i> 약초 백과</a><nav class="top"><a href="./">전체 약초</a><a href="dokcho/">독초 구별</a><a href="jecheol/">제철 달력</a></nav></div></header>
 <main class="wrap">{cr}{body}</main>
 <footer><div class="wrap">{SITE}는 산나물·약초를 사고파는 '농부와 심마니'가 만드는 한국 약초 정보 모음입니다. 옛 의서의 기록과 연구를 소개할 뿐 효능을 보장하거나 치료를 권하지 않습니다. 몸이 불편하면 한의사·의사와 상의하세요. 마지막 업데이트 {TODAY}.</div></footer>
+<script>if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{{}})</script>
 </body></html>"""
     dp = urllib.parse.unquote(path)
     fp = os.path.join(a.out, dp, "index.html") if (path == "" or path.endswith("/")) else os.path.join(a.out, dp)
@@ -144,6 +172,9 @@ for h in HERBS:
     nn = none_note(n)
     lk = i.get("lookalikes") or []
     faq = i.get("faq") or []
+    meta_ = META.get(n) or {}
+    fld = FIELD.get(n, [])
+    lnames = local_names(n)
     for l in lk:
         LOOK_PAIRS.append((n, l, ban))
     for m in (idn.get("season") or {}).get("collect") or []:
@@ -155,6 +186,10 @@ for h in HERBS:
     parts.append(head)
     meta = f'<p><span class="chip {"hot" if ban or h["st"]=="hanyak" else "ok" if h["st"]=="ok" else "gold"}">{ST[h["st"]]}</span> <span class="chip">{E(h["cat"])}</span>' + (f' 다른 이름: {E(", ".join(h["alias"]))}' if h["alias"] else "") + "</p>"
     parts.append(meta)
+    if lnames:
+        parts.append(f'<p class="note">지역에서 부르는 이름: {E(", ".join(lnames))}</p>')
+    rv = meta_.get("review") or []
+    parts.append('<div class="box trust">' + ("".join(f'<div><span class="chip ok">{E(r.get("area"))} 확인</span><b>{E(r.get("name"))}</b><span class="note">{E(r.get("title",""))} · {E(r.get("date",""))}</span></div>' for r in rv) if rv else '<span class="note">아직 전문가 검수를 받지 않은 자료입니다. 아래 출처를 함께 확인하세요.</span>') + '</div>')
     # 한 줄 요약 (AI가 인용하기 좋은 첫 문단)
     lead = []
     if idn.get("sci"): lead.append(f'{n}({idn["sci"]})는 {idn.get("family","")} 식물로'.replace("  ", " "))
@@ -191,7 +226,7 @@ for h in HERBS:
         for l in lk:
             bad = "독" in str(l.get("danger",""))
             pts = "".join(f"<li>{E(p)}</li>" for p in (l.get("points") or []))
-            parts.append(f'<div class="box {"bad" if bad else ""}"><h3 style="margin:0">{E(n)} vs {link_name(l.get("name",""))} <span class="chip {"hot" if bad else "gold"}">{E(l.get("danger","비슷함"))}</span></h3>{f"<p>{E(l.get(chr(104)+chr(111)+chr(119)))}</p>" if l.get("how") else ""}{f"<ul>{pts}</ul>" if pts else ""}</div>')
+            parts.append(f'<div class="box {"bad" if bad else ""}"><h3 style="margin:0">{E(n)} vs {link_name(l.get("name",""))} <span class="chip {"hot" if bad else "gold"}">{E(l.get("danger","비슷함"))}</span></h3>{f"<p>{E(l.get(chr(104)+chr(111)+chr(119)))}</p>" if l.get("how") else ""}{f"<ul class=check>{pts}</ul>" if pts else ""}</div>')
         parts.append(srcs(i.get("lookSources")) + '<p class="note">조금이라도 애매하면 먹지 마세요. 산나물 독초 사고는 대부분 비슷해 보여서 생깁니다.</p>')
     if not ban and (idn.get("prep") or idn.get("store") or idn.get("eat")):
         parts.append('<h2>손질·보관·먹는 법</h2><dl class="facts box">' + "".join(f"<dt>{lab}</dt><dd>{E(idn[k])}</dd>" for k, lab in [("prep","손질"),("store","보관"),("eat","먹는 법")] if idn.get(k)) + "</dl>")
@@ -217,6 +252,19 @@ for h in HERBS:
         parts.append(f'<h2>{E(n)} 자주 묻는 질문</h2>' + "".join(f"<details open><summary>{E(q.get('q'))}</summary><p>{E(q.get('a'))}</p></details>" for q in faq))
     if h["st"] == "hanyak":
         parts.append('<div class="box bad">한약재 전용 품목이라 식품으로 사고팔 수 없습니다.</div>')
+    if fld:
+        hv = sorted([x for x in fld if x.get("kind") == "harvest" and x.get("months")], key=lambda x: x.get("region", ""))
+        fp = [f'<h2>{E(n)} 현장 기록</h2><p class="note">약초를 직접 캐는 심마니·농부가 남긴 기록입니다.</p>']
+        if lnames:
+            fp.append("<p><b>지역 이름:</b> " + E(", ".join(f'{v}({", ".join(sorted({x.get("region","") for x in fld if x.get("value")==v}))})' for v in lnames)) + "</p>")
+        if hv:
+            fp.append('<div class="scroll"><table class="fn"><tr><th>지역 · 기록한 곳</th>' + "".join(f"<th>{m}</th>" for m in range(1, 13)) + "</tr>" + "".join(f'<tr><td>{E(x.get("region"))} · {E(x.get("shop",""))}{f"<br><span class=note>{E(x.get(chr(109)+chr(101)+chr(109)+chr(111)))}</span>" if x.get("memo") else ""}</td>' + "".join(f'<td class="{"on" if m in x.get("months", []) else ""}"></td>' for m in range(1, 13)) + "</tr>" for x in hv) + "</table></div>")
+        parts.append("".join(fp))
+    chg = meta_.get("changes") or []
+    if chg:
+        parts.append("<details><summary>고친 기록 " + str(len(chg)) + "건</summary><ul>" + "".join(f"<li>{E(c.get('date'))} · {E(c.get('text'))}</li>" for c in reversed(chg)) + "</ul></details>")
+    iss = REPO + "/issues/new?title=" + urllib.parse.quote(f"[오류 신고] {n}") + "&body=" + urllib.parse.quote("어느 부분이 어떻게 틀렸는지, 근거가 있으면 함께 적어 주세요.\n\n")
+    parts.append(f'<p class="note">틀린 곳이 보이면 <a href="{E(iss)}" rel="nofollow noopener" target="_blank">알려 주세요</a>. 확인해서 고치고, 고친 기록에 남깁니다.</p>')
     if not rich(n):
         parts.append('<div class="box note">이 약초의 생김새·구별법·연구 자료는 지금 정리하고 있습니다. 매일 조금씩 채워집니다.</div>')
     rel = [x["name"] for x in HERBS if x["cat"] == h["cat"] and x["name"] != n and x["st"] == h["st"]][:12]
@@ -226,7 +274,7 @@ for h in HERBS:
     title = f'{n} 구별법·생김새·{"독성" if ban else "제철·옛 기록"} | {SITE}' if lk else f'{n} — {"독초 안내" if ban else "생김새·제철·옛 기록·최근 연구"} | {SITE}'
     desc = (" ".join(lead) or f"{n}의 생김새, 비슷한 식물 구별법, 제철, 손질법, 동의보감 기록과 최근 연구를 정리했습니다.")[:155]
     ld = [{"@context": "https://schema.org", "@type": "WebPage", "name": f"{n} — {SITE}", "inLanguage": "ko", "dateModified": TODAY, "url": url(herb_path(n)), "description": desc,
-           "about": {"@type": "Taxon", "name": idn.get("sci") or n, "alternateName": [n] + h["alias"], "taxonRank": "species"} if idn.get("sci") else {"@type": "Thing", "name": n, "alternateName": h["alias"]},
+           "about": {"@type": "Taxon", "name": idn.get("sci") or n, "alternateName": [n] + h["alias"] + lnames, "taxonRank": "species"} if idn.get("sci") else {"@type": "Thing", "name": n, "alternateName": h["alias"] + lnames},
            "isPartOf": {"@type": "WebSite", "name": SITE, "url": BASE + "/"}},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "전체 약초", "item": BASE + "/"}, {"@type": "ListItem", "position": 2, "name": n, "item": url(herb_path(n))}]}]
     if faq:
@@ -268,7 +316,7 @@ hb = [f'<h1>한국 산나물·약초 {len(HERBS)}가지 백과</h1><p><strong>�
       '<input class="search" id="q" placeholder="이름·다른 이름으로 찾기 (예: 딱주, 명이)" aria-label="약초 찾기">']
 for st in ST_ORDER:
     g = [h for h in HERBS if h["st"] == st]
-    hb.append(f'<h2>{ST[st]} <span class="note">{len(g)}가지</span></h2><div class="grid">' + "".join(f'<a href="{herb_path(h["name"])}" data-k="{E(" ".join([h["name"]] + h["alias"]))}">{E(h["name"])}<small>{E(", ".join(h["alias"]) or h["cat"])}</small></a>' for h in g) + "</div>")
+    hb.append(f'<h2>{ST[st]} <span class="note">{len(g)}가지</span></h2><div class="grid">' + "".join(f'<a href="{herb_path(h["name"])}" data-k="{E(" ".join([h["name"]] + h["alias"] + local_names(h["name"])))}">{E(h["name"])}<small>{E(", ".join(h["alias"]) or h["cat"])}</small></a>' for h in g) + "</div>")
 hb.append('<script>document.getElementById("q").addEventListener("input",e=>{const q=e.target.value.trim();document.querySelectorAll(".grid a[data-k]").forEach(a=>{a.hidden=q&&!a.dataset.k.includes(q)})})</script>')
 ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE + "/", "inLanguage": "ko", "description": "한국 산나물·약초의 생김새, 독초 구별법, 제철, 옛 의서 기록, 최근 연구"},
       {"@context": "https://schema.org", "@type": "ItemList", "name": "한국 산나물·약초 목록", "numberOfItems": len(HERBS), "itemListElement": [{"@type": "ListItem", "position": k + 1, "name": h["name"], "url": url(herb_path(h["name"]))} for k, h in enumerate(HERBS)]}]
@@ -290,4 +338,14 @@ llms += [f"- [{h['name']}]({url(herb_path(h['name']))}): {ST[h['st']]}" + (f", �
 open(os.path.join(a.out, "llms.txt"), "w", encoding="utf8").write("\n".join(llms) + "\n")
 page("404.html", f"찾는 페이지가 없습니다 | {SITE}", "", '<h1>찾는 페이지가 없습니다</h1><p><a href="./">전체 약초 목록으로 가기</a></p>', index=False)
 open(os.path.join(a.out, ".nojekyll"), "w").write("")
+scope = urllib.parse.urlparse(BASE).path.rstrip("/") + "/"
+open(os.path.join(a.out, "sw.js"), "w", encoding="utf8").write("""// 한 번 연 페이지는 산에서 신호가 없어도 다시 열리게 저장합니다
+const C="yakcho-v1",PRE=["./","dokcho/","jecheol/","manifest.webmanifest","icon.svg"];
+self.addEventListener("install",e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(PRE)).then(()=>self.skipWaiting()))});
+self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==C).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))});
+self.addEventListener("fetch",e=>{const r=e.request;if(r.method!=="GET"||new URL(r.url).origin!==location.origin)return;
+ e.respondWith(fetch(r).then(res=>{const cp=res.clone();caches.open(C).then(c=>c.put(r,cp));return res}).catch(()=>caches.match(r).then(m=>m||caches.match("./"))))});
+""")
+open(os.path.join(a.out, "manifest.webmanifest"), "w", encoding="utf8").write(json.dumps({"name": SITE, "short_name": "약초 백과", "lang": "ko", "start_url": scope, "scope": scope, "display": "standalone", "background_color": "#F4F6F1", "theme_color": "#2B5B41", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}, ensure_ascii=False))
+open(os.path.join(a.out, "icon.svg"), "w", encoding="utf8").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2B5B41"/><path d="M32 52V24" stroke="#F4E7CC" stroke-width="4" stroke-linecap="round"/><path d="M32 30c-10 0-16-7-16-16 10 0 16 6 16 16zM32 36c10 0 16-7 16-16-10 0-16 6-16 16z" fill="#E2B45E"/></svg>')
 print(f"pages: {len(HERBS)} herbs, indexed {len(SITEMAP)}, info docs {len(INFO)}, out={a.out}")

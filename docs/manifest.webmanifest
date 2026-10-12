@@ -1,0 +1,1 @@
+{"name": "농마니 약초 백과", "short_name": "약초 백과", "lang": "ko", "start_url": "/nongmani-yakcho/", "scope": "/nongmani-yakcho/", "display": "standalone", "background_color": "#F4F6F1", "theme_color": "#2B5B41", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}
