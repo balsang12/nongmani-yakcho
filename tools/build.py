@@ -338,6 +338,12 @@ llms += [f"- [{h['name']}]({url(herb_path(h['name']))}): {ST[h['st']]}" + (f", �
 open(os.path.join(a.out, "llms.txt"), "w", encoding="utf8").write("\n".join(llms) + "\n")
 page("404.html", f"찾는 페이지가 없습니다 | {SITE}", "", '<h1>찾는 페이지가 없습니다</h1><p><a href="./">전체 약초 목록으로 가기</a></p>', index=False)
 open(os.path.join(a.out, ".nojekyll"), "w").write("")
+# 검색엔진 소유 확인 파일 등 그대로 올릴 파일 (tools/static/)
+st_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
+if os.path.isdir(st_dir):
+    for fn in os.listdir(st_dir):
+        if not fn.startswith(".") and fn != "README.txt":
+            shutil.copy(os.path.join(st_dir, fn), os.path.join(a.out, fn))
 scope = urllib.parse.urlparse(BASE).path.rstrip("/") + "/"
 open(os.path.join(a.out, "sw.js"), "w", encoding="utf8").write("""// 한 번 연 페이지는 산에서 신호가 없어도 다시 열리게 저장합니다
 const C="yakcho-v1",PRE=["./","dokcho/","jecheol/","manifest.webmanifest","icon.svg"];
