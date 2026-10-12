@@ -1,0 +1,59 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Cellular and Infection Microbiology",
+        "note": "곰취 추출물에 붉은 빛을 쬐어 황색포도상구균에 감염된 쥐 상처의 회복에 미치는 영향을 세포 실험과 함께 살폈다.",
+        "title": "Antimicrobial photodynamic therapy with Ligularia fischeri extract and red light improves the restoration of Staphylococcus aureus-infected wounds in BALB/c mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fcimb.2026.1827267",
+        "year": "2026"
+      },
+      {
+        "journal": "Scientific Reports",
+        "note": "국내 다섯 지역에서 자란 곰취 잎과 줄기의 디카페오일퀸산 세 가지 함량을 분석해 표준화 방법을 검증했다.",
+        "title": "Validation and standardization of the content of three di-caffeoylquinic acid in Korean Ligularia fischeri by region of origin",
+        "type": "기타",
+        "url": "https://doi.org/10.1038/s41598-025-10636-4",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Cosmetic Dermatology",
+        "note": "곰취 에탄올 추출물이 색소세포의 멜라닌 생성에 미치는 영향을 살폈다.",
+        "title": "Ligularia fischeri ethanol extract: An inhibitor of alpha-melanocyte-stimulating hormone-stimulated melanogenesis in B16F10 melanoma cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1111/jocd.15335",
+        "year": "2023"
+      },
+      {
+        "journal": "Applied Biological Chemistry",
+        "note": "곰취 추출물을 빛과 함께 써서 메티실린 내성 황색포도상구균에 감염된 선충에 미치는 영향을 살폈다.",
+        "title": "Antimicrobial photodynamic therapy with Ligularia fischeri against methicillin-resistant Staphylococcus aureus infection in Caenorhabditis elegans model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1186/s13765-023-00778-2",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 곰취 연구는 잎에 많은 디카페오일퀸산 계열 성분의 함량을 재배 지역별로 분석해 품질 기준을 잡으려는 연구와, 곰취 추출물을 빛과 함께 써서 세균을 억제하는 광역학 방식, 피부 멜라닌 생성에 미치는 영향 등을 살핀 실험 연구가 중심이다. 대부분 세포·선충·쥐를 이용한 실험이거나 성분 분석이며, 사람을 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "곰취",
+  "st": "caution",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 정보 - 곰취",
+        "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_07.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 곰취",
+        "url": "https://encykorea.aks.ac.kr/Article/E0004209"
+      }
+    ],
+    "text": "산림청 자료에 따르면 곰취는 주로 어린잎을 산나물로 먹고, 뿌리와 뿌리줄기는 예로부터 타박상·허리 통증이나 기침·가래를 다스리는 데 썼다고 소개되며, 호로칠(葫蘆七)·산자원(山紫菀)이라는 한자 이름도 전한다. 한국민족문화대백과사전은 곰취 어린잎을 나물로 먹고 봄철 먹을거리가 부족할 때 구황식물로도 쓰였으며, 『시의전서』·『고사십이집』에 잎을 삶거나 쪄서 밥을 싸 먹는 곰취쌈이 나온다고 적고 있다. 산림청 자료는 독초인 동의나물과 잎이 비슷하므로 잎 가장자리 톱니와 잎끝 모양으로 구별해야 한다고 주의를 준다."
+  },
+  "updatedAt": 1791811033695
+}

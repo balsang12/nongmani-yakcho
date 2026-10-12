@@ -1,0 +1,66 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나물(菜部)",
+    "easy": [
+      "고사리 어린 순(나물로 먹는 부분)을 다룬 '궐채(蕨菜)' 항목이며, 성질은 차고 미끄러우며 맛은 달다고 적었다고 소개된다.",
+      "갑자기 오르는 열을 내리고 소변이 잘 나오게 하는 데 쓴다고 적었다.",
+      "잠이 잘 오게 한다는 기록도 함께 소개된다."
+    ],
+    "han": "蕨菜",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "4~5월이 제철인 햇고사리 [한의사 曰 건강꿀팁] (2026, 다음뉴스)",
+        "url": "https://v.daum.net/v/20260423182657978"
+      },
+      {
+        "title": "헬스경향 [한동하의 식의보감] 삶아서 말린 고사리는 '약', 생고사리는 '독' (2022)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=59239"
+      }
+    ],
+    "verified": false,
+    "warn": "오래 많이 먹으면 기운(양기)을 떨어뜨리고, 다리에 힘이 빠져 걷기 힘들어지며, 눈이 어두워지고 배가 불러 오를 수 있다고 경계했다고 전한다."
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants (Basel)",
+        "note": "고사리의 성분·독성 문헌을 모아 프타킬로사이드가 사람·가축 건강과 환경에 미치는 위험, 그리고 독성을 줄이는 조리법을 정리했다.",
+        "title": "Health and Environmental Hazards of the Toxic Pteridium aquilinum (L.) Kuhn (Bracken Fern)",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38202326/",
+        "year": "2023"
+      },
+      {
+        "journal": "Toxins",
+        "note": "고사리와 고기·유제품 속 프타킬로사이드를 정밀하게 재는 분석법을 만들고 시중 제품 감시에 쓸 수 있는지 살폈다.",
+        "title": "Evaluation and Monitoring of the Natural Toxin Ptaquiloside in Bracken Fern, Meat, and Dairy Products",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/toxins15030231",
+        "year": "2023"
+      },
+      {
+        "journal": "Toxics",
+        "note": "말린 고사리를 불린 뒤 삶는 시간에 따라 프타킬로사이드가 얼마나 줄어드는지 측정했고, 20분 삶았을 때 대부분 줄었다고 보고했다.",
+        "title": "Risk Assessment and Risk Reduction of Ptaquiloside in Bracken Fern",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/toxics11020115",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 고사리 속 발암 의심 성분인 프타킬로사이드(ptaquiloside)의 위해성 평가와 분석법에 집중되어 있다. 국내 연구에서는 말린 고사리를 물에 불린 뒤 20분 이상 삶으면 이 성분이 크게 줄었다고 보고했다. 근거는 문헌 리뷰와 식품 분석 실험 수준이며, 사람을 직접 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "고사리",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1791811033695
+}

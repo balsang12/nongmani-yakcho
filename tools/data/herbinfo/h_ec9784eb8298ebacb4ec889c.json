@@ -1,0 +1,63 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "이 기록은 어린 순(나물)이 아니라 나무 껍질 약재 '해동피(海桐皮)'에 관한 것이다. 우리나라에서는 엄나무 껍질을 해동피로 써 왔다고 소개된다.",
+      "중국 본초서에서 말하는 해동피는 본래 콩과 나무인 자동(刺桐)의 껍질이어서, 옛 기록 속 해동피가 엄나무와 늘 같은 식물을 가리키는 것은 아니다.",
+      "동의보감 탕액편 나무 부분 목차에 해동피가 실려 있음은 확인했지만, 원문 본문은 직접 읽지 못해 쓰임과 성질은 옮기지 않았다."
+    ],
+    "han": "海桐皮",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "동의보감 탕액편 / 나무 — 다음카페 '한국 문화의 원류' 게시 번역문 목차(2차 자료)",
+        "url": "https://m.cafe.daum.net/ko.art./am03/86"
+      },
+      {
+        "title": "푸드투데이, 제대로 알고 먹는 약재 상식 - 해동피(海桐皮)",
+        "url": "https://foodtoday.or.kr/mobile/article.html?no=104597"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "",
+        "note": "음나무가 무좀 등을 일으키는 백선균 두 종에 대해 항진균 작용을 보이는지와 그 기전을 살폈다.",
+        "title": "The Antifungal Activity and Potential Mechanism of Kalopanax septemlobus against Trichophyton mentagrophytes and T. rubrum",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40763762/",
+        "year": "2025"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "1966~2022년에 나온 음나무의 성분·약리·독성 연구를 모아 정리한 리뷰다.",
+        "title": "Kalopanax septemlobus: its phytochemistry, pharmacology and toxicity (1966–2022)",
+        "type": "리뷰",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0367326X23001363",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구로는 음나무(Kalopanax septemlobus)의 성분·약리·독성 연구를 50여 년치 모아 정리한 리뷰와, 무좀 등을 일으키는 백선균에 대한 항진균 작용을 본 연구가 있다. 대부분 껍질·잎 추출물을 쓴 실험실·동물 연구이며, 어린 순을 대상으로 하거나 사람을 대상으로 한 최근 연구는 찾지 못했다."
+  },
+  "name": "엄나무순",
+  "st": "caution",
+  "traditional": {
+    "sources": [
+      {
+        "title": "국민건강보험공단 건강웹진 (2022년 4월호) 두릅·엄나무 소개",
+        "url": "https://www.nhis.or.kr/static/alim/paper/oldpaper/202204/sub/09.html"
+      }
+    ],
+    "text": "가시가 많은 엄나무와 두릅나무는 나쁜 기운을 쫓는다고 믿어 대문 옆에 울타리처럼 심기도 했다고 소개된다. 봄에 돋는 어린 순은 향과 쌉싸름한 맛을 즐기는 봄나물로 먹었다."
+  },
+  "updatedAt": 1791811033695
+}

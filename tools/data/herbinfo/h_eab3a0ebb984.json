@@ -1,0 +1,50 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나물(菜部)",
+    "easy": [
+      "고비를 '미(薇)'라는 이름으로 실었다고 소개된다(어린 순, 나물로 먹는 부분).",
+      "고비도 고사리의 한 종류이며 자라는 곳도 같다고 적었다고 전한다."
+    ],
+    "han": "薇",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "헬스경향 [한동하의 식의보감] 삶아서 말린 고사리는 '약', 생고사리는 '독' (2022)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=59239"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Bioscience",
+        "note": "고비에서 얻은 다당류가 면역 관련 신호 경로(MAPK·NF-κB)에 미치는 영향을 살폈다.",
+        "title": "Exploring the immunomodulatory mechanisms of Osmunda japonica Thunb polysaccharides: Activation of MAPK and NF-κB signaling pathways",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S2212429224021266",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 사이 고비(Osmunda japonica)를 다룬 연구는 매우 적으며, 확인된 것은 고비 다당류의 면역 조절 기전을 살핀 실험 연구 정도다. 근거는 실험실 수준에 머물러 있고 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "고비",
+  "st": "caution",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 재배기술 - 고비",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_03_02.pdf"
+      }
+    ],
+    "text": "산림청 자료에 따르면 고비 뿌리줄기는 한약재명 자기(紫萁)로 불리며, 민간에서는 봄·여름에 채취해 말린 줄기와 잎을 인후통에, 뿌리를 이뇨에 쓰기도 했다. 나물로는 어린 순의 솜털을 없앤 뒤 끓는 물에 데쳐 말려서 먹는다."
+  },
+  "updatedAt": 1791811033695
+}

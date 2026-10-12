@@ -1,0 +1,55 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "중국 동북부 야생 두릅나무의 새순을 모아, 늦봄 서리와 토양 조건에 따라 트리테르펜 배당체 함량이 어떻게 달라지는지 살폈다.",
+        "title": "Ecophysiological Responses of Triterpene Glycosides in Buds of Aralia elata (Miq.) Seem. to Late Spring Frost with Soil-Mediated Effects",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14142115",
+        "year": "2025"
+      },
+      {
+        "journal": "Natural Product Research",
+        "note": "두릅나무의 다당류와 사포닌을 뽑아내는 방법과 지금까지 보고된 생리 활성을 정리한 리뷰다.",
+        "title": "Extraction and biological activities of polysaccharides and saponins from Aralia elata: a review",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39731422/",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Functional Foods",
+        "note": "두릅나무 물 추출물의 성분을 찾고, 쥐에서 근육 위축과 장내 미생물에 미치는 영향을 살폈다.",
+        "title": "Identification of components from Aralia elata and their effects on muscle health and gut microbiota",
+        "type": "동물 실험",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1756464624003864",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Zhejiang University. Medical sciences",
+        "note": "주로 사포닌 성분과 관련해 보고된 두릅나무의 심장 보호·혈당·간 보호 등 약리 연구를 정리한 리뷰다.",
+        "title": "Research progress in pharmacological effects of Aralia elata",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37916310/",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 두릅나무(Aralia elata)의 사포닌·다당류 같은 성분과 그 약리 작용을 정리하는 리뷰, 추출물을 쥐에게 먹여 근육 상태를 살핀 동물 실험, 새순 속 성분이 기후·토양에 따라 어떻게 달라지는지 본 연구 등이 있다. 근거는 대부분 동물·세포 실험이나 리뷰 수준이며, 최근 3년 안에 사람을 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "두릅",
+  "st": "caution",
+  "traditional": {
+    "sources": [
+      {
+        "title": "국민건강보험공단 건강웹진 (2022년 4월호) 두릅·엄나무 소개",
+        "url": "https://www.nhis.or.kr/static/alim/paper/oldpaper/202204/sub/09.html"
+      }
+    ],
+    "text": "가시가 많은 두릅나무와 엄나무는 나쁜 기운을 쫓는다고 믿어 대문 옆에 울타리처럼 심기도 했다고 소개된다. 봄에 돋는 어린 순을 따서 향과 쌉싸름한 맛을 즐겼고, 기운을 북돋는 봄나물로 여겼다. 먹을 때는 소금을 넣은 끓는 물에 20초쯤 데친 뒤 찬물에 헹궈 먹으라고 안내한다."
+  },
+  "updatedAt": 1791811033695
+}

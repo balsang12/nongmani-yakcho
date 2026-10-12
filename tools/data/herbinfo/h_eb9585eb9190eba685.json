@@ -1,0 +1,75 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "이 기록은 어린 순(땅두릅 나물)이 아니라 뿌리 약재 '독활(獨活)'에 관한 것이다. 뿌리를 음력 2·3월과 9·10월에 캐어 볕에 말린다고 적었다.",
+      "오래되었든 새로 생겼든 바람(風) 기운 때문에 온몸 마디마디가 아픈 데 쓴다고 적었다.",
+      "바람이 불어도 흔들리지 않고 바람이 없을 때 오히려 움직인다 하여 '독요초(獨搖草)'라는 다른 이름도 있다고 적었다.",
+      "비슷한 약재인 강활(羌活)과 견주어 독활은 기운이 가늘고 강활은 기운이 굳세다고 적었다. 번역본에서는 우리말 이름을 '따두릅'으로 옮겼다."
+    ],
+    "han": "獨活",
+    "has": true,
+    "ki": "性平一云微溫 味甘苦一云辛 無毒",
+    "kiKo": "성질은 평하다(약간 따뜻하다는 설도 있음)고 했고, 맛은 달고 쓰며(맵다는 설도 있음) 독은 없다고 적었다.",
+    "old": "",
+    "orig": "療諸賊風, 百節痛風, 無久新者. … 此草得風不搖, 無風自動, 故一名獨搖草. … 獨活氣細, 羌活氣雄.",
+    "sources": [
+      {
+        "title": "한지선 외, 「소양인 강표음 치법의 의미와 강표음약 용약법에 대한 고찰」, 대한한의학원전학회지 37(2), 2024 (동의보감 탕액편 獨活 원문 인용, 출처 한의학고전DB)",
+        "url": "https://koreascience.or.kr/article/JAKO202416443204770.pdf"
+      },
+      {
+        "title": "동의보감 탕액편 / 풀 — 다음카페 '한국 문화의 원류' 게시 번역문(2차 자료)",
+        "url": "https://m.cafe.daum.net/ko.art./am03/84"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biological and Pharmaceutical Bulletin",
+        "note": "땅두릅 뿌리줄기에서 얻은 다이터펜 성분이 연골세포의 염증·연골 분해 관련 유전자 발현에 미치는 영향을 살폈다.",
+        "title": "Diterpenes in Aralia cordata Rhizomes Suppress the Expression of Proinflammatory and Extracellular Matrix Degradation-Related Genes in ATDC5 Cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1248/bpb.b25-00741",
+        "year": "2026"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "유산균으로 발효한 땅두릅 추출물이 장 세포의 포도당 운반 단백질과 면역 관련 지표에 미치는 영향을 살폈다.",
+        "title": "Enhanced Bioactivity of Fermented Aralia cordata Extract for Glucose and Immune Modulation",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/cimb47040294",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "독활의 전통 쓰임, 분포, 성분 159종, 약리 연구를 정리한 리뷰다.",
+        "title": "A Comprehensive Review of Traditional Medicinal Uses, Geographical Distribution, Botanical Characterization, Phytochemistry, and Pharmacology of Aralia continentalis Kitag.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules29153529",
+        "year": "2024"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "독활 뿌리 추출물을 쥐에게 주었을 때 잠드는 시간과 비렘수면이 달라지는지, GABA 수용체와 관련이 있는지 살폈다.",
+        "title": "Aralia continentalis Root Enhances Non-Rapid Eye Movement Sleep by Activating GABAA Receptors",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu15245020",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 땅두릅(Aralia cordata, 국내에서는 독활 A. continentalis로도 부름)의 뿌리·뿌리줄기 성분이 염증 관련 유전자, 수면, 혈당·면역 지표에 미치는 영향을 살피는 흐름이며, 전통 쓰임과 약리를 정리한 리뷰도 나왔다. 근거는 세포 실험과 쥐 실험 수준이고, 최근 3년 안에 사람을 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "땅두릅",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1791811033695
+}

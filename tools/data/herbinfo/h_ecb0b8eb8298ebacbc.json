@@ -1,0 +1,47 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "참나물 추출물이 쥐 치주염 모델과 대식세포·치주인대 세포에서 염증 신호에 미치는 영향을 살폈다.",
+        "title": "Pimpinella brachycarpa extract attenuates periodontal inflammation by modulating the PI3K/Akt–NF-κB signaling pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2026.1902876",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Molecular Histology",
+        "note": "치주염을 일으킨 쥐에게 참나물 추출물을 먹였을 때 잇몸뼈 손실과 염증 지표가 줄었다고 보고했다.",
+        "title": "Anti-Inflammatory and bone-protective effects of Pimpinella brachycarpa extract in a rat periodontitis model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1007/s10735-025-10690-2",
+        "year": "2026"
+      },
+      {
+        "journal": "Food Chemistry",
+        "note": "참나물의 꽃·잎·줄기·뿌리별 대사물질과 시험관 항산화 활성을 비교 분석했다.",
+        "title": "Comprehensive analysis of primary and secondary metabolites and antioxidant activities provides insights into metabolic profiling of different organs of Pimpinella brachycarpa Nakai",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.foodchem.2024.142394",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 참나물 연구는 꽃·잎·줄기·뿌리 등 부위별 성분과 항산화 활성을 분석한 연구와, 참나물 추출물이 쥐의 잇몸병(치주염) 모델에서 염증과 잇몸뼈 손실에 미치는 영향을 살핀 연구가 주를 이룬다. 근거는 성분 분석과 동물·세포 실험 수준이며, 사람을 대상으로 한 연구는 찾지 못했다. 참고로 학명은 최근 Spuriopimpinella brachycarpa로도 쓰인다."
+  },
+  "name": "참나물",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 정보 - 참나물",
+        "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_09.pdf"
+      }
+    ],
+    "text": "산림청 자료에 따르면 참나물은 향이 좋아 생으로나 말려서 먹는 산나물이며, 생약명으로는 야근채(野芹菜)라 부르고 민간에서는 알레르기를 가라앉히는 약으로 쓰이기도 했다고 소개한다. 같은 자료는 감염이나 고혈압에 쓰기도 한다고 적고 있으나, 이는 전통적 쓰임을 소개한 것으로 효과가 확인된 것은 아니다."
+  },
+  "updatedAt": 1791811033695
+}

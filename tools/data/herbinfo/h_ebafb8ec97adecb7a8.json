@@ -1,0 +1,59 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Moldovan Journal of Health Sciences",
+        "note": "몰도바산 미역취(S. virgaurea)와 캐나다미역취의 성분을 비교하고 항산화·항염·항균 작용을 실험실과 동물에서 살폈다.",
+        "title": "Comparative assessment of active compounds in Solidago species from the flora of the Republic of Moldova",
+        "type": "기타",
+        "url": "https://doi.org/10.52645/MJHS.2025.3.20",
+        "year": "2025"
+      },
+      {
+        "journal": "Applied Sciences",
+        "note": "미역취 추출물을 1% 넣은 크림·세럼을 여성 지원자 20명이 4주간 바른 뒤 피부 수분 변화를 살폈다.",
+        "title": "A Study of the Potential of Solidago virgaurea Extract as a Raw Material for Cosmetic Macroemulsions",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/app142210107",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "정유를 뽑는 방법에 따라 미역취 정유와 증류수의 항균·항산화 활성이 어떻게 달라지는지 비교했다.",
+        "title": "Influence of the Extraction Method on the Biological Potential of Solidago virgaurea L. Essential Oil and Hydrolates",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants13162187",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "미역취 추출물이 항생제 내성 녹농균의 바이오필름 형성에 미치는 영향을 시험관에서 살폈다.",
+        "title": "Impact of Solidago virgaurea Extract on Biofilm Formation for ESBL-Pseudomonas aeruginosa: An In Vitro Model Study",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/ph16101383",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 대부분 유럽산 Solidago virgaurea(우리나라 미역취와 같은 종의 다른 아종·계통)의 추출물과 정유를 대상으로 항균·항산화·항염 작용을 시험관과 동물에서 살핀 것이다. 사람 대상으로는 추출물을 넣은 화장품의 피부 보습을 본 소규모 연구가 있을 뿐, 먹었을 때의 효과를 본 연구는 찾지 못했다. 우리나라 미역취(subsp. asiatica)만을 다룬 최근 논문은 찾지 못했다."
+  },
+  "name": "미역취",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "울릉미역취 에탄올추출물의 항산화 활성 (대한본초학회지 34(1), 2019)",
+        "url": "https://koreascience.or.kr/article/JAKO201910537995526.pdf"
+      },
+      {
+        "title": "Solidago virgaurea (PROSEA) — Pl@ntUse",
+        "url": "https://uses.plantnet-project.org/en/Solidago_virgaurea_(PROSEA)"
+      }
+    ],
+    "text": "미역취의 땅 위 부분은 '일지황화(一枝黃花)'라는 이름의 약재로 다뤄지며, 성질은 차고 맛은 맵고 쓰다고 소개된다. 국내 학술 논문은 감기·인후통·발열·황달 등에 쓰였고 민간에서는 위를 튼튼히 하거나 소변을 잘 나오게 하는 데 썼다는 문헌을 인용한다. 동남아 식물자원 자료(PROSEA)는 중국에서 전초 달인 물을 학질과 기생충에 썼다고 적었다."
+  },
+  "updatedAt": 1791811033695
+}

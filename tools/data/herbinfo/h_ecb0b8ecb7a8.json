@@ -1,0 +1,39 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Mitochondrial DNA Part B: Resources",
+        "note": "참취의 엽록체 유전체 전체를 해독하고 근연종과의 계통 관계를 살폈다.",
+        "title": "The complete chloroplast genome of Aster scaber Thunb. 1784 (Asteraceae)",
+        "type": "기타",
+        "url": "https://doi.org/10.1080/23802359.2024.2447744",
+        "year": "2025"
+      },
+      {
+        "journal": "한국식품영양과학회지",
+        "note": "열풍 건조 온도·시간에 따라 참취의 수분, 색, 플라보노이드 등 품질이 어떻게 달라지는지 살피고 알맞은 건조 조건을 찾았다.",
+        "title": "중심합성계획법에 의한 반응표면분석법을 활용한 참취(Aster scaber Thunb.)의 건조 조건 최적화",
+        "type": "기타",
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002990999",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 참취 연구는 효능 검증보다는 건조 가공 조건 최적화나 엽록체 유전체 해독 같은 식품·식물학 기초 연구가 중심이다. 건강 효과에 대한 최근 연구는 찾기 어렵고, 사람 대상 연구는 확인하지 못했다."
+  },
+  "name": "참취",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 재배기술 - 참취",
+        "url": "https://ob.forest.go.kr/kfs/images/data/down/imsan/imsan_03_08.pdf"
+      }
+    ],
+    "text": "산림청 자료에 따르면 참취(Aster scaber)는 동풍채(東風菜)·산백채(山白菜)라고도 불리며, 민간에서는 황달, 간염, 소화장애, 타박상 등에 써 왔다. 진통·해독·요통 등에 효능이 있는 것으로 알려져 있다고 적고 있으나 임상 근거는 제시되어 있지 않다."
+  },
+  "updatedAt": 1791811033695
+}

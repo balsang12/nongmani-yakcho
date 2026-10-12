@@ -1,0 +1,71 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "이 기록은 어린 순(나물)이 아니라 오갈피나무의 껍질 약재 '오가피(五加皮)'에 관한 것이다. 줄기는 음력 5·7월에 베고 뿌리는 10월에 캐어 그늘에 말린다고 적었다.",
+      "몸이 몹시 지치고 상한 것을 보하고 기운과 정(精)을 돕는 데 쓴다고 적었다.",
+      "힘줄과 뼈를 튼튼하게 하여 허리·등이 아프거나 두 다리가 저리고 힘이 없는 데 쓴다고 적었다.",
+      "세 살이 되도록 걷지 못하는 아이에게 먹였다는 이야기와, 잎이 다섯 갈래로 난 것을 좋은 것으로 쳤다는 내용도 실려 있다."
+    ],
+    "han": "五加皮",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질은 따뜻하다(약간 차다는 설도 있음)고 했고, 맛은 맵고 쓰며 독은 없다고 적었다.",
+    "old": "오갈피",
+    "orig": "",
+    "sources": [
+      {
+        "title": "동의보감 16 (탕액편 / 나무) — 다음카페 '한국 문화의 원류' 게시 번역문(2차 자료)",
+        "url": "https://m.cafe.daum.net/ko.art./am03/86"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Natural Product Research",
+        "note": "오갈피 등 세 식물 추출물이 과산화수소로 산화 스트레스를 준 신경세포에 미치는 영향을 살폈다.",
+        "title": "Protective effects of Eleutherococcus sessiliflorus, Phragmites australis, and Pinus densiflora extracts against hydrogen peroxide-induced oxidative stress in SH-SY5Y cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/14786419.2026.2674725",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
+        "note": "오갈피 줄기 성분을 효소·초음파로 뽑는 방법을 다듬고, 가시오갈피 줄기와 항균·항산화 활성을 시험관에서 비교했다.",
+        "title": "Ultrasound-Assisted Enzymatic Extraction of the Active Components from Acanthopanax sessiliflorus Stem and Bioactivity Comparison with Acanthopanax senticosus",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules30020397",
+        "year": "2025"
+      },
+      {
+        "journal": "Phytochemistry",
+        "note": "오갈피 잎에서 트리테르페노이드 성분을 분리하고, 류마티스 관절염 환자 유래 활막세포의 증식에 미치는 영향을 살폈다.",
+        "title": "Triterpenoids from the leaves of Eleutherococcus sessiliflorus, and their antiproliferative activities in TNF-α induced HFLS-RA cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.phytochem.2024.114133",
+        "year": "2024"
+      },
+      {
+        "journal": "Molecules",
+        "note": "오갈피에서 보고된 300여 가지 성분과 약리 연구를 정리한 리뷰다.",
+        "title": "Phytochemistry and Pharmacology of Eleutherococcus sessiliflorus (Rupr. & Maxim.) S.Y.Hu: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules28186564",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 오갈피나무의 잎·줄기에서 트리테르페노이드·페닐프로파노이드 같은 성분을 찾고, 항산화·항염 같은 작용을 실험실에서 살피는 흐름이다. 2023년 리뷰는 어린 순을 산나물로 흔히 먹는다고 소개했다. 근거는 대부분 세포·시험관 실험 수준이며, 오갈피(E. sessiliflorus)만을 대상으로 한 최근 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "오가피순",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1791811033695
+}
