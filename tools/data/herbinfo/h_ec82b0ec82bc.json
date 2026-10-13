@@ -1,0 +1,189 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "오장의 기운이 부족할 때 쓴다고 적었다.",
+      "정신과 혼백을 안정시키고 눈을 밝게 하며 기억을 돕는다고 적었다.",
+      "약재 이름 人參 아래에 한글로 '심'이라 적어 두었고, 산삼을 찾았을 때 외치는 '심봤다'가 여기서 나왔다는 설명이 있다."
+    ],
+    "han": "人參",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질이 따뜻하고 독이 없다고 적었다(원문 미확인, 국가기록원 번역 요약 기준).",
+    "old": "심",
+    "orig": "",
+    "sources": [
+      {
+        "title": "국가기록원 기록으로 보는 한국 - 인삼",
+        "url": "https://theme.archives.go.kr/next/koreaOfRecord/Ginseng.do"
+      },
+      {
+        "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권02 (원문 열람 실패)",
+        "url": "https://mediclassics.kr/books/8/volume/21"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "산삼은 산에서 저절로 자란 삼이고, 산양삼은 산삼 씨앗이나 묘삼을 산에 심어 기른 삼입니다. 같은 종이라 겉모양으로 가리기 어렵고, 산양삼은 한국임업진흥원 품질검사 합격증을 붙여 팔아야 합니다.",
+      "q": "산삼과 산양삼은 어떻게 다른가요?"
+    },
+    {
+      "a": "아닙니다. 장뇌삼은 흔히 산에서 기른 삼을 부르는 말로, 산양삼과 같은 범주로 다뤄집니다. 산에서 기른 삼은 생산신고와 품질검사를 거쳐야 정상 유통품입니다.",
+      "q": "장뇌삼은 산삼인가요?"
+    },
+    {
+      "a": "줄기를 보면 됩니다. 산삼은 겨울에 말라 죽는 풀이고 가시가 없지만, 오갈피는 딱딱한 나무줄기이고 가시오갈피는 가시가 있습니다. 잎은 둘 다 손바닥 모양 다섯 갈래라 잎만으로는 구별하기 어렵습니다.",
+      "q": "산삼과 오갈피 어린 나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "채취 장소와 채취자 등 출처를 확인하고, 값비싼 자연산 산삼은 감정서를 함께 받으세요. 지나치게 싼 '산삼'은 밭에서 기른 어린 인삼일 수 있습니다.",
+      "q": "산삼을 살 때 무엇을 확인해야 하나요?"
+    },
+    {
+      "a": "심마니들은 처서부터 입동 무렵(대략 8월 말~11월 초)을 산삼 캐기 좋은 때로 꼽습니다. 다만 숲에서 기른 산양삼 연구에서는 늦봄~여름에 진세노사이드 함량이 높았다는 보고도 있습니다.",
+      "q": "산삼은 언제 캐나요?"
+    }
+  ],
+  "id": {
+    "eat": "값이 비싼 품목이라 채취 근거 등 출처가 분명한 것만 사서 쓴다.",
+    "eng": "wild ginseng",
+    "family": "두릅나무과",
+    "habitat": "깊은 산 숲속의 그늘지고 부식질이 많은 땅에서 자란다. 분포국은 한국, 북한, 중국, 러시아다. 국제적으로는 러시아 개체군만 CITES 부속서 II에 올라 있다.",
+    "look": {
+      "leaf": "손바닥 모양으로 다섯 갈래로 갈라진 겹잎이 달린다. 나이가 들수록 줄기 끝에 달리는 겹잎 수가 늘어난다.",
+      "root": "뿌리 위쪽에 뇌두(뿌리 머리)가 있고, 그 아래로 몸통 뿌리와 긴 잔뿌리가 이어진다.",
+      "stem": "나무가 아닌 여러해살이풀이라 줄기가 겨울에 말라 죽고, 가시가 없다."
+    },
+    "parts": "뿌리(잔뿌리 포함 통째로)",
+    "prep": "흙을 털고 잔뿌리가 상하지 않게 다룬다.",
+    "sci": "Panax ginseng C.A.Mey.",
+    "season": {
+      "collect": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "경북매일 - 가시오가피와 산삼의 닮은 점(2013)",
+        "url": "https://kbmaeil.com/article/201306140069813"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 심마니",
+        "url": "https://encykorea.aks.ac.kr/Contents/Item/E0033777"
+      },
+      {
+        "title": "국가기록원 기록으로 보는 한국 - 인삼",
+        "url": "https://theme.archives.go.kr/next/koreaOfRecord/Ginseng.do"
+      },
+      {
+        "title": "CITES CoP16 Prop. 53 (Panax ginseng 부속서 II 등재 범위 언급)",
+        "url": "https://cites.org/sites/default/files/fra/cop/16/prop/F-CoP16-Prop-53.pdf"
+      },
+      {
+        "title": "한국임업진흥원 - 특별관리임산물(산양삼) 품질관리",
+        "url": "https://www.kofpi.or.kr/service/imupInfo_02_01.do"
+      },
+      {
+        "title": "Changes in growth characteristics and ginsenoside contents of wild-simulated ginseng with different harvest times in South Korea (Applied Biological Chemistry, 2024)",
+        "url": "https://doi.org/10.1186/s13765-024-00920-8"
+      },
+      {
+        "title": "Characteristics of Flower Organ, Inflorescence and Flowering in Panax ginseng and Panax quinquefolium (Journal of Ginseng Research, 1984)",
+        "url": "https://koreascience.or.kr/article/JAKO198411919364333.page?lang=en"
+      }
+    ],
+    "store": ""
+  },
+  "lookSources": [
+    {
+      "title": "경북매일 - 가시오가피와 산삼의 닮은 점(2013)",
+      "url": "https://kbmaeil.com/article/201306140069813"
+    },
+    {
+      "title": "한국임업진흥원 - 특별관리임산물(산양삼) 품질관리",
+      "url": "https://www.kofpi.or.kr/service/imupInfo_02_01.do"
+    },
+    {
+      "title": "디지털타임스 - 일반삼 산양삼 둔갑 판매(2014, 한국임업진흥원 인용)",
+      "url": "https://www.dt.co.kr/article/10877219"
+    },
+    {
+      "title": "푸드투데이 - 새싹삼이 산양삼으로 둔갑",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=119087"
+    },
+    {
+      "title": "Changes in growth characteristics and ginsenoside contents of wild-simulated ginseng with different harvest times in South Korea (Applied Biological Chemistry, 2024)",
+      "url": "https://doi.org/10.1186/s13765-024-00920-8"
+    },
+    {
+      "title": "이투데이 - 식약처, '자리공' 식용 불가 농·임산물 판매 업체 적발 (2021)",
+      "url": "https://www.etoday.co.kr/news/view/2030368"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "뿌리가 굵고 희어 인삼·도라지·더덕 뿌리로 잘못 알고 먹는 사고가 나는 독초다. 산에서 캔 '삼 같은 굵은 뿌리'가 자리공일 수 있으니 줄기·잎을 함께 확인한다.",
+      "name": "미국자리공",
+      "points": [
+        "산삼은 키가 작은 풀이고 줄기 끝에 손바닥 모양 겹잎(작은잎 5장)이 돌려나지만, 미국자리공은 사람 키만큼 크게 자라고 가지가 많으며 홑잎이 어긋난다.",
+        "미국자리공 줄기는 붉은 자주색을 띠는 경우가 많고, 가을에 검은 자주색 열매가 포도송이처럼 늘어진다. 산삼 열매는 붉은 알이 줄기 끝에 둥글게 모인다.",
+        "줄기·잎 없이 뿌리만 있는 '산삼'은 사지 말고, 지상부를 함께 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "가시오갈피 등 오갈피나무 어린 개체도 손바닥 모양 다섯 갈래 잎을 달고, 산삼처럼 그늘지고 부식질 많은 숲에서 자라 잎만 보면 헷갈린다. 가장 확실한 차이는 오갈피는 나무, 산삼은 풀이라는 점이다.",
+      "name": "오가피",
+      "points": [
+        "줄기를 만져 본다. 오갈피는 겨울에도 남는 딱딱한 나무줄기이고, 산삼은 해마다 말라 죽는 연한 풀줄기다.",
+        "줄기에 가시가 있으면 가시오갈피다. 산삼 줄기에는 가시가 없다.",
+        "캐 보기 전에 밑동을 본다. 산삼 뿌리에는 뇌두가 있지만, 오갈피는 나무 뿌리가 옆으로 뻗는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "산삼 씨앗이나 묘삼을 산에 심어 농약·비료 없이 기른 삼으로, 법률상 특별관리임산물이다. 같은 종이라 겉모습만으로는 자연산 산삼과 구별하기 어렵다.",
+      "name": "산양삼",
+      "points": [
+        "산양삼은 생산신고와 한국임업진흥원 품질검사를 거쳐 홀로그램이 붙은 합격증을 달고 팔아야 한다.",
+        "합격증의 검사번호를 sam.kofpi.or.kr 에 넣으면 재배 이력을 조회할 수 있다.",
+        "합격증 없이 '산삼' '장뇌삼' 이라며 파는 산에서 기른 삼은 정상 유통품이 아닐 수 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "밭에서 햇빛을 가려 기른 같은 종의 재배삼이다. 1~2년 기른 값싼 재배삼이 산양삼·산삼으로 둔갑해 팔린 사례가 있다.",
+      "name": "인삼",
+      "points": [
+        "값이 지나치게 싸면 의심한다. 뿌리당 수백~천 원대는 밭이나 하우스에서 기른 어린 삼(새싹삼 등)이다.",
+        "출처(채취 장소·채취자)와 감정서·품질검사 합격증을 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Applied Biological Chemistry",
+        "note": "봉화의 4년생 산양삼을 달마다 캐서 생육과 진세노사이드 함량 변화를 분석했고, 지상부가 있는 늦봄~여름 함량이 높았다고 보고했다.",
+        "title": "Changes in growth characteristics and ginsenoside contents of wild-simulated ginseng with different harvest times in South Korea",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s13765-024-00920-8",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 국내 연구는 숲에서 기른 산양삼(wild-simulated ginseng)의 수확 시기에 따른 생육과 진세노사이드 함량 변화처럼 성분 분석·재배 연구가 중심이다. 이번 조사에서 확인한 것은 성분 분석 연구 1편뿐이고, 자연산 산삼을 사람에게 먹인 임상 근거는 찾지 못했다."
+  },
+  "name": "산삼",
+  "st": "ok",
+  "updatedAt": 1791862329067
+}

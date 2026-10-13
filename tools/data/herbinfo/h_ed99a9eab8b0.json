@@ -1,0 +1,196 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "黃芪",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 (목차: 탕액편 권2·3 草部)",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "단너삼은 황기의 우리말 이름입니다. 생김새가 너삼(고삼)과 비슷하지만 뿌리 맛이 달아서 이렇게 불렸고, 1700년대 무렵부터 이 이름이 쓰였습니다.",
+      "q": "단너삼이 무엇인가요?"
+    },
+    {
+      "a": "뿌리 맛과 작은잎 수로 구별합니다. 황기는 뿌리가 달고 작은잎이 6~11쌍이며, 고삼(쓴너삼)은 뿌리가 몹시 쓰고 작은잎이 13~23장으로 더 많고 줄기 아래가 나무처럼 단단합니다. 확신이 없으면 캐서 먹지 마세요.",
+      "q": "황기와 고삼은 어떻게 구별하나요?"
+    },
+    {
+      "a": "꽃이 7~8월에 지고 난 뒤 가을(9~10월)에 뿌리를 캡니다. 노두와 잔뿌리를 떼고 겉껍질을 벗겨 햇볕에 말려 씁니다.",
+      "q": "황기는 언제 캐나요?"
+    },
+    {
+      "a": "있습니다. MSD 매뉴얼은 임산부·어린이·자가면역 질환자·간 질환자는 피하라고 하고, 면역억제제·항응고제·혈압약·당뇨약·이뇨제·리튬을 먹는 사람은 의사와 상의하라고 안내합니다. 열이 심할 때도 쓰지 않는다고 전해집니다.",
+      "q": "황기를 먹으면 안 되는 사람이 있나요?"
+    },
+    {
+      "a": "주로 말린 뿌리를 닭과 함께 오래 달여 백숙이나 삼계탕 국물로 먹습니다. 식품 원료로 쓸 수 있는 부위와 조건은 식약처 식품원료 목록에서 확인하세요.",
+      "q": "황기는 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 뿌리를 닭과 함께 달여 백숙·삼계탕 국물로 먹는 방법이 대표적이다.",
+    "eng": "Mongolian milkvetch",
+    "family": "콩과",
+    "habitat": "강원도 북쪽 산지와 울릉도의 산에 자라는 여러해살이풀이다. 지금 유통되는 것은 대부분 재배한 것으로, 강원 정선·태백·삼척과 충북 제천·단양, 강원 영월 등이 주산지로 꼽힌다.",
+    "look": {
+      "flower": "7~8월에 길이 1.5~1.8cm쯤 되는 연한 노란색 나비 모양 꽃이 긴 꽃대에 송이(총상꽃차례)로 달린다.",
+      "fruit": "얇은 막질로 부풀어 오른 꼬투리가 달린다. 학술 자료에서는 A. membranaceus 계열 꼬투리에는 검은 털이 있고, 몽골황기(A. mongholicus) 계열은 털이 없다고 구분한다.",
+      "leaf": "작은잎 6~11쌍이 깃 모양으로 달리고 끝에 한 장이 더 붙는 홀수깃꼴겹잎이다. 작은잎은 달걀 모양의 긴 타원형으로 양끝이 둥글거나 둔하고 가장자리에 톱니가 없으며, 흰 잔털이 있다.",
+      "root": "땅속 깊이 길게 뻗는 굵은 원뿌리가 약재로 쓰인다. 원뿌리가 끊기지 않게 깊이 파서 캔다.",
+      "stem": "높이 1m 안팎까지 곧게 자라고 식물 전체에 잔털이 있다."
+    },
+    "parts": "뿌리(말려서 약재·음식 재료로 씀)",
+    "prep": "가을에 캔 뿌리에서 머리 부분(노두)과 잔뿌리를 잘라내고 겉껍질을 대부분 벗겨 햇볕에 말린다. 말린 뿌리는 오래 달여 우러난 국물을 쓰며, 닭과 함께 끓이는 황기 백숙·삼계탕이 대표적이다. 생뿌리를 날로 먹는 방법에 대한 공식 자료는 찾지 못했다. 식품 원료로 쓸 수 있는 범위(부위·사용 조건)는 식약처 식품원료 목록에서 따로 확인해야 한다.",
+    "sci": "Astragalus mongholicus Bunge",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 황기",
+        "url": "https://encykorea.aks.ac.kr/Article/E0065094"
+      },
+      {
+        "title": "푸드투데이 - 제대로 알고 먹는 약재 상식: 황기",
+        "url": "https://foodtoday.or.kr/news/article.html?no=95121"
+      },
+      {
+        "title": "Kew Plants of the World Online - Astragalus membranaceus (A. mongholicus의 이명)",
+        "url": "https://powo.science.kew.org/taxon/478611-1"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 정보 - 황기 黃芪",
+        "url": "https://m.kmcric.com/database/view_herb/database_herb/59064"
+      },
+      {
+        "title": "Frontiers in Pharmacology (2023) - Astragalus membranaceus 식물·성분·독성·품질관리 리뷰",
+        "url": "https://doi.org/10.3389/fphar.2023.1242318"
+      },
+      {
+        "title": "MSD 매뉴얼 일반인용 - 황기",
+        "url": "https://www.msdmanuals.com/ko/home/특별-주제/식이-보충제-및-비타민/황기"
+      }
+    ],
+    "taste": "맛이 달고 성질은 온화하다고 알려져 있어 '단너삼'이라는 이름이 붙었다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 황기 (너삼과 닮았으나 맛이 달아 단너삼)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065094"
+    },
+    {
+      "title": "쿠키뉴스 - 여름 보약 황기와 닮은 고삼 (한의사 칼럼, 2021)",
+      "url": "https://www.kukinews.com/article/view/kuk202107090281"
+    },
+    {
+      "title": "제주도민일보 - 도둑놈의 지팡이 고삼 (제주테크노파크 생물종다양성연구소·국립생물자원관 자료 인용)",
+      "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=304794"
+    },
+    {
+      "title": "MSD 매뉴얼 일반인용 - 황기 (야생종의 스와인소닌)",
+      "url": "https://www.msdmanuals.com/ko/home/특별-주제/식이-보충제-및-비타민/황기"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "고삼(쓴너삼, 도둑놈의 지팡이)은 황기처럼 콩과 여러해살이풀로 깃꼴겹잎과 연노랑 꽃을 가져 모양이 비슷하다고 소개된다. 맛이 몹시 쓰고 성질이 차가운 전혀 다른 약재이므로 뿌리를 캐서 먹으려 할 때 특히 헷갈리지 않도록 해야 한다.",
+      "name": "고삼",
+      "points": [
+        "뿌리를 조금 씹어 보면 황기(단너삼)는 달고, 고삼(쓴너삼)은 몹시 쓰다. 이름의 '단'과 '쓴'이 이 차이에서 왔다.",
+        "황기의 작은잎은 6~11쌍이고, 고삼은 겹잎 한 장에 작은잎이 13~23장으로 더 많고 긴 타원형이다.",
+        "고삼은 줄기 아래쪽이 나무처럼 단단해지고 키가 80~120cm로 크며, 뿌리가 구부러진 지팡이 모양이고 갈색에 가깝다.",
+        "고삼 꽃은 6~8월, 황기 꽃은 7~8월에 피어 시기가 겹치므로 꽃 색만으로 구별하지 말고 잎 수와 뿌리 맛까지 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "황기와 같은 속(Astragalus)의 야생 식물 가운데 일부는 신경독성 성분(스와인소닌)을 지닐 수 있다고 MSD 매뉴얼은 설명한다. 산에서 비슷한 콩과 풀을 캐서 황기로 여기고 먹는 일은 피하고, 재배·유통된 약재를 쓰는 편이 안전하다.",
+      "name": "황기속 야생종",
+      "points": [
+        "황기는 작은잎 6~11쌍, 연노랑 꽃, 깊게 뻗은 굵은 원뿌리를 함께 갖춘다. 하나라도 맞지 않으면 캐지 않는다.",
+        "꽃 색이 자주색·흰색 등 연노랑이 아니면 황기가 아니다.",
+        "뿌리를 씹었을 때 단맛이 없으면 황기로 보지 않는다.",
+        "확신이 없으면 먹지 말고, 약재는 원산지·품명 표시가 있는 것을 산다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pain Research",
+        "note": "황기 추출물이 기능성 무릎 관절 통증에 미치는 영향을 위약 대조 이중맹검 시험으로 살폈다.",
+        "title": "Astragalus membranaceus extract reduces functional knee joint pain: a randomized, double-blinded, placebo-controlled trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fpain.2025.1595957",
+        "year": "2025"
+      },
+      {
+        "journal": "Integrative Cancer Therapies",
+        "note": "암 관련 피로에 황기를 쓴 무작위 대조 연구들을 모아 메타분석했다.",
+        "title": "Efficacy of Astragalus Membranaceus (Huang Qi) for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Studies",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1177/15347354241313344",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "황기 성분이 세포 노화와 관련된 과정에 미치는 영향에 대한 연구들을 정리했다.",
+        "title": "Astragalus Membranaceus—Can It Delay Cellular Aging?",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu17081299",
+        "year": "2025"
+      },
+      {
+        "journal": "Chinese Medicine",
+        "note": "황기 뿌리(황기 약재)의 전통적 쓰임과 현대 연구 내용을 종합해 살폈다.",
+        "title": "Astragali radix (Huangqi): a time-honored nourishing herbal medicine",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s13020-024-00977-z",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "황기의 식물 특징·성분·약리·독성·품질관리를 정리하고, 동물 독성 시험에서 뚜렷한 독성은 없었으나 종합적 안전성 평가는 부족하다고 보고했다.",
+        "title": "A review of the botany, phytochemistry, traditional uses, pharmacology, toxicology, and quality control of the Astragalus memeranaceus",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2023.1242318",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 황기 연구는 성분·약리·안전성을 정리한 리뷰가 많고, 무릎 통증이나 암 관련 피로처럼 사람을 대상으로 한 무작위 대조 시험과 그 메타분석도 나오고 있다. 다만 MSD 매뉴얼은 어떤 질환에도 효과를 확정할 만한 고품질 사람 연구는 아직 없고 기존 연구는 대부분 규모가 작다고 평가하므로, 효능은 '가능성이 보고된 단계'로 보는 것이 맞다."
+  },
+  "name": "황기",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 황기",
+        "url": "https://encykorea.aks.ac.kr/Article/E0065094"
+      }
+    ],
+    "text": "한국민족문화대백과사전에 따르면 황기의 우리 이름은 고려 때 수판마(數板麻), 조선 초기 감판마(甘板麻)에서 1600년대 'ᄃᆞᆫ너삼불휘'를 거쳐 1700년대에 '단너삼'으로 바뀌었다. 성질이 온화하고 맛이 달아 쉽게 지치고 땀을 많이 흘리는 사람에게 인삼 대신 써 왔다고 소개하며, 보중익기탕 같은 처방에 들어가고 민간에서는 닭과 함께 달여 먹었다고 적었다. 열이 심할 때는 쓰지 않는다고 주의를 준다."
+  },
+  "updatedAt": 1791862329067
+}

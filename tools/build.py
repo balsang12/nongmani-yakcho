@@ -99,6 +99,15 @@ NAMES = {h["name"] for h in HERBS}
 ALIAS = {al: h["name"] for h in HERBS for al in h["alias"]}
 def link_name(n):
     t = n if n in NAMES else ALIAS.get(n)
+    if not t:  # "엄나무순(음나무, 개두릅)"·"고비 (Osmunda japonica)" 같은 꼴도 이름으로 찾기
+        import re as _r
+        base = _r.sub(r"\s*[(（].*?[)）]\s*", "", n).strip()
+        base2 = _r.sub(r"\s*순$", "", base)
+        inner = [x.strip() for x in _r.findall(r"[(（](.*?)[)）]", n) for x in _r.split(r"[,，]", x)]
+        for c in [base, base + "순", base2, *inner]:
+            t = c if c in NAMES else ALIAS.get(c)
+            if t:
+                break
     return f'<a href="{herb_path(t)}">{E(n)}</a>' if t else E(n)
 
 def rich(n):

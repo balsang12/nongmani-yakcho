@@ -32,6 +32,7 @@
 - [민들레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%AF%BC%EB%93%A4%EB%A0%88/): 식용 원료
 - [도라지](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8F%84%EB%9D%BC%EC%A7%80/): 식용 원료, 다른 이름 약도라지, 백도라지
 - [더덕](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8D%94%EB%8D%95/): 식용 원료, 다른 이름 산더덕
+- [잔대](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%9E%94%EB%8C%80/): 식용 원료, 다른 이름 딱주, 사삼
 - [칡](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%B9%A1/): 식용 원료, 다른 이름 칡뿌리, 갈근
 - [마](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%A7%88/): 식용 원료, 다른 이름 산약, 참마
 - [둥굴레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%91%A5%EA%B5%B4%EB%A0%88/): 식용 원료, 다른 이름 옥죽, 황정, 각시둥굴레
@@ -48,3 +49,4 @@
 - [구기자](https://balsang12.github.io/nongmani-yakcho/yakcho/%EA%B5%AC%EA%B8%B0%EC%9E%90/): 식용 원료
 - [산수유](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%82%B0%EC%88%98%EC%9C%A0/): 식용 · 주의
 - [송이](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%86%A1%EC%9D%B4/): 식용 원료, 다른 이름 송이버섯
+- [능이](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8A%A5%EC%9D%B4/): 식용 원료, 다른 이름 능이버섯
