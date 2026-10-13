@@ -1,0 +1,59 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "어수리의 당 수송 유전자 두 가지가 흰가루병에 잘 걸리는 성질과 어떤 관계가 있는지 살핀 식물 병리 연구다.",
+        "title": "Sugar Transporter HmSWEET8 Cooperates with HmSTP1 to Enhance Powdery Mildew Susceptibility in Heracleum moellendorffii Hance",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants13162302",
+        "year": "2024"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "오래 알코올을 먹인 생쥐에게 어수리 뿌리 추출물을 주었을 때 기억력·우울 유사 행동과 해마 단백질 변화에 미치는 영향을 살폈다.",
+        "title": "Protective Effects and Mechanism of Heracleum moellendorffii Hance on Alcohol-Induced Cognitive Decline in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms25158526",
+        "year": "2024"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "우울증 모델 생쥐에서 어수리 뿌리 추출물 투여 후 우울·불안 유사 행동과 뇌 염증 지표(리포칼린-2 등)가 줄었다고 보고했다.",
+        "title": "Antidepressant Effect of Heracleum moellendorffii Extract on Behavioral Changes in Astrocyte Ablation Mouse Model of Depression by Modulating Neuroinflammation through the Inhibition of Lipocalin-2",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu16132049",
+        "year": "2024"
+      },
+      {
+        "journal": "Foods",
+        "note": "어수리 지상부(잎·줄기) 추출물이 자극받은 쥐 대식세포의 염증 물질 생성에 미치는 영향과 HO-1 관련 기전을 살폈다.",
+        "title": "Heme Oxygenase 1-Mediated Anti-Inflammatory Effect of Extract from the Aerial Part of Heracleum moellendorffii Hance",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/foods12173309",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 어수리 뿌리 추출물이 생쥐의 우울 유사 행동과 알코올로 인한 인지 저하에 미치는 영향, 지상부 추출물의 항염 작용 기전을 주로 살폈고, 병해(흰가루병) 관련 유전자 연구도 나왔다. 근거는 모두 동물·세포 실험이나 식물 연구 수준이며, 사람 대상 연구는 확인되지 않았다."
+  },
+  "name": "어수리",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Foods 2023, 12(17), 3309 (서론)",
+        "url": "https://doi.org/10.3390/foods12173309"
+      },
+      {
+        "title": "International Journal of Molecular Sciences 2024, 25(15), 8526 (서론)",
+        "url": "https://doi.org/10.3390/ijms25158526"
+      }
+    ],
+    "text": "어수리는 우리나라에서 어린 잎을 산나물로 먹어 온 식물이다. 학술 논문들은 그 뿌리가 관절염·요통·열 같은 염증성 증상에 민간 약재로 쓰여 왔다고 소개한다. 한국 전통 의학에서 신경통과 염증에 써 왔고 피부병·당뇨·통증에도 쓰였다는 기록도 함께 인용된다."
+  },
+  "updatedAt": 1791811935559
+}

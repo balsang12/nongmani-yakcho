@@ -372,7 +372,7 @@ open(os.path.join(a.out, "sitemap.xml"), "w", encoding="utf8").write(sm)
 open(os.path.join(a.out, "robots.txt"), "w", encoding="utf8").write(
     "# 검색 엔진과 AI 검색 로봇 모두 환영합니다\n" + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ["*", "Googlebot", "Google-Extended", "Bingbot", "Yeti", "Daum", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User"]) + f"Sitemap: {BASE}/sitemap.xml\n")
 rich_list = [h for h in HERBS if rich(h["name"])]
-llms = [f"# {SITE}", "", f"> 한국 산나물·약초 {len(HERBS)}가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 25가지는 위험 안내만 싣는다.", "",
+llms = [f"# {SITE}", "", f"> 한국 산나물·약초 {len(HERBS)}가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 {sum(1 for h in HERBS if h["st"]=="ban")}가지는 위험 안내만 싣는다.", "",
         "## 안내", f"- [전체 약초 목록]({BASE}/): 구분별 {len(HERBS)}가지", f"- [독초와 산나물 구별법]({BASE}/dokcho/): 헷갈리기 쉬운 짝과 구별 포인트", f"- [제철 달력]({BASE}/jecheol/): 달마다 채취하는 산나물·약초", "", "## 약초"]
 llms += [f"- [{h['name']}]({url(herb_path(h['name']))}): {ST[h['st']]}" + (f", 다른 이름 {', '.join(h['alias'])}" if h["alias"] else "") for h in rich_list]
 open(os.path.join(a.out, "llms.txt"), "w", encoding="utf8").write("\n".join(llms) + "\n")

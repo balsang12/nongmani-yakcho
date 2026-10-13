@@ -1,0 +1,39 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "신경독소로 기억력을 떨어뜨린 쥐에 씀바귀 추출물을 주어 공간 기억과 해마 신경세포 변화에 미치는 영향을 살폈다.",
+        "title": "Neuroprotective Effect of Ixeris dentata Extract on Trimethyltin-Induced Memory Impairment in Rats",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/cimb46110699",
+        "year": "2024"
+      },
+      {
+        "journal": "Vietnam Journal of Science and Technology",
+        "note": "씀바귀 잎에서 페놀류와 세스퀴테르펜 락톤 등 7가지 화합물을 분리해 구조를 확인했다.",
+        "title": "Study on chemical constituents from Ixeris dentata",
+        "type": "기타",
+        "url": "https://doi.org/10.15625/2525-2518/17167",
+        "year": "2023"
+      }
+    ],
+    "summary": "씀바귀(Ixeridium dentatum, 이명 Ixeris dentata)에 대한 최근 연구는 잎의 성분을 분리·확인하는 화학 연구와 추출물이 기억력 저하 동물 모델에 미치는 영향을 본 동물 실험 정도가 확인된다. 사람 대상 연구는 확인되지 않아 근거 수준은 동물·실험실 단계에 머문다."
+  },
+  "name": "씀바귀",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 씀바귀",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034197"
+      }
+    ],
+    "text": "한국민족문화대백과사전에 따르면 씀바귀는 이른 봄에 뿌리와 어린 잎을 캐어 먹는 대표적인 봄나물로, 살짝 데친 뒤 물에 담가 쓴맛을 우려내고 무치거나 볶아 먹는다. 한방에서는 열을 내리고 붓기를 가라앉히는 데 쓴다고 여겨 폐렴·간염·소화불량·종기 같은 증상에 쓰였다고 적고 있다."
+  },
+  "updatedAt": 1791811935559
+}

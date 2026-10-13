@@ -1,0 +1,59 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "PLOS ONE",
+        "note": "곤달비를 포함한 국내 곰취속 식물들의 엽록체 유전체를 비교해 종 구분이 가능한지 살폈다.",
+        "title": "Genomic diversity of Ligularia revealed by complete plastid genomes and nuclear ribosomal DNAs from 16 collections in Korean Peninsula and Mt. Hallasan",
+        "type": "기타",
+        "url": "https://doi.org/10.1371/journal.pone.0343215",
+        "year": "2026"
+      },
+      {
+        "journal": "Data in Brief",
+        "note": "해양심층수를 주며 기른 곤달비 잎의 유전자 발현 자료를 정리해 공개했다.",
+        "title": "Transcriptome dataset to investigate the effect of deep seawater on the gene expression and functional compounds of leaves of Ligularia stenocephala",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2352340925001593",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Plant Biotechnology",
+        "note": "해양심층수 농도에 따라 곤달비 잎에서 항산화 성분 합성과 관련된 유전자 발현이 어떻게 달라지는지 살폈다.",
+        "title": "Comparative transcriptome analysis of Ligularia stenocephala (Maxim.) treated with different concentrations of deep seawater",
+        "type": "기타",
+        "url": "https://doi.org/10.5010/JPB.2024.51.037.377",
+        "year": "2024"
+      },
+      {
+        "journal": "Applied Biological Chemistry",
+        "note": "곤달비 지상부에서 항산화 활성을 띠는 성분을 찾아 분리하고 컴퓨터 결합 모의실험을 했다.",
+        "title": "Identification of compounds using HPLC-QTOF-MS online antioxidant activity mapping from aerial parts of Ligularia stenocephala",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s13765-023-00814-1",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 곤달비 연구는 재배 조건(해양심층수)에 따른 유전자 발현, 근연종과의 유전체 비교, 항산화 성분 분석처럼 식물·성분 자체를 다룬 연구가 대부분이다. 효능을 다룬 연구는 시험관 수준의 항산화 분석에 그치며, 최근 3년 사이 동물이나 사람을 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "곤달비",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Comparative transcriptome analysis of Ligularia stenocephala (Maxim.) treated with different concentrations of deep seawater (Journal of Plant Biotechnology, 2024)",
+        "url": "https://doi.org/10.5010/JPB.2024.51.037.377"
+      },
+      {
+        "title": "Identification of compounds using HPLC-QTOF-MS online antioxidant activity mapping from aerial parts of Ligularia stenocephala (Applied Biological Chemistry, 2023)",
+        "url": "https://doi.org/10.1186/s13765-023-00814-1"
+      }
+    ],
+    "text": "곤달비는 우리나라에서 잎을 약용으로 쓰고 잎채소로도 먹어 왔다고 소개된다. 또 중국 민간에서는 전초를 부종과 나력(목 림프샘이 붓는 병)에 썼다는 기록이 학술 논문에 인용되어 있다."
+  },
+  "updatedAt": 1791811935559
+}

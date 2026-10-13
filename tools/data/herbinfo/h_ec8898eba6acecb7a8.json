@@ -1,0 +1,39 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Microbiology and Biotechnology",
+        "note": "수리취 잎 에탄올 추출물이 만성 스트레스를 받은 생쥐의 우울 유사 행동과 뇌의 스트레스·염증 관련 지표에 미치는 영향을 생쥐와 해마 세포에서 살폈다.",
+        "title": "Synurus deltoides Alleviates Anti-Depressive Like Behavior Dysfunction Induced by Chronic Unpredictable Mild Stress via Stress-Related CRF/TLR Pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.4014/jmb.2501.01043",
+        "year": "2025"
+      },
+      {
+        "journal": "Doklady Biological Sciences",
+        "note": "러시아 연해주에서 채집한 수리취 꽃차례에서 트리테르페노이드 성분 두 가지를 분리하고 구조를 확인했다.",
+        "title": "Triterpenoids of Inflorescences of Synurus deltoides (Asteraceae) from Primorskii Krai",
+        "type": "기타",
+        "url": "https://doi.org/10.1134/S0012496623700618",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년간 수리취 연구는 많지 않으며, 잎 추출물이 스트레스로 인한 우울 유사 행동에 미치는 영향을 본 연구와 꽃차례의 성분을 분석한 연구가 확인된다. 근거는 생쥐·세포 실험과 성분 분석 수준이고, 사람을 대상으로 한 연구는 찾지 못했다."
+  },
+  "name": "수리취",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Ethanol extract of Synurus deltoides (Aiton) Nakai suppresses in vitro LPS-induced cytokine production in RAW 264.7 macrophages and in vivo acute inflammatory symptoms (Nutrition Research and Practice, 2014)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3944149/"
+      }
+    ],
+    "text": "수리취는 산지에 널리 자라는 풀로, 잎을 떡에 푸른빛을 내는 천연 색소로 써 왔다고 소개된다. 같은 자료는 민간 전통 의학에서 방광염, 출혈, 구토, 피를 토하는 증상, 부종 등에 썼다고 적고 있다."
+  },
+  "updatedAt": 1791811935559
+}

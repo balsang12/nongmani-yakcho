@@ -1,0 +1,79 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감 탕액편 풀(草部)에는 '훤초근(萱草根)', 곧 원추리 뿌리가 약재 항목으로 실려 있다고 학술 논문이 정리했다.",
+      "이 기록은 뿌리에 관한 것으로, 봄에 나물로 먹는 어린 잎·순과는 쓰는 부위가 다르다.",
+      "원문(한문)을 직접 대조하지 못해 성질·맛·효능 내용은 싣지 않았다."
+    ],
+    "han": "萱草根",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "Nomura Michiyo, 20세기 초의 식물민속지식: 동의보감 초부 수록 식물을 중심으로, 한국학 43(3), 2020",
+        "url": "https://doi.org/10.25024/ksq.43.3.202009.373"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Vestnik of Orenburg State Pedagogical University. Electronic Scientific Journal",
+        "note": "원추리를 포함한 원추리속 5종을 시베리아에서 기르며 생육·개화 특성과 생리활성 물질 함량을 살폈다.",
+        "title": "Rare species of genus Hemerocallis L. in Central Siberian Botanical Garden",
+        "type": "기타",
+        "url": "https://doi.org/10.32516/2303-9922.2025.55.3",
+        "year": "2025"
+      },
+      {
+        "journal": "PeerJ",
+        "note": "주로 황화채(H. citrina)를 중심으로 원추리류 꽃채소의 영양 성분과 건조 방법, 연구 과제를 정리한 리뷰다.",
+        "title": "Advances in research on the main nutritional quality of daylily, an important flower vegetable of Liliaceae",
+        "type": "리뷰",
+        "url": "https://doi.org/10.7717/peerj.17802",
+        "year": "2024"
+      },
+      {
+        "journal": "Molecules",
+        "note": "원추리속 60개 품종 꽃의 향기 성분을 분석해 향료 등으로 쓸 만한 품종을 평가했다.",
+        "title": "Evaluation of Aromatic Characteristics and Potential Applications of Hemerocallis L. Based on the Analytic Hierarchy Process",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules29112712",
+        "year": "2024"
+      },
+      {
+        "journal": "Chinese Journal of Physiology",
+        "note": "원추리 꽃 추출물이 성인 지원자의 수면에 미치는 영향과 대식세포의 염증 물질 생성에 미치는 영향을 함께 살폈다.",
+        "title": "Daylily (Hemerocallis fulva Linn.) flowers improve sleep quality in human and reduce nitric oxide and interleukin-6 production in macrophages",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.4103/cjop.CJOP-D-23-00043",
+        "year": "2023"
+      }
+    ],
+    "summary": "원추리(Hemerocallis fulva)와 같은 원추리속 식물에 대해서는 꽃의 영양 성분과 향기 성분, 재배 특성 등을 살핀 연구가 주를 이룬다. 사람 대상 연구로는 원추리 꽃 추출물이 수면의 질에 미치는 영향을 본 소규모 연구가 있으나, 대부분은 성분 분석이나 세포·동물 실험 수준이라 근거는 아직 제한적이다. 리뷰 논문은 주로 근연종인 황화채(H. citrina)를 다룬다."
+  },
+  "name": "원추리",
+  "st": "caution",
+  "traditional": {
+    "sources": [
+      {
+        "title": "YTN, 곰취·명이나물인 줄 알았는데 독초...봄철 산나물 주의 (2023.4.14, 식품의약품안전처 안내 인용)",
+        "url": "https://www.ytn.co.kr/_ln/0103_202304141345145932"
+      },
+      {
+        "title": "쿠키뉴스, 식품의약품안전처·국립수목원 독초 섭취 주의 당부 기사 (2025)",
+        "url": "https://www.kukinews.com/article/view/kuk202504100107"
+      }
+    ],
+    "text": "봄에 어린 잎을 나물로 먹어 왔지만, 식품의약품안전처는 원추리에 구토 등을 일으킬 수 있는 콜히친 성분이 있고 자랄수록 이 성분이 강해진다며 어린 잎만 골라 끓는 물에 충분히 데쳐 먹으라고 안내했다. 또 독초인 여로가 원추리와 비슷하게 생겼는데, 여로는 잎에 털과 깊은 주름이 있어 구별된다고 소개됐다. 야생 식물을 잘 모르고 함부로 캐 먹지 말고, 먹은 뒤 복통·구토가 나면 바로 병원에 가라는 당부도 있었다."
+  },
+  "updatedAt": 1791811935559
+}

@@ -1,9 +1,9 @@
 # 농마니 약초 백과
 
-> 한국 산나물·약초 172가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 25가지는 위험 안내만 싣는다.
+> 한국 산나물·약초 315가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 45가지는 위험 안내만 싣는다.
 
 ## 안내
-- [전체 약초 목록](https://balsang12.github.io/nongmani-yakcho/): 구분별 172가지
+- [전체 약초 목록](https://balsang12.github.io/nongmani-yakcho/): 구분별 315가지
 - [독초와 산나물 구별법](https://balsang12.github.io/nongmani-yakcho/dokcho/): 헷갈리기 쉬운 짝과 구별 포인트
 - [제철 달력](https://balsang12.github.io/nongmani-yakcho/jecheol/): 달마다 채취하는 산나물·약초
 
@@ -20,13 +20,21 @@
 - [오가피순](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%98%A4%EA%B0%80%ED%94%BC%EC%88%9C/): 식용 원료, 다른 이름 오갈피순
 - [다래순](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8B%A4%EB%9E%98%EC%88%9C/): 식용 원료
 - [미역취](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%AF%B8%EC%97%AD%EC%B7%A8/): 식용 원료
+- [수리취](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%88%98%EB%A6%AC%EC%B7%A8/): 식용 원료
+- [곤드레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EA%B3%A4%EB%93%9C%EB%A0%88/): 식용 원료, 다른 이름 고려엉겅퀴
+- [곤달비](https://balsang12.github.io/nongmani-yakcho/yakcho/%EA%B3%A4%EB%8B%AC%EB%B9%84/): 식용 원료
+- [어수리](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%96%B4%EC%88%98%EB%A6%AC/): 식용 원료
+- [냉이](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%83%89%EC%9D%B4/): 식용 원료
 - [쑥](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%91%A5/): 식용 · 주의, 다른 이름 약쑥, 참쑥
+- [머위](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%A8%B8%EC%9C%84/): 식용 원료, 다른 이름 머윗대
+- [원추리](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%9B%90%EC%B6%94%EB%A6%AC/): 식용 · 주의
+- [씀바귀](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%94%80%EB%B0%94%EA%B7%80/): 식용 원료
 - [민들레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%AF%BC%EB%93%A4%EB%A0%88/): 식용 원료
 - [도라지](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8F%84%EB%9D%BC%EC%A7%80/): 식용 원료, 다른 이름 약도라지, 백도라지
 - [더덕](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%8D%94%EB%8D%95/): 식용 원료, 다른 이름 산더덕
 - [칡](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%B9%A1/): 식용 원료, 다른 이름 칡뿌리, 갈근
 - [마](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%A7%88/): 식용 원료, 다른 이름 산약, 참마
-- [둥굴레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%91%A5%EA%B5%B4%EB%A0%88/): 식용 원료, 다른 이름 옥죽
+- [둥굴레](https://balsang12.github.io/nongmani-yakcho/yakcho/%EB%91%A5%EA%B5%B4%EB%A0%88/): 식용 원료, 다른 이름 옥죽, 황정, 각시둥굴레
 - [산삼](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%82%B0%EC%82%BC/): 식용 원료, 다른 이름 자연삼, 천종산삼, 지종산삼
 - [산양삼](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%82%B0%EC%96%91%EC%82%BC/): 식용 원료, 다른 이름 장뇌삼
 - [인삼](https://balsang12.github.io/nongmani-yakcho/yakcho/%EC%9D%B8%EC%82%BC/): 식용 원료, 다른 이름 수삼, 홍삼

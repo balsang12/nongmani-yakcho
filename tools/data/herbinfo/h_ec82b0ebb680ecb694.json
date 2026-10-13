@@ -1,0 +1,42 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "부추·양파의 야생 근연종 종자 형태를 비교하면서 산부추와 그 변종의 종자도 분석해 분류 관계를 살폈다.",
+        "title": "Morphology of Chinese Chive and Onion (Allium; Amaryllidaceae) Crop Wild Relatives: Taxonomical Relations and Implications",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants15020192",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "부추속 식물의 항산화·항암 관련 연구를 정리하면서 산부추가 시험관·세포 연구에서 항산화와 지방세포 분화 억제 효과가 높은 편이었다는 선행 결과를 소개했다.",
+        "title": "Alliums as Potential Antioxidants and Anticancer Agents",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ijms25158079",
+        "year": "2024"
+      },
+      {
+        "journal": "Mitochondrial DNA Part B: Resources",
+        "note": "국내산 산부추를 포함한 부추속 세 종의 엽록체 유전체 전체를 해독해 계통 관계를 살폈다.",
+        "title": "The complete chloroplast genomes of Allium sacculiferum, A. thunbergii, and A. taquetii (Amaryllidaceae) from Korea",
+        "type": "기타",
+        "url": "https://doi.org/10.1080/23802359.2023.2268315",
+        "year": "2023"
+      }
+    ],
+    "summary": "산부추만 따로 다룬 최근 기능성 연구는 드물고, 부추속 식물 리뷰에서 국내 야생 부추류 중 항산화·지방세포 분화 억제 효과가 높은 편으로 언급되는 정도다. 나머지는 엽록체 유전체와 종자 형태 같은 분류학 연구이며, 사람 대상 연구는 확인되지 않았다."
+  },
+  "name": "산부추",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1791811935559
+}

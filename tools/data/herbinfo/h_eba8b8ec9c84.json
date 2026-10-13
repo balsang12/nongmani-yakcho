@@ -1,0 +1,59 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmaceuticals",
+        "note": "자외선(UVB)에 노출된 털 없는 생쥐에게 머위 잎 열수 추출물을 먹이고 주름·콜라겐 변화를 살폈다.",
+        "title": "Anti-Photoaging Effects of a Standardized Hot Water Extract of Petasites japonicus Leaves in Ultraviolet B-Exposed Hairless Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ph18101490",
+        "year": "2025"
+      },
+      {
+        "journal": "한국식품과학회지 (Korean Journal of Food Science and Technology)",
+        "note": "머위 잎 추출물이 장·신경 세포의 산화 스트레스와 염증 자극에 미치는 영향을 살폈다.",
+        "title": "Protective effect of Petasites japonicus leaf extract against H2O2 and LPS-induced oxidative stress in HT-29 and HT22 cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.9721/KJFST.2025.57.1.69",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "고지방 식이 생쥐에게 머위 잎 추출물을 주고 체중 증가·간 지방·혈액 지표 변화를 살폈다.",
+        "title": "Short-Term Effects of PJE Administration on Metabolic Parameters in Diet-Induced Obesity Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/foods12081675",
+        "year": "2023"
+      },
+      {
+        "journal": "한국응용과학기술학회지 (Journal of the Korean Applied Science and Technology)",
+        "note": "자외선을 쬔 피부 각질세포에서 머위 에탄올 추출물이 피부 장벽 단백질과 염증 지표에 미치는 영향을 살폈다.",
+        "title": "Skin barrier and anti-inflammatory effect of petasites japonicus",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.12925/jkocs.2023.40.2.258",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 머위 잎 추출물의 항산화·항염 작용을 세포에서 확인하거나, 비만 생쥐의 대사 지표와 자외선에 노출된 생쥐 피부 노화에 미치는 영향을 본 동물 실험이 대부분이며, 최근 3년 안의 사람 대상 연구는 찾지 못했다. 머위에는 페타시테닌 같은 피롤리지딘 알칼로이드가 들어 있어 발암성·간 독성 우려가 이전 동물·약물동태 연구에서 보고됐고, 조리 전처리로 그 함량을 줄이는 방법을 다룬 연구도 있다."
+  },
+  "name": "머위",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 — 머위",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018102"
+      },
+      {
+        "title": "Hong Kong Chinese Materia Medica Standards — Farfarae Flos(款冬花)",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol5/pdf_e/Farfarae_Flos_v5_e.pdf"
+      }
+    ],
+    "text": "한국학중앙연구원 『한국민족문화대백과사전』은 머위 뿌리줄기를 성질이 차고 맛이 쓰고 매운 약재로 소개하며, 타박상·목 아픔·편도염·기관지염·뱀에 물린 데 등에 써 왔다고 적고 있고, 잎자루는 데쳐서 나물로, 어린잎은 쌈으로 먹어 왔다고 설명한다. 한편 고서의 款冬花(관동화)는 공식 기원이 관동(Tussilago farfara)의 꽃봉오리로 머위와는 다른 식물이므로, 款冬花 기록을 머위의 기록으로 옮기지 않았다."
+  },
+  "updatedAt": 1791811935559
+}

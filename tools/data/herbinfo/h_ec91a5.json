@@ -1,0 +1,63 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "쑥의 잎(艾葉)에 대한 기록으로, 오래된 여러 병에 두루 쓴다고 적었다.",
+      "여성의 하혈, 배 아픔, 이질, 치질로 피가 나는 데 쓰고 임신을 돕는다고 소개했다.",
+      "단옷날 해 뜨기 전에 잎을 따서 말리고, 오래 묵힌 것을 약으로 쓴다고 적었다.",
+      "날것은 성질이 차고 익히면 뜨거워진다고 했으며, 뜸쑥으로 만들어 뜸에 쓴다고 적었다."
+    ],
+    "han": "艾葉",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질은 따뜻하고 맛은 쓰며 독이 없다고 적었다.",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한식진흥원 한식 매거진 Vol.26 Namul(경기도) — 동의보감 인용 소개",
+        "url": "https://www.hansik.or.kr/magazines/list/magazineDetail/4/2720?menuSn=429"
+      }
+    ],
+    "verified": false,
+    "warn": "잎은 오래 묵혀서 써야 한다고 적었다."
+  },
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "고지방 식이와 약물로 대사 이상을 일으킨 생쥐에게 인도쑥 물 추출물을 주고 혈당·콜레스테롤과 산화 스트레스 변화를 살폈다.",
+        "title": "Metabolic and Antioxidant Modulation by Artemisia indica Willd. Aqueous Extract in Glucose and Cholesterol Dysregulation",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms27010297",
+        "year": "2026"
+      },
+      {
+        "journal": "Food & Medicine Homology",
+        "note": "중국 샹시 지역 전통 음식에 쓰이는 참쑥의 영양 성분과 시험관 내 항산화 활성을 분석했다.",
+        "title": "Nutritional value and antioxidant activity of Artemisia princeps, an edible plant frequently used in folk food in the Xiangxi region",
+        "type": "기타",
+        "url": "https://doi.org/10.26599/FMH.2025.9420043",
+        "year": "2025"
+      },
+      {
+        "journal": "Current Topics in Medicinal Chemistry",
+        "note": "쑥속 식물들의 전통적 쓰임, 성분, 약리 작용과 독성 연구를 모아 정리했다.",
+        "title": "Traditional uses, Phytochemistry, Pharmacology, and Toxicology of the Genus Artemisia L. (Asteraceae): A High-value Medicinal Plant",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37711006/",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 쑥속(Artemisia) 식물 전체의 성분·약리·독성을 정리한 리뷰와, 참쑥(A. princeps)의 영양 성분·항산화 활성 분석, 인도쑥(A. indica) 물 추출물이 혈당·콜레스테롤 이상 생쥐에 미치는 영향을 본 동물 실험이 중심이다. 쑥 추출물의 사람 대상 시험은 2023년 이전에 소규모로 보고된 바 있으나 최근 3년 안에서는 확인하지 못했고, 최근 근거는 대부분 실험실·동물 연구 수준이다."
+  },
+  "name": "쑥",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1791811935559
+}
