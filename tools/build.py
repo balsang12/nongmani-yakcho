@@ -266,8 +266,8 @@ for h in HERBS:
             pts = "".join(f"<li>{E(p)}</li>" for p in (l.get("points") or []))
             parts.append(f'<div class="box {"bad" if bad else ""}"><h3 style="margin:0">{E(n)} vs {link_name(l.get("name",""))} <span class="chip {"hot" if bad else "gold"}">{E(l.get("danger","비슷함"))}</span></h3>{f"<p>{E(l.get(chr(104)+chr(111)+chr(119)))}</p>" if l.get("how") else ""}{f"<ul class=check>{pts}</ul>" if pts else ""}</div>')
         parts.append(srcs(i.get("lookSources")) + '<p class="note">조금이라도 애매하면 먹지 마세요. 산나물 독초 사고는 대부분 비슷해 보여서 생깁니다.</p>')
-    if not ban and (idn.get("prep") or idn.get("store") or idn.get("eat")):
-        parts.append('<h2>손질·보관·먹는 법</h2><dl class="facts box">' + "".join(f"<dt>{lab}</dt><dd>{E(idn[k])}</dd>" for k, lab in [("prep","손질"),("store","보관"),("eat","먹는 법")] if idn.get(k)) + "</dl>")
+    if not ban and (idn.get("prep") or idn.get("store") or idn.get("eat") or idn.get("grade")):
+        parts.append(f'<h2>좋은 {E(n)} 고르는 법·손질·보관</h2><dl class="facts box">' + "".join(f"<dt>{lab}</dt><dd>{E(idn[k])}</dd>" for k, lab in [("grade","고르는 법"),("prep","손질"),("store","보관"),("eat","먹는 법")] if idn.get(k)) + "</dl>")
     if c:
         parts.append(f'<h2>옛 의서의 기록 — {E(c.get("book","동의보감 탕액편"))}</h2>')
         if c.get("ki"): parts.append(f'<div class="box gold"><b>성질과 맛</b><div class="han" style="font-size:18px">{E(c["ki"])}</div>{E(c.get("kiKo",""))}</div>')
