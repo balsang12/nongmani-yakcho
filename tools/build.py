@@ -128,6 +128,16 @@ table.fn{border-collapse:collapse;width:100%;font-size:12px;text-align:center;mi
 footer{border-top:1px solid var(--line);padding-block:24px;font-size:13px;color:var(--muted)}
 """
 
+# 검색엔진 소유 확인 meta 태그 (tools/verify.txt 에 한 줄씩)
+VERIFY = ""
+_vf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verify.txt")
+if os.path.exists(_vf):
+    import re as _re
+    for _l in open(_vf, encoding="utf8"):
+        _m = _re.match(r'\s*<meta\s+name="(google-site-verification|naver-site-verification|msvalidate\.01)"\s+content="([A-Za-z0-9_\-=+/.]+)"\s*/?>\s*$', _l)
+        if _m:
+            VERIFY += f'<meta name="{_m.group(1)}" content="{_m.group(2)}">'
+
 def page(path, title, desc, body, jsonld=None, index=True, crumbs=None):
     canon = url(path)
     ld = "".join(f'<script type="application/ld+json">{json.dumps(j, ensure_ascii=False)}</script>' for j in (jsonld or []))
@@ -138,7 +148,7 @@ def page(path, title, desc, body, jsonld=None, index=True, crumbs=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">{'' if index else '<meta name="robots" content="noindex,follow">'}
 <link rel="canonical" href="{E(canon)}"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="article"><meta property="og:url" content="{E(canon)}"><meta property="og:locale" content="ko_KR">
 <base href="{E(BASE)}/"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap">
-<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#2B5B41"><link rel="icon" href="icon.svg" type="image/svg+xml">
+{VERIFY if path == "" else ""}<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#2B5B41"><link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>{CSS}</style>{ld}</head><body>
 <header class="top"><div class="wrap"><a class="logo" href="./">농부와 <i>심마니</i> 약초 백과</a><nav class="top"><a href="./">전체 약초</a><a href="dokcho/">독초 구별</a><a href="jecheol/">제철 달력</a></nav></div></header>
 <main class="wrap">{cr}{body}</main>
