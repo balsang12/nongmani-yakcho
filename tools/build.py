@@ -31,7 +31,7 @@ for f in glob.glob(os.path.join(a.data, "*.json")):
         d = json.load(open(f, encoding="utf8"))
     except Exception:
         continue
-    d = d.get("data", d) if isinstance(d, dict) else d
+    d = d["data"] if isinstance(d, dict) and isinstance(d.get("data"), dict) else d
     if isinstance(d, dict) and d.get("name"):
         INFO[d["name"]] = d
 
@@ -42,13 +42,34 @@ def load_dir(path):
             d = json.load(open(f, encoding="utf8"))
         except Exception:
             continue
-        d = d.get("data", d) if isinstance(d, dict) else d
+        d = d["data"] if isinstance(d, dict) and isinstance(d.get("data"), dict) else d
         if isinstance(d, dict):
+            d = dict(d)
+            d.setdefault("_id", os.path.splitext(os.path.basename(f))[0])
             out.append(d)
     return out
 DATA_ROOT = os.path.dirname(a.data.rstrip("/"))
 META = {d["name"]: d for d in load_dir(os.path.join(DATA_ROOT, "herbmeta")) if d.get("name")}
 FIELD = {}
+import base64, re as _re2
+PHOTOS = {}
+for d in load_dir(os.path.join(DATA_ROOT, "herbphotos")):
+    if d.get("status") != "approved" or not d.get("herb") or not d.get("_id"):
+        continue
+    m = _re2.match(r"^data:image/(jpeg|jpg|png|webp);base64,([A-Za-z0-9+/=]+)$", str(d.get("data", "")))
+    if not m:
+        continue
+    ext = "jpg" if m.group(1) in ("jpeg", "jpg") else m.group(1)
+    fn = _re2.sub(r"[^A-Za-z0-9_-]", "", d["_id"])[:60] + "." + ext
+    os.makedirs(os.path.join(a.out, "img"), exist_ok=True)
+    try:
+        open(os.path.join(a.out, "img", fn), "wb").write(base64.b64decode(m.group(2)))
+    except Exception:
+        continue
+    d["file"] = "img/" + fn
+    PHOTOS.setdefault(d["herb"], []).append(d)
+for _l in PHOTOS.values():
+    _l.sort(key=lambda x: x.get("createdAt", 0))
 for d in load_dir(os.path.join(DATA_ROOT, "fieldnotes")):
     if d.get("herb"):
         FIELD.setdefault(d["herb"], []).append(d)
@@ -91,6 +112,7 @@ def rich(n):
     score += 1 if i.get("toxic") else 0
     score += 1 if i.get("traditional", {}).get("text") else 0
     score += 1 if FIELD.get(n) else 0
+    score += 1 if PHOTOS.get(n) else 0
     score += 1 if (META.get(n) or {}).get("review") else 0
     return score >= 2
 
@@ -124,6 +146,9 @@ ul.src{font-size:13px;color:var(--muted);padding-left:18px}ul.src a{color:var(--
 details{border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:var(--surface);margin:6px 0}summary{cursor:pointer;font-weight:700}
 ul.check{list-style:none;padding-left:0}ul.check li::before{content:"☐ ";color:var(--muted)}
 table.fn{border-collapse:collapse;width:100%;font-size:12px;text-align:center;min-width:420px}table.fn th,table.fn td{border:1px solid var(--line);padding:3px 2px}table.fn td:first-child,table.fn th:first-child{text-align:left;padding-left:8px;white-space:nowrap}table.fn td.on{background:var(--pine);color:var(--pine-ink)}
+.gal{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(220px,70%);gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;margin:12px 0}
+.gal figure{margin:0;scroll-snap-align:start;border-radius:12px;overflow:hidden;background:var(--surface);border:1px solid var(--line)}
+.gal img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;max-width:100%}.gal figcaption{font-size:12px;color:var(--muted);padding:6px 10px}
 .scroll{overflow-x:auto}.trust{font-size:14px}.trust b{margin-right:6px}
 footer{border-top:1px solid var(--line);padding-block:24px;font-size:13px;color:var(--muted)}
 """
@@ -198,6 +223,9 @@ for h in HERBS:
     parts.append(meta)
     if lnames:
         parts.append(f'<p class="note">지역에서 부르는 이름: {E(", ".join(lnames))}</p>')
+    phs = PHOTOS.get(n, [])
+    if phs:
+        parts.append('<div class="gal">' + "".join(f'<figure><img src="{E(x["file"])}" alt="{E(n)} {E(x.get("part",""))} 사진{(" — " + E(x.get("caption"))) if x.get("caption") else ""}" loading="lazy" width="400" height="300"><figcaption>{E(x.get("part",""))}{(" · " + E(x.get("caption"))) if x.get("caption") else ""} · 사진 {E(x.get("credit") or "농부와 심마니 판매자")}</figcaption></figure>' for x in phs[:12]) + '</div>')
     rv = meta_.get("review") or []
     parts.append('<div class="box trust">' + ("".join(f'<div><span class="chip ok">{E(r.get("area"))} 확인</span><b>{E(r.get("name"))}</b><span class="note">{E(r.get("title",""))} · {E(r.get("date",""))}</span></div>' for r in rv) if rv else '<span class="note">아직 전문가 검수를 받지 않은 자료입니다. 아래 출처를 함께 확인하세요.</span>') + '</div>')
     # 한 줄 요약 (AI가 인용하기 좋은 첫 문단)
@@ -285,7 +313,8 @@ for h in HERBS:
     desc = (" ".join(lead) or f"{n}의 생김새, 비슷한 식물 구별법, 제철, 손질법, 동의보감 기록과 최근 연구를 정리했습니다.")[:155]
     ld = [{"@context": "https://schema.org", "@type": "WebPage", "name": f"{n} — {SITE}", "inLanguage": "ko", "dateModified": TODAY, "url": url(herb_path(n)), "description": desc,
            "about": {"@type": "Taxon", "name": idn.get("sci") or n, "alternateName": [n] + h["alias"] + lnames, "taxonRank": "species"} if idn.get("sci") else {"@type": "Thing", "name": n, "alternateName": h["alias"] + lnames},
-           "isPartOf": {"@type": "WebSite", "name": SITE, "url": BASE + "/"}},
+           "isPartOf": {"@type": "WebSite", "name": SITE, "url": BASE + "/"},
+           **({"image": [{"@type": "ImageObject", "contentUrl": url(x["file"]), "caption": f'{n} {x.get("part","")}'.strip(), "creditText": x.get("credit") or "농부와 심마니", "creator": {"@type": "Organization", "name": x.get("credit") or "농부와 심마니"}} for x in PHOTOS.get(n, [])[:6]]} if PHOTOS.get(n) else {})},
           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "전체 약초", "item": BASE + "/"}, {"@type": "ListItem", "position": 2, "name": n, "item": url(herb_path(n))}]}]
     if faq:
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q.get("q"), "acceptedAnswer": {"@type": "Answer", "text": q.get("a")}} for q in faq if q.get("q") and q.get("a")]})
@@ -337,7 +366,8 @@ SITEMAP.insert(0, (u, None))
 def iso(ms):
     try: return datetime.datetime.fromtimestamp(ms / 1000, datetime.timezone.utc).date().isoformat()
     except Exception: return TODAY
-sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>{E(u)}</loc><lastmod>{iso(t) if t else TODAY}</lastmod></url>\n" for u, t in SITEMAP) + "</urlset>\n"
+IMG_BY_URL = {url(herb_path(k)): v for k, v in PHOTOS.items()}
+sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n' + "".join(f"<url><loc>{E(u)}</loc><lastmod>{iso(t) if t else TODAY}</lastmod>" + "".join(f"<image:image><image:loc>{E(url(x['file']))}</image:loc></image:image>" for x in IMG_BY_URL.get(u, [])[:10]) + "</url>\n" for u, t in SITEMAP) + "</urlset>\n"
 open(os.path.join(a.out, "sitemap.xml"), "w", encoding="utf8").write(sm)
 open(os.path.join(a.out, "robots.txt"), "w", encoding="utf8").write(
     "# 검색 엔진과 AI 검색 로봇 모두 환영합니다\n" + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ["*", "Googlebot", "Google-Extended", "Bingbot", "Yeti", "Daum", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User"]) + f"Sitemap: {BASE}/sitemap.xml\n")
