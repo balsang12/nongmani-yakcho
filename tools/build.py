@@ -226,7 +226,8 @@ for h in HERBS:
             BY_MONTH[m].append(n)
 
     parts = []
-    head = f'<h1>{E(n)} {f"<span class=han>{E(c.get(chr(104)+chr(97)+chr(110)))}</span>" if c and c.get("han") else ""}</h1>'
+    han_ = {"잔대": "沙參", "더덕": "羊乳"}.get(n) or (c.get("han") if c else "")
+    head = f'<h1>{E(n)} {f"<span class=han>{E(han_)}</span>" if han_ else ""}</h1>'
     parts.append(head)
     meta = f'<p><span class="chip {"hot" if ban or h["st"]=="hanyak" else "ok" if h["st"]=="ok" else "gold"}">{ST[h["st"]]}</span> <span class="chip">{E(h["cat"])}</span>' + (f' 다른 이름: {E(", ".join(h["alias"]))}' if h["alias"] else "") + "</p>"
     parts.append(meta)
