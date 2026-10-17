@@ -1,0 +1,110 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "잎을 만져 보고 비벼 냄새를 맡으면 됩니다. 쑥은 잎 양면에 부드러운 털이 있고 쑥 향이 나지만, 산괴불주머니는 잎이 매끈하고 비비면 불쾌한 냄새가 납니다.",
+      "q": "쑥과 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 됩니다. 산괴불주머니는 알칼로이드가 든 독초이고 반복해서 먹은 뒤 간염이 생긴 사례도 있으므로 어떤 방법으로도 먹지 않습니다.",
+      "q": "데치면 먹어도 되나요?"
+    },
+    {
+      "a": "구토, 설사, 어지럼증 같은 증상이 나타나면 바로 병원에 갑니다. 남은 나물을 가져가면 진단에 도움이 되고, 나중에 눈이나 피부가 노래지면 먹은 사실을 의사에게 꼭 알립니다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "양귀비과",
+    "grade": "",
+    "habitat": "한국, 일본, 중국, 동시베리아에 자라는 두해살이풀이다. 숲속이나 그늘진 숲 가장자리에서 자란다.",
+    "look": {
+      "flower": "원줄기와 가지 끝에 노란 꽃이 여러 송이 모여 송이 모양(총상꽃차례)으로 핀다.",
+      "leaf": "잎에 털이 없고 매끈하다.",
+      "smell": "잎을 비비면 불쾌한 냄새가 난다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Corydalis speciosa Maxim.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        4,
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "국가생물종지식정보시스템 식물도감 - 산괴불주머니 검색 결과",
+        "url": "https://www.nature.go.kr/kbi/plant/pilbk/selectPlantPilbkGnrlList.do?searchCnd=1&searchWrd=산괴불주머니"
+      },
+      {
+        "title": "The effects of plant growth regulators on the growth and flowering of potted Corydalis speciosa native to Korea (Acta Horticulturae, 2020)",
+        "url": "https://ishs.org/ishs-article/1291_16/"
+      },
+      {
+        "title": "Hokkaido University - Corydalis speciosa",
+        "url": "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/poppy/corydalis/spe.html"
+      },
+      {
+        "title": "식품의약품안전처 웹진 - 산나물과 독초 구별(2025-04)",
+        "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "식품의약품안전처 웹진 - 산나물과 독초 구별(2025-04)",
+      "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+    },
+    {
+      "title": "식약처·국립수목원 독초 주의 보도(YTN, 2023-04-14)",
+      "url": "https://www.ytn.co.kr/_ln/0103_202304141345145932"
+    },
+    {
+      "title": "산림청 국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까?(2025-04-10)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=UKNA_05_02&nttId=3206489"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이른 봄 어린잎이 쑥과 비슷해 쑥으로 알고 뜯는 사례가 있다. 잎의 털과 비볐을 때의 냄새로 구별한다.",
+      "name": "쑥",
+      "points": [
+        "쑥은 잎 양면이 부드러운 털로 덮여 있고 윤기가 없지만, 산괴불주머니 잎은 털이 없고 매끈하다.",
+        "쑥은 잎을 비비면 특유의 쑥 향이 나고, 산괴불주머니는 불쾌한 냄새가 난다.",
+        "봄에 노란 꽃이 송이로 달려 있으면 쑥이 아니므로 그 주변 포기는 뜯지 않는다."
+      ]
+    }
+  ],
+  "name": "산괴불주머니",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "쑥",
+    "sources": [
+      {
+        "title": "식약처·국립수목원 산나물 구분법 인용 기사(위키트리)",
+        "url": "https://www.wikitree.co.kr/articles/1042398"
+      },
+      {
+        "title": "A case of acute cholestatic hepatitis induced by Corydalis speciosa Max. (대한간학회지, 2009)",
+        "url": "https://e-cmh.org/journal/view.php?number=913"
+      },
+      {
+        "title": "산괴불주머니에 의한 급성 독성간염 1예 (KCI)",
+        "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001398200"
+      }
+    ],
+    "text": "알칼로이드 성분이 들어 있어, 먹으면 구토, 설사, 어지럼증, 호흡곤란이 나타날 수 있다. 국내에서는 산괴불주머니를 모르고 여러 번 먹은 뒤 황달이 생긴 급성 담즙정체성 간염 사례도 보고됐다."
+  },
+  "updatedAt": 1792184768375
+}

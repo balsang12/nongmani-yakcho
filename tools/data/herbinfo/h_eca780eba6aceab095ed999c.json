@@ -1,0 +1,131 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "네, 위험합니다. 농촌진흥청은 지리강활이 맹독성이어서 적은 양으로도 마비·경련·의식불명 같은 중독 증상이 생길 수 있다고 경고했습니다.",
+      "q": "지리강활을 조금만 먹어도 위험한가요?"
+    },
+    {
+      "a": "꽃 색과 잎자루 밑의 반점을 봅니다. 참당귀는 자주색 꽃이 피고 잎자루가 모이는 부분이 녹색이며, 지리강활은 흰 꽃이 피고 그 부분에 붉은 반점이 있습니다. 꽃이 없을 때는 구별이 어려우니 산에서 캔 것은 먹지 마세요.",
+      "q": "참당귀와 지리강활은 어떻게 구별하나요?"
+    },
+    {
+      "a": "권하지 않습니다. 지리강활처럼 당귀와 닮은 독초가 섞일 수 있으므로, 재배 이력과 원산지·품명이 표시된 당귀를 사세요.",
+      "q": "산에서 캔 '산당귀'를 사도 괜찮을까요?"
+    },
+    {
+      "a": "바로 가까운 응급실로 가세요. 복통·구토·어지럼증·경련 등이 나타날 수 있으며, 먹은 식물을 가져가면 원인 파악과 치료에 도움이 됩니다.",
+      "q": "잘못 먹고 이상하면 어떻게 해야 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "산형과",
+    "grade": "",
+    "habitat": "산에 자라는 산형과(미나리과) 당귀속 여러해살이풀로, 참당귀와 같은 무리라 생김새가 비슷하다. 국립수목원이 산나물 철에 주의해야 할 대표 독초로 꼽은 식물이다. 자세한 분포 지역·고도는 이번 조사에서 공공기관 자료로 확인하지 못했다.",
+    "look": {
+      "flower": "흰 꽃이 우산 모양으로 모여 핀다. 참당귀는 짙은 자주색 꽃이 피므로 꽃 색으로 구별할 수 있다.",
+      "leaf": "잎자루들이 모이는 부분(잎자루 밑)에 붉은 반점이 있다. 참당귀는 이 부분이 녹색이다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Angelica purpuraefolia T.H.Chung",
+    "season": {
+      "collect": [
+        4,
+        5,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "농촌진흥청 보도자료 - 가을철 약초, “헷갈리지 마세요” (2021)",
+        "url": "https://rda.go.kr/board/board.do?mode=view&prgId=day_farmprmninfoEntry&dataNo=100000749704"
+      },
+      {
+        "title": "포인트데일리 - 닮아도 너무 닮은 약초와 독초…농진청, 약초 구별 방법 소개 (2021.10.13)",
+        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=101084"
+      },
+      {
+        "title": "한국외식신문 - 닮은꼴 가을 약초 “헷갈리지 마세요” (농촌진흥청 자료, 2021.10.15)",
+        "url": "https://www.kfoodtimes.com/news/articleView.html?idxno=17446"
+      },
+      {
+        "title": "서울신문 - 산나물, ‘알면 약초·모르면 독초’ (2020, 국립수목원 주의 독초 9종에 지리강활 포함)",
+        "url": "https://m.go.seoul.co.kr/news/2020/03/31/20200331500064"
+      },
+      {
+        "title": "Journal of Plant Biotechnology - Angelica 속 식물의 종판별을 위한 연구현황 및 전망 (2016, 국내 당귀속 목록)",
+        "url": "https://www.kspbtjpb.org/journal/view.html?doi=10.5010/JPB.2016.43.2.151"
+      },
+      {
+        "title": "국외반출승인대상 농업생명자원 목록 (2020, 산형과 Angelica purpuraefolia T.H.Chung 지리강활)",
+        "url": "https://idenshigen.jp/abs_tft/wp-content/uploads/2021/03/1.-List-of-Agricultural-Bio-Resources-subject-to-Overseas-Transport-Approval-2020.11.01.pdf"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "농촌진흥청 보도자료 - 가을철 약초, “헷갈리지 마세요” (2021)",
+      "url": "https://rda.go.kr/board/board.do?mode=view&prgId=day_farmprmninfoEntry&dataNo=100000749704"
+    },
+    {
+      "title": "포인트데일리 - 닮아도 너무 닮은 약초와 독초…농진청, 약초 구별 방법 소개 (2021.10.13)",
+      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=101084"
+    },
+    {
+      "title": "한국외식신문 - 닮은꼴 가을 약초 “헷갈리지 마세요” (농촌진흥청 자료, 2021.10.15)",
+      "url": "https://www.kfoodtimes.com/news/articleView.html?idxno=17446"
+    },
+    {
+      "title": "산림청 임산물 재배 자료 - 약초류: 참당귀",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_08.pdf"
+    },
+    {
+      "title": "헬스경향 - [한동하의 식의보감] 참당귀부터 개당귀까지…알고 먹으면 더 좋은 ‘당귀’ (2023)",
+      "url": "https://www.k-health.com/news/articleView.html?idxno=65498"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 당귀속이라 잎과 뿌리 모양이 비슷해 산에서 참당귀로 잘못 알고 캐기 쉽다. 꽃 색과 잎자루 밑의 반점으로 구별한다.",
+      "name": "당귀",
+      "points": [
+        "참당귀는 8~9월에 짙은 자주색 꽃이 피고, 지리강활은 흰 꽃이 핀다.",
+        "잎자루가 모이는 부분이 참당귀는 녹색이고, 지리강활은 붉은 반점이 있다.",
+        "꽃이 없는 봄 새순이나 지상부가 없는 뿌리만으로는 구별이 어려우므로, 산에서 직접 캔 '산당귀'는 먹지 말고 재배·유통 이력이 확실한 것만 산다."
+      ]
+    }
+  ],
+  "name": "지리강활",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "당귀(참당귀)",
+    "sources": [
+      {
+        "title": "농촌진흥청 보도자료 - 가을철 약초, “헷갈리지 마세요” (2021)",
+        "url": "https://rda.go.kr/board/board.do?mode=view&prgId=day_farmprmninfoEntry&dataNo=100000749704"
+      },
+      {
+        "title": "포인트데일리 - 닮아도 너무 닮은 약초와 독초…농진청, 약초 구별 방법 소개 (2021.10.13)",
+        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=101084"
+      },
+      {
+        "title": "한국외식신문 - 닮은꼴 가을 약초 “헷갈리지 마세요” (농촌진흥청 자료, 2021.10.15)",
+        "url": "https://www.kfoodtimes.com/news/articleView.html?idxno=17446"
+      },
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 참당귀부터 개당귀까지…알고 먹으면 더 좋은 ‘당귀’ (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=65498"
+      }
+    ],
+    "text": "맹독성 식물로, 적은 양을 먹어도 마비·경련·의식을 잃는 등의 중독 증상이 나타날 수 있다고 농촌진흥청이 경고했다. 당귀와 닮아 잎이나 뿌리를 당귀로 알고 먹을 위험이 있다. 어느 성분이 독성을 내는지는 이번 조사에서 공공기관·학술 자료로 확인하지 못했다."
+  },
+  "updatedAt": 1792011713151
+}

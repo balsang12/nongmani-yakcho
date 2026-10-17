@@ -1,0 +1,136 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "저먼캐모마일(Matricaria chamomilla)은 곧게 자라는 한해살이, 로만캐모마일(Chamaemelum nobile)은 땅을 기는 여러해살이입니다. 시판 캐모마일차는 대부분 저먼캐모마일 꽃입니다.",
+      "q": "저먼캐모마일과 로만캐모마일은 뭐가 다른가요?"
+    },
+    {
+      "a": "꽃송이를 말려 차로 씁니다. 식약처 농산물 분류에서 식용꽃(허브류)으로 다룹니다.",
+      "q": "어느 부위를 먹나요?"
+    },
+    {
+      "a": "국화과 식물이라 돼지풀 등 국화과 꽃가루 알레르기가 있으면 반응이 생길 수 있습니다. 판매할 때 '국화과 식물'임을 알려 주면 좋습니다.",
+      "q": "알레르기가 있는 사람도 마셔도 되나요?"
+    },
+    {
+      "a": "혈액응고를 막는 약과 함께 먹으면 상호작용이 있을 수 있다고 알려져 있습니다. 이런 약을 먹는 분은 의사·약사와 상의하도록 안내하세요.",
+      "q": "약을 먹는 사람도 괜찮나요?"
+    },
+    {
+      "a": "꽃이 활짝 피고 노란 가운데가 봉긋해질 때 맑은 날 오전에 땁니다. 한 해에 2~3번 꽃이 올라오기도 합니다.",
+      "q": "언제 꽃을 따나요?"
+    },
+    {
+      "a": "안 됩니다. 캐모마일은(는) 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 '불면·소화·면역·다이어트에 좋다' 같은 표현은 쓸 수 없습니다. 향, 맛, 재배 방법, 우려 마시는 법으로 소개해 주세요.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 꽃을 뜨거운 물에 5분쯤 우려 차로 마신다. 다른 허브차와 섞기도 한다.",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "유럽 남부·동부 원산의 한해살이풀로, 지금은 세계 곳곳에서 자란다. 햇볕이 잘 들고 물빠짐 좋은 모래흙을 좋아하며 추위에 강하다. 떨어진 씨로 해마다 다시 나기도 한다. 국내에서는 밭과 화분에서 키운다.",
+    "look": {
+      "flower": "가운데 노란 통꽃 둘레에 흰 혀꽃이 달린 작은 데이지 모양 꽃이다. 꽃이 피면서 노란 가운데가 원뿔처럼 부풀고, 세로로 자르면 꽃받침 속이 비어 있다.",
+      "leaf": "잎이 2~3번 깃꼴로 잘게 갈라져 실처럼 가늘다.",
+      "smell": "꽃에서 사과를 닮은 달콤한 향이 난다.",
+      "stem": "매끈한 줄기가 곧게 서서 여러 갈래로 갈라지며 높이 15~60cm로 자란다."
+    },
+    "parts": "꽃(꽃송이)",
+    "prep": "꽃이 활짝 피었을 때 맑은 날 꽃송이만 따서 그늘지고 바람이 잘 통하는 곳에서 말린다.",
+    "sci": "Matricaria chamomilla L. (이명 Matricaria recutita L., 저먼캐모마일)",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 공고 제2018-395호, 식품의 기준 및 규격 개정 행정예고(농산물 분류 '허브류' 포함)",
+        "url": "https://members.wto.org/crnattachments/2018/SPS/KOR/18_5016_00_x.PDF"
+      },
+      {
+        "title": "Wikipedia — Matricaria chamomilla",
+        "url": "https://en.wikipedia.org/wiki/Matricaria_chamomilla"
+      },
+      {
+        "title": "위키백과, 캐모마일",
+        "url": "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC"
+      }
+    ],
+    "store": "완전히 말린 꽃을 밀폐 용기에 담아 빛과 습기를 피해 둔다. 습하면 곰팡이가 피기 쉽다.",
+    "taste": "사과 같은 단향이 나고 맛은 순하며 뒷맛이 살짝 쌉쌀하다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Matricaria chamomilla",
+      "url": "https://en.wikipedia.org/wiki/Matricaria_chamomilla"
+    },
+    {
+      "title": "Wikipedia — Anthemis cotula",
+      "url": "https://en.wikipedia.org/wiki/Anthemis_cotula"
+    },
+    {
+      "title": "Wikipedia — Matricaria discoidea",
+      "url": "https://en.wikipedia.org/wiki/Matricaria_discoidea"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "길가·빈터에 나는 국화과 풀로 흰 꽃과 가는 잎이 캐모마일과 아주 비슷하다. 냄새가 고약하고 피부에 닿으면 가렵거나 염증이 생길 수 있다.",
+      "name": "개꽃아재비",
+      "points": [
+        "개꽃아재비는 잎·꽃을 문지르면 역하고 불쾌한 냄새가 나고, 캐모마일은 사과 같은 단향이 난다.",
+        "캐모마일 꽃 가운데를 세로로 자르면 속이 비어 있다. 다른 비슷한 꽃은 속이 차 있거나 비늘조각이 있다.",
+        "야생에서 딴 '캐모마일'은 팔지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 속 풀로 길가에 흔하다. 노란 공 모양 꽃만 있고 흰 혀꽃이 없다.",
+      "name": "족제비쑥(파인애플위드)",
+      "points": [
+        "족제비쑥은 흰 꽃잎이 없고 지름 5~15mm의 노란·연두 단추 모양 꽃만 핀다.",
+        "문지르면 파인애플 같은 냄새가 난다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "다른 속(Chamaemelum nobile)의 여러해살이 캐모마일이다. 판매할 때 품종을 구분해 적어야 한다.",
+      "name": "로만캐모마일",
+      "points": [
+        "로만캐모마일은 땅에 붙어 퍼지는 여러해살이이고, 저먼캐모마일은 곧게 자라는 한해살이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Phytotherapy Research 33(6)",
+        "note": "캐모마일 무작위 임상시험 12편을 모아 분석했다. 불안·불면에 대한 연구는 1~3편뿐이라 근거가 적다고 했다.",
+        "title": "Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: A systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://busqueda.bvsalud.org/portal/resource/es/mdl-31006899",
+        "year": "2019"
+      }
+    ],
+    "summary": "사람 대상 임상시험이 있으나 수가 적다. 2019년 메타분석(무작위 시험 12편)은 수면의 질과 범불안장애에서 결과를 보고했지만, 불안·불면에 대한 근거는 적다고 밝혔다. 대부분 캡슐 추출물 연구다. 캐모마일은 식약처 인정 건강기능식품 원료가 아니다."
+  },
+  "name": "캐모마일",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524927
+}

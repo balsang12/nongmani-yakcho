@@ -1,0 +1,146 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "권하지 않습니다. 두 버섯은 차이가 미세하고 다 자라면 주름 색까지 비슷해져, 섞여 난 무더기에서 하나하나 골라내기 어렵습니다. 일본에서는 두 버섯을 함께 조리해 먹고 숨진 사례도 있습니다.",
+      "q": "개암버섯과 같이 섞여 났으면 골라내고 먹어도 되나요?"
+    },
+    {
+      "a": "아니요. 쓴맛이 구별점으로 소개되긴 하지만 독버섯을 입에 넣는 것 자체가 위험하고, 조리하면 맛으로 알아차리기도 어렵습니다.",
+      "q": "맛이 쓰면 노란다발이니 혀로 확인하면 되나요?"
+    },
+    {
+      "a": "아니요. 익혀 먹은 경우에도 심한 중독과 사망 사례가 보고되었으므로 어떤 조리법으로도 먹으면 안 됩니다.",
+      "q": "익히거나 말리면 독이 없어지나요?"
+    },
+    {
+      "a": "곧바로 병원에 가세요. 정해진 해독제가 없어 빨리 치료를 받는 것이 중요하며, 남은 버섯이나 사진을 가져가면 진단에 도움이 됩니다.",
+      "q": "먹고 몇 시간 뒤 구토·복통이 나면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Sulphur tuft",
+    "family": "독청버섯과",
+    "grade": "",
+    "habitat": "봄부터 늦가을까지 침엽수·활엽수의 죽은 나무, 그루터기, 쓰러진 나무나 땅속에 묻힌 나무에서 수십 개가 다발로 뭉쳐 난다. 한국을 비롯한 동아시아·유럽·북미에 널리 분포하는 흔한 버섯이다.",
+    "look": {
+      "flower": "주름: 대에 붙고 빽빽하다. 어릴 때 유황색~녹황색(올리브녹색)을 띠다가 포자가 익으면서 자갈색으로 변한다.",
+      "fruit": "포자: 포자문은 자갈색이며, 포자는 타원형으로 약 6~7×3.5~4μm이고 표면이 매끄럽다.",
+      "leaf": "갓: 지름 2~8cm로 원뿔형·반구형에서 편평해진다. 유황색~녹황색이고 가운데는 황갈색~주황빛이 더 짙으며, 어릴 때는 가장자리가 안으로 말리고 거미줄 같은 막 조각이 남기도 한다.",
+      "root": "대 밑동: 여러 대가 밑동에서 한데 뭉쳐 다발을 이루며 나무에 붙어 난다.",
+      "smell": "냄새/살 색변화: 살은 노란색이며 맛이 매우 쓰다고 알려져 있다(맛보기는 위험하므로 확인 방법으로 쓰지 말 것).",
+      "stem": "대: 길이 5~12cm, 굵기 3~8mm 정도로 가늘고 길며 유황색이고 밑으로 갈수록 황갈색~갈색이 된다. 뚜렷한 막질 턱받이는 없고, 대 위쪽에 섬유 모양 흔적만 남아 포자가 떨어지면 자갈색으로 물든다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Hypholoma fasciculare (Huds.) P.Kumm. (이명: Naematoloma fasciculare)",
+    "season": {
+      "collect": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "제주 동부농업기술센터 - 노란다발버섯(Naematoloma fasciculare)",
+        "url": "https://agri.jeju.go.kr/dongbu/technologycenter/technology/special.htm?page=18&act=view&seq=14852"
+      },
+      {
+        "title": "일본 후생노동성 자연독 리스크 프로파일 - 노란다발(ニガクリタケ, Hypholoma fasciculare)",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000142698.html"
+      },
+      {
+        "title": "Fungi on Wood (MushroomExpert) - Hypholoma fasciculare",
+        "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Hypholoma%20fasciculare.htm"
+      },
+      {
+        "title": "쿠키뉴스 - 여름철 야생 독버섯 주의 (2018, 노란다발·개암버섯 구별)",
+        "url": "https://www.kukinews.com/article/view/kuk201807100274"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "쿠키뉴스 - 여름철 야생 독버섯 주의 (2018, 노란다발·개암버섯 구별)",
+      "url": "https://www.kukinews.com/article/view/kuk201807100274"
+    },
+    {
+      "title": "제주 동부농업기술센터 - 노란다발버섯(Naematoloma fasciculare)",
+      "url": "https://agri.jeju.go.kr/dongbu/technologycenter/technology/special.htm?page=18&act=view&seq=14852"
+    },
+    {
+      "title": "일본 후생노동성 자연독 리스크 프로파일 - 노란다발(ニガクリタケ, Hypholoma fasciculare)",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000142698.html"
+    },
+    {
+      "title": "Fungi on Wood (MushroomExpert) - Hypholoma fasciculare",
+      "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Hypholoma%20fasciculare.htm"
+    },
+    {
+      "title": "Fungi on Wood (MushroomExpert) - Hypholoma lateritium (개암버섯)",
+      "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Hypholoma%20lateritium.htm"
+    },
+    {
+      "title": "Fungi on Wood (MushroomExpert) - Armillaria mellea (뽕나무버섯)",
+      "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Armillaria%20mellea.htm"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 속(Hypholoma)으로 나무 그루터기에 다발로 나는 모습이 비슷해 국내 중독 사고가 잦은 짝이다. 차이가 미세하므로 색 하나만으로 판단하면 안 된다.",
+      "name": "개암버섯",
+      "points": [
+        "갓 색: 노란다발은 유황색~녹황색이고, 개암버섯은 황갈색~적갈색(벽돌색)이며 가장자리가 더 옅다.",
+        "갓 표면: 개암버섯은 오돌토돌한 비늘 조각(인편)이 보이는 경우가 많다.",
+        "어린 주름 색: 노란다발은 노란색~녹황색, 개암버섯은 흰색~회색을 거쳐 자갈색이 된다. 다 자라면 둘 다 자갈색이 되어 구별이 더 어려워진다.",
+        "노란다발은 갓·주름·대가 모두 노란빛을 띠고, 개암버섯은 주로 가을에 활엽수 그루터기에 난다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "가을에 나무 밑동·그루터기에 다발로 나는 노란빛~황갈색 버섯이라 헷갈릴 수 있다. 일본 공공기관 자료도 뽕나무버섯류(나라타케)를 노란다발의 오인 대상으로 든다. 뽕나무버섯 자체도 날로 먹으면 탈이 나는 버섯이다.",
+      "name": "뽕나무버섯",
+      "points": [
+        "턱받이: 뽕나무버섯은 대에 흰색 막질 턱받이가 뚜렷하게 남고, 노란다발은 막질 턱받이 없이 섬유 흔적만 있다.",
+        "포자문: 뽕나무버섯은 흰색, 노란다발은 자갈색이다. 종이에 갓을 엎어 두면 색 차이를 볼 수 있다.",
+        "주름: 뽕나무버섯은 흰색~크림색이고 대에 약간 흘러내리며, 노란다발은 녹황색에서 자갈색으로 변한다.",
+        "갓 가운데: 뽕나무버섯은 가운데에 짙은 색의 작은 털·비늘이 있는 경우가 많다."
+      ]
+    }
+  ],
+  "name": "노란다발",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "개암버섯, 뽕나무버섯",
+    "sources": [
+      {
+        "title": "일본 후생노동성 자연독 리스크 프로파일 - 노란다발(ニガクリタケ, Hypholoma fasciculare)",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000142698.html"
+      },
+      {
+        "title": "제주 동부농업기술센터 - 노란다발버섯(Naematoloma fasciculare)",
+        "url": "https://agri.jeju.go.kr/dongbu/technologycenter/technology/special.htm?page=18&act=view&seq=14852"
+      },
+      {
+        "title": "쿠키뉴스 - 여름철 야생 독버섯 주의 (2018, 노란다발·개암버섯 구별)",
+        "url": "https://www.kukinews.com/article/view/kuk201807100274"
+      },
+      {
+        "title": "Fungi on Wood (MushroomExpert) - Hypholoma fasciculare",
+        "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Hypholoma%20fasciculare.htm"
+      }
+    ],
+    "text": "버섯 전체가 독성이 있으며 파시쿨롤(fasciculol)류, 파시쿨산류, 나에마톨린(naematolin) 등이 독성분으로 보고되었으나 심한 중독을 일으키는 주된 독소는 아직 확실히 밝혀지지 않았다. 먹은 뒤 30분~3시간쯤 지나 메스꺼움·심한 구토·강한 복통·설사·오한·두통이 나타나고, 손발 마비나 시야 장애가 생기기도 한다. 심하면 탈수·산증·경련·쇼크와 간·신장 손상으로 숨질 수 있으며, 일본에서는 조림으로 먹은 일가족 중 어린이 4명이 숨진 사례(1956년)와 2001년 사망 사례가 기록되어 있다. 정해진 해독제는 없다."
+  },
+  "updatedAt": 1792054918930
+}

@@ -1,0 +1,129 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네. 식약처 식품원료 목록에 '드럼스틱(Moringa oleifera)'이라는 이름으로 줄기·잎·열매·씨앗이 식품에 사용할 수 있는 원료로 올라 있습니다. 뿌리와 나무껍질은 목록에 없습니다.",
+      "q": "모링가 잎은 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "길이 20~45cm의 길쭉한 꼬투리가 북채(드럼스틱)를 닮아서 붙은 이름입니다. 식약처 목록에도 이 이름으로 올라 있습니다.",
+      "q": "왜 '드럼스틱'이라고도 하나요?"
+    },
+    {
+      "a": "네. 전남 산림자원연구소가 2016년부터 재배 시험을 했고, 순천·완도·장흥·강진과 제주 등에서 주로 하우스로 키웁니다. 서리에 약해 노지에서는 겨울을 나기 어렵습니다.",
+      "q": "우리나라에서도 키우나요?"
+    },
+    {
+      "a": "브라질(2019년)은 모링가 식품의 판매를 금지했고, 호주·뉴질랜드 식품기준청(FSANZ)은 2025년 11월 안전성 근거가 부족하다며 신규 식품 신청을 거절했습니다. 우리나라에서는 잎·씨앗 등이 식품원료로 허용되어 있지만, 한꺼번에 많이 먹지 않도록 안내하는 것이 좋습니다.",
+      "q": "외국에서는 금지됐다던데요?"
+    },
+    {
+      "a": "안 됩니다. 모링가는 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 면역·혈당·다이어트·해독 같은 표현은 쓸 수 없습니다. '기적의 나무' 같은 과장 표현도 피하고, 산지·재배 방법·먹는 법으로 소개해 주세요.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 잎을 차로 우리거나 가루로 만들어 음료·반죽에 조금씩 넣는다. 생잎은 국이나 볶음에 시금치처럼 쓴다. 원산지에서는 길쭉한 어린 꼬투리를 카레·국에 넣어 먹는다.",
+    "family": "모링가과 모링가속",
+    "grade": "",
+    "habitat": "인도 북부 원산의 열대 나무로, 원산지에서는 10~12m까지 빨리 자란다. 서리와 얼음을 견디지 못한다. 국내에서는 전남(순천·완도·장흥·강진)과 제주 등 남부 지역 하우스에서 주로 키우고, 강원 철원처럼 한해살이로 심어 잎을 거두는 곳도 있다.",
+    "look": {
+      "flower": "향기 있는 연노랑빛 흰 꽃이 피며, 꽃잎 다섯 장의 크기가 서로 다르다.",
+      "leaf": "작은 달걀 모양 잔잎이 세 번 깃꼴로 갈라져 붙은 겹잎이다. 잎 전체가 깃털처럼 가볍게 늘어진다.",
+      "root": "굵은 곧은뿌리가 있고, 씹으면 고추냉이(와사비)처럼 매운맛이 난다. 뿌리는 식품원료 목록의 사용 부위에 없다.",
+      "smell": "생잎은 풀 냄새가 나고, 말린 가루는 녹차보다 쌉쌀하고 풋내가 강하다.",
+      "stem": "줄기는 연한 회백색이고 무르며, 가지를 자르면 새 가지가 잘 나온다."
+    },
+    "parts": "잎(주로 판매), 어린 열매(꼬투리), 씨앗, 줄기 — 식품원료 목록상 '줄기, 잎, 열매, 씨앗'",
+    "prep": "잎줄기에서 잔잎만 훑어 씻은 뒤 그늘에서 말리거나 덖는다. 가루는 곱게 갈아 체에 친다.",
+    "sci": "Moringa oleifera Lam.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "식품안전나라 식품원료 목록 — 드럼스틱(Moringa oleifera) 줄기·잎·열매·씨앗 '가능'",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=317"
+      },
+      {
+        "title": "위키백과, 모링가",
+        "url": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A7%81%EA%B0%80"
+      },
+      {
+        "title": "한국일보, 전남서 자란 열대수종 '모링가' 액상 차 수출(2018.4.22)",
+        "url": "https://www.hankookilbo.com/news/article/201804221013542733"
+      },
+      {
+        "title": "Wikipedia — Moringa oleifera",
+        "url": "https://en.wikipedia.org/wiki/Moringa_oleifera"
+      },
+      {
+        "title": "FSANZ, Application A1294 – Moringa oleifera as a novel food(2025.11 거절)",
+        "url": "https://www.foodstandards.gov.au/food-standards-code/applications/application-a1294-moringa-oleifera-novel-food"
+      }
+    ],
+    "store": "말린 잎과 가루는 습기를 잘 먹으므로 밀폐해 서늘하고 어두운 곳에 둔다. 생잎은 쉽게 시들어 1~2일 안에 쓴다.",
+    "taste": "잎은 쌉쌀하고 풋내가 난다. 덖거나 볶으면 쓴맛과 풋내가 줄어든다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Moringa oleifera",
+      "url": "https://en.wikipedia.org/wiki/Moringa_oleifera"
+    },
+    {
+      "title": "위키백과, 모링가",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AA%A8%EB%A7%81%EA%B0%80"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 나무지만 뿌리와 나무껍질은 국내 식품원료 목록의 사용 부위(줄기·잎·열매·씨앗)에 없다. 뿌리 맛이 고추냉이와 비슷해 '고추냉이나무(horseradish tree)'라는 별명이 있다.",
+      "name": "모링가 뿌리·나무껍질",
+      "points": [
+        "뿌리·껍질을 캐서 식품으로 팔지 않는다.",
+        "임신 중에는 뿌리·껍질·꽃을 피하라는 안내가 있다.",
+        "판매 부위를 '잎', '씨앗'처럼 정확히 적는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "모링가 뿌리 맛이 고추냉이처럼 매워 영어 별명이 비슷하지만, 고추냉이는 전혀 다른 식물(배추과 풀)이다.",
+      "name": "고추냉이",
+      "points": [
+        "고추냉이는 물가에서 자라는 풀이고, 모링가는 깃꼴 겹잎이 달린 나무다.",
+        "'와사비나무'라는 이름으로 모링가를 팔면 혼동을 준다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Anais da Academia Brasileira de Ciências 93(suppl 4)",
+        "note": "모링가를 식품 소재로 쓴 연구를 정리했다. 사람 연구는 소규모 1건 수준이고, 동물 독성 결과가 엇갈려 안전한 양이 정해지지 않았다고 지적했다.",
+        "title": "Moringa oleifera potential as a functional food and a natural food additive: a biochemical approach",
+        "type": "리뷰",
+        "url": "https://www.scielo.br/j/aabc/a/fbjxDWcDJGLsRjPNtVCj5cf/?lang=en",
+        "year": "2021"
+      }
+    ],
+    "summary": "잎의 성분 분석, 시험관 연구, 동물 연구가 대부분이고, 사람 대상 연구는 소규모로 몇 건뿐이다. 동물 독성 연구 결과가 서로 엇갈려 안전한 섭취량이 정해져 있지 않다. 브라질(2019)과 호주·뉴질랜드(2025)는 안전성 근거 부족을 이유로 식품 사용을 허용하지 않았다. 식약처가 인정한 건강기능식품 원료도 아니다."
+  },
+  "name": "모링가",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524921
+}

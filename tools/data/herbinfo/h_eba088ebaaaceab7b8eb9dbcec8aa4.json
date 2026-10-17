@@ -1,0 +1,114 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식품원료 목록상 줄기와 잎을 쓸 수 있습니다. 요리에는 굵은 밑동을, 차에는 주로 말린 잎을 씁니다.",
+      "q": "어느 부위를 먹나요?"
+    },
+    {
+      "a": "봄(땅이 따뜻해진 뒤)에 모종을 심으면 여름부터 가을까지 거둘 수 있습니다. 다만 서리에 약해 겨울에는 포기를 캐서 화분에 옮겨 따뜻한 실내나 하우스에서 겨울을 나야 합니다.",
+      "q": "우리나라에서도 키울 수 있나요?"
+    },
+    {
+      "a": "씨앗도 팔지만 꽃이 잘 피지 않는 식물이라 보통 포기를 나눠 심습니다. 씨앗은 20~25℃에서 10~15일쯤 걸려 싹이 틉니다.",
+      "q": "씨앗으로 키우나요?"
+    },
+    {
+      "a": "밑동을 10cm쯤 남기고 베면 새순이 다시 올라옵니다. 너무 바짝 베면 다시 자라기 어렵습니다.",
+      "q": "수확은 어떻게 하나요?"
+    },
+    {
+      "a": "안 됩니다. 레몬그라스는 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 소화·다이어트·혈압 같은 표현은 쓸 수 없습니다. 향, 재배 방법, 요리법으로 소개해 주세요.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 잎은 차로 우리고, 생 밑동은 얇게 썰거나 두드려 국물 요리(똠얌 등)·볶음·카레에 넣어 향을 낸다. 질긴 섬유질은 먹기 전에 건져 낸다.",
+    "family": "벼과 개솔새속",
+    "grade": "",
+    "habitat": "남아시아와 동남아시아 열대 원산의 여러해살이풀이다. 25~30℃에서 잘 자라고 서리를 견디지 못하며, 10℃ 아래가 오래 이어지면 죽을 수 있다. 국내에서는 아열대 채소로 하우스나 화분에서 키우고, 노지에서는 봄에 심어 가을까지 거둔다.",
+    "look": {
+      "flower": "열대가 아닌 곳에서는 꽃이 거의 피지 않는다. 그래서 씨앗보다 포기나누기로 늘린다.",
+      "leaf": "청록색의 가늘고 긴 칼 모양 잎이 포기째 뭉쳐 난다. 잎 길이는 45~90cm에 이르고 가장자리가 매끈하다.",
+      "smell": "잎과 줄기를 자르거나 비비면 레몬 껍질 같은 상큼한 향이 강하게 난다.",
+      "stem": "밑동은 대파 흰 부분처럼 굵고 단단한 줄기 모양으로 겹겹이 싸여 있다. 요리에는 주로 이 밑동을 쓴다."
+    },
+    "parts": "줄기(밑동), 잎",
+    "prep": "겉의 마른 껍질 1~2겹을 벗기고 밑동 아래 뿌리 부분을 잘라 낸다. 수확할 때는 밑동을 10cm쯤 남기고 베어야 다시 잘 자란다.",
+    "sci": "Cymbopogon citratus (DC.) Stapf",
+    "season": {
+      "collect": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "식품안전나라 식품원료 목록 — 레몬그라스(Cymbopogon citratus) 줄기·잎 '가능'",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=323"
+      },
+      {
+        "title": "Wikipedia — Cymbopogon citratus",
+        "url": "https://en.wikipedia.org/wiki/Cymbopogon_citratus"
+      },
+      {
+        "title": "위키백과, 레몬그래스 (종)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A0%88%EB%AA%AC%EA%B7%B8%EB%9E%98%EC%8A%A4_(%EC%A2%85)"
+      },
+      {
+        "title": "포인트데일리, [기획시리즈] 아열대 채소 재배법② 레몬그라스(2018.5.4)",
+        "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=12788"
+      }
+    ],
+    "store": "생줄기는 랩이나 비닐에 싸서 냉장하고, 오래 둘 것은 잘라 냉동한다. 잎은 그늘에서 말려 밀폐 보관하면 향이 오래 간다.",
+    "taste": "레몬 향이 나면서 맛은 순하고 살짝 달다. 신맛은 거의 없다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Cymbopogon citratus",
+      "url": "https://en.wikipedia.org/wiki/Cymbopogon_citratus"
+    },
+    {
+      "title": "Wikipedia — Cymbopogon nardus (시트로넬라)",
+      "url": "https://en.wikipedia.org/wiki/Cymbopogon_nardus"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 개솔새속 풀로 모양과 향이 비슷하다. 모기 쫓는 화분이나 기름(시트로넬라 오일)용으로 팔리며, 먹는 작물로 키우는 식물이 아니다.",
+      "name": "시트로넬라",
+      "points": [
+        "모종을 살 때 학명이 Cymbopogon citratus(레몬그라스)인지 확인한다.",
+        "'모기 쫓는 풀'로 팔린 화분은 요리에 쓰지 않는다.",
+        "레몬그라스는 상큼한 레몬 향이고, 시트로넬라는 모기향 같은 묵직한 향이 섞여 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology 13",
+        "note": "레몬그라스를 포함한 개솔새속의 성분·독성·연구 현황을 정리했다. 근거 대부분이 시험관·동물 연구이고 사람 연구는 적다.",
+        "title": "Review of phytomedicine, phytochemistry, ethnopharmacology, toxicology, and pharmacological activities of Cymbopogon genus",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.997918/pdf",
+        "year": "2022"
+      }
+    ],
+    "summary": "연구는 대부분 레몬그라스 정유(시트랄 성분)와 추출물을 시험관·동물에서 살핀 기초 연구다. 사람을 대상으로 한 연구는 매우 적고 규모도 작다. 식약처가 인정한 건강기능식품 원료가 아니다. 리뷰 논문은 임신·수유 중 과량 섭취와 피부 접촉 알레르기에 주의하라고 적고 있다."
+  },
+  "name": "레몬그라스",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524919
+}

@@ -1,0 +1,213 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "차가버섯 균핵은 살아 있는 자작나무 줄기에 여러 해 붙어 있어 계절과 관계없이 1년 내내 볼 수 있습니다. 다만 1년에 1cm도 자라지 않을 만큼 느리게 자라는 것으로 보고되어 있습니다.",
+      "q": "차가버섯은 언제 채취하나요?"
+    },
+    {
+      "a": "겉은 숯처럼 검고 깊게 갈라져 있고, 쪼갠 속이 노란갈색 코르크질이면 차가버섯 균핵의 특징과 맞습니다. 나무껍질로 덮인 자작나무 혹이나 말굽 모양 갓과 구멍면이 있는 말굽버섯과는 다릅니다.",
+      "q": "진짜 차가버섯 원물은 어떻게 알아보나요?"
+    },
+    {
+      "a": "원료가 자작나무에서 자란 균핵(원물)인지, 곡물에 키운 균사체 배양물인지 표시를 확인하세요. 연구에서 곡물 배양 제품이 원물처럼 판매된 사례와 두 제품의 성분 차이가 보고되었습니다.",
+      "q": "가루 제품을 살 때 무엇을 확인해야 하나요?"
+    },
+    {
+      "a": "권하지 않습니다. 차가버섯은 옥살산 함량이 높을 수 있고, 국내에서 가루를 수년간 매일 먹은 뒤 신장 기능을 잃은 사례가 학술지에 보고되었으므로, 신장 질환이 있거나 약을 먹는 사람은 먼저 의사와 상의하세요.",
+      "q": "많이 오래 먹어도 괜찮나요?"
+    },
+    {
+      "a": "나기는 하지만 드뭅니다. 차가버섯은 북반구 추운 지역 자작나무 숲에 주로 분포하며, 우리나라는 발견이 드문 지역으로 소개되어 있습니다.",
+      "q": "우리나라에서도 차가버섯이 나나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Chaga",
+    "family": "소나무비늘버섯과(Hymenochaetaceae)",
+    "grade": "자작나무 줄기에서 딴 균핵 원물은 겉이 검고 깊게 갈라졌으며 속이 노란갈색 코르크질이므로 쪼갠 단면으로 확인할 수 있다. 시판 가루·보충제 중에는 곡물에 균사체를 키운 배양물이 섞이거나 원물처럼 표시된 경우가 있어, 학술 연구에서는 원물 균핵에는 없는 전분이 곡물 배양 제품에서 검출되는 점을 구별 기준으로 제시했다. 원료가 '균핵(원물)'인지 '균사체 배양물'인지 표시를 꼭 확인한다.",
+    "habitat": "북반구 냉온대·아한대 숲에 널리 분포하며 주로 살아 있는 자작나무 줄기에 붙어 자란다(오리나무·너도밤나무에서도 보고). 상처 난 줄기 주위에서 아주 느리게 자라며(연 1cm 미만 보고) 한 나무에 수십 년 붙어 있을 수 있다. 우리나라에서는 발견이 드문 편이다.",
+    "look": {
+      "fruit": "지름 10~40cm 정도의 불규칙한 덩어리로, 겉은 숯처럼 검고 깊게 갈라져 있으며 마르면 단단하고 잘 부서진다. 쪼개 보면 속은 노란빛~노란갈색의 코르크 같은 조직이다(포자를 만드는 진짜 자실체는 나무가 죽은 뒤 껍질 아래에 얇게 생겨 보기 드물다).",
+      "stem": "대가 없이 나무 줄기에 단단히 박혀 붙어 있어 손으로는 잘 떨어지지 않고 도끼나 망치가 필요할 정도다."
+    },
+    "parts": "살아 있는 자작나무 줄기에 생기는 검은 덩어리(불임성 균핵, sterile conk)",
+    "prep": "옥살산(수산) 함량이 높을 수 있어 많은 양을 오래 먹는 것은 피해야 한다. 국내에서 차가버섯 가루를 5년간(하루 3g→9g) 먹은 뒤 옥살산 신장병으로 투석에 이른 사례가 학술지에 보고되었고, 남은 가루의 옥살산 함량은 100g당 약 14g으로 제품마다 차이가 컸다. 신장 질환이 있거나 약을 먹는 사람은 먹기 전에 의사와 상의하는 것이 좋다.",
+    "sci": "Inonotus obliquus",
+    "season": {
+      "collect": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Introduction to Distribution and Ecology of Sterile Conks of Inonotus obliquus (Mycobiology, 2008)",
+        "url": "https://koreascience.kr/article/JAKO200805441020439.pdf"
+      },
+      {
+        "title": "Growth of Chaga Mushroom (Inonotus obliquus) on Betula platyphylla var. japonica (한국균학회지, 2017)",
+        "url": "https://koreascience.or.kr/article/JAKO201732863555682.do"
+      },
+      {
+        "title": "Inonotus obliquus - Forest Pests (forestpests.eu)",
+        "url": "https://www.forestpests.eu/pest/inonotus-obliquus"
+      },
+      {
+        "title": "Inonotus obliquus - MushroomExpert.Com",
+        "url": "https://mushroomexpert.com/fungionwood/crust%20and%20parchment/species%20pages/Inonotus%20obliquus.htm"
+      },
+      {
+        "title": "Development of End Stage Renal Disease after Long-Term Ingestion of Chaga Mushroom: Case Report and Review of Literature (J Korean Med Sci, 2020)",
+        "url": "https://synapse.koreamed.org/articles/1145982"
+      },
+      {
+        "title": "Comparative Study of Chaga (Inonotus obliquus) Dietary Supplements Using Complementary Analytical Techniques (IJMS, 2025)",
+        "url": "https://doi.org/10.3390/ijms26072970"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Introduction to Distribution and Ecology of Sterile Conks of Inonotus obliquus (Mycobiology, 2008)",
+      "url": "https://koreascience.kr/article/JAKO200805441020439.pdf"
+    },
+    {
+      "title": "Inonotus obliquus - Forest Pests (forestpests.eu)",
+      "url": "https://www.forestpests.eu/pest/inonotus-obliquus"
+    },
+    {
+      "title": "Fomes fomentarius - Forest Pests (forestpests.eu)",
+      "url": "https://www.forestpests.eu/pest/fomes-fomentarius"
+    },
+    {
+      "title": "Ganoderma applanatum - NC State Extension",
+      "url": "https://ncslg.cals.ncsu.edu/ganoderma-applanatum-pers-pat"
+    },
+    {
+      "title": "Comparative Study of Chaga (Inonotus obliquus) Dietary Supplements Using Complementary Analytical Techniques (IJMS, 2025)",
+      "url": "https://doi.org/10.3390/ijms26072970"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Fomes fomentarius. 자작나무 등 활엽수 줄기에 붙는 딱딱한 말굽 모양 버섯으로, 같은 나무에서 나 차가버섯과 혼동될 수 있다.",
+      "name": "말굽버섯",
+      "points": [
+        "말굽버섯은 말발굽 모양의 뚜렷한 갓이 있고 윗면에 회색 동심원 줄무늬가 있지만, 차가버섯은 갓 모양 없이 불규칙한 검은 덩어리다.",
+        "말굽버섯 아랫면에는 회갈색 관공(구멍)면이 있으나 차가버섯 균핵에는 구멍면이 없다.",
+        "말굽버섯 속살은 계피색 갈색의 섬유질이고, 차가버섯 속은 노란갈색 코르크질이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Ganoderma applanatum. 여러 활엽수의 죽은 나무·그루터기·살아 있는 나무에 납작하게 붙어 자라는 선반 모양 버섯이다.",
+      "name": "잔나비불로초",
+      "points": [
+        "잔나비불로초는 납작한 선반 모양 갓이 있고 윗면이 회색~회흑색이며 포자가 쌓여 갈색으로 보이기도 한다.",
+        "갓 아랫면이 흰색이고 긁으면 짙은 갈색으로 변하는데, 차가버섯 균핵에는 이런 흰 구멍면이 없다.",
+        "차가버섯은 갈라진 숯 같은 표면이 특징이지만 잔나비불로초 윗면은 비교적 매끈한 껍질이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "곡물에 차가버섯 균사체를 키운 뒤 통째로 가루 낸 제품으로, 자작나무에서 자란 균핵 원물과 성분이 다르며 원물처럼 표시된 사례가 연구에서 지적되었다.",
+      "name": "차가버섯 균사체 곡물 배양물",
+      "points": [
+        "제품 원료 표시에 '균사체', '배양', 곡물 이름이 있는지 확인한다.",
+        "연구에서는 곡물 배양 제품에서 전분이 검출되었고 원물 균핵에서는 검출되지 않았다.",
+        "원물은 덩어리나 조각 상태에서 검은 겉껍질과 노란갈색 속을 함께 확인할 수 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Nutrients",
+        "note": "차가버섯 다당류의 추출 방법과 구조, 장내 미생물·혈당·면역 관련 활성 연구를 모아 정리한 리뷰다.",
+        "title": "Inonotus obliquus Polysaccharides: Preparation, Structural Characteristics, Structure–Activity Relationships, Biological Activities and Applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu18071125",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "차가버섯 다당류의 제조·활성·응용과 함께 안전성 문제까지 다룬 리뷰다.",
+        "title": "Preparation, bioactivities, structure–activity relationships, applications, and safety concerns of Inonotus obliquus polysaccharides: A review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.ijbiomac.2026.150953",
+        "year": "2026"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "차가버섯 성분과 기능 연구를 정리했으며, 근거가 주로 세포·동물 실험이고 사람 임상 자료는 부족하다고 짚었다.",
+        "title": "Natural Products and Health Care Functions of Inonotus obliquus",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/cimb47040269",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "여러 분석법으로 시판 보충제를 비교해, 곡물 배양 균사체 제품과 자연산 균핵 원물을 구별하는 방법(전분 검출 등)을 제안했다.",
+        "title": "Comparative Study of Chaga (Inonotus obliquus) Dietary Supplements Using Complementary Analytical Techniques",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/ijms26072970",
+        "year": "2025"
+      },
+      {
+        "journal": "Mycology",
+        "note": "민간 사용 역사와 추출물의 항산화·항염 등 실험 연구 결과, 관련 성분을 정리한 리뷰다.",
+        "title": "Therapeutic properties of Inonotus obliquus (Chaga mushroom): A review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1080/21501203.2023.2260408",
+        "year": "2024"
+      }
+    ],
+    "summary": "차가버섯의 다당류·트리테르페노이드·폴리페놀 등에 대해 항산화, 혈당·면역 조절, 항염 등의 작용이 보고되었지만 대부분 세포 실험과 동물 실험 결과이고, 2025년 리뷰도 사람 대상 임상 자료는 아직 부족하다고 정리했다. 한편 장기간 많이 먹은 뒤 옥살산 신장병이 생긴 사람 사례가 보고되어 안전성 검토가 함께 이루어지고 있다."
+  },
+  "name": "차가버섯",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Introduction to Distribution and Ecology of Sterile Conks of Inonotus obliquus (Mycobiology, 2008)",
+        "url": "https://koreascience.kr/article/JAKO200805441020439.pdf"
+      },
+      {
+        "title": "Therapeutic properties of Inonotus obliquus (Chaga mushroom): A review (Mycology, 2024)",
+        "url": "https://doi.org/10.1080/21501203.2023.2260408"
+      }
+    ],
+    "text": "학술 자료에 따르면 차가버섯은 적어도 16~17세기부터 러시아에서 민간요법 재료로 쓰였다. 시베리아에서는 특히 위장 질환에 쓰는 정화·소독용 재료로 귀하게 여겼고, 서시베리아의 한티족은 결핵이나 심장·간·위 질환에 썼다고 기록되어 있다. '차가'라는 이름은 코미페르먀크어로 버섯을 뜻하는 말에서 왔다."
+  },
+  "updatedAt": 1791925006218
+}

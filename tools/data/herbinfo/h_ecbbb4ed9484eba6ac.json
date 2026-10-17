@@ -1,0 +1,135 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "간을 상하게 하는 피롤리지딘 알칼로이드가 들어 있어, 식약처(당시 식약청)가 2001년 식품 원료로 쓰는 것을 금지했습니다. 잎·뿌리·가루·차·녹즙 어떤 형태로도 식품으로 팔 수 없습니다.",
+      "q": "컴프리는 왜 팔면 안 되나요?"
+    },
+    {
+      "a": "1960년대 국내에 들어와 녹즙·나물로 먹었고 간에 좋다는 소문도 돌았지만 근거가 없었습니다. 오히려 간 정맥이 막히는 병과 간경변·간암 위험이 확인되어 미국·일본·한국 모두 식용을 막았습니다.",
+      "q": "예전에는 녹즙으로 많이 먹었는데요?"
+    },
+    {
+      "a": "아닙니다. 익히거나 말려서 독성이 줄어든다는 자료가 없습니다. 어린잎에 독성분이 더 많다는 보고도 있습니다.",
+      "q": "삶거나 말리면 괜찮나요?"
+    },
+    {
+      "a": "먹거나 팔지 마세요. 특히 비슷하게 생긴 디기탈리스와 섞이지 않게 주의하세요. 어린이와 가축이 뜯어 먹지 않게 관리하는 것이 좋습니다.",
+      "q": "밭이나 마당에 컴프리가 있는데 어떻게 하나요?"
+    },
+    {
+      "a": "독성분이 몸에 쌓이는 방식이라 오래, 많이 먹을수록 위험합니다. 계속 먹었다면 바로 끊고 병원에서 간 검사를 받으세요. 배가 붓거나 오른쪽 윗배가 아프면 서둘러 진료를 받으세요.",
+      "q": "모르고 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "family": "지치과 컴프리속",
+    "grade": "",
+    "habitat": "유럽 원산으로 축축한 풀밭, 강둑, 도랑가에 자란다. 서아시아와 북아메리카에도 퍼졌다. 국내에는 1960년대에 들어와 녹즙·나물·튀김용으로 한때 많이 심었다.",
+    "look": {
+      "flower": "늦봄~초여름에 크림색·노란색 또는 분홍~보라색 종 모양 꽃이 끝이 말린 꽃차례에 달린다.",
+      "leaf": "아래쪽 잎은 길이 4~25cm의 큰 달걀 모양 피침형이고 잎자루가 있다. 위쪽 잎은 좁고 잎자루가 없다. 잎에 부드럽지만 꺼끌한 털이 있다.",
+      "root": "곧은뿌리가 최대 1.8m까지 깊게 들어간다. 뿌리 겉은 검고 속은 하얗다.",
+      "stem": "높이 0.3~1.5m. 줄기가 갈라지고, 잎이 줄기를 따라 날개처럼 흘러내린다. 줄기에 아래로 향한 뻣뻣한 털이 덮여 있다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Symphytum officinale L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Symphytum officinale",
+        "url": "https://en.wikipedia.org/wiki/Symphytum_officinale"
+      },
+      {
+        "title": "위키백과, 컴프리",
+        "url": "https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%94%84%EB%A6%AC"
+      },
+      {
+        "title": "푸드레시피, 건강식품에서 간 독성 식물로 전락한 '컴프리'(2025.8.17)",
+        "url": "https://foodrecipe.co.kr/news/comfrey-health-food-to-banned-carcinogen/"
+      },
+      {
+        "title": "FoodNavigator, FDA bans sale of comfrey herb(2001.7.9)",
+        "url": "https://www.foodnavigator.com/Article/2001/07/09/FDA-bans-sale-of-comfrey-herb"
+      },
+      {
+        "title": "일본 후생노동성, 컴프리(심피툼) 및 이를 함유한 식품의 취급(2004)",
+        "url": "https://www.mhlw.go.jp/topics/2004/06/tp0614-2.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Symphytum officinale",
+      "url": "https://en.wikipedia.org/wiki/Symphytum_officinale"
+    },
+    {
+      "title": "위키백과, 컴프리",
+      "url": "https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%94%84%EB%A6%AC"
+    },
+    {
+      "title": "일본 후생노동성, 자연독 위험 프로파일: 디기탈리스",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000082047.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "잎 모양이 컴프리와 비슷해 잘못 먹고 숨진 사고가 일본에서 보고됐다. 강심 배당체(디곡신·디기톡신)가 있어 줄기·잎 모두 독성이 강하다.",
+      "name": "디기탈리스",
+      "points": [
+        "디기탈리스는 첫해에 잎만 바닥에 둥글게 퍼져 나고, 잎을 씹으면 쓴맛이 강하다.",
+        "디기탈리스 꽃줄기는 갈라지지 않고 60~180cm로 곧게 서며, 안쪽에 반점이 있는 종 모양 꽃이 한쪽으로 줄지어 핀다.",
+        "컴프리 줄기는 갈라지고 잎이 줄기를 따라 날개처럼 흘러내리며 털이 뻣뻣하다.",
+        "둘 다 먹으면 안 되는 식물이다. 구분이 되더라도 잎을 따서 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "컴프리의 위험성은 사람에게서 실제로 생긴 간 정맥폐쇄병 사례와 독성분 연구로 확인됐다. 미국 FDA(2001)와 일본 후생노동성(2004)도 먹는 제품을 시장에서 거둬들이게 했다."
+  },
+  "name": "컴프리",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "디기탈리스",
+    "sources": [
+      {
+        "title": "푸드레시피, 건강식품에서 간 독성 식물로 전락한 '컴프리'(2025.8.17)",
+        "url": "https://foodrecipe.co.kr/news/comfrey-health-food-to-banned-carcinogen/"
+      },
+      {
+        "title": "위키백과, 컴프리",
+        "url": "https://ko.wikipedia.org/wiki/%EC%BB%B4%ED%94%84%EB%A6%AC"
+      },
+      {
+        "title": "FoodNavigator, FDA bans sale of comfrey herb(2001.7.9)",
+        "url": "https://www.foodnavigator.com/Article/2001/07/09/FDA-bans-sale-of-comfrey-herb"
+      },
+      {
+        "title": "일본 후생노동성, 컴프리(심피툼) 및 이를 함유한 식품의 취급(2004)",
+        "url": "https://www.mhlw.go.jp/topics/2004/06/tp0614-2.html"
+      }
+    ],
+    "text": "식물 전체, 특히 어린잎과 뿌리에 피롤리지딘 알칼로이드가 들어 있다. 이 성분은 간에서 독성 물질로 바뀌어 간세포를 손상시키고, 손상이 몸에 쌓인다. 오래 먹으면 간의 작은 정맥이 막히는 간 정맥폐쇄병, 간경변, 간암으로 이어질 수 있다. 익혀도 독성이 줄어든다는 자료가 없다. 국내 규제: 식약처(당시 식약청)가 2001년 식품 원료 사용을 금지한 '식품에 사용할 수 없는 원료'다. 미국 FDA도 2001년 먹는 컴프리 제품의 회수를 권고했고, 일본은 2004년 제조·판매·수입을 중단시켰다."
+  },
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524928
+}

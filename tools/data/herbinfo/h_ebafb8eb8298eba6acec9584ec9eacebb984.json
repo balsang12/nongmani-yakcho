@@ -1,0 +1,103 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "안 된다. 미나리아재비는 판매가 금지된 독초이며, 어떤 방법으로 손질해도 먹을거리로 쓰지 않는다.",
+      "q": "데치거나 말리면 먹어도 되나요?"
+    },
+    {
+      "a": "꽃을 보면 가장 확실하다. 미나리아재비는 5~6월에 반짝이는 노란 꽃잎 5장의 꽃이 피며, 미나리와는 과가 다른 식물이다. 꽃이 없을 때 잎만 보고 확신할 수 없으면 캐지 않는다.",
+      "q": "미나리와 어떻게 구별하나요?"
+    },
+    {
+      "a": "오래 만지지 않는 것이 좋다. 즙이 피부에 닿으면 붉어지고 물집이 생길 수 있어 장갑을 끼고 다룬다.",
+      "q": "손으로 만져도 괜찮나요?"
+    },
+    {
+      "a": "곧바로 병원에 가야 한다. 먹고 남은 식물을 함께 가져가면 진단에 도움이 된다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "우리나라 각지의 산과 들에 흔히 자라는 여러해살이풀이다.",
+    "look": {
+      "flower": "5~6월에 가늘고 긴 줄기와 가지 끝에 노란 꽃이 핀다. 꽃잎은 5장이고 기름을 바른 듯 반짝반짝 광택이 많이 난다.",
+      "fruit": "작은 씨앗 같은 열매(수과)가 모여 별사탕처럼 둥글게 뭉친다.",
+      "leaf": "뿌리에서 난 잎은 손바닥처럼 2~3갈래로 얕게 갈라지며, 윗면은 짙은 녹색, 뒷면은 연두빛이다. 미나리처럼 작은 잎 여러 장이 깃꼴로 붙는 겹잎이 아니다.",
+      "stem": "줄기는 곧게 서며 키가 50~70cm쯤 된다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Ranunculus japonicus Thunb.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "천상의 화원 두문동재에서 검룡소까지 아름다운 야생화 (국립공원 탐방 안내 자료)",
+        "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+      },
+      {
+        "title": "Ranunculosides (Cornell University, Plants Poisonous to Livestock)",
+        "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/ranunculoside.html"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 미나리아재비",
+        "url": "http://encykorea.aks.ac.kr/Contents/Item/E0019898"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "천상의 화원 두문동재에서 검룡소까지 아름다운 야생화 (국립공원 탐방 안내 자료)",
+      "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+    },
+    {
+      "title": "미나리 유기재배를 위한 활용자재 시용효과 (한국유기농업학회지, 2010)",
+      "url": "https://www.koreascience.or.kr/article/JAKO201023557658353.pdf"
+    },
+    {
+      "title": "Ranunculosides (Cornell University, Plants Poisonous to Livestock)",
+      "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/ranunculoside.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름에 '미나리'가 들어가 봄나물로 착각하기 쉽다. 두 식물은 과가 다른 전혀 다른 식물이므로, 꽃이 피기 전에 잎만 보고 캐지 않는다.",
+      "name": "미나리",
+      "points": [
+        "미나리는 산형과 식물이고, 미나리아재비는 미나리아재비과 식물로 서로 다른 무리다.",
+        "미나리아재비는 5~6월에 반짝이는 노란 꽃잎 5장짜리 꽃이 피므로, 노란 광택 꽃이 달린 포기 주변의 어린 풀은 캐지 않는다.",
+        "미나리아재비과 식물의 즙은 맛이 화끈하고 피부를 붉게 만들 수 있으므로, 잎을 꺾었을 때 맵고 따가운 느낌이 나면 먹지 않는다."
+      ]
+    }
+  ],
+  "name": "미나리아재비",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "미나리",
+    "sources": [
+      {
+        "title": "Ranunculosides (Cornell University, Plants Poisonous to Livestock)",
+        "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/ranunculoside.html"
+      }
+    ],
+    "text": "미나리아재비과 식물에는 라눈쿨린이라는 성분이 들어 있고, 이것이 분해되면 독성이 강한 프로토아네모닌이 된다. 즙이 피부에 닿으면 붉어지고 부어오르며 물집이 생길 수 있다. 많이 먹으면 위장이 심하게 자극되어 배앓이, 심한 위장염, 피가 섞인 설사가 생길 수 있다."
+  },
+  "updatedAt": 1792184768374
+}

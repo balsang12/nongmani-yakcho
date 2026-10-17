@@ -1,0 +1,132 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "팔지 마세요. 아슈와간다는 식약처 식품원료 목록에 없어 뿌리·가루·차를 일반 식품으로 팔 수 없습니다.",
+      "q": "아슈와간다 뿌리나 가루를 일반 식품으로 팔아도 되나요?"
+    },
+    {
+      "a": "특정 업체의 '아쉬아간다 추출물(Shoden®)'이 2022년 9월 개별인정(제2022-27호)을 받았습니다. 인정 문구는 '수면건강에 도움을 줄 수 있음', 하루 섭취량은 추출물 120mg입니다. 이 원료로 만들어 건강기능식품으로 신고된 제품에만 해당하고, 뿌리·가루·차 같은 원물에는 해당하지 않습니다.",
+      "q": "건강기능식품으로 인정받았다던데요?"
+    },
+    {
+      "a": "해외직구 제품은 정식 수입검사를 거치지 않아 안전성이 확인되지 않습니다. 사기 전에 식품안전나라 '해외직구 위해식품 차단목록'에서 제품명을 검색해 보세요. 직구 제품을 사서 되파는 것은 불법입니다.",
+      "q": "해외직구 아슈와간다는 괜찮나요?"
+    },
+    {
+      "a": "드물지만 간 손상 사례가 보고됐습니다. 임산부는 피해야 하고, 국내 인정 제품도 영·유아·어린이·임산부·수유부는 섭취를 피하고 신경안정제 같은 졸음 유발 약과 같이 먹지 말라고 표시합니다. 덴마크는 2023년 건강보조식품에 아슈와간다 사용을 금지했습니다.",
+      "q": "부작용은 없나요?"
+    },
+    {
+      "a": "안 됩니다. 기능성 표시는 식약처 인정을 받은 건강기능식품 제품에만, 인정받은 문구 그대로 쓸 수 있습니다. 원물이나 일반 식품에 수면·스트레스·활력 같은 효능을 적으면 불법 광고가 됩니다.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "식약처 식품원료 목록(사용 가능·제한적 사용 원료)에 올라 있지 않아, 뿌리·가루·차를 일반 식품으로 팔 수 없다.",
+    "family": "가지과 위타니아속",
+    "grade": "",
+    "habitat": "인도·네팔·스리랑카와 중동·북아프리카·남유럽 등 건조한 지역에 자라고, 인도의 건조 지대에서 많이 재배한다. 햇볕이 잘 들고 돌이 섞인 마른 땅을 좋아한다. 국내 자생종은 없고, 국내 유통품은 대부분 수입 추출물이다.",
+    "look": {
+      "flower": "작은 녹색 종 모양 꽃이 피고, 꽃이 진 뒤 주황빛 도는 붉은 열매가 익는다.",
+      "leaf": "칙칙한 녹색의 타원형 잎으로, 길이는 보통 10~12cm까지 자란다.",
+      "root": "전통적으로 쓰는 부위는 뿌리이며, 말려서 가루로 쓴다.",
+      "smell": "뿌리에서 말 냄새 같은 강한 냄새가 난다. 이름도 산스크리트어 '말'과 '냄새'에서 왔다.",
+      "stem": "높이 35~75cm의 키 작은 상록 관목이다."
+    },
+    "parts": "뿌리(해외에서 주로 쓰는 부위). 국내에서는 인정받은 추출물만 건강기능식품 원료로 쓸 수 있다.",
+    "prep": "",
+    "sci": "Withania somnifera (L.) Dunal",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Withania somnifera",
+        "url": "https://en.wikipedia.org/wiki/Withania_somnifera"
+      },
+      {
+        "title": "식품안전나라, 아쉬아간다 추출물(Shoden®)(코스맥스엔비티㈜, 제2022-27호) 개별인정 공고",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?menu_grp=MENU_NEW01&menu_no=2660&bbs_no=bbs987&nticmatr_yn=N&bbs_type_cd=01&ans_yn=N&ntctxt_no=1091758"
+      },
+      {
+        "title": "식품안전나라, 수면건강 기능성원료",
+        "url": "https://www.foodsafetykorea.go.kr/portal/healthyfoodlife/functionalityView.do?viewNo=32"
+      },
+      {
+        "title": "NutraIngredients, 아슈와간다 각국 규제 연표(2026.7.6)",
+        "url": "https://www.nutraingredients.com/Article/2026/07/06/timeline-will-authorities-de-throne-the-king-of-herbs/"
+      },
+      {
+        "title": "식품안전나라, 해외직구 위해식품 안내",
+        "url": "https://www.foodsafetykorea.go.kr/portal/fooddanger/foodDirectImportView.do"
+      },
+      {
+        "title": "식품안전나라 식품원료 목록 — 아슈와간다 미등재(2026.10 확인)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Withania somnifera",
+      "url": "https://en.wikipedia.org/wiki/Withania_somnifera"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "'인도인삼'이라는 별명 때문에 인삼과 같은 식물로 오해하기 쉽지만 전혀 다른 식물이다.",
+      "name": "인삼",
+      "points": [
+        "아슈와간다는 가지과, 인삼은 두릅나무과로 집안이 다르다.",
+        "아슈와간다 잎은 갈라지지 않은 타원형 홑잎이고, 인삼 잎은 손바닥 모양으로 작은잎 5장이 모인 겹잎이다.",
+        "인삼은 국내 식품 원료지만, 아슈와간다 뿌리는 식품원료 목록에 없다. '인도인삼'이라는 이름으로 인삼처럼 팔면 안 된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "PLoS ONE 16(9)",
+        "note": "무작위 임상 5건을 모은 메타분석. 효과 크기는 작고 근거 수준은 중간~낮음이며, 장기 안전성 자료가 부족하다고 정리했다.",
+        "title": "Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8462692",
+        "year": "2021"
+      }
+    ],
+    "summary": "사람 대상 무작위 임상시험이 여러 건 있다. 2021년 메타분석(임상 5건)은 뿌리 추출물이 위약보다 수면 점수를 조금 높였다고 보고했지만, 근거 수준은 '중간~낮음'이고 장기 안전성 자료는 부족하다고 밝혔다. 국내에서 인정된 기능성은 특정 추출물(제2022-27호)의 '수면건강에 도움을 줄 수 있음' 하나뿐이며, 그 원료로 만든 인정 건강기능식품에만 쓸 수 있다."
+  },
+  "name": "아슈와간다",
+  "st": "check",
+  "toxic": {
+    "lookalike": "",
+    "sources": [
+      {
+        "title": "식품안전나라, 아쉬아간다 추출물(Shoden®)(코스맥스엔비티㈜, 제2022-27호) 개별인정 공고",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?menu_grp=MENU_NEW01&menu_no=2660&bbs_no=bbs987&nticmatr_yn=N&bbs_type_cd=01&ans_yn=N&ntctxt_no=1091758"
+      },
+      {
+        "title": "Wikipedia — Withania somnifera",
+        "url": "https://en.wikipedia.org/wiki/Withania_somnifera"
+      },
+      {
+        "title": "NutraIngredients, 아슈와간다 각국 규제 연표(2026.7.6)",
+        "url": "https://www.nutraingredients.com/Article/2026/07/06/timeline-will-authorities-de-throne-the-king-of-herbs/"
+      }
+    ],
+    "text": "국내 규제: 아슈와간다는 식약처 식품원료 목록(사용 가능·제한적 사용 원료)에 없어 뿌리·가루·차를 일반 식품으로 팔 수 없다. 식약처가 인정한 것은 코스맥스엔비티의 '아쉬아간다 추출물(Shoden®)' 한 가지로, 건강기능식품 개별인정형 원료(제2022-27호, '수면건강에 도움을 줄 수 있음', 하루 120mg)다. 이 인정은 해당 원료로 만든 건강기능식품에만 적용된다. 안전성: 드물게 간 손상 사례가 보고됐고, 임신 중에는 피해야 한다. 호르몬에 민감한 질환이 있는 사람도 피하라는 권고가 있다. 해외에서는 덴마크가 2023년 건강보조식품 사용을 금지했고, 네덜란드는 2024년 섭취를 권하지 않는다고 발표했다."
+  },
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524925
+}

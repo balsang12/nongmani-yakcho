@@ -1,0 +1,214 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "黃精",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
+        "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "주간경향 - [허브에세이] 가을에 어울리는 결명자차와 둥굴레차 (권혜진 한의사, 2019)",
+        "url": "https://weekly.khan.co.kr/article/201910181602481"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 풀(草部)에 黃精 항목이 실려 있다고 알려져 있으나, 이번 조사에서는 원문(한문)과 신뢰할 만한 번역본을 직접 읽지 못해 원문·성미·풀이 칸은 비워 두었다. 원문 대조 후 보완할 예정이다. 둥굴레(옥죽)에 해당하는 萎蕤 항목은 이번에 찾지 못했고, 오늘날 약전의 황정은 층층갈고리둥굴레 등의 뿌리줄기를 쪄서 만든 것으로 옥죽과 구분한다."
+  },
+  "faq": [
+    {
+      "a": "다릅니다. 옥죽은 잎이 한 장씩 어긋나는 둥굴레의 뿌리줄기이고, 황정은 대한민국약전 기준으로 층층갈고리둥굴레 등 잎이 돌려나는 종류의 뿌리줄기를 쪄서 만든 약재입니다. 시중에서는 둘 다 '둥굴레'로 불려 섞이기 쉽습니다.",
+      "q": "옥죽과 황정은 같은 둥굴레인가요?"
+    },
+    {
+      "a": "확실히 아는 사람만 따세요. 독초인 은방울꽃도 봄에 넓은 잎이 올라와 비슷해 보입니다. 둥굴레는 한 줄기에 잎이 어긋나게 줄지어 달리고 잎겨드랑이에 꽃이 1~2개씩 매달리며, 은방울꽃은 꽃줄기에 종 모양 꽃이 이삭처럼 달리고 열매가 붉습니다. 의심되면 먹지 말고, 먹은 뒤 이상하면 바로 병원에 가세요.",
+      "q": "봄에 둥굴레 새순을 따도 되나요?"
+    },
+    {
+      "a": "겉이 황갈색~흑갈색으로 반투명하고, 단단하면서 끈적하며 단내가 나는 것이 약전 기준에 맞습니다. 흙이나 모래가 많이 묻은 것은 회분 기준을 넘을 수 있으니 피하고, 원산지와 기원식물 표시를 확인하세요.",
+      "q": "좋은 둥굴레(황정) 약재는 어떻게 고르나요?"
+    },
+    {
+      "a": "겉모습만으로 국산·수입산을 가리기는 어렵습니다. 원산지 표시를 확인하세요. 중국 시장에서도 재배품과 야생품 등 규격이 서로 다른 옥죽이 유통되며, 연구에서는 성분 분석으로 구분했습니다.",
+      "q": "수입 둥굴레는 어떻게 구별하나요?"
+    },
+    {
+      "a": "밀폐 용기에 담아 서늘하고 건조한 곳에 두세요. 습기를 먹으면 끈적해지고 곰팡이가 슬 수 있으니, 곰팡이가 보이거나 냄새가 변한 것은 버립니다.",
+      "q": "말린 둥굴레는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "뿌리줄기를 쪄서 말리거나 볶아 차로 우려 마시고, 어린순·어린잎은 나물로 먹는다.",
+    "eng": "Solomon's seal",
+    "family": "백합과(최근 분류 체계로는 비짜루과)",
+    "grade": "대한민국약전의 황정 기준으로 좋은 약재는 겉이 황갈색~흑갈색으로 반투명하고, 단단하면서 끈적하며, 단내가 나고 맛이 달며 씹으면 끈적거린다. 회분 5.0% 이하, 산불용성회분 1.0% 이하여야 하므로 흙·모래가 많이 묻은 것은 피한다.",
+    "habitat": "우리나라와 일본·중국에 분포하며, 산과 들의 햇볕이 잘 드는 곳이나 반그늘의 모래 섞인 흙(사질양토)에서 잘 자란다. 우리나라 둥굴레속 가운데 가장 널리 퍼져 있다. 비슷한 층층둥굴레는 멸종위기 야생생물로 지정된 종이라 캐면 안 된다.",
+    "look": {
+      "flower": "잎겨드랑이마다 길이 2cm 안팎의 통 모양 흰 꽃이 1~2개씩 아래로 매달리고, 끝이 6갈래로 갈라지며 갈래 끝은 녹색이다. 재배지 관찰에서는 4월 하순부터, 일반적으로는 6~7월까지 핀다.",
+      "fruit": "둥근 장과(물열매)가 달리고 검게 익는다.",
+      "leaf": "잎은 줄기에 한 장씩 어긋나며 잎자루가 거의 없다. 달걀꼴~긴 타원형으로 길이 5~8cm 정도이고 뒷면은 분을 바른 듯 희다.",
+      "root": "굵은 원기둥 모양 뿌리줄기가 옆으로 뻗고 마디가 뚜렷하며 수염뿌리가 많다. 해마다 뻗은 마디 끝에서 새 뿌리줄기가 생긴다.",
+      "stem": "줄기는 곧게 서다가 위쪽이 비스듬히 휘며, 줄기에 모가 진다."
+    },
+    "parts": "뿌리줄기, 어린순",
+    "prep": "뿌리줄기는 흙과 수염뿌리를 씻어 낸 뒤 그대로 쓰거나 쪄서 말린다(한약재 황정은 뿌리줄기를 쪄서 만든다). 어린순은 데쳐 나물로 먹는다. 봄에 새순을 딸 때는 독초인 은방울꽃 등과 섞이지 않았는지 꽃·열매가 달린 모습을 알고 있는 사람이 확인하고, 확실하지 않으면 먹지 않는다.",
+    "sci": "Polygonatum odoratum var. pluriflorum (Miq.) Ohwi",
+    "season": {
+      "collect": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "flower": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 둥굴레",
+        "url": "https://ko.wikipedia.org/wiki/%EB%91%A5%EA%B5%B4%EB%A0%88"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Polygonatum odoratum var. pluriflorum (Miq.) Ohwi",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77189664-1"
+      },
+      {
+        "title": "한국약용작물학회지 - 둥굴레 속 식물의 생육 및 개화 특성 (장계현 외, 1998)",
+        "url": "https://koreascience.or.kr/article/JAKO199803042324426.page?lang=ko"
+      },
+      {
+        "title": "한국자원식물학회지 - 한국산 둥굴레속 수집종의 생육 및 형태적 특성 (윤종선 외, 2002)",
+        "url": "https://db.koreascholar.com/Article/Detail/258461"
+      },
+      {
+        "title": "한국자원식물학회지 - 군집분석에 의한 한국 자생 둥글레속 수집종의 분류 (윤종선 외, 2002)",
+        "url": "https://koreascience.or.kr/article/JAKO200211921975062.do"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 황정(黃精) 생약 규격",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_180.pdf"
+      }
+    ],
+    "store": "말린 뿌리줄기는 습기를 먹으면 끈적해지고 곰팡이가 슬기 쉬우므로 밀폐 용기에 담아 서늘하고 건조한 곳에 둔다. 생뿌리줄기와 새순은 냉장 보관하고 빨리 쓴다.",
+    "taste": "뿌리줄기는 은은하게 달고, 씹으면 끈적한 느낌이 있다."
+  },
+  "lookSources": [
+    {
+      "title": "Tokyo Food Safety Information Center - Lily of the valley (Convallaria majalis)",
+      "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/19.html"
+    },
+    {
+      "title": "위키백과 - 둥굴레",
+      "url": "https://ko.wikipedia.org/wiki/%EB%91%A5%EA%B5%B4%EB%A0%88"
+    },
+    {
+      "title": "주간경향 - [허브에세이] 가을에 어울리는 결명자차와 둥굴레차 (권혜진 한의사, 2019)",
+      "url": "https://weekly.khan.co.kr/article/201910181602481"
+    },
+    {
+      "title": "식품의약품안전처 대한민국약전 - 황정(黃精) 생약 규격",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_180.pdf"
+    },
+    {
+      "title": "한국자원식물학회지 - 한국산 둥굴레속 수집종의 생육 및 형태적 특성 (윤종선 외, 2002)",
+      "url": "https://db.koreascholar.com/Article/Detail/258461"
+    },
+    {
+      "title": "시대 - 멸종위기 층층둥굴레, 중부 이남서 최초 발견 (2014)",
+      "url": "https://www.sidae.com/article/2014092510298011375"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "산에서 둥굴레와 비슷한 곳에 자라는 여러해살이풀로, 봄나물 채취 때 섞일 위험이 있다(국내 공공자료에서 둥굴레와의 오인 사례 자체는 이번에 확인하지 못했다). 은방울꽃은 식물 전체, 특히 꽃에 심장에 작용하는 독성분(콘발라톡신)이 있어 잎·꽃을 잘못 먹으면 중독될 수 있다.",
+      "name": "은방울꽃",
+      "points": [
+        "은방울꽃은 꽃줄기 하나에 향기 나는 작은 종 모양 꽃이 이삭처럼 여러 개 줄지어 달린다. 둥굴레는 잎겨드랑이마다 꽃이 1~2개씩 따로 매달린다.",
+        "은방울꽃 열매는 붉게 익고, 둥굴레 열매는 검게 익는다.",
+        "둥굴레는 한 줄기에 잎이 어긋나게 줄지어 달린다. 이런 줄기 구조를 확인할 수 없는 어린 새순은 따지 않는다.",
+        "은방울꽃을 꽂아 둔 꽃병의 물을 마셔도 중독될 수 있을 만큼 독성이 강하므로, 조금이라도 의심되면 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "한약재 황정(黃精)의 기원식물이며, 둥굴레(옥죽)와 같은 속이라 함께 '둥굴레'로 불리며 뿌리줄기가 섞여 유통된다. 먹을 수 있지만 약재 이름과 기원이 다르다.",
+      "name": "층층갈고리둥굴레",
+      "points": [
+        "층층갈고리둥굴레는 가늘고 뾰족한 잎이 마디마다 여러 장 돌려나 층층이 올라가고, 둥굴레는 잎이 한 장씩 어긋난다.",
+        "층층갈고리둥굴레는 국내 둥굴레속 가운데 땅윗부분과 뿌리줄기가 가장 크다.",
+        "대한민국약전의 황정은 층층갈고리둥굴레 등 네 종의 뿌리줄기를 쪄서 만든 것으로, 겉이 황갈~흑갈색이고 반투명하다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "멸종위기 야생생물로 지정된 둥굴레속 식물로, 잎이 층층이 돌려나 층층갈고리둥굴레·둥굴레와 헷갈릴 수 있다. 독초는 아니지만 캐거나 사고팔면 안 된다.",
+      "name": "층층둥굴레",
+      "points": [
+        "층층둥굴레는 줄기 마디마다 잎이 3~5장씩 돌려난다. 둥굴레는 잎이 한 장씩 어긋난다.",
+        "층층둥굴레 꽃은 연한 노란색이며 6월쯤 잎겨드랑이에 수레바퀴처럼 돌려 핀다. 둥굴레 꽃은 흰 통 모양에 끝이 녹색이다.",
+        "층층둥굴레는 주로 강원·경기 이북의 강가·하천변 모래땅에 무리 지어 자란다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Metabolites",
+        "note": "황정으로 쓰이는 둥굴레속 네 종의 뿌리줄기 대사물질을 비교한 성분 분석 연구로, 기원 종에 따라 성분 구성이 다를 수 있음을 보여 주는 자료다.",
+        "title": "Metabolic Signatures of Four Polygonatum Rhizoma Species Mapped Using Untargeted Metabolomics.",
+        "type": "기타",
+        "url": "https://europepmc.org/article/MED/41295268",
+        "year": "2025"
+      },
+      {
+        "journal": "Naunyn Schmiedebergs Arch Pharmacol",
+        "note": "둥굴레(옥죽)의 식물학적 특징, 성분, 생물 활성, 이용을 정리한 리뷰이며, 실린 활성 근거는 주로 실험실·동물 연구일 수 있다.",
+        "title": "Botany, chemistry, bio-activity, and application of Polygonatum odoratum (Mill.) Druce: a comprehensive review.",
+        "type": "리뷰",
+        "url": "https://europepmc.org/article/MED/40335673",
+        "year": "2025"
+      },
+      {
+        "journal": "Saudi J Biol Sci",
+        "note": "설치류에서 둥굴레 추출물이 위 손상 관련 지표를 바꾸었다고 보고한 동물 실험으로, 사람에게 같은 효과가 있는지는 확인되지 않았다.",
+        "title": "Gastroprotective effects of Polygonatum odoratum in rodents by regulation of apoptotic proteins and inflammatory cytokines.",
+        "type": "동물 실험",
+        "url": "https://europepmc.org/article/MED/37266408",
+        "year": "2023"
+      },
+      {
+        "journal": "Frontiers in Chemistry",
+        "note": "중국 시장의 두 가지 옥죽 상품(호남 재배품과 동북 야생품)을 27개 배치로 비교해, 특정 사포닌 성분 비율로 둘을 가를 수 있다고 제안한 성분 분석 연구다.",
+        "title": "Qualitative and quantitative studies on two commercial specifications of Polygonatum odoratum.",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fchem.2023.1146153",
+        "year": "2023"
+      },
+      {
+        "journal": "Int J Biol Macromol",
+        "note": "둥굴레속 식물의 다당류를 뽑고 정제하는 방법, 구조와 활성 연구를 정리한 리뷰로, 활성 근거는 주로 실험 단계일 수 있다.",
+        "title": "Review on the genus Polygonatum polysaccharides: Extraction, purification, structural characteristics and bioactivities.",
+        "type": "리뷰",
+        "url": "https://europepmc.org/article/MED/36608864",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2026년 둥굴레(Polygonatum odoratum)와 둥굴레속에 관한 리뷰가 여러 편 나왔고, 다당류·사포닌·플라보노이드 등 성분과 실험실 활성을 정리했다. 대부분 성분 분석이나 세포·동물 실험 단계이며, 사람에게서 효과가 확인되었다고 볼 근거는 아직 부족하다. Europe PMC 검색은 접속 제한(429)으로 막혀 PubMed 검색 목록과 학술지 페이지에서 확인한 논문만 실었다."
+  },
+  "name": "둥굴레",
+  "st": "ok",
+  "updatedAt": 1791968691249
+}

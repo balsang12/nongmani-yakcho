@@ -1,0 +1,172 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "오재근·김용진 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (대한한의학원전학회지, 2010)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 나물(菜部)의 버섯 항목(木耳·桑耳·槐耳·蘑菰·石耳·菌子)에서 노루궁뎅이에 해당하는 猴頭(후두) 항목을 확인하지 못했다. 원문 전체를 직접 넘겨 보지는 못했다."
+  },
+  "faq": [
+    {
+      "a": "시중품은 대부분 톱밥·곡물 배지 재배품입니다. 야생품과 재배품의 대사 성분을 비교한 2026년 연구에서는 주요 기능 성분이 비슷하게 유지되었다고 보고했습니다.",
+      "q": "노루궁뎅이는 야생과 재배품이 다른가요?"
+    },
+    {
+      "a": "가지가 갈라지는지 보면 됩니다. 노루궁뎅이는 한 덩어리에서 바늘 같은 침이 아래로 늘어지고, 산호침버섯은 산호처럼 여러 갈래로 가지를 칩니다. 색은 둘 다 희다가 누렇게 변해 구별에 도움이 되지 않습니다.",
+      "q": "노루궁뎅이와 산호침버섯은 어떻게 구별하나요?"
+    },
+    {
+      "a": "희고 누런 기가 적은 것을 고르세요. 노루궁뎅이속 버섯은 오래되면 누렇게 변합니다. 공식 등급 기준은 이번에 확인하지 못했습니다.",
+      "q": "좋은 노루궁뎅이는 어떻게 고르나요?"
+    },
+    {
+      "a": "아직 단정할 수 없습니다. 연구 대부분이 세포·동물 실험이고, 사람 대상 시험은 몇십 명 규모로 적습니다. 건강한 성인에게 한 번 먹인 시험에서는 전체 인지 점수에 뚜렷한 차이가 없었습니다.",
+      "q": "노루궁뎅이가 기억력에 좋다는데 사실인가요?"
+    },
+    {
+      "a": "생것은 냉장 보관하고 빨리 드세요. 오래 두려면 말려서 습기 없는 곳에 보관합니다.",
+      "q": "노루궁뎅이는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "볶음·전·국·찜 등 익혀서 요리에 쓴다.",
+    "eng": "Lion's mane mushroom",
+    "family": "노루궁뎅이과",
+    "grade": "",
+    "habitat": "아시아와 북아메리카에 분포하며 일본·북미에서는 흔하지만 유럽에서는 드물다. 시중에 나오는 것은 대부분 톱밥·곡물 배지에서 키운 재배품이다. 국내 야생 서식지 정보는 이번에 공공자료로 확인하지 못했다.",
+    "look": {
+      "fruit": "갓과 주름 없이 둥근 살덩이에서 바늘 모양 침이 빽빽이 아래로 늘어진 모습이다. 처음에는 새하얗고 오래되면 누렇게 변한다."
+    },
+    "parts": "자실체",
+    "prep": "흙이나 톱밥 찌꺼기를 털고 가볍게 씻은 뒤 먹기 좋게 찢어 익혀 먹는다.",
+    "sci": "Hericium erinaceus (Bull.) Pers.",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Biology, cultivation, and medicinal functions of the mushroom Hericium erinaceum (Acta Mycologica, 2016)",
+        "url": "https://pbsociety.org.pl/journals/index.php/am/article/view/6412"
+      },
+      {
+        "title": "Hericium ophelieae sp. nov. - 노루궁뎅이속 신종 기재 (Mycology, 2023)",
+        "url": "https://www.tandfonline.com/doi/10.1080/21501203.2023.2191636"
+      },
+      {
+        "title": "Nutritional and functional enhancement of lion's mane mushroom via sustainable brown rice cultivation (Future Foods, 2026)",
+        "url": "https://doi.org/10.1016/j.fufo.2026.100903"
+      },
+      {
+        "title": "Metabolomic characterization of wild and cultivated Hericium erinaceus (Applied Food Research, 2026)",
+        "url": "https://doi.org/10.1016/j.afres.2026.101756"
+      }
+    ],
+    "store": "생것은 냉장 보관하고 빨리 먹는다. 오래 두려면 말려서 습기 없는 곳에 둔다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Hericium ophelieae sp. nov. - 노루궁뎅이속 신종 기재 (Mycology, 2023)",
+      "url": "https://www.tandfonline.com/doi/10.1080/21501203.2023.2191636"
+    },
+    {
+      "title": "Domestication Cultivation and Nutritional Analysis of Hericium coralloides (Journal of Fungi, 2025)",
+      "url": "https://doi.org/10.3390/jof11110785"
+    },
+    {
+      "title": "Comparative evaluation of the antioxidant potential of Hericium erinaceus, H. americanum and H. coralloides (Acta Sci Pol Hortorum Cultus, 2019)",
+      "url": "https://doi.org/10.24326/asphc.2019.6.10"
+    },
+    {
+      "title": "Biology, cultivation, and medicinal functions of the mushroom Hericium erinaceum (Acta Mycologica, 2016)",
+      "url": "https://pbsociety.org.pl/journals/index.php/am/article/view/6412"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 노루궁뎅이속(Hericium)으로 흰 바늘 모양 침을 단다는 점이 비슷하다. 산호침버섯도 식용으로 재배·연구되는 버섯이라 섞여도 해롭다는 자료는 없지만, 이름과 값이 다르므로 생김새를 확인한다.",
+      "name": "산호침버섯",
+      "points": [
+        "노루궁뎅이는 가지 없이 한 덩어리에서 침이 아래로 늘어지고, 산호침버섯은 이름처럼 산호 모양으로 여러 갈래 가지가 갈라진다.",
+        "둘 다 처음엔 희고 오래되면 누렇게 변하므로 색만으로는 구별되지 않는다.",
+        "판매품은 품목명 표시를 확인한다. 한 비교 연구에서는 두 종의 항산화 성분 함량이 서로 달랐다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "연구 26편(무작위 시험 5편 포함, 대부분 실험실 연구)을 모은 체계적 문헌고찰로, 위 불편·두통·알레르기 같은 부작용 가능성과 부작용 보고가 부족하다는 점을 함께 지적했다.",
+        "title": "Benefits, side effects, and uses of Hericium erinaceus as a supplement: a systematic review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fnut.2025.1641246",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "18~35세 건강한 성인 18명에게 추출물 3g을 한 번 먹인 교차 시험으로, 전체 인지·기분 점수에는 위약과 차이가 없었고 한 가지 손동작 과제만 좋아졌다.",
+        "title": "Acute effects of a standardised extract of Hericium erinaceus (Lion's Mane mushroom) on cognition and mood in healthy younger adults: a double-blind randomised placebo-controlled study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fnut.2025.1405796",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "에리나신 성분의 신경 보호 작용을 세포·동물 실험 중심으로 정리한 문헌고찰로, 사람 대상 연구는 포함되지 않았다.",
+        "title": "Unveiling the role of erinacines in the neuroprotective effects of Hericium erinaceus: a systematic review in preclinical models",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1582081",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Toxicology",
+        "note": "쥐에게 하루 2,000mg/kg까지 먹인 시험과 유전독성 시험에서 독성이 관찰되지 않았다는 보고로, 사람 안전성을 직접 확인한 것은 아니다.",
+        "title": "A toxicological assessment of Hericium erinaceus (Lion's mane) and Trametes versicolor (Turkey tail) mushroom powders",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/ftox.2025.1651442",
+        "year": "2025"
+      },
+      {
+        "journal": "Debates em Psiquiatria",
+        "note": "일본의 소규모 이중맹검 시험 3편을 검토해 인지 저하에는 도움 가능성을 언급했지만 우울·불안에 대한 효과는 확인되지 않았다고 정리했다.",
+        "title": "Use of Hericium erinaceus as a potential therapeutic of mental disorders: a systematic review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.25118/2763-9037.2023.v13.443",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 기억력·인지 기능과 신경 보호 작용에 관심을 두지만, 근거의 대부분은 세포·동물 실험이고 사람 대상 시험은 수가 적고 규모가 작다. 건강한 젊은 성인 18명에게 한 번 먹인 무작위 시험에서는 전체 인지·기분 점수에 뚜렷한 차이가 없었다. 쥐 독성 시험에서는 분말이 독성을 보이지 않았다는 보고가 있지만, 사람에게서의 효과와 안전성은 더 확인이 필요하다."
+  },
+  "name": "노루궁뎅이",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Biology, cultivation, and medicinal functions of the mushroom Hericium erinaceum (Acta Mycologica, 2016)",
+        "url": "https://pbsociety.org.pl/journals/index.php/am/article/view/6412"
+      },
+      {
+        "title": "오재근·김용진 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (대한한의학원전학회지, 2010)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      }
+    ],
+    "text": "노루궁뎅이 자실체는 중국에서 오래전부터 음식과 전통 약재로 써 왔다고 전하며, 재배도 아시아에서 시작되었다고 소개된다. 우리나라 고서에 노루궁뎅이를 따로 적은 기록은 이번 조사에서 확인하지 못했다."
+  },
+  "updatedAt": 1791968691249
+}

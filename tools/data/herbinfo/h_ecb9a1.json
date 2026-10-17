@@ -1,0 +1,184 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "풍한(風寒)으로 머리가 아플 때 쓴다고 적었다.",
+      "갈증을 멎게 하는 데 쓴다고 적었다."
+    ],
+    "han": "葛根",
+    "has": true,
+    "ki": "",
+    "kiKo": "맛은 달고 독이 없다고 적었다. 성질은 2차 자료마다 '평하다(서늘하다는 설도 있음)', '약간 차다'로 다르게 옮겨져 있어 원문 확인이 필요하다.",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "주간경향 - 얼굴이 화끈, 짜증 나고 힘들 때, 칡 (2020)",
+        "url": "https://weekly.khan.co.kr/article/202004171502131"
+      },
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 칡 (암칡·수칡, 채취 시기)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=56175"
+      },
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 (원문 열람 실패)",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": "한국한의학연구원 한의고전명저총서·위키문헌 원문 페이지를 열지 못해 동의보감 원문 한문과 한글 옛이름을 직접 확인하지 못했다. 성미와 쓰임은 신문 칼럼(2차 자료)이 옮긴 한국어 풀이를 바탕으로 적었다."
+  },
+  "faq": [
+    {
+      "a": "잎과 줄기가 마른 늦가을부터 겨울 사이에 캡니다. 이 무렵 양분이 뿌리에 모이기 때문에 겨울 칡을 여름 칡보다 좋게 친다는 설명이 있습니다. 꽃은 8월 무렵 핍니다.",
+      "q": "칡뿌리는 언제 캐는 것이 좋나요?"
+    },
+    {
+      "a": "먼저 포장의 원산지와 기원 식물 표시를 확인하세요. 대한민국약전의 갈근은 칡(Pueraria lobata) 뿌리 하나로 정해져 있지만, 중국에서는 녹말이 많은 다른 종(분갈)도 갈근으로 유통되어 왔습니다. 분갈은 뿌리가 굵게 부푼 덩이 모양인 것이 특징으로 꼽힙니다.",
+      "q": "수입 갈근이나 칡가루는 어떻게 구별하나요?"
+    },
+    {
+      "a": "습기를 막도록 밀폐해 서늘하고 그늘진 곳에 두세요. 생뿌리는 쉽게 마르거나 곰팡이가 피므로 캔 뒤 빨리 씻어 썰고 말리거나 즙·녹말로 손질합니다.",
+      "q": "말린 갈근은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "생뿌리는 즙을 내거나 녹말(칡가루)을 내려 쓰고, 말린 뿌리(갈근)는 차로 달여 먹는다. 여름에 따는 꽃도 따로 말려 쓴다.",
+    "eng": "Kudzu",
+    "family": "콩과",
+    "grade": "대한민국약전은 갈근의 기원을 칡(Pueraria lobata) 뿌리 하나로 정하고, 말린 것 기준 푸에라린 2.0% 이상·다이드진 0.3% 이상을 규격으로 둔다. 겨울에 캔 칡을 여름 칡보다 낫게 치고, 녹말과 물기가 많고 단맛이 나는 '암칡'을 먹기 좋은 것으로 친다는 설명이 있다.",
+    "habitat": "우리나라 전국의 산과 들에 저절로 자라는 덩굴식물이며, 중국·일본·러시아 극동 등에도 분포한다.",
+    "look": {
+      "flower": "8월에 길이 18~25mm의 붉은 자주색 나비 모양 꽃이 15~25cm 길이의 꽃차례에 위를 향해 빽빽하게 달린다.",
+      "fruit": "9~10월에 길이 4~9cm, 폭 0.8~1cm의 납작한 꼬투리가 익으며, 겉에 길고 뻣뻣한 털이 퍼져 난다.",
+      "leaf": "잎자루가 10~20cm로 긴 잎에 작은잎 3장이 달리며, 작은잎은 마름모꼴~달걀꼴로 폭 10~15cm 정도로 크고 털이 있다. 가장자리는 밋밋하거나 얕게 3갈래로 갈라진다.",
+      "root": "땅속에 녹말을 저장하는 굵은 뿌리가 깊이 뻗는다. 말린 약재(갈근)는 겉이 회백색~연한 갈색에 세로 주름이 있고, 자른 면이 섬유질이며 동심원 무늬가 보인다.",
+      "stem": "다른 물체를 감고 길게 뻗는 덩굴로, 줄기에 갈색 또는 흰색의 퍼진 털이 많다. 겨울에는 줄기 끝과 겨울눈이 말라 죽는다."
+    },
+    "parts": "뿌리(갈근), 꽃",
+    "prep": "캐낸 뿌리는 흙을 씻어 내고 그대로 또는 겉껍질을 벗긴 뒤 두껍게 썰거나 잘게 쪼개어 말린다. 녹말(칡가루)을 내릴 때는 녹말이 많은 뿌리를 쓴다.",
+    "sci": "Pueraria montana var. lobata (Willd.) Maesen & S.M.Almeida ex Sanjappa & Predeep",
+    "season": {
+      "collect": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "flower": [
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목(Flora of Korea) - 칡 Pueraria montana var. lobata",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5294"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 갈근(葛根) Pueraria Root",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP0021.pdf"
+      },
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 칡 (암칡·수칡, 채취 시기)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=56175"
+      },
+      {
+        "title": "주간경향 - 얼굴이 화끈, 짜증 나고 힘들 때, 칡 (2020)",
+        "url": "https://weekly.khan.co.kr/article/202004171502131"
+      }
+    ],
+    "store": "말린 갈근은 습기를 피해 밀폐해 서늘하고 그늘진 곳에 둔다. 생뿌리는 마르거나 곰팡이가 피기 쉬우므로 빨리 손질한다.",
+    "taste": "말린 뿌리는 냄새가 거의 없고 맛이 약간 달다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora of Korea) - 칡 Pueraria montana var. lobata",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5294"
+    },
+    {
+      "title": "김해시 분성산 생태숲 풀이야기 - 돌콩",
+      "url": "https://www.gimhae.go.kr/bunseongsan/html/sub/04_02.jsp?cid=002&cpage=8"
+    },
+    {
+      "title": "Frontiers in Pharmacology (2025) - Unveiling the power of Pueraria lobata (리뷰)",
+      "url": "https://doi.org/10.3389/fphar.2025.1578472"
+    },
+    {
+      "title": "식품의약품안전처 대한민국약전 - 갈근(葛根) Pueraria Root",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP0021.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "중국에서는 송나라 이후 칡과 함께 같은 속의 다른 종(Pueraria thomsonii)도 갈근으로 써 왔고, 이것은 약효보다 녹말이 많은 식용 뿌리로 여겨져 왔다. 수입 갈근이나 칡가루를 살 때 기원 식물과 원산지를 확인해야 한다.",
+      "name": "분갈",
+      "points": [
+        "대한민국약전의 갈근 기원 식물은 칡 한 종뿐이므로, 한약재로 살 때는 규격품 표시와 기원(Pueraria lobata)을 확인한다.",
+        "분갈 쪽은 뿌리가 굵게 부풀어 오른 덩이 모양인 것이 구별 특징으로 꼽힌다.",
+        "칡 갈근은 자른 면이 거친 섬유질이고 세로로 잘 쪼개진다.",
+        "수입품은 포장의 원산지 표시를 먼저 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 콩과 덩굴로 작은잎 3장짜리 잎, 갈색 털, 붉은 자주색 꽃이 칡과 닮아 어린 덩굴일 때 헷갈릴 수 있다. 크기 차이가 커서 잎과 줄기 굵기로 쉽게 구별된다.",
+      "name": "돌콩",
+      "points": [
+        "돌콩 작은잎은 길이 3~8cm, 폭 0.8~2.5cm로 좁고, 칡 작은잎은 폭이 10~15cm로 훨씬 크고 넓다.",
+        "돌콩 줄기는 가늘고 2m 안팎으로 자라지만, 칡은 굵고 길게 뻗는 덩굴이며 굵은 뿌리가 있다.",
+        "돌콩 꽃차례는 2~5cm로 짧고, 칡 꽃차례는 15~25cm로 길다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "칡 뿌리 성분 푸에라린에 대한 동물 실험 20편을 묶은 메타분석으로, 저자들도 근거 확실성이 낮고 사람 임상 근거가 없다고 밝혔다.",
+        "title": "Preclinical evaluation of puerarin for the treatment of non-alcoholic fatty liver disease: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1795374",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "칡의 약용·식용 이용과 역사를 정리한 리뷰로, 중국에서 다른 종(P. thomsonii)이 갈근으로 함께 쓰여 온 내력도 다룬다.",
+        "title": "Unveiling the power of Pueraria lobata: a comprehensive exploration of its medicinal and edible potentials",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1578472",
+        "year": "2025"
+      },
+      {
+        "journal": "BMJ Open",
+        "note": "제2형 당뇨병 환자 200명을 대상으로 한 이중맹검 시험의 계획서이며, 결과가 나온 연구는 아니다.",
+        "title": "Efficacy and safety of Pueraria lobata radix as an adjuvant therapy for type 2 diabetes mellitus: rationale, design and protocol for a randomised controlled trial",
+        "type": "기타",
+        "url": "https://doi.org/10.1136/bmjopen-2024-092050",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "칡 성분 혼합물을 당뇨 생쥐와 간세포에 적용한 전임상 연구로, 사람에게서 확인된 결과는 아니다.",
+        "title": "Scientific Validation of Using Active Constituent as Research Focus in Traditional Chinese Medicine: Case Study of Pueraria lobata Intervention in Type 2 Diabetes",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ph17121675",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "칡 뿌리에서 푸에라린 등 이소플라본이 만들어지는 과정을 정리한 식물학 리뷰로, 건강 효과를 다룬 연구는 아니다.",
+        "title": "Glycosylation and methylation in the biosynthesis of isoflavonoids in Pueraria lobata",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fpls.2023.1330586",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 칡 뿌리의 이소플라본(푸에라린 등)을 중심으로 한 리뷰, 동물·세포 실험이 대부분이다. 칡 뿌리 단독으로 사람에게 효과를 확인하려는 무작위 임상시험은 계획서 단계로 발표되었고, 결과는 아직 확인하지 못했다. 근거 수준은 대체로 전임상(동물·세포) 단계로 보는 것이 맞다."
+  },
+  "name": "칡",
+  "st": "ok",
+  "updatedAt": 1791968691249
+}

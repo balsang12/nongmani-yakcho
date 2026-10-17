@@ -1,0 +1,106 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "카바 뿌리·잎·줄기와 성분 카바인은 식약처가 정한 해외직구 반입 불가 원료입니다. 카바가 든 수면·진정 보조제 여러 제품이 해외직구 위해식품 차단목록에 올라 있습니다. 국내 식품 원료로도 인정되지 않았습니다.",
+      "q": "카바는 왜 팔면 안 되나요?"
+    },
+    {
+      "a": "카바 추출물을 먹은 사람에게서 간 손상이 보고됐습니다. 유기용매로 뽑은 추출물, 농축 알약, 질 낮은 원료, 잎·줄기가 섞인 제품에서 위험이 더 크다고 알려져 있습니다. 오래 많이 마시면 손발바닥·등 피부가 건조하게 일어나기도 합니다.",
+      "q": "어떤 위험이 있나요?"
+    },
+    {
+      "a": "현지에서는 뿌리를 물에 우려 마시는 전통이 있지만, 국내에서는 식품으로 판매할 수 없습니다. 여러 나라도 판매를 금지했거나 제한했습니다.",
+      "q": "남태평양에서는 음료로 마신다던데요?"
+    },
+    {
+      "a": "먹지 말고 되팔지도 마세요. 식품안전나라 '해외직구 위해식품 차단목록'에서 제품명을 검색해 볼 수 있습니다. 이미 먹고 피로·황달·짙은 소변 같은 증상이 있으면 병원에서 간 검사를 받으세요.",
+      "q": "해외직구로 샀는데 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "family": "후추과 후추속",
+    "grade": "",
+    "habitat": "남태평양 섬나라(바누아투 북부가 기원으로 추정)에서 약 3,000년 전부터 재배해 온 작물로, 폴리네시아·미크로네시아·멜라네시아·하와이에 퍼졌다. 국내에서는 자라지 않는다.",
+    "look": {
+      "root": "뿌리는 60cm 깊이까지 내려간다. 굵은 뿌리줄기와 곁뿌리가 있고, 곁뿌리에 카바락톤이 가장 많다.",
+      "stem": "높이 2m 안팎까지 자라는 관목으로, 그 뒤로는 키보다 옆으로 퍼지며 줄기 수가 늘어난다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Piper methysticum G.Forst.",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Kava (Piper methysticum)",
+        "url": "https://en.wikipedia.org/wiki/Kava"
+      },
+      {
+        "title": "식품안전나라, 인터넷 구매대행 수입식품 반입 불가 원료 목록(2020.7.23 기준, PDF)",
+        "url": "https://www.foodsafetykorea.go.kr/upload/20200722/20200722074043_1595414443977.pdf"
+      },
+      {
+        "title": "Lechtenberg et al., Pharmazie 2008 — Is the alkaloid pipermethystine connected with the claimed liver toxicity of Kava products?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18271308/"
+      },
+      {
+        "title": "식품안전나라, 해외직구 위해식품 안내",
+        "url": "https://www.foodsafetykorea.go.kr/portal/fooddanger/foodDirectImportView.do"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Kava (Piper methysticum)",
+      "url": "https://en.wikipedia.org/wiki/Kava"
+    }
+  ],
+  "lookalikes": [],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmazie 63(1)",
+        "note": "카바 잎에는 피페르메티스틴이 약 0.2% 있었지만, 독일 시판 뿌리 제품에서는 검출되지 않았다. 이 성분이 간 손상 원인일 가능성은 낮다고 보았다.",
+        "title": "Is the alkaloid pipermethystine connected with the claimed liver toxicity of Kava products?",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18271308/",
+        "year": "2008"
+      }
+    ],
+    "summary": "간 손상은 주로 유럽에서 팔린 추출물 제품을 먹은 사람의 사례 보고로 알려졌다. 원인 성분은 아직 확실히 밝혀지지 않았다. 잎에 많은 알칼로이드(피페르메티스틴)가 의심받았지만, 독일 시판 뿌리 제품에서는 검출되지 않았다는 분석도 있다."
+  },
+  "name": "카바",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "",
+    "sources": [
+      {
+        "title": "식품안전나라, 인터넷 구매대행 수입식품 반입 불가 원료 목록(2020.7.23 기준, PDF)",
+        "url": "https://www.foodsafetykorea.go.kr/upload/20200722/20200722074043_1595414443977.pdf"
+      },
+      {
+        "title": "Wikipedia — Kava (Piper methysticum)",
+        "url": "https://en.wikipedia.org/wiki/Kava"
+      },
+      {
+        "title": "Lechtenberg et al., Pharmazie 2008 — Is the alkaloid pipermethystine connected with the claimed liver toxicity of Kava products?",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18271308/"
+      }
+    ],
+    "text": "뿌리에 카바락톤(카바인 등 18종)이 들어 있어 진정 작용을 한다. 추출물 제품을 먹은 사람에게서 간 손상이 보고됐고, 잎·줄기에는 독성 알칼로이드 피페르메티스틴이 있다. 오래 많이 마시면 피부가 건조하고 비늘처럼 일어나는 '카바 피부병'이 생긴다. 국내 규제: 카바(뿌리·잎·줄기)와 카바인은 식약처가 정한 해외직구 반입 불가(차단) 원료다. 식품 원료로 인정되지 않아 식품으로 팔 수 없다. 해외에서도 네덜란드 등이 판매를 금지하고, 영국은 먹는 카바 의약품의 판매·수입을 금지한다."
+  },
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524927
+}

@@ -1,0 +1,197 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "果部",
+    "easy": [],
+    "han": "藕",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의학고전DB, 동의보감 탕액편 권02",
+        "url": "https://mediclassics.kr/books/8/volume/21"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "길고 굵으며 잘랐을 때 속이 희고 구멍 크기가 고른 것이 좋습니다. 구멍 안에 검은 줄이 있거나 상처 난 것, 색이 고르지 않은 것은 피하고, 껍질 벗긴 연근은 표백제 냄새가 나지 않는지 확인하세요.",
+      "q": "좋은 연근은 어떻게 고르나요?"
+    },
+    {
+      "a": "가을부터 겨울까지가 가장 맛있는 때로 꼽힙니다. 땅속줄기가 가을에 굵어지기 때문이며, 저장품이 있어 시장에는 일 년 내내 나옵니다.",
+      "q": "연근 제철은 언제인가요?"
+    },
+    {
+      "a": "식초를 조금 탄 물에 담가 두면 변색이 덜합니다. 데칠 때도 식초를 조금 넣고, 쇠칼이나 쇠냄비는 변색을 심하게 하니 피하는 것이 좋습니다.",
+      "q": "썰어 둔 연근이 까맣게 변하는 것을 막으려면?"
+    },
+    {
+      "a": "흙 묻은 통연근은 씻지 말고 종이나 비닐에 싸서 서늘하고 바람 통하는 곳에 둡니다. 자른 것은 자른 면을 랩으로 싸서 냉장하고 3일 안쪽으로 드세요.",
+      "q": "연근은 어떻게 보관하나요?"
+    },
+    {
+      "a": "겉모습만으로 확실히 가리기는 어려우니 원산지 표시를 먼저 확인하세요. 껍질 벗긴 연근은 표백제 냄새가 나는지도 살펴보는 것이 좋습니다.",
+      "q": "국산 연근과 수입 연근은 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "조림이 가장 흔하고, 삶거나 튀기거나 식초에 절여 먹는다. 연근으로 정과를 만들고, 녹말을 내어 우분(藕粉)으로도 쓴다.",
+    "eng": "Lotus root",
+    "family": "연꽃과(Nelumbonaceae). 예전 분류나 일부 자료에서는 수련과로 묶기도 한다.",
+    "grade": "길고 굵으며, 잘랐을 때 속살이 희고 구멍 크기가 고르며 연한 것이 좋다. 구멍 안에 검은 줄이 있거나 몸통에 상처가 있는 것, 작거나 색이 고르지 않은 것은 피한다. 껍질 벗겨 파는 연근은 표백제 냄새가 나지 않는지 확인한다.",
+    "habitat": "인도 원산으로 오래전부터 연못에서 기르고 논에 재배한다. 진흙 속에서 땅속줄기가 옆으로 뻗는다. 국내 출하량은 대구(동구)와 경남 함안·밀양 등이 대부분을 차지한다.",
+    "look": {
+      "flower": "7~8월에 지름 15~20cm의 연분홍 또는 흰 꽃이 가시 돋은 꽃줄기 끝에 하나씩 핀다. 가운데 꽃턱은 위가 평평한 해면질로 지름 10cm쯤 된다.",
+      "fruit": "열매(연밥)는 길이 2cm쯤의 타원형으로 가을에 익으며 먹을 수 있다.",
+      "leaf": "잎은 땅속줄기에서 물 위로 높이 솟으며 지름 40cm 안팎의 거의 둥근 방패 모양이고, 물에 젖지 않는다. 잎자루는 원기둥 모양에 짧은 가시 같은 돌기가 있다.",
+      "root": "원기둥 모양 땅속줄기에 마디가 있고, 가을이 되면 끝부분이 굵게 부푼다. 자르면 속에 여러 개의 구멍(공기 통로)이 나 있다."
+    },
+    "parts": "연꽃의 땅속줄기(연근). 연우(蓮藕)라고도 한다.",
+    "prep": "흙을 물로 깨끗이 씻고 필러나 칼로 껍질을 벗긴다. 떫은맛이 있어 끓는 물에 살짝 데친 뒤 찬물에 담가 우려낸다. 자른 면은 공기에 닿으면 갈색으로 변하므로 데치는 물과 헹굼 물에 식초를 조금 넣고, 쇠칼·쇠냄비는 변색을 심하게 하니 피하는 것이 좋다.",
+    "sci": "Nelumbo nucifera Gaertn.",
+    "season": {
+      "collect": [
+        9,
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 연근",
+        "url": "https://encykorea.aks.ac.kr/Article/E0036705"
+      },
+      {
+        "title": "한국민족문화대백과사전, 연꽃",
+        "url": "https://encykorea.aks.ac.kr/Contents/Item/E0036723"
+      },
+      {
+        "title": "KAMIS(한국농수산식품유통공사) 식재료 아카이브, 연근",
+        "url": "https://www.kamis.or.kr/customer/archive/archive.do?action=detail&archiveNo=51"
+      }
+    ],
+    "store": "흙 묻은 통연근은 씻지 말고 종이나 비닐에 싸서 서늘하고 바람이 잘 통하는 곳에 둔다. 자른 것은 자른 면을 랩으로 꼭 싸서 냉장(0~5℃)하고 3일 안쪽으로 먹는다. 썰어 둔 것은 식초 탄 물에 담가 냉장하면 변색이 덜하다.",
+    "taste": "썰면 가는 실이 늘어지고 씹는 맛이 아삭하며 단단하다. 떫은 성분(탄닌)이 있어 데쳐서 찬물에 우리면 맛이 순해진다."
+  },
+  "lookSources": [
+    {
+      "title": "KAMIS(한국농수산식품유통공사) 식재료 아카이브, 연근",
+      "url": "https://www.kamis.or.kr/customer/archive/archive.do?action=detail&archiveNo=51"
+    },
+    {
+      "title": "한국민족문화대백과사전, 연꽃",
+      "url": "https://encykorea.aks.ac.kr/Contents/Item/E0036723"
+    },
+    {
+      "title": "한국민족문화대백과사전, 가시연꽃",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000249"
+    },
+    {
+      "title": "KNN 뉴스, 멸종위기 야생생물 2급 가시연 보도",
+      "url": "https://news.knn.co.kr/news/article/192520"
+    },
+    {
+      "title": "한국민족문화대백과사전, 수련",
+      "url": "https://encykorea.aks.ac.kr/Article/E0031312"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "중국산 등 수입 연근도 같은 연꽃의 땅속줄기라 먹는 데 문제는 없지만, 국산으로 둔갑해 팔리는 경우가 있다. 겉모습만으로 원산지를 확실히 가리기는 어려우므로 원산지 표시를 먼저 확인한다.",
+      "name": "수입 연근",
+      "points": [
+        "도매 단계에서 국산은 15kg 상자나 세척·절단품으로, 중국산은 1kg 포장으로 들어오는 경우가 많다(KAMIS 자료).",
+        "껍질을 벗겨 파는 연근은 표백제 냄새가 나지 않는지 확인한다(KAMIS 자료).",
+        "생김새로 '국산이다'라고 단정하기보다 원산지 표시와 판매자 정보를 확인하는 것이 확실하다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "가시연꽃(Euryale ferox)은 연꽃과 다른 수련과의 한해살이 물풀로, 멸종위기 야생생물 2급이라 채취하면 안 된다. 연근처럼 먹는 땅속줄기를 얻는 식물이 아니다.",
+      "name": "가시연",
+      "points": [
+        "가시연은 잎 지름이 20~120cm로 물 위에 떠 있고, 잎·잎자루·열매 등 온몸에 날카로운 가시가 있다. 연꽃 잎은 물 위로 솟아오른다.",
+        "가시연 잎 윗면은 주름지고 윤이 나며 뒷면은 짙은 자줏빛이다.",
+        "가시연 꽃은 지름 4cm쯤의 밝은 자주색으로 작고, 연꽃은 지름 15~20cm로 훨씬 크다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "수련(Nymphaea)은 이름에 '연'이 붙어 연꽃과 혼동되지만 다른 식물이며, 땅속줄기가 굵고 짧아 연근으로 쓰지 않는다. 먹을거리로 쓴다는 기록은 확인되지 않았다.",
+      "name": "수련",
+      "points": [
+        "수련은 잎과 꽃이 물 위에 떠 있고, 연꽃은 잎과 꽃이 물 위로 높이 솟는다.",
+        "수련 잎은 지름 8~15cm로 작고 밑부분이 화살촉 모양으로 갈라져 있다. 연꽃 잎은 지름 40cm 안팎의 갈라짐 없는 둥근 방패 모양이다.",
+        "수련의 땅속줄기는 굵고 짧은 덩이 모양이며, 연근처럼 길게 마디지고 구멍이 뚫린 모양이 아니다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Polysaccharides",
+        "note": "고지방 먹이를 먹인 초파리에 연근 다당류를 주었더니 수명과 항산화 효소 지표가 나아지고 지질 수치가 낮아졌다고 보고한 연구다.",
+        "title": "Lipid-Lowering Mechanism of Lotus Root Polysaccharides in Drosophila Fed with a High-Fat Diet Based on Transcriptome Analysis",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/polysaccharides7030107",
+        "year": "2026"
+      },
+      {
+        "journal": "Animal Bioscience",
+        "note": "저지방 돼지고기 소시지에 연근 가루나 추출물을 넣었을 때 보관 중 지방 산화가 줄어드는지 살펴본 식품 가공 연구다.",
+        "title": "Evaluation of product quality of low-fat sausage containing lotus rhizome root powders as affected by cooking method during storage",
+        "type": "기타",
+        "url": "https://doi.org/10.5713/ab.25.0110",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "연근 다당류와 폴리페놀(페룰산·클로로겐산)이 결합한 복합체가 대식세포 반응에 어떤 영향을 주는지 세포에서 살펴본 연구다.",
+        "title": "Non-Covalent Interactions of Lotus Root Polysaccharides and Polyphenols and their Regulatory Mechanism on Macrophage Functions",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/foods13223543",
+        "year": "2024"
+      },
+      {
+        "journal": "Bioresources and Bioprocessing",
+        "note": "연꽃의 문화적·생태적 의미와 식품·건강 소재로서의 연구를 폭넓게 정리한 리뷰다.",
+        "title": "Lotus (Nelumbo nucifera): a multidisciplinary review of its cultural, ecological, and nutraceutical significance",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s40643-024-00734-y",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년 연근 관련 연구는 연근 다당류를 다룬 세포 실험과 초파리 실험, 연근 가루를 식품 가공에 쓰는 연구, 연꽃 전반을 정리한 리뷰가 확인되었다. 초파리에서 고지방 먹이로 오른 지질 수치가 낮아졌다는 결과 등이 있지만 모두 세포·동물 수준이며, 연근을 먹었을 때의 효과를 사람에게서 확인한 연구는 이번 검색에서 찾지 못했다."
+  },
+  "name": "연근",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 연근",
+        "url": "https://encykorea.aks.ac.kr/Article/E0036705"
+      },
+      {
+        "title": "한국민족문화대백과사전, 연꽃",
+        "url": "https://encykorea.aks.ac.kr/Contents/Item/E0036723"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 연근이 떫은 성분(탄닌) 때문에 예로부터 상처를 아물게 하고 피를 멎게 하며 설사·구토를 멎게 하는 데 쓰였고, 마디(우절)는 기침에 썼다고 소개한다. 연꽃 항목에서는 땅속줄기를 설사를 멎게 하거나 소화를 돕는 데 쓰고 음식으로도 먹는다고 적고 있다."
+  },
+  "updatedAt": 1792228597022
+}

@@ -1,0 +1,145 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "로젤(Hibiscus sabdariffa)의 붉은 꽃받침을 말린 것입니다. 꽃집에서 파는 관상용 '히비스커스'(하와이무궁화)와는 다른 식물입니다.",
+      "q": "히비스커스차는 어느 식물인가요?"
+    },
+    {
+      "a": "꽃잎은 '사용 가능' 원료이고, 차 원료인 꽃받침은 '제한적으로 사용할 수 있는 원료'입니다. 식약처는 2023년 꽃받침 삭제를 예고했다가, 2024년 4월 9일 고시(제2024-20호)로 '제한적 사용 원료'로 바꿨습니다.",
+      "q": "식품원료로 써도 되나요?"
+    },
+    {
+      "a": "가공식품에 넣을 때 쓸 수 있는 양이 정해져 있다는 뜻입니다. 따로 조건이 없으면 원료 무게의 50% 미만으로 써야 합니다. 음료·주류·향신료에는 식물성 제한 원료 한 가지를 100%까지 쓸 수 있다는 예외가 있습니다. 차·가공품으로 만들어 팔 때는 제품 유형에 맞는지 관할 기관에 꼭 확인하세요.",
+      "q": "'제한적 사용 원료'는 무슨 뜻인가요?"
+    },
+    {
+      "a": "봄에 씨를 뿌리면 늦여름~가을에 꽃이 핍니다. 낮이 짧아져야 꽃이 피고 서리에 죽기 때문에, 첫서리 전에 꽃받침을 모두 거둡니다.",
+      "q": "우리나라에서 키울 수 있나요?"
+    },
+    {
+      "a": "안 됩니다. 말린 꽃받침 같은 일반 농산물에 혈압·다이어트 같은 효능을 적을 수 없습니다. 식약처가 '체지방 감소에 도움을 줄 수 있음'을 인정한 사례(씨제이히비스커스등복합추출물)가 있지만, 이는 그 원료로 인정받은 건강기능식품 제품에만 쓸 수 있는 표현입니다.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 꽃받침을 뜨거운 물이나 찬물에 우려 차로 마신다. 생 꽃받침은 잼·청·식초로 만든다(펙틴이 많아 잼이 잘 굳는다).",
+    "family": "아욱과 무궁화속(최근 분류에서는 Sabdariffa속으로 옮김)",
+    "grade": "",
+    "habitat": "서아프리카 원산으로 보이는 열대성 풀·반관목이며 우리말 이름은 '로젤'이다. 서리에 약해 국내에서는 봄에 씨를 뿌려 한해살이로 키운다. 낮이 짧아지는 늦여름~가을에 꽃이 피고, 첫서리 전에 꽃받침을 거둔다.",
+    "look": {
+      "flower": "지름 8~10cm의 연노랑·흰 꽃이 피고 꽃잎 밑동에 진한 붉은 무늬가 있다. 꽃은 하루 만에 진다. 꽃이 진 뒤 꽃받침이 3~3.5cm로 두툼해지며 진한 붉은색이 되는데, 이것이 '히비스커스차' 원료다.",
+      "leaf": "어긋나게 붙고, 줄기 위쪽 잎은 손바닥처럼 3~5갈래로 깊게 갈라진다. 길이 8~15cm.",
+      "smell": "말린 꽃받침은 향이 약하고 맛이 매우 시다. 우리면 물이 붉게 우러난다.",
+      "stem": "높이 1~2.5m까지 자라며 줄기와 가지가 붉은빛을 띠는 경우가 많다."
+    },
+    "parts": "꽃받침(차 원료, 식품원료 목록상 '제한적 사용'), 꽃잎(가능)",
+    "prep": "꽃이 지고 7~10일쯤 지나 꽃받침이 두툼해지면 따서, 가운데 씨주머니를 빼낸 뒤 씻어 말린다. 꽃받침에 잔가시털이 있어 장갑을 낀다.",
+    "sci": "Hibiscus sabdariffa L.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품안전나라 식품원료 목록 — 히비스커스: 꽃잎 '가능', 꽃받침 '제한'",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=539"
+      },
+      {
+        "title": "식약처 식의약법령정보, 식품의 기준 및 규격 일부개정고시(제2024-20호, 2024.4.9) — 히비스커스(꽃받침) 제한적 사용원료로 전환",
+        "url": "https://www.mfds.go.kr/law/board/boardDetail.do?menuKey=28&brdId=data0008&seq=14970"
+      },
+      {
+        "title": "식품안전나라 식품공전, 식품원료 판단기준(제한적 사용 원료 사용 기준)",
+        "url": "https://www.foodsafetykorea.go.kr/popup/safefoodlife/food/foodRvlv/foodRvlvDetail.do?rvlv_no=9"
+      },
+      {
+        "title": "식약처 입법/행정예고, 식품의 기준 및 규격 일부개정고시안 행정예고(공고 제2023-359호)",
+        "url": "https://www.mfds.go.kr/brd/m_209/view.do?seq=43807&srchFr=&srchTo=&srchWord=&srchTp=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&company_cd=&company_nm=&page=1"
+      },
+      {
+        "title": "Wikipedia — Roselle (plant)",
+        "url": "https://en.wikipedia.org/wiki/Roselle_(plant)"
+      },
+      {
+        "title": "POWO — Hibiscus sabdariffa L. (Sabdariffa gossypiifolia의 이명)",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:326388-2"
+      },
+      {
+        "title": "Seedy Farm, The Complete Guide to Growing Roselle",
+        "url": "https://seedy.farm/growing-guide/roselle-hibiscus-sabdariffa/"
+      },
+      {
+        "title": "hgarden, 히비스커스(로젤) 키우기",
+        "url": "https://hgarden.net/portfolio/roselle/"
+      }
+    ],
+    "store": "바싹 말려 밀폐 용기에 담아 서늘하고 어두운 곳에 둔다. 씨주머니를 뺀 생 꽃받침은 냉동해도 된다.",
+    "taste": "강한 신맛이 나고, 우린 물은 진한 붉은색이다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Roselle (plant)",
+      "url": "https://en.wikipedia.org/wiki/Roselle_(plant)"
+    },
+    {
+      "title": "Wikipedia — Hibiscus rosa-sinensis",
+      "url": "https://en.wikipedia.org/wiki/Hibiscus_rosa-sinensis"
+    },
+    {
+      "title": "식품안전나라 식품원료 목록 — 히비스커스: 꽃잎 '가능', 꽃받침 '제한'",
+      "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=539"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "꽃집에서 '히비스커스'라고 부르는 관상용 꽃나무다. 이름이 같아 혼동하지만 히비스커스차를 만드는 로젤과는 다른 식물이다.",
+      "name": "하와이무궁화(Hibiscus rosa-sinensis)",
+      "points": [
+        "하와이무궁화는 지름 10cm 안팎의 크고 화려한 꽃(빨강·분홍·노랑 등)을 보는 꽃나무이고, 꽃받침은 작고 초록색이다.",
+        "로젤은 꽃이 진 뒤 꽃받침이 붉고 두툼하게 부풀어 오른다. 차 원료는 이 꽃받침이다.",
+        "화분용 꽃나무에는 농약을 쳤을 수 있으니 따서 차로 만들지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 무궁화속의 우리나라 꽃나무다. 꽃 모양이 닮았지만 꽃받침이 붉게 부풀지 않는다.",
+      "name": "무궁화",
+      "points": [
+        "무궁화는 겨울을 나는 나무이고, 로젤은 국내에서 한해만 사는 풀이다.",
+        "무궁화 꽃받침은 작고 초록색이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Nutrition Reviews 80(6)",
+        "note": "성인 대상 무작위 임상 17건을 모아 분석했다. 연구 간 차이(이질성)가 매우 커서 알맞은 양과 기간을 정하려면 연구가 더 필요하다고 했다.",
+        "title": "A systematic review and meta-analysis of the effects of Hibiscus sabdariffa on blood pressure and cardiometabolic markers",
+        "type": "리뷰",
+        "url": "https://eprints.whiterose.ac.uk/181700",
+        "year": "2022"
+      }
+    ],
+    "summary": "사람 대상 소규모 무작위 임상시험이 여러 건 있고 이를 묶은 메타분석(17개 시험)도 있다. 하지만 시험마다 결과 차이가 매우 크고 섭취량·기간이 제각각이어서 확정된 결론은 아니다. 식약처는 꽃받침을 안전성 문제로 재평가해 2024년 '제한적 사용 원료'로 바꿨다. 건강기능식품으로는 특정 복합추출물이 개별인정(체지방 감소에 도움을 줄 수 있음)을 받았을 뿐이고, 일반 히비스커스차에는 해당하지 않는다."
+  },
+  "name": "히비스커스",
+  "st": "check",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524929
+}

@@ -1,0 +1,164 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네, 같은 식물입니다. 울릉도에서 눈개승마의 어린순을 인삼·두릅·고기 맛이 난다며 '삼나물'이라 불러 왔습니다.",
+      "q": "삼나물과 눈개승마는 같은 것인가요?"
+    },
+    {
+      "a": "데쳐서 익혀 드시는 것이 일반적입니다. 울릉도에서는 날로 먹지 않고 데친 뒤 찬물에 우려 무치거나 볶는다고 소개됩니다.",
+      "q": "눈개승마는 생으로 먹어도 되나요?"
+    },
+    {
+      "a": "이른 봄입니다. 재배 시험에서는 하우스는 3월 중순, 노지는 4월 초부터 수확할 수 있었고, 수확할 수 있는 기간은 약 20일로 짧았습니다.",
+      "q": "눈개승마 제철은 언제인가요?"
+    },
+    {
+      "a": "대부분 재배한 것입니다. 지금은 울릉도뿐 아니라 내륙에서도 재배해 출하합니다.",
+      "q": "시중 삼나물은 자연산인가요?"
+    },
+    {
+      "a": "데쳐서 말린 묵나물로 두는 방법이 있습니다. 묵나물은 육개장 같은 국에 넣어 씁니다.",
+      "q": "오래 두고 먹으려면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐 우린 뒤 초무침이나 나물무침을 하고, 기름에 볶거나 육개장에 넣어 고기처럼 쓴다.",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "한반도의 높은 산과 울릉도에 자라며, 높은 산 숲 가장자리의 볕이 드는 곳에서 볼 수 있다. 지금 시중에 나오는 것은 울릉도와 내륙에서 재배한 것이 대부분이라고 소개된다.",
+    "look": {
+      "flower": "5~6월에 노란빛이 도는 흰 꽃이 작게 모여 깃털 같은 원추꽃차례를 이룬다. 암그루와 수그루가 따로 있고, 수그루 꽃이 더 풍성해 보인다.",
+      "fruit": "암그루에만 작은 갈색 열매(골돌)가 달린다.",
+      "leaf": "잎은 여러 번 갈라진 깃꼴겹잎이고, 작은잎은 끝이 뾰족한 길쭉한 모양에 가장자리에 톱니가 있다.",
+      "root": "땅속 뿌리줄기가 굵고 나무처럼 단단하다.",
+      "stem": "키는 30~100cm 정도로 자라며, 한 포기에서 여러 줄기가 모여 난다."
+    },
+    "parts": "이른 봄에 올라오는 어린순(어린 잎과 줄기)",
+    "prep": "울릉도에서는 날것으로 먹지 않고 데친 뒤 찬물에 담가 우려내 쓴다고 소개된다. 데쳐서 익혀 먹는 것이 일반적인 손질법이다(날로 먹어도 되는지는 공공기관 자료로 확인되지 않았다).",
+    "sci": "Aruncus dioicus var. kamtschaticus",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "눈개승마와 콩 가공부산물의 공동가공 효과 연구 (2020 한국자원식물학회 춘계학술대회, KIST 강릉분원)",
+        "url": "https://koreascience.kr/article/CFKO202035543205526.pdf"
+      },
+      {
+        "title": "정식시기와 시비량이 눈개승마의 생육과 수량에 미치는 영향 (한국자원식물학회지 11(2), 1998)",
+        "url": "https://koreascience.or.kr/article/JAKO199811920279938.do"
+      },
+      {
+        "title": "산채류 재배유형별 수확기간 설정 (2019 한국자원식물학회 추계학술대회, 전북농업기술원)",
+        "url": "https://koreascience.kr/article/CFKO201932468198045.pdf"
+      },
+      {
+        "title": "Sexuality of Aruncus aethusifolius (Rosaceae) (Korean Journal of Plant Taxonomy 47(3), 2017)",
+        "url": "https://koreascience.or.kr/article/JAKO201730475987611.pdf"
+      },
+      {
+        "title": "서울특별시 환경분야 누리집 - 야생화 소개(눈개승마·노루오줌)",
+        "url": "https://news.seoul.go.kr/env/archives/518901"
+      },
+      {
+        "title": "NC State Extension Gardener Plant Toolbox - Aruncus dioicus",
+        "url": "https://plants.ces.ncsu.edu/plants/Aruncus-dioicus"
+      },
+      {
+        "title": "경북매일 '나물천국 울릉도' - 고기맛이 나는 삼나물부터 구황식물 섬말나리까지 (2025, 보조 출처)",
+        "url": "https://kbmaeil.com/article/20251208500088"
+      },
+      {
+        "title": "경북매일 '산마늘 중 오직 울릉도산만 명이로 부른다' (2019, 보조 출처)",
+        "url": "https://kbmaeil.com/article/201911270265492"
+      }
+    ],
+    "store": "말려서 묵나물로 두었다가 육개장 등에 넣어 쓰기도 한다.",
+    "taste": "씹는 맛이 고기와 비슷하고 인삼·두릅을 떠올리게 하는 독특한 향이 있어 '삼나물'이라 불린다."
+  },
+  "lookSources": [
+    {
+      "title": "RHS - Astilbe chinensis",
+      "url": "https://www.rhs.org.uk/plants/1825/astilbe-chinensis/details"
+    },
+    {
+      "title": "Wisconsin Horticulture Extension - Goatsbeard, Aruncus dioicus",
+      "url": "https://hort.extension.wisc.edu/articles/goatsbeard-aruncus-dioicus/"
+    },
+    {
+      "title": "서울특별시 환경분야 누리집 - 야생화 소개(눈개승마·노루오줌)",
+      "url": "https://news.seoul.go.kr/env/archives/518901"
+    },
+    {
+      "title": "홍콩 정부 중약검정소 - Rhizoma Cimicifugae vs Serratulae Chinensis Radix",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/083_RC_vs_SCR_en.pdf"
+    },
+    {
+      "title": "NC State Extension Gardener Plant Toolbox - Aruncus dioicus",
+      "url": "https://plants.ces.ncsu.edu/plants/Aruncus-dioicus"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "깃털 같은 꽃차례와 갈라진 잎이 비슷하지만 범의귀과 식물로, 꽃 색과 피는 때가 다르다.",
+      "name": "노루오줌",
+      "points": [
+        "노루오줌 꽃은 분홍빛(또는 흰색)이고, 눈개승마 꽃은 노란빛이 도는 흰색이다.",
+        "노루오줌은 여름 늦게 피고, 눈개승마는 5~6월에 핀다.",
+        "눈개승마는 장미과, 노루오줌은 범의귀과로 서로 가까운 식물이 아니다.",
+        "노루오줌 잎에는 부드러운 털이 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "이름에 '승마'가 들어가 헷갈리지만 승마는 미나리아재비과 식물이며, 뿌리줄기를 한약재로 쓰는 약초다.",
+      "name": "승마",
+      "points": [
+        "눈개승마는 장미과, 승마는 미나리아재비과로 과가 다르다.",
+        "눈개승마는 어린순을 나물(삼나물)로 팔고, 승마는 뿌리줄기를 말린 약재로 유통된다.",
+        "'삼나물'로 팔리는 봄나물은 눈개승마의 어린순이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Horticulturae",
+        "note": "눈개승마 잎에서 상추에 있는 카로티노이드인 락투카잔틴을 처음 확인했고, 그 양이 붉은 상추보다 많았다는 성분 분석 연구다.",
+        "title": "Aruncus dioicus var. kamtschaticu: A Newly Identified Source of Lactucaxanthin (ε,ε-Carotene-3,3′-diol)",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2311-7524/10/8/891",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년에 확인된 연구는 잎의 성분을 분석한 실험 연구 1편뿐이다. 눈개승마 잎에서 카로티노이드(락투카잔틴)와 오메가-3 지방산이 확인되었지만, 성분 분석 단계여서 사람에게 어떤 효과가 있는지는 밝혀지지 않았다."
+  },
+  "name": "눈개승마",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "눈개승마와 콩 가공부산물의 공동가공 효과 연구 (2020 한국자원식물학회 춘계학술대회, KIST 강릉분원)",
+        "url": "https://koreascience.kr/article/CFKO202035543205526.pdf"
+      },
+      {
+        "title": "경북매일 '나물천국 울릉도' - 고기맛이 나는 삼나물부터 구황식물 섬말나리까지 (2025, 보조 출처)",
+        "url": "https://kbmaeil.com/article/20251208500088"
+      }
+    ],
+    "text": "고서 본초 항목은 확인되지 않았다. 울릉도에서는 이른 봄 어린순을 나물로 먹어 왔고, 명절·잔치 때 육개장을 끓이거나 제사상에 올렸다고 소개된다. 학술 발표에서는 전초를 예로부터 해독과 편도선염에 써 왔다고 소개한다."
+  },
+  "updatedAt": 1792141452883
+}

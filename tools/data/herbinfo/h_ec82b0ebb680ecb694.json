@@ -3,6 +3,142 @@
   "classic": {
     "has": false
   },
+  "faq": [
+    {
+      "a": "잎과 꽃이 다릅니다. 재배 부추는 잎이 납작하고 흰 꽃이 피지만, 산부추는 잎 단면이 삼각형으로 흰빛이 도는 녹색이고 8~9월에 홍자색 꽃이 핍니다.",
+      "q": "산부추와 일반 부추는 어떻게 다른가요?"
+    },
+    {
+      "a": "아닙니다. 두메부추는 울릉도 해안 바위에 자라는 다른 종으로, 잎이 넓적하고 두꺼우며 9월 하순~10월에 연보라 꽃이 핍니다. 산부추는 잎이 가늘고 단면이 삼각형입니다.",
+      "q": "산부추와 두메부추는 같은 건가요?"
+    },
+    {
+      "a": "땅속 비늘줄기와 연한 잎을 먹습니다. 비비면 마늘 냄새가 납니다.",
+      "q": "산부추는 어느 부위를 먹나요?"
+    },
+    {
+      "a": "냄새로 먼저 확인합니다. 부추류는 잎을 비비면 강한 냄새가 나지만 수선화는 그런 냄새가 없고, 익혀도 독이 없어지지 않으므로 냄새가 없으면 먹지 않습니다.",
+      "q": "수선화 잎과 어떻게 구별하나요?"
+    },
+    {
+      "a": "8~9월에 핍니다. 꽃줄기 끝에 홍자색 작은 꽃이 공 모양으로 모여 핍니다.",
+      "q": "산부추 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "비늘줄기와 연한 부분을 나물로 먹는다.",
+    "family": "수선화과(예전 분류로 백합과)",
+    "grade": "",
+    "habitat": "산지에서 자라는 여러해살이풀로, 낮은 지대부터 해발 1,000m 안팎까지 넓은 고도에 걸쳐 자란다. 한국·일본·중국(타이완 포함)에 분포한다.",
+    "look": {
+      "flower": "8~9월 꽃줄기 끝에 홍자색 작은 꽃이 공 모양으로 빽빽하게 모여 핀다. 수술은 6개이고 꽃밥은 자주색이다.",
+      "leaf": "지름 2~5mm의 가늘고 긴 잎이 2~3장 비스듬히 퍼지며, 흰빛이 도는 녹색이다. 잎 단면이 삼각형이고 속이 비어 있다.",
+      "root": "땅속에 길이 약 2cm의 달걀꼴~피침형 비늘줄기가 있고, 갈색의 약간 두꺼운 껍질과 말라 남은 잎집에 싸여 있다.",
+      "smell": "비늘줄기나 연한 부분을 비비면 마늘 냄새가 난다.",
+      "stem": "키는 30~60cm 정도이고, 잎이 마른 뒤 꽃줄기가 올라온다."
+    },
+    "parts": "비늘줄기와 연한 잎",
+    "prep": "",
+    "sci": "Allium thunbergii G.Don",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "전권석 외, 온도와 차광수준에 따른 산부추의 발아반응 및 초기생육, 시설원예·식물공장 24(3), 2015",
+        "url": "https://koreascience.or.kr/article/JAKO201510350830957.pdf"
+      },
+      {
+        "title": "김경민 외, 한국에 자생하는 달래속 4종의 고도별 분포 특성, 한국농림기상학회지 11(4), 2009",
+        "url": "https://koreascience.or.kr/article/JAKO200911764897095.page"
+      },
+      {
+        "title": "Plants of the World Online — Allium thunbergii G.Don",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:529010-1"
+      },
+      {
+        "title": "Wikipedia — Allium thunbergii (Flora of China 인용)",
+        "url": "https://en.wikipedia.org/wiki/Allium_thunbergii"
+      },
+      {
+        "title": "위키백과, 산부추",
+        "url": "https://ko.wikipedia.org/wiki/산부추"
+      }
+    ],
+    "store": "",
+    "taste": "비늘줄기와 연한 부분에서 마늘 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "전권석 외, 온도와 차광수준에 따른 산부추의 발아반응 및 초기생육, 시설원예·식물공장 24(3), 2015",
+      "url": "https://koreascience.or.kr/article/JAKO201510350830957.pdf"
+    },
+    {
+      "title": "Wikipedia — Allium thunbergii (Flora of China 인용)",
+      "url": "https://en.wikipedia.org/wiki/Allium_thunbergii"
+    },
+    {
+      "title": "시가현 — 유독 식물에 의한 식중독에 주의합시다",
+      "url": "https://www.pref.shiga.lg.jp/ippan/kurashi/syokunoanzen/16493.html"
+    },
+    {
+      "title": "니가타시 — 수선화에 의한 식중독에 주의하세요",
+      "url": "https://www.city.niigata.lg.jp/iryo/shoku/syokuei/shokucyudokuinfo/syokutudoku-hassei/suisen.files/besshi.pdf"
+    },
+    {
+      "title": "도쿄도 식품안전정보 — 유독 식물: Narcissus",
+      "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/09.html"
+    },
+    {
+      "title": "한국민족문화대백과사전, 부추",
+      "url": "https://encykorea.aks.ac.kr/Contents/Item/E0024590"
+    },
+    {
+      "title": "Wikipedia — Allium tuberosum",
+      "url": "https://en.wikipedia.org/wiki/Allium_tuberosum"
+    },
+    {
+      "title": "Jang 외, Notes on Allium section Rhizirideum in South Korea and northeastern China, PhytoKeys 176, 2021",
+      "url": "https://phytokeys.pensoft.net/article_preview.php?id=63378"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "수선화는 잎이 부추와, 알뿌리가 양파·산달래와 비슷해 잘못 먹는 사고가 잦은 독초다. 리코린 등 알칼로이드가 온몸, 특히 알뿌리에 많고 익혀도 독이 없어지지 않는다.",
+      "name": "수선화",
+      "points": [
+        "부추류는 잎에서 강한 냄새가 나지만 수선화는 그런 냄새가 없다. 겉모양만 보지 말고 반드시 냄새를 확인한다.",
+        "수선화는 이른 봄 잎 사이로 꽃대가 올라와 꽃이 피고, 산부추는 8~9월에 홍자색 꽃이 공 모양으로 핀다.",
+        "산부추 잎은 가늘고 단면이 삼각형이며 속이 비어 있다.",
+        "심은 기억이 없는 화단·마당의 '부추'는 캐 먹지 않는다. 먹고 30분 안팎에 구토·설사·두통이 나면 바로 병원에 간다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "밭에서 기르는 재배 부추로, 4~11월 여러 번 베어 거둬 흔하게 팔린다. 잎 모양과 꽃 색으로 산부추와 구별된다.",
+      "name": "부추",
+      "points": [
+        "재배 부추 잎은 납작하고 길며, 산부추 잎은 단면이 삼각형이고 흰빛이 도는 녹색이다.",
+        "부추는 흰 꽃, 산부추는 홍자색 꽃이 핀다.",
+        "산부추는 산지 자생종이라 재배 부추보다 구하기 어려우므로, '산부추'라고 파는 것은 잎 단면과 색을 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "울릉도 해안가 바위 비탈에 자생하는 부추속 식물로, 예전에는 A. senescens로 다뤘다. 잎이 넓적하고 두꺼운 점과 꽃 피는 시기가 산부추와 다르다.",
+      "name": "두메부추",
+      "points": [
+        "두메부추 잎은 폭 4~13mm로 넓적하고 두꺼우며 단면이 납작하고 속이 차 있다. 산부추 잎은 지름 2~5mm에 단면이 삼각형이다.",
+        "두메부추 꽃은 연보라색으로 9월 하순~10월에 피고, 산부추 꽃은 홍자색으로 8~9월에 핀다.",
+        "두메부추는 땅속에 굵은 뿌리줄기가 옆으로 뻗고 그 위에 비늘줄기가 모여 달린다."
+      ]
+    }
+  ],
   "modern": {
     "papers": [
       {
@@ -38,5 +174,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1791811935559
+  "updatedAt": 1792141452883
 }

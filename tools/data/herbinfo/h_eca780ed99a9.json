@@ -1,0 +1,172 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "(원문 미대조) 동의보감 탕액편 권2 풀(草部)에 生地黃 항목이 감초(甘草)와 백출(白朮) 사이에 실려 있다. 숙지황(熟地黃)은 이 항목 안에서 함께 다룬 것으로 보이나 원문으로 확인하지 못했다."
+    ],
+    "han": "生地黃",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "대한한의학원전학회지 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (2010)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      },
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": "탕액편 권2 草部 배열을 정리한 논문으로 生地黃 항목의 위치만 확인했다. 한의고전명저총서·위키문헌 본문을 열지 못해 원문 한문, 성미, 옛 한글 이름, 生地黃과 熟地黃의 쓰임 차이는 비워 두었다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 모두 같은 지황 뿌리이고 손질법만 다릅니다. 갓 캔 뿌리가 생지황, 말린 것이 건지황, 술 등을 더해 검고 끈적해질 때까지 찌고 말리기를 되풀이한 것이 숙지황입니다.",
+      "q": "생지황, 건지황, 숙지황은 다른 식물인가요?"
+    },
+    {
+      "a": "겉과 속이 모두 새까맣고 윤기가 나며 손에 붙을 만큼 끈적하고 맛이 달아야 합니다. 조각 한쪽만 검고 다른 쪽이 갈색이면 덜 찐 것이거나 건지황일 수 있습니다.",
+      "q": "숙지황은 어떻게 알아보나요?"
+    },
+    {
+      "a": "가을에 캡니다. 중북부 지방에서는 10월 중순부터 11월 중순 무렵이 알맞은 때로 소개됩니다.",
+      "q": "지황은 언제 캐나요?"
+    },
+    {
+      "a": "네, 국내에서 지황 1호, 고려지황, 토강, 다강, 고강 등 여러 품종이 육성되었습니다. 토강은 시들음병에 강하고 수량이 많으며, 다강은 뿌리썩음병에 강한 품종으로 보고되었습니다.",
+      "q": "국산 지황 품종이 있나요?"
+    },
+    {
+      "a": "겉모습만으로 구별하는 공인된 방법은 확인되지 않았으므로 원산지 표시와 품종·생산자 정보를 확인하고 사세요. 지황은 수입 의존도가 높은 약용작물로 꼽힙니다.",
+      "q": "수입 지황과 국산은 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "조선 시대에는 생지황을 쌀과 함께 쪄서 누룩으로 빚은 지황주를 담갔고, 요즘은 소주에 지황을 담가 우려 마시는 방식이 흔하다.",
+    "eng": "Chinese foxglove",
+    "family": "현삼과(최근 분류에서는 열당과)",
+    "grade": "약전 기준으로 말린 지황은 지름 5~15mm의 원기둥~방추형 뿌리이고, 숙지황은 겉과 속이 모두 검고 윤기가 나며 매우 끈적하고 단맛이 나야 한다. 생지황을 말린 조각은 한쪽만 검고 다른 쪽은 갈색인 경우가 많아 양면이 모두 검은 숙지황과 구별된다. 품종(토강·다강·고강 등)과 말리는 방법에 따라 성분 함량과 품질 차이가 큰 것으로 보고되었다.",
+    "habitat": "중국이 원산지로 우리나라에는 저절로 자라는 곳이 없고 밭에서 재배한다. 유기물이 많고 물빠짐이 좋은 모래참흙이나 질참흙을 좋아하며, 주로 뿌리를 잘라 심어 번식한다.",
+    "look": {
+      "flower": "6~7월에 줄기 끝에 붉은 자주색 통꽃이 4~5송이 달린다. 꽃부리는 입술 모양으로 갈라지고 꽃받침과 함께 털이 있다.",
+      "fruit": "열매는 마른 열매(삭과)로 10월 무렵 익는다.",
+      "leaf": "잎은 대부분 뿌리에서 모여 나고 긴 타원형으로 가장자리에 둔한 톱니가 있다. 윗면은 주름지고 뒷면은 그물 모양 잎맥이 도드라지며, 줄기잎은 훨씬 작고 어긋난다.",
+      "root": "뿌리는 굵고 옆으로 뻗으며 길이 10~30cm 정도에 누런빛~누런 붉은빛을 띤다. 말린 지황은 바깥이 황갈색~흑갈색이고 세로주름이 깊으며 잘 꺾인다.",
+      "stem": "키는 20~30cm 정도로 낮고 식물 전체에 짧은 털이 덮여 있다."
+    },
+    "parts": "뿌리(갓 캔 생지황, 말린 건지황, 쪄서 말린 숙지황)",
+    "prep": "갓 캐어 씻은 뿌리를 생지황, 이를 말린 것을 건지황이라 한다. 숙지황은 지황에 술 등을 더해 속까지 검고 윤기 나며 끈적해질 때까지 찌고 볕에 말리기를 되풀이해 만든다. 약재로 주로 쓰이는 품목이라 식품으로 쓸 수 있는 범위는 식약처 식품원료목록에서 따로 확인해야 한다.",
+    "sci": "Rehmannia glutinosa (Gaertn.) Libosch. ex DC.",
+    "season": {
+      "collect": [
+        10,
+        11
+      ],
+      "flower": [
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "식약처 대한민국약전 생약 규격 - 지황",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_136.pdf"
+      },
+      {
+        "title": "식약처 대한민국약전 생약 규격 - 숙지황",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_85.pdf"
+      },
+      {
+        "title": "글로벌뉴스통신 - 송홍선 박사의 약용식물 '지황' 바로알기 (2023)",
+        "url": "https://www.globalnewsagency.kr/news/articleView.html?idxno=280501"
+      },
+      {
+        "title": "한국약용작물학회지 - 품종에 따른 건지황의 이화학적 특성 연구 (2019, 농촌진흥청 국립원예특작과학원)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201931765048911.pdf"
+      },
+      {
+        "title": "한국약용작물학회지 - 지황의 건조 방법에 따른 성분 함량 변화 (2011)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201112961956723.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 지황주",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054477"
+      },
+      {
+        "title": "Kew Plants of the World Online - Rehmannia glutinosa",
+        "url": "https://powo.science.kew.org/taxon/808644-1"
+      },
+      {
+        "title": "한국작물학회 학술대회 (2021, 충청북도농업기술원) - 지황 토강 품종 재배 시험",
+        "url": "https://koreascience.kr/article/CFKO202134057671479.pdf"
+      }
+    ],
+    "store": "당분이 많아 무르고 끈적하며 습기를 잘 빨아들이므로, 말린 지황과 숙지황은 밀봉해 습기 없는 서늘한 곳에 둔다.",
+    "taste": "말린 뿌리와 숙지황 모두 약간 단맛이 나고 냄새는 거의 없다. 숙지황은 끈적하고 단맛이 더 뚜렷하다."
+  },
+  "lookSources": [
+    {
+      "title": "홍콩 위생서 중의약규관처 - 황정(증숙)과 숙지황 감별 자료",
+      "url": "https://cmro.gov.hk/files/gcmti/research/mmi/ech_search/049_RP_vs_RR_en.pdf"
+    },
+    {
+      "title": "홍콩 위생서 중의약규관처 - 생지황과 숙지황 감별 자료",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/073_RR_vs_RR_en.pdf"
+    },
+    {
+      "title": "식약처 대한민국약전 생약 규격 - 숙지황",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_85.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "둥굴레 무리의 뿌리줄기를 쪄서 말린 약재 황정은 숙지황처럼 검고 끈적한 조각이라 한눈에 구별하기 어렵다고 홍콩 정부 약재 감별 자료가 짚었다. 독은 아니지만 쓰임이 다른 약재이므로 서로 바꿔 쓰면 안 된다.",
+      "name": "둥굴레",
+      "points": [
+        "황정 조각은 뿌리줄기라서 둥근 마디 자국이 보이는 것이 있고, 숙지황은 한쪽에 주름진 겉껍질이 붙은 덩어리 모양이다.",
+        "황정은 단단하고 질겨 잘 꺾이지 않으며, 숙지황은 무겁고 비교적 부드러우며 끈적하다.",
+        "자른 면에 갈색 관다발이 고리나 관 모양으로 점점이 보이면 황정 쪽이다. 숙지황 단면은 새까맣고 윤기가 나며 끈적하다.",
+        "가장 확실한 구별은 현미경 검사로, 일반 구매자는 원산지와 품목명이 표시된 제품을 산다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Molecular Biosciences",
+        "note": "지황 뿌리의 주요 성분 카탈폴의 여러 약리 작용과 안전성을 정리하며, 근거 대부분이 동물·세포 실험이라 임상시험이 더 필요하다고 밝혔다.",
+        "title": "Catalpol: an natural multifunctional iridoid glycoside with promising therapeutic properties",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fmolb.2026.1768334",
+        "year": "2026"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "지황 성분과 질환 관련 단백질의 연결을 컴퓨터 분석(네트워크 약리학·분자 도킹)으로 추정한 연구로, 실험 검증은 앞으로의 과제로 남겼다.",
+        "title": "Exploring the Therapeutic Potential of Rehmannia glutinosa: A Network Pharmacology and Molecular Docking Analysis Across Multiple Diseases",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/cimb47050329",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "지황을 숙지황으로 가공할 때 성분이 어떻게 바뀌는지와, 난소 기능 저하와 관련해 제시된 작용 가능성을 정리했다.",
+        "title": "Changes in Rehmanniae Radix processing and their impact on ovarian hypofunction: potential mechanisms of action",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1426972",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 지황 연구는 카탈폴 같은 이리도이드 성분과 숙지황 가공에 따른 성분 변화를 정리한 리뷰가 중심이다. 리뷰들은 근거 대부분이 세포·동물 실험이나 컴퓨터 분석이며 사람 대상 임상 근거는 부족하다고 밝힌다."
+  },
+  "name": "지황",
+  "st": "check",
+  "updatedAt": 1792270942621
+}

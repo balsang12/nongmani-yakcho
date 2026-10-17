@@ -3,6 +3,147 @@
   "classic": {
     "has": false
   },
+  "faq": [
+    {
+      "a": "어린순을 나물로 먹습니다. 원래 산과 들에 자라는 야생 나물이지만 어린순이 좋은 나물이 되어 재배도 많이 합니다.",
+      "q": "미역취는 어느 부위를 먹나요?"
+    },
+    {
+      "a": "분류상 따로 다룹니다. 울릉도에서 나는 것은 울릉미역취로 구분하며, 국내 유통량 대부분은 울릉도와 전남 고흥에서 재배한 것입니다.",
+      "q": "울릉도 미역취와 육지 미역취는 같은 식물인가요?"
+    },
+    {
+      "a": "아닐 가능성이 큽니다. 길가나 빈터에 1~2.5m로 크게 무리 지어 자라는 것은 북미산 귀화식물인 양미역취일 수 있고, 양미역취는 생태계교란 생물로 지정되어 있습니다.",
+      "q": "길가에 핀 키 큰 노란 꽃도 미역취인가요?"
+    },
+    {
+      "a": "꽃 색으로 가장 쉽게 가릅니다. 미역취는 노란 꽃이, 참취는 흰 꽃이 피고, 참취 잎은 심장 모양입니다.",
+      "q": "미역취와 참취는 어떻게 다른가요?"
+    },
+    {
+      "a": "여름에서 가을 사이에 핍니다. 노란 두상화가 줄기 윗부분에 이삭처럼 모여 달리고, 국내 조사에서는 8~9월에 꽃이 관찰되었습니다.",
+      "q": "미역취 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 나물로 먹는다.",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "산과 들에 자생하며 반그늘이나 볕이 잘 드는 곳에서 자란다. 울릉도를 뺀 한반도 전역과 일본에 분포하며, 울릉도에는 따로 다뤄지는 울릉미역취가 자란다.",
+    "look": {
+      "flower": "노란 두상화가 줄기 윗부분에 이삭처럼 모여 달린다.",
+      "fruit": "열매 끝에 길이 3.5mm쯤 되는 갓털이 붙는다.",
+      "leaf": "잎은 위로 갈수록 작아지며 가장자리에 톱니가 있고, 길이 7~9cm, 폭 1.5~5cm쯤이다.",
+      "stem": "높이 35~85cm쯤 자라며 줄기에 잔털이 있다."
+    },
+    "parts": "어린순",
+    "prep": "",
+    "sci": "Solidago virgaurea subsp. asiatica Kitam. ex H.Hara",
+    "season": {
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "미역취 — 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%97%AD%EC%B7%A8"
+      },
+      {
+        "title": "취 — 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0058272"
+      },
+      {
+        "title": "우리나라 국화과 식물의 화기구조와 방화 곤충 연구 (한국환경생태학회지 26(2), 2012)",
+        "url": "https://koreascience.kr/article/JAKO201217034922409.pdf"
+      },
+      {
+        "title": "미역취 및 근연분류군(국화과)의 분류학적 재검토 (국회도서관)",
+        "url": "https://dl.nanet.go.kr/detail/KINX2012089963"
+      },
+      {
+        "title": "울릉미역취 에탄올추출물의 항산화 활성 (대한본초학회지 34(1), 2019)",
+        "url": "https://koreascience.or.kr/article/JAKO201910537995526.pdf"
+      }
+    ],
+    "store": ""
+  },
+  "lookSources": [
+    {
+      "title": "미역취 — 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EC%97%AD%EC%B7%A8"
+    },
+    {
+      "title": "양미역취 — 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EC%96%91%EB%AF%B8%EC%97%AD%EC%B7%A8"
+    },
+    {
+      "title": "농경지 내 생태계교란식물의 분포 (Weed & Turfgrass Science 6(2), 2017)",
+      "url": "https://koreascience.or.kr/article/JAKO201720861204869.pdf"
+    },
+    {
+      "title": "침입 외래종 양미역취의 친환경적인 관리방안 (제주대학교 석사학위논문)",
+      "url": "https://mslib.jejunu.ac.kr/bitstream/2020.oak/23120/2/%ec%b9%a8%ec%9e%85%20%ec%99%b8%eb%9e%98%ec%a2%85%20%ec%96%91%eb%af%b8%ec%97%ad%ec%b7%a8%ec%9d%98%20%ec%b9%9c%ed%99%98%ea%b2%bd%ec%a0%81%ec%9d%b8%20%ea%b4%80%eb%a6%ac%eb%b0%a9%ec%95%88.pdf"
+    },
+    {
+      "title": "외래생물 정밀조사(Ⅰ) (국립생태원, 2014)",
+      "url": "https://www.nie.re.kr/nie/cmmn/file/fileDown.do?atchFileId=MFILE_000oQAnuaaY1uu6&fileSn=1"
+    },
+    {
+      "title": "Solidago altissima — Invasive Species of Japan (NIES)",
+      "url": "https://www.nies.go.jp/biodiversity/invasive/DB/detail/80600e.html"
+    },
+    {
+      "title": "Solidago gigantea subsp. serotina — Invasive Species of Japan (NIES)",
+      "url": "https://www.nies.go.jp/biodiversity/invasive/DB/detail/80610e.html"
+    },
+    {
+      "title": "취 — 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0058272"
+    },
+    {
+      "title": "참취 재배 안내 (산림청 임산물 재배 자료)",
+      "url": "https://ob.forest.go.kr/kfs/images/data/down/imsan/imsan_03_08.pdf"
+    },
+    {
+      "title": "곰취 재배 안내 (산림청 임산물 재배 자료)",
+      "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_03_07.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "북아메리카에서 들어온 귀화식물로 2009년 생태계교란 생물로 지정되었다. 노란 꽃이 비슷하지만 키와 사는 곳이 크게 다르다. 같은 북미산 미국미역취도 길가와 빈터에 퍼진 외래종이다.",
+      "name": "양미역취",
+      "points": [
+        "양미역취는 키가 1~2.5m로 사람 키를 넘기도 하고, 미역취는 35~85cm쯤이다.",
+        "양미역취는 피침형 잎이 줄기에 촘촘히 달리고 줄기 전체에 잔털과 거친 털이 있다.",
+        "양미역취는 길가·빈터·묵은 밭 같은 곳에서 땅속줄기로 퍼지며 큰 무리를 이룬다. 미역취는 산과 들에 자생한다.",
+        "양미역취는 9~10월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 국화과 '취' 나물이라 이름이 헷갈리지만 꽃 색으로 바로 가를 수 있다.",
+      "name": "참취",
+      "points": [
+        "참취는 흰 꽃이 피고, 미역취는 노란 꽃이 핀다.",
+        "참취 잎은 심장 모양이고, 미역취 잎은 위로 갈수록 작아지며 심장 모양이 아니다.",
+        "참취는 높이 1~1.5m까지 자라 미역취(35~85cm)보다 크다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "곰취도 노란 꽃이 피는 '취' 나물이지만 잎이 훨씬 크고 넓다. 곰취는 독초 동의나물과 헷갈리는 나물이다.",
+      "name": "곰취",
+      "points": [
+        "곰취 잎은 크고 심장 모양이며 양면에 윤기가 있다. 미역취 잎은 길이 7~9cm 정도로 작다.",
+        "곰취는 높이 1~1.5m까지 자라고 7~9월에 노란 꽃이 핀다.",
+        "곰취를 살 때는 곰취 항목의 동의나물 구별법을 함께 확인한다."
+      ]
+    }
+  ],
   "modern": {
     "papers": [
       {
@@ -55,5 +196,5 @@
     ],
     "text": "미역취의 땅 위 부분은 '일지황화(一枝黃花)'라는 이름의 약재로 다뤄지며, 성질은 차고 맛은 맵고 쓰다고 소개된다. 국내 학술 논문은 감기·인후통·발열·황달 등에 쓰였고 민간에서는 위를 튼튼히 하거나 소변을 잘 나오게 하는 데 썼다는 문헌을 인용한다. 동남아 식물자원 자료(PROSEA)는 중국에서 전초 달인 물을 학질과 기생충에 썼다고 적었다."
   },
-  "updatedAt": 1791811033695
+  "updatedAt": 1792141452883
 }

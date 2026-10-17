@@ -1,0 +1,171 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "10월부터 이듬해 3월까지 캐며, 갓 캔 것은 12월이 가장 많이 나옵니다. 서리가 내려 잎과 줄기가 마른 뒤부터 이듬해 봄 새싹이 나기 전까지 캘 수 있습니다.",
+      "q": "돼지감자 제철은 언제인가요?"
+    },
+    {
+      "a": "네, 같은 식물(Helianthus tuberosus)입니다. 식약처 식품원료목록에는 '뚱딴지'라는 이름으로 올라 있고 덩이줄기와 꽃을 식품에 쓸 수 있습니다.",
+      "q": "돼지감자와 뚱딴지는 같은 건가요?"
+    },
+    {
+      "a": "네. 껍질을 벗겨 날로 먹으면 아삭하고, 즙을 내거나 말려 차로 쓰거나 조림·장아찌로도 먹습니다.",
+      "q": "돼지감자는 날로 먹어도 되나요?"
+    },
+    {
+      "a": "돼지감자는 울퉁불퉁하고 모양이 제각각인 덩이줄기이고, 야콘은 레몬형·서양배형처럼 매끈하게 둥글거나 긴 덩이뿌리입니다.",
+      "q": "돼지감자와 야콘은 어떻게 구별하나요?"
+    },
+    {
+      "a": "울퉁불퉁한 틈의 흙을 솔로 깨끗이 씻어 내면 됩니다. 껍질째 써도 됩니다.",
+      "q": "돼지감자는 어떻게 손질하나요?"
+    }
+  ],
+  "id": {
+    "eat": "날로 먹거나 즙을 내고, 얇게 썰어 말린 것을 차로 우리며, 간장 조림이나 장아찌로 만든다.",
+    "eng": "Jerusalem artichoke",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "북아메리카 원산으로 1911년 이전에 관상·식용으로 들여와 재배해 왔다. 밭에서 기르며, 길가 등에 퍼져 야생으로 자라기도 한다. 국립생태원 외래생물 목록에 올라 있다.",
+    "look": {
+      "flower": "9~10월에 가지 끝마다 지름 6~8cm의 노란 해바라기 모양 꽃이 한 송이씩 핀다.",
+      "leaf": "길이 10~20cm의 달걀꼴로 단단하고 털이 있으며, 밑동에서 굵은 잎맥 3개가 뻗는다. 줄기 아래쪽은 마주나고 위쪽은 어긋나게 달린다.",
+      "root": "땅속줄기 끝에 울퉁불퉁한 덩이줄기가 여러 개 달리며, 모양과 크기, 무게가 제각각이다.",
+      "stem": "높이 1.5~3m로 크게 자라고, 거친 털이 있으며 위쪽에서 가지를 친다."
+    },
+    "parts": "땅속의 덩이줄기. 식약처 식품원료목록(이름 '뚱딴지')의 사용부위는 덩이줄기와 꽃이다.",
+    "prep": "흙을 깨끗이 씻어 낸다. 껍질째 써도 되고, 껍질을 벗겨 날로 먹거나 얇게 썰어 말려 차로 쓰며, 조림·장아찌로도 만든다.",
+    "sci": "Helianthus tuberosus L.",
+    "season": {
+      "collect": [
+        10,
+        11,
+        12,
+        1,
+        2,
+        3
+      ],
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "국립생태원 한국 외래생물 정보시스템, 뚱딴지(돼지감자)",
+        "url": "https://kias.nie.re.kr/home/for/for02002v.do?clsSno=10259&searchClsGbn=for"
+      },
+      {
+        "title": "식품안전나라 식품원료 목록 (뚱딴지: 가능 원료, 사용부위 덩이줄기·꽃)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=320"
+      },
+      {
+        "title": "위키백과, 뚱딴지",
+        "url": "https://ko.wikipedia.org/wiki/%EB%9A%B1%EB%94%B4%EC%A7%80"
+      },
+      {
+        "title": "YTN 라디오(2022.12.19), 한국농수산식품유통공사 '돼지감자' 물가 정보",
+        "url": "https://v.daum.net/v/20221219160710351"
+      },
+      {
+        "title": "문화일보(2018.4.4), 정재덕의 사계절 건강밥상: 돼지감자 장아찌",
+        "url": "https://www.munhwa.com/article/11078897"
+      }
+    ],
+    "store": "",
+    "taste": "날로 먹으면 아삭한 식감이 있다."
+  },
+  "lookSources": [
+    {
+      "title": "국립생태원 한국 외래생물 정보시스템, 뚱딴지(돼지감자)",
+      "url": "https://kias.nie.re.kr/home/for/for02002v.do?clsSno=10259&searchClsGbn=for"
+    },
+    {
+      "title": "농촌진흥청 농사로, 올리고당의 왕 현대인의 건강식품 야콘",
+      "url": "https://www.rda.go.kr/middlePopOpenPopNongsaroDBView.do?no=1405"
+    },
+    {
+      "title": "YTN 라디오(2022.12.19), 한국농수산식품유통공사 '돼지감자' 물가 정보",
+      "url": "https://v.daum.net/v/20221219160710351"
+    },
+    {
+      "title": "문화일보(2018.4.4), 정재덕의 사계절 건강밥상: 돼지감자 장아찌",
+      "url": "https://www.munhwa.com/article/11078897"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름에 '감자'가 들어가지만 돼지감자는 해바라기속(국화과) 식물이고, 감자는 가지과의 다른 작물이다. 생김새와 먹는 법이 다르다.",
+      "name": "감자",
+      "points": [
+        "돼지감자는 표면이 울퉁불퉁하고 모양과 크기가 제각각이다.",
+        "돼지감자는 날로 먹거나 말려 차로 쓰는 일이 많고, 감자는 익혀 먹는다.",
+        "돼지감자 포기는 키가 1.5~3m까지 자라고 9~10월에 노란 해바라기 모양 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "야콘도 국화과 작물이고 날로 아삭하게 먹는 땅속 작물이라 돼지감자와 헷갈리기 쉽다. 뿌리 모양과 수확 시기로 구별한다.",
+      "name": "야콘",
+      "points": [
+        "야콘 덩이뿌리는 레몬형·서양배형·원통형 등 매끈하게 둥글거나 긴 모양이다. 돼지감자는 울퉁불퉁한 덩이줄기다.",
+        "야콘은 서리 전(10월 중하순)에 캐고 추위에 약해 5~10℃에서 보관한다. 돼지감자는 10월부터 이듬해 3월까지 캔다.",
+        "야콘은 캔 지 시간이 지나면 단맛이 강해진다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "2020~2025년 연구를 모아 돼지감자의 성분과 작용을 정리한 리뷰로, 대부분 세포·동물 근거이고 사람 대상 근거는 제한적이라고 했다.",
+        "title": "Phytochemical Composition and Mechanistic Pharmacology of Jerusalem Artichoke (Helianthus tuberosus L.): Implications for Functional and Therapeutic Applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/cimb48020180",
+        "year": "2026"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "돼지감자를 포함한 해바라기속 식물이 고혈당에 미치는 영향을 다룬 연구들을 모아 분석한 체계적 문헌고찰·메타분석이다.",
+        "title": "The role of the Helianthus genus in Hyperglycemia: A systematic review with meta-analysis",
+        "type": "리뷰",
+        "url": "https://europepmc.org/article/MED/40204043",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "돼지감자의 전통적 쓰임과 성분, 약리 연구를 정리한 리뷰다.",
+        "title": "Exploring the Therapeutic Potential, Ethnomedicinal Values, and Phytochemistry of Helianthus tuberosus L.: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ph17121672",
+        "year": "2024"
+      }
+    ],
+    "summary": "2024~2026년 리뷰들은 돼지감자의 이눌린 등 성분과 혈당 관련 작용을 다루지만, 근거가 주로 세포·동물 실험이고 사람 대상 근거는 제한적이라고 정리했다. 2025년에는 해바라기속 식물의 고혈당 관련 연구를 모은 체계적 문헌고찰·메타분석도 나왔다. 이번 검색에서 2023년 이후의 사람 대상 무작위 시험은 확인하지 못했다."
+  },
+  "name": "돼지감자",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "국립생태원 한국 외래생물 정보시스템, 뚱딴지(돼지감자)",
+        "url": "https://kias.nie.re.kr/home/for/for02002v.do?clsSno=10259&searchClsGbn=for"
+      },
+      {
+        "title": "위키백과, 뚱딴지",
+        "url": "https://ko.wikipedia.org/wiki/%EB%9A%B1%EB%94%B4%EC%A7%80"
+      },
+      {
+        "title": "문화일보(2018.4.4), 정재덕의 사계절 건강밥상: 돼지감자 장아찌",
+        "url": "https://www.munhwa.com/article/11078897"
+      }
+    ],
+    "text": "돼지감자는 북아메리카 원산으로 1911년 이전(19세기 말~20세기 초)에 우리나라에 들어온 작물이어서 동의보감 등 옛 의서에는 나오지 않는다. 관상과 식용을 위해 들여와 재배해 왔고, 덩이줄기를 먹거나 가축 사료와 알코올 원료로도 썼다."
+  },
+  "updatedAt": 1792228597022
+}

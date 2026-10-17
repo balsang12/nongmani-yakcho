@@ -1,0 +1,202 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "동의보감 탕액편 나무(木部)에 초피 열매로 보는 촉초(蜀椒, 천초라고도 함)가 실려 있다.",
+      "촉초는 살갗이 죽은 듯 감각이 없는 데, 차고 습해서 저리고 아픈 데, 오장육부가 찬 데 쓰고, 벌레를 죽이고 물고기 독을 풀며 치통을 멎게 한다고 적었다.",
+      "또 양기를 돋우고 음부의 땀을 멎게 하며 허리와 무릎을 따뜻하게 하고 기를 내린다고 적었다.",
+      "원문은 열매(껍질)를 다룬 것으로, 잎에 대한 내용은 확인하지 못했다."
+    ],
+    "han": "蜀椒",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "主皮膚死肌, 寒濕痺痛, 除六腑寒冷, 鬼疰蠱毒, 殺蟲解魚, 除齒痛, 壯陽, 止陰汗, 煖腰膝 … 下氣 (蜀椒·川椒 조, 학술논문 인용)",
+    "sources": [
+      {
+        "title": "양윤홍 외, 『東醫寶鑑』에 활용된 川椒(蜀椒, 花椒) 藥對에 관한 硏究, 대한한의학방제학회지 22(1), 2014",
+        "url": "https://koreascience.or.kr/article/JAKO201417635760431.pdf"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아니요, 산초나무와 초피나무는 서로 다른 종입니다. 둘 다 잎을 먹지만 초피 잎이 향이 더 진하며, 초피는 가시가 두 개씩 마주 나고 산초는 하나씩 어긋나게 나는 것으로 구별합니다.",
+      "q": "산초잎과 초피잎은 같은 건가요?"
+    },
+    {
+      "a": "봄(대략 4~5월)에 돋는 어린 새순을 땁니다. 잎이 자라면 질겨지므로 연한 순일 때 나물이나 장아찌로 씁니다.",
+      "q": "산초잎 제철은 언제인가요?"
+    },
+    {
+      "a": "봄 새순을 나물로 무치거나 간장·된장에 담가 장아찌로 먹는 것이 대표적입니다. 향이 강해 한 번에 많이 쓰기보다 양념처럼 조금씩 씁니다.",
+      "q": "산초잎은 어떻게 먹나요?"
+    },
+    {
+      "a": "생잎은 마르지 않게 싸서 냉장하고 빨리 쓰는 것이 좋습니다. 오래 두려면 장아찌로 담가 둡니다.",
+      "q": "산초잎은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "봄 새순을 나물로 무치거나 간장·된장에 박아 장아찌로 담가 먹는다. 향이 강해 양념·향신 재료로도 조금씩 쓴다.",
+    "eng": "Japanese pepper tree(초피나무)",
+    "family": "운향과",
+    "grade": "",
+    "habitat": "산초나무는 함경북도를 뺀 전국 산지, 초피나무는 주로 경기·충청·전라·경상 등 중부 이남(강원은 해안 쪽)에 자란다. 둘 다 볕을 좋아하고 그늘에 약하며, 초피나무는 추위에 약해 따뜻한 곳에서 잘 자란다.",
+    "look": {
+      "flower": "꽃은 작고 연한 녹색이다. 초피나무는 5~6월, 산초나무는 8~9월에 핀다.",
+      "fruit": "가을에 작고 둥근 열매가 붉은 갈색(초피)이나 녹갈색(산초)으로 익고, 껍질이 벌어지면 윤기 나는 검은 씨가 나온다.",
+      "leaf": "작은잎 여러 장이 깃털처럼 달린 홀수깃꼴겹잎이고, 작은잎 가장자리에 물결 모양 잔톱니가 있다. 초피 잎은 작은잎 가운데에 연한 노란빛 무늬가 있고 톱니 밑에 기름점(샘점)이 있다.",
+      "smell": "잎을 손으로 비비면 강하고 알싸한 향이 난다.",
+      "stem": "키 3m 안팎의 갈잎 떨기나무로 가지에 가시가 있다. 산초나무는 가시가 하나씩 어긋나게 나고, 초피나무는 잎자루 밑 양쪽에 한 쌍씩 마주 난다."
+    },
+    "parts": "봄에 돋는 어린 순과 연한 잎",
+    "prep": "어린 순을 따서 가시와 질긴 잎자루를 다듬는다. 가지와 잎자루에 가시가 있으니 딸 때 조심한다.",
+    "sci": "Zanthoxylum schinifolium Siebold & Zucc.(산초나무); Zanthoxylum piperitum (L.) DC.(초피나무)",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        5,
+        6,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea, 산초나무 Zanthoxylum schinifolium",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5649"
+      },
+      {
+        "title": "Flora of Korea, 초피나무 Zanthoxylum piperitum",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5647"
+      },
+      {
+        "title": "Flora of Korea, 초피나무속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5643/descriptions"
+      },
+      {
+        "title": "산림청 임산물 재배 자료, 초피나무(PDF)",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_05_13.pdf"
+      },
+      {
+        "title": "경향신문(2005.7.24), [우리나무 바로알기] 초피나무",
+        "url": "https://www.khan.co.kr/article/200507241737041"
+      }
+    ],
+    "store": "생잎은 마르지 않게 싸서 냉장하고 빨리 쓴다. 오래 두려면 장아찌로 담근다.",
+    "taste": "잎을 비비면 톡 쏘는 특유의 향이 나고, 혀가 얼얼한 매운맛이 있다. 초피 잎은 향이 진하다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea, 초피나무속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5643/descriptions"
+    },
+    {
+      "title": "Flora of Korea, 산초나무 Zanthoxylum schinifolium",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5649"
+    },
+    {
+      "title": "Flora of Korea, 초피나무 Zanthoxylum piperitum",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5647"
+    },
+    {
+      "title": "경향신문(2005.7.24), [우리나무 바로알기] 초피나무 (생명의숲국민운동 도움말)",
+      "url": "https://www.khan.co.kr/article/200507241737041"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "시장에서 '산초잎'과 '초피잎'은 한데 섞여 불리지만, 산초나무(Z. schinifolium)와 초피나무(Z. piperitum)는 다른 종이다. 둘 다 먹지만 향과 맛이 달라, 어느 나무 잎인지 알고 사는 것이 좋다.",
+      "name": "초피나무",
+      "points": [
+        "가시 배열: 초피나무는 잎자루 밑에 가시가 두 개씩 마주 나고, 산초나무는 가시가 하나씩 어긋나게 난다('산초는 어긋나기, 초피는 마주나기').",
+        "꽃 피는 때: 초피나무는 5~6월, 산초나무는 8~9월이다.",
+        "초피나무 작은잎은 가운데에 연한 노란빛 무늬가 있고 톱니 밑에 기름점이 있어 향이 진하다.",
+        "분포: 초피나무는 주로 중부 이남 따뜻한 곳에, 산초나무는 거의 전국에 자란다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "개산초(Zanthoxylum armatum)는 같은 속의 늘푸른 떨기나무다. 먹어도 되는지 공공기관 자료로 확인하지 못했으므로 산초잎으로 쓰지 않는다.",
+      "name": "개산초",
+      "points": [
+        "개산초는 겨울에도 잎이 지지 않는 늘푸른나무이고, 산초·초피는 가을에 잎이 지는 갈잎나무다.",
+        "개산초는 작은잎이 5장(가끔 7장)뿐이고 길이 3~8cm로 크며, 잎축에 날개가 있다.",
+        "산초·초피 잎은 작은잎이 9장 이상으로 많고 작으며 잎축에 날개가 없다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "왕초피나무(Zanthoxylum simulans)는 제주도에 자라는 같은 속 갈잎나무로, 초피나무처럼 가시가 마주 난다. 식용 여부를 공공기관 자료로 확인하지 못했다.",
+      "name": "왕초피나무",
+      "points": [
+        "왕초피나무는 작은잎이 7~11장이고 길이 3~5cm로 초피(1~2cm 안팎)보다 크다.",
+        "왕초피나무는 잎자루와 잎축에 얇은 날개가 있고, 초피나무 잎축에는 날개가 없다.",
+        "왕초피나무는 제주도에 분포한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "초피 열매·껍질·씨 추출물의 항산화 활성을 시험관과 대식세포에서 비교한 연구로, 잎은 다루지 않았다.",
+        "title": "Integrating Molecular Analysis and the Pharmacology Network to Discover the Antioxidative Effects of Zanthoxylum piperitum Fruits",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/plants15010148",
+        "year": "2026"
+      },
+      {
+        "journal": "Animal Cells and Systems",
+        "note": "산초나무 잎과 가지 추출물이 생쥐 유래 지방세포의 분화에 미치는 영향을 본 세포 실험이다.",
+        "title": "Zanthoxylum schinifolium extracts enhance 3T3-L1 adipocyte differentiation via CHOP inhibition and PPARγ activation",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/19768354.2025.2536022",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "발효시킨 산초잎을 닭 사료에 섞어 70일간 먹였을 때 성장과 고기 품질 변화를 본 사육 실험으로, 사람의 섭취와는 관련이 없다.",
+        "title": "Effects of Dietary Supplementation with Fermented Zanthoxylum schinifolium Leaves on Growth Performance, Meat Quality, and Sensory Traits in Sanhuang Chicken",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/foods14142542",
+        "year": "2025"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "산초나무 열매 껍질 추출물을 잇몸염증을 일으킨 쥐에 먹였을 때 염증 지표와 잇몸뼈 손실 변화를 관찰한 실험이다.",
+        "title": "Effects of Zanthoxyli Pericarpium Extracts on Ligature-Induced Periodontitis and Alveolar Bone Loss in Rats",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/antiox14101159",
+        "year": "2025"
+      }
+    ],
+    "summary": "2023~2026년 산초·초피 연구는 대부분 열매(껍질)와 씨 기름을 다루고, 잎을 다룬 것은 세포 실험과 가축 사료 실험 정도다. 잎·가지 추출물의 지방세포 분화 영향을 본 세포 실험, 발효 산초잎을 닭 사료에 섞은 사육 실험, 열매 껍질 추출물의 쥐 잇몸염증 실험, 초피 열매의 항산화 세포 실험을 확인했다. 사람 대상 연구는 없다."
+  },
+  "name": "산초잎",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 재배 자료, 초피나무(PDF)",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_05_13.pdf"
+      },
+      {
+        "title": "경향신문(2005.7.24), [우리나무 바로알기] 초피나무",
+        "url": "https://www.khan.co.kr/article/200507241737041"
+      }
+    ],
+    "text": "초피 잎과 열매 껍질은 향과 매운맛이 있어 예부터 향신료와 나물로 써 왔고, 봄 새순은 나물이나 장아찌로 먹는다. 잎은 생약명으로 '초엽'이라 부른다. 절에서는 잎과 덜 익은 열매를 장아찌로 담가 먹었고, 한방에서는 열매를 위를 튼튼히 하는 약과 회충을 없애는 약으로 썼다고 알려져 있다."
+  },
+  "updatedAt": 1792228597022
+}

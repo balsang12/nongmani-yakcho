@@ -1,0 +1,139 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "안 됩니다. 옻 성분이 든 음식을 먹으면 온몸에 발진이 퍼지는 전신 접촉피부염이 생길 수 있고, 일부에서는 간 수치가 오르기도 합니다. 개옻나무 순은 채취하지도 먹지도 않습니다.",
+      "q": "데치거나 익히면 먹어도 되나요?"
+    },
+    {
+      "a": "먼저 줄기의 가시를 봅니다. 두릅나무와 엄나무는 줄기에 가시가 있고, 개옻나무는 어린 가지가 붉은빛을 띠며 털이 있고 자르면 진이 나옵니다. 확실하지 않으면 따지 않는 것이 가장 안전합니다.",
+      "q": "두릅과 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 비누와 물로 씻는 것이 좋습니다. 옻 성분은 피부와 옷, 도구에 쉽게 묻으므로 입었던 옷은 따로 세제로 빨고, 발진이 넓게 퍼지거나 얼굴이 부으면 병원 진료를 받습니다.",
+      "q": "만지기만 했는데 괜찮을까요?"
+    },
+    {
+      "a": "증상이 생기면 바로 병원에 갑니다. 정확한 진단을 위해 남은 나물이 있으면 함께 가져갑니다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "옻나무과",
+    "grade": "",
+    "habitat": "한반도에서는 평안남도 이남 전국에 자라는 낙엽성 작은 키나무 또는 떨기나무로, 높이 7m 안팎까지 자란다. 러시아 쿠릴 남부와 일본에도 분포한다.",
+    "look": {
+      "flower": "암수딴그루로, 잎겨드랑이에서 길이 15~30cm의 원뿔 모양 꽃차례가 나와 황록색 꽃이 핀다. 꽃차례에 갈색 털이 빽빽하다.",
+      "fruit": "지름 약 6mm의 한쪽으로 찌그러진 둥근 열매로, 황갈색이고 겉에 뻣뻣한 털이 덮여 있다.",
+      "leaf": "작은잎 9~17장(주로 13~17장)이 달린 깃 모양 겹잎이 어긋나게 붙는다. 작은잎 뒷면에 털이 있고, 가장자리에 톱니가 2~3개 있는 경우가 많으며 가을에 붉게 단풍이 든다.",
+      "stem": "어린 가지는 붉은빛이 돌고 털이 있다. 가지를 자르면 진(유액)이 나온다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Toxicodendron trichocarpum (Miq.) Kuntze",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        4,
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 개옻나무 Toxicodendron trichocarpum",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5027"
+      },
+      {
+        "title": "Flora of Korea - 옻나무속 Toxicodendron 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5023"
+      },
+      {
+        "title": "국가생물종지식정보시스템 식물도감 - 개옻나무 검색 결과",
+        "url": "https://www.nature.go.kr/kbi/plant/pilbk/selectPlantPilbkGnrlList.do?searchCnd=1&searchWrd=개옻나무"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "식약처·국립수목원 봄철 독초 주의 보도(서울신문, 2026-04-16)",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    },
+    {
+      "title": "국립산림과학원 임산물 자료 - 산나물류 두릅",
+      "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/두릅.pdf"
+    },
+    {
+      "title": "국민건강보험 웹진 - 두릅과 엄나무(농촌진흥청 자료 참고)",
+      "url": "https://www.nhis.or.kr/static/alim/paper/oldpaper/202204/sub/09.html"
+    },
+    {
+      "title": "산림청 국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까?(2025-04-10)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=UKNA_05_02&nttId=3206489"
+    },
+    {
+      "title": "Flora of Korea - 옻나무속 Toxicodendron 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5023"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "봄에 나무 끝에서 올라오는 새순을 따는 점이 같아 헷갈릴 수 있다. 두릅나무는 줄기에 가시가 있으니 가시부터 확인한다.",
+      "name": "두릅",
+      "points": [
+        "두릅나무는 줄기에 가시가 있고, 참두릅 순에도 잔가시가 있다.",
+        "개옻나무는 어린 가지가 붉은빛을 띠고 털이 있으며, 가지를 자르면 진이 나온다.",
+        "두릅도 날로 먹으면 안 되고 끓는 물에 충분히 데쳐 먹어야 하는 산나물이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "엄나무 새순(개두릅)도 봄에 나무에서 따는 순이라 개옻나무 순과 혼동될 수 있다. 엄나무는 가시가 있는 나무다.",
+      "name": "엄나무순",
+      "points": [
+        "엄나무는 두릅나무처럼 줄기에 가시가 있는 나무다.",
+        "개옻나무는 어린 가지와 잎자루에 털이 많고 붉은빛이 돈다.",
+        "가지를 꺾었을 때 진이 나오면 옻나무 무리일 수 있으니 만지지 말고 버린다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "같은 옻나무속이라 둘 다 옻이 오를 수 있다. 작은잎 크기와 톱니, 열매 털로 나눈다.",
+      "name": "옻나무",
+      "points": [
+        "개옻나무는 작은잎 가장자리에 톱니가 2~3개 있는 경우가 많고, 옻나무 작은잎은 더 크다(약 16×7cm).",
+        "개옻나무 열매 겉에는 털이 있고, 옻나무 열매는 그렇지 않다.",
+        "옻나무는 주로 심어 기르는 큰키나무이고, 개옻나무는 산에 저절로 자라는 작은 나무다."
+      ]
+    }
+  ],
+  "name": "개옻나무",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "두릅, 엄나무순, 옻나무",
+    "sources": [
+      {
+        "title": "MSD 매뉴얼 - 덩굴 옻나무(우루시올 접촉피부염)",
+        "url": "https://www.msdmanuals.com/ko/home/피부-질환/가려움증-및-피부염/덩굴-옻나무"
+      },
+      {
+        "title": "Clinical Features of Systemic Contact Dermatitis Due to the Ingestion of Lacquer (Ann Dermatol 2012)",
+        "url": "https://synapse.koreamed.org/articles/1045565"
+      },
+      {
+        "title": "옻에 대한 문헌적 고찰 (대한약침학회지 2002)",
+        "url": "https://koreascience.or.kr/article/JAKO200204637242477.page"
+      }
+    ],
+    "text": "옻나무속 식물로, 옻 성분인 우루시올이 피부에 닿으면 가렵고 붉은 발진과 물집이 생기는 접촉피부염을 일으킬 수 있다. 증상은 보통 닿은 뒤 8~48시간 사이에 나타나고 몇 주까지 갈 수 있다. 옻을 먹으면 온몸에 발진이 퍼지는 전신 접촉피부염이 생길 수 있으며, 일부에서는 전신 증상과 간 수치 상승도 보고됐다. 태울 때 나오는 연기로도 반응이 생길 수 있다."
+  },
+  "updatedAt": 1792184768372
+}

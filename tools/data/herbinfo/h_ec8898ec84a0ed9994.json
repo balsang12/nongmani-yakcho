@@ -1,0 +1,118 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "안 된다. 수선화는 날것이든 익힌 것이든 중독을 일으킬 수 있는 독초이며 판매도 금지된 품목이다.",
+      "q": "익혀 먹으면 괜찮나요?"
+    },
+    {
+      "a": "냄새를 맡아 본다. 달래와 부추는 파 같은 매운 냄새가 나지만, 수선화는 잎이나 알뿌리를 잘라도 그런 냄새가 나지 않는다.",
+      "q": "달래·부추와 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 된다. 수선화 알뿌리는 양파와 닮았지만 독성분이 가장 많은 부위다. 잘라도 양파 냄새가 나지 않고 눈이 맵지 않으면 수선화를 의심한다.",
+      "q": "알뿌리가 양파처럼 생겼는데 먹어도 되나요?"
+    },
+    {
+      "a": "곧바로 병원에 가야 한다. 구토와 설사가 이어지면 탈수에 주의하고, 먹고 남은 식물을 가져가면 진단에 도움이 된다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "수선화과",
+    "grade": "",
+    "habitat": "지중해 연안이 원산인 알뿌리 식물로, 꽃을 보려고 집 화단·정원·화분에 많이 심어 기른다. 텃밭이나 집 주변에 함께 심겨 있다가 잎이나 알뿌리를 나물·채소로 잘못 아는 일이 생긴다.",
+    "look": {
+      "flower": "12월~이듬해 3월에 꽃줄기 끝에 여러 송이가 모여 핀다.",
+      "leaf": "잎은 늦가을부터 자라기 시작하는 납작하고 긴 줄 모양으로, 길이 20~40cm, 너비 8~20mm이며 끝이 둥글고 흰빛이 도는 녹색이다. 잎을 찢어도 부추·달래 같은 매운 냄새가 나지 않는다.",
+      "root": "땅속에 넓은 달걀 모양의 비늘줄기(알뿌리)가 있고 검은 껍질에 싸여 있다. 겉모습은 양파와 닮았지만 잘라도 양파 냄새가 나지 않고 눈이 맵지 않다.",
+      "smell": "비늘줄기를 잘라도 양파·파 종류 특유의 매운 냄새가 나지 않는다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Narcissus tazetta var. chinensis M.Roem.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        12,
+        1,
+        2,
+        3
+      ]
+    },
+    "sources": [
+      {
+        "title": "Daffodils - Beautiful but Potentially Toxic (Poison Control, National Capital Poison Center)",
+        "url": "https://poison.org/articles/daffodils"
+      },
+      {
+        "title": "Case of narcissus poisoning under CHP investigation (홍콩 위생서 보도자료, 2014)",
+        "url": "https://www.info.gov.hk/gia/general/201403/03/P201403030618_print.htm"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 수선화",
+        "url": "https://encykorea.aks.ac.kr/Article/E0031460"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Daffodils - Beautiful but Potentially Toxic (Poison Control, National Capital Poison Center)",
+      "url": "https://poison.org/articles/daffodils"
+    },
+    {
+      "title": "Case of narcissus poisoning under CHP investigation (홍콩 위생서 보도자료, 2014)",
+      "url": "https://www.info.gov.hk/gia/general/201403/03/P201403030618_print.htm"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "가늘고 긴 잎과 땅속의 둥근 알뿌리가 달래와 비슷해 보여 함께 캐는 실수가 생긴다. 파 냄새가 나는지 반드시 확인한다.",
+      "name": "달래",
+      "points": [
+        "달래는 잎과 알뿌리에서 파·마늘 같은 냄새가 나고, 수선화는 알뿌리를 잘라도 그런 냄새가 나지 않는다.",
+        "화단이나 정원에 심어 둔 곳 근처에서 캔 알뿌리는 수선화일 수 있으니 먹지 않는다.",
+        "냄새로 확신이 서지 않으면 캐지도 먹지도 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "길쭉한 잎이 부추와 비슷해 보여 잎을 베어 음식에 넣는 사고가 난다. 홍콩에서는 집에서 기른 수선화 잎을 넣은 음식을 먹은 가족 4명이 중독되었다.",
+      "name": "부추",
+      "points": [
+        "부추는 잎을 자르면 특유의 매운 냄새가 나고, 수선화는 그런 냄새가 없다.",
+        "수선화 알뿌리는 양파와 닮았지만 잘라도 양파 냄새가 나지 않고 눈이 맵지 않다.",
+        "화단의 꽃과 텃밭 채소를 가까이 심었다면 수확 전에 포기마다 냄새를 확인한다."
+      ]
+    }
+  ],
+  "name": "수선화",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "달래, 부추",
+    "sources": [
+      {
+        "title": "Daffodils - Beautiful but Potentially Toxic (Poison Control, National Capital Poison Center)",
+        "url": "https://poison.org/articles/daffodils"
+      },
+      {
+        "title": "Case of narcissus poisoning under CHP investigation (홍콩 위생서 보도자료, 2014)",
+        "url": "https://www.info.gov.hk/gia/general/201403/03/P201403030618_print.htm"
+      },
+      {
+        "title": "Food Confusion Between Edible and Poisonous Plants: A 22-Year Retrospective of the Southeastern France Poison Control Center",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11679472"
+      }
+    ],
+    "text": "식물 전체에 독이 있고, 주된 독성분인 리코린 같은 알칼로이드는 비늘줄기(알뿌리)에 가장 많다. 즙과 알뿌리에는 바늘 모양의 옥살산염 결정도 있어 입안과 목, 피부를 자극한다. 잎이나 알뿌리를 먹으면 보통 15~30분 안에 메스꺼움, 구토, 설사, 배앓이, 어지럼증이 나타나고, 드물게 시야 흐림, 두통, 땀, 입 저림, 혈압 저하, 경련이 생길 수 있다. 알뿌리를 양파로 잘못 알고 먹은 사례도 보고되어 있으며, 날것이든 익힌 것이든 위험하다."
+  },
+  "updatedAt": 1792184768374
+}

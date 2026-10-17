@@ -1,0 +1,144 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "초롱꽃과 여러해살이풀로, 봄에 돋는 어린 순과 잎을 날로 먹거나 데쳐 나물로 먹습니다. 숲속 약간 그늘진 곳에 자랍니다.",
+      "q": "모시대는 어떤 나물인가요?"
+    },
+    {
+      "a": "봄에 돋는 어린 순을 먹고, 꽃은 8~9월에 자주색으로 핍니다. 잎이 다 자라면 질겨집니다.",
+      "q": "모시대 제철은 언제인가요?"
+    },
+    {
+      "a": "잎이 줄기에 한 장씩 어긋나고 아래 잎에 긴 잎자루가 있으면 모시대, 마디마다 잎자루 없는 잎이 여러 장 돌려나면 잔대입니다. 둘 다 먹는 나물이라 섞여도 해롭지는 않습니다.",
+      "q": "모시대와 잔대는 어떻게 구별하나요?"
+    },
+    {
+      "a": "연한 순은 날로 쌈처럼 먹고, 조금 자란 것은 살짝 데쳐 무칩니다.",
+      "q": "모시대는 어떻게 먹나요?"
+    },
+    {
+      "a": "생잎은 마르지 않게 싸서 냉장하고 빨리 먹습니다. 오래 둘 때는 데쳐서 냉동하거나 말려 둡니다.",
+      "q": "모시대는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린 순을 날로 쌈처럼 먹거나 살짝 데쳐 나물로 무친다.",
+    "eng": "",
+    "family": "초롱꽃과",
+    "grade": "",
+    "habitat": "전국의 숲속, 약간 그늘진 곳에 자라는 여러해살이풀이다.",
+    "look": {
+      "flower": "8~9월에 자주색 종 모양 꽃이 줄기 끝의 엉성한 원뿔모양 꽃차례에 아래를 향해 달리며, 꽃부리 끝이 5갈래로 갈라진다.",
+      "leaf": "잎은 어긋나고 넓은 심장 모양~달걀 모양이며 길이 5~20cm, 끝이 뾰족하고 가장자리에 날카로운 톱니가 있다. 아래쪽 잎은 잎자루가 길다.",
+      "root": "뿌리가 굵다.",
+      "stem": "줄기는 곧게 서서 40~100cm로 자란다."
+    },
+    "parts": "봄에 돋는 어린 순과 잎(뿌리는 한약재 제니로 쓴다)",
+    "prep": "어린 순과 잎을 다듬어 날로 먹거나 끓는 물에 살짝 데쳐 무친다. 산에서 직접 딸 때는 잎이 어긋나고 잎자루가 있는지 한 포기씩 확인한다.",
+    "sci": "Adenophora remotiflora (Siebold & Zucc.) Miq.",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 모싯대",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018514"
+      },
+      {
+        "title": "위키백과, 모시대",
+        "url": "https://ko.wikipedia.org/wiki/모시대"
+      },
+      {
+        "title": "Korean Plant Names Index(KPF), Adenophora remotiflora",
+        "url": "https://kpf.myspecies.info/taxonomy/term/55178"
+      },
+      {
+        "title": "산림청, 임산물 재배정보 - 잔대(PDF)",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_14.pdf"
+      }
+    ],
+    "store": "생잎은 마르지 않게 싸서 냉장하고 빨리 먹는다. 오래 두려면 데쳐 물기를 짠 뒤 냉동하거나 말려 묵나물로 쓴다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전, 모싯대",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018514"
+    },
+    {
+      "title": "한국민족문화대백과사전, 잔대",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048156"
+    },
+    {
+      "title": "산림청, 임산물 재배정보 - 잔대(PDF)",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_14.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전, 도라지",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015576"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "잔대(Adenophora triphylla var. japonica)는 같은 잔대속 나물로, 봄에 올라오는 뿌리잎이 둥근 심장 모양에 잎자루가 길어 어린 모시대와 헷갈릴 수 있다. 둘 다 먹는 나물이라 섞여도 해롭지 않지만, 뿌리는 서로 다른 한약재(잔대는 사삼, 모시대는 제니)로 친다.",
+      "name": "잔대",
+      "points": [
+        "잔대 줄기잎은 마디마다 여러 장이 돌려나거나 마주나고 잎자루가 없다. 모시대 잎은 줄기에 한 장씩 어긋나고 아래 잎에 긴 잎자루가 있다.",
+        "잔대 잎은 피침형~타원형으로 폭이 좁은 편(0.5~4cm)이고, 모시대 잎은 폭 3~8cm로 넓은 심장~달걀 모양이다.",
+        "잔대는 풀 전체에 잔털이 있다.",
+        "잔대의 둥근 뿌리잎은 꽃필 무렵 없어지므로, 이른 봄 순만 보고는 구별이 어려울 수 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "도라지(Platycodon grandiflorus)도 같은 초롱꽃과로 어린 싹과 잎을 데쳐 나물로 먹는다. 섞여도 해롭지 않으며, 잎자루 유무와 잎 모양, 꽃 모양으로 구별한다.",
+      "name": "도라지",
+      "points": [
+        "도라지 잎은 잎자루가 없고 긴 타원형이며, 모시대 잎은 아래쪽 잎에 긴 잎자루가 있고 넓은 심장~달걀 모양이다.",
+        "도라지 꽃은 크고 끝이 5갈래로 넓게 벌어지며, 모시대 꽃은 작은 종 모양으로 아래를 향해 매달린다.",
+        "도라지 어린 잎은 쓴맛이 있어 데쳐서 우려낸 뒤 먹는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Applied Sciences",
+        "note": "모시대의 핵 유전체 크기를 추정하고 엽록체 유전체를 해독해 다른 잔대속 식물과 계통을 비교한 연구다.",
+        "title": "Estimation of the Genome Size and Complete Chloroplast Genome in Adenophora remotiflora: Genome Structures, Comparative Genomics, and Phylogenetic Diversity",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/app14010275",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2026년에 모시대의 성분이나 효능을 직접 다룬 논문은 이번 검색에서 확인하지 못했다. 확인된 최근 논문은 모시대의 유전체 크기와 엽록체 유전체를 분석한 분류·유전 연구로, 먹거리나 건강 효과와는 관련이 없다. 사람 대상 연구는 없다."
+  },
+  "name": "모시대",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 모싯대",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018514"
+      },
+      {
+        "title": "산림청, 임산물 재배정보 - 잔대(PDF)",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_14.pdf"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 모시대(모싯대)의 옛 이름 '계로기'가 동의보감·훈몽자회 등에 나온다고 적고, 뿌리를 열을 내리고 독을 풀며 가래를 삭이는 데 써서 감기로 인한 열과 기침, 약물 중독 등에 썼다고 소개한다. 산림청 자료는 모시대 뿌리가 한약재 제니(薺苨)의 기원 식물로, 잔대 뿌리인 사삼(沙蔘)과는 다른 약재라고 설명한다."
+  },
+  "updatedAt": 1792228597022
+}

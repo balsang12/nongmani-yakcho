@@ -1,0 +1,191 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false,
+    "warn": "『동의보감』 탕액편의 '防風'은 Saposhnikovia divaricata의 뿌리를 가리키는 약재로, 방풍나물(갯기름나물)과 같은 식물로 볼 근거가 확인되지 않았다. 갯기름나물을 '식방풍'으로 부르는 것은 현대 생약학 문헌에서 확인되나, 고서에서 이 식물을 따로 다룬 항목은 찾지 못했다."
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 방풍나물은 갯기름나물(Peucedanum japonicum)의 어린 잎줄기이고, 한약재 방풍의 기원식물은 Saposhnikovia divaricata라는 다른 식물입니다. 갯기름나물 뿌리를 '식방풍'이라 하여 방풍 대용으로 쓴 적이 있어 이름이 섞여 쓰입니다.",
+      "q": "방풍나물과 한약재 방풍은 같은 건가요?"
+    },
+    {
+      "a": "새순이 올라오는 봄(3~5월)이 제철입니다. 시중에는 태안·여수 금오도 등지의 재배품이 주로 나옵니다.",
+      "q": "방풍나물 제철은 언제인가요?"
+    },
+    {
+      "a": "연한 잎은 생으로 쌈을 싸 먹기도 합니다. 나물로 무칠 때는 끓는 물에 살짝 데쳐 찬물에 헹궈 쓰고, 질긴 아래쪽 줄기는 다듬어 냅니다.",
+      "q": "방풍나물은 생으로 먹어도 되나요?"
+    },
+    {
+      "a": "자신 없다면 캐지 않는 것이 좋습니다. 갯기름나물은 바닷가 바위 절벽에 자라 채취가 위험하고, 같은 산형과에는 독미나리 같은 독초가 있어 꽃 없이 잎만으로 구별하기 어렵습니다.",
+      "q": "바닷가에서 직접 캐도 되나요?"
+    },
+    {
+      "a": "물기를 털어 종이나 비닐로 감싸 냉장 보관하고 되도록 빨리 먹습니다. 오래 두려면 데쳐서 한 번 먹을 만큼씩 나눠 냉동합니다.",
+      "q": "방풍나물은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 무치는 나물, 생잎 쌈, 간장·식초 장아찌가 대표적이며 전·찌개·밥에도 넣는다. 옛 기록에는 새순을 넣어 쑨 방풍죽이 전한다.",
+    "eng": "Coastal hog fennel",
+    "family": "산형과",
+    "grade": "",
+    "habitat": "중부 이남 바닷가와 섬의 바위 절벽, 해안선 가까운 급경사지에 자란다. 인천·경기에서는 내륙에는 없고 섬에서만 확인된다. 시중품은 대부분 충남 태안, 전남 여수 금오도 등지의 재배품이다.",
+    "look": {
+      "flower": "줄기 끝에 지름 4~10cm의 겹우산꽃차례가 달리고, 작은 꽃은 흰색이거나 자줏빛을 띤다.",
+      "fruit": "길쭉한 달걀꼴 열매(길이 약 6mm)에 털이 있고, 가장자리 능선이 두꺼운 날개처럼 생겼다.",
+      "leaf": "잎몸이 넓은 세모꼴 달걀모양이고 1~2회 세 갈래로 갈라지며, 작은 잎은 다시 셋으로 갈라진다. 잎은 얇은 가죽질로 두툼하고 표면이 흰빛 도는 청록색(분백색)을 띤다.",
+      "stem": "높이 30~100cm로 굵고 털이 거의 없으며, 흔히 구불구불하게 자란다. 줄기 색은 초록부터 연한 붉은빛까지 개체마다 다르다."
+    },
+    "parts": "어린 잎과 줄기(뿌리는 약재로 따로 쓰임)",
+    "prep": "어린 잎줄기는 날로 쌈을 싸 먹기도 하고, 나물로 먹을 때는 끓는 물에 살짝 데쳐 찬물에 헹군 뒤 무친다. 억센 줄기 아래쪽은 다듬어 낸다.",
+    "sci": "Peucedanum japonicum Thunb.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "경기남 외, 인천 무인도서 갯기름나물(식방풍)의 자생지 환경특성과 식생, 한국약용작물학회지 23(3), 2015",
+        "url": "https://koreascience.or.kr/article/JAKO201520441373351.pdf"
+      },
+      {
+        "title": "Characteristics of Phenolic Compounds in Peucedanum japonicum According to Various Stem and Seed Colors, Molecules, 2023",
+        "url": "https://doi.org/10.3390/molecules28176266"
+      },
+      {
+        "title": "Regional Variations in Peucedanum japonicum Antioxidants and Phytochemicals, Plants, 2024",
+        "url": "https://doi.org/10.3390/plants13030377"
+      },
+      {
+        "title": "Flora of China 기재문 요약(Peucedanum japonicum), 위키백과 영문판 경유",
+        "url": "https://en.wikipedia.org/wiki/Peucedanum_japonicum"
+      },
+      {
+        "title": "한국민족문화대백과사전, 방풍죽",
+        "url": "https://encykorea.aks.ac.kr/Article/E0021807"
+      }
+    ],
+    "store": "물기를 털고 종이나 비닐로 감싸 냉장 보관하고, 오래 둘 때는 데쳐서 소분해 냉동한다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "방풍의 화학 성분, 생약학회지 39(4), 2008",
+      "url": "https://koreascience.kr/article/JAKO200804748558593.pdf"
+    },
+    {
+      "title": "김영국 외(국립원예특작과학원), 방풍의 영양번식 방법 구명, 학술발표 초록",
+      "url": "https://koreascience.or.kr/article/CFKO201032164227481.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전, 방풍",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021805"
+    },
+    {
+      "title": "Optimum Cultivation Conditions from Habitat Status of Glehnia littoralis in Korean Midwest Region, 한국약용작물학회지 25(2), 2017",
+      "url": "https://www.koreascience.or.kr/article/JAKO201718155359250.page"
+    },
+    {
+      "title": "군산 백석제 독미나리(Cicuta virosa) 서식지 훼손에 따른 대체습지 조성에 관한 연구, 2014 추계학술대회 논문집",
+      "url": "https://koreascience.kr/article/CFKO201401459527587.pdf"
+    },
+    {
+      "title": "서울신문(식약처·국립수목원 안내 인용), 봄철 독초 주의, 2026-04-16",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    },
+    {
+      "title": "경기남 외, 인천 무인도서 갯기름나물(식방풍)의 자생지 환경특성과 식생, 한국약용작물학회지 23(3), 2015",
+      "url": "https://koreascience.or.kr/article/JAKO201520441373351.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "한약재 '방풍'의 기원식물은 Saposhnikovia divaricata로 갯기름나물과 다른 식물이며, 국내에서는 갯기름나물 뿌리(식방풍)가 방풍 대용으로 재배·유통되어 이름이 섞여 쓰인다. 나물로 먹는 '방풍나물'은 갯기름나물의 어린 잎줄기다.",
+      "name": "방풍",
+      "points": [
+        "방풍(Saposhnikovia)은 잎이 3회 깃꼴로 잘게 갈라지고 갈래조각이 가늘고 단단한 선형이다.",
+        "갯기름나물은 잎조각이 넓적하고 두툼하며 분백색을 띤다.",
+        "방풍은 말린 뿌리를 약재로 쓰는 품목이고, 잎줄기를 나물로 파는 것은 갯기름나물이다.",
+        "'방풍'이라는 이름만 보고 사지 말고 학명이나 '갯기름나물(식방풍)' 표기를 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "갯방풍(Glehnia littoralis)은 약재 '해방풍'의 기원식물로, 식방풍과 함께 방풍 대용품으로 유통된 적이 있어 이름이 헷갈린다. 서로 다른 식물이다.",
+      "name": "갯방풍",
+      "points": [
+        "갯방풍은 바닷가 모래땅(사구)에 자란다.",
+        "갯기름나물은 바닷가 바위 절벽이나 급경사지에 곧게 자라 키가 30~100cm에 이른다.",
+        "약재명 '해방풍'은 갯방풍, '식방풍'은 갯기름나물을 가리킨다.",
+        "갯방풍 자생지에서 함부로 캐지 않는다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "독미나리(Cicuta virosa)는 같은 산형과의 독초로, 미나리로 잘못 알고 먹는 사고가 보고되어 식약처·국립수목원이 주의를 당부한다. 방풍나물과 직접 혼동한 사례는 확인되지 않았지만, 꽃 없을 때 산형과 잎만 보고 야생에서 캐는 것은 위험하다.",
+      "name": "독미나리",
+      "points": [
+        "독미나리는 습지·물가에 자라고, 갯기름나물은 바닷가 바위 절벽에 자란다.",
+        "독미나리는 뿌리줄기가 죽순처럼 마디진 모양이다.",
+        "독미나리는 잎 가장자리 톱니가 깊고 불쾌한 약품 같은 냄새가 난다.",
+        "독미나리는 멸종위기 야생생물 II급이라 채취 자체가 금지된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Horticulturae",
+        "note": "보령에서 재배한 잎과 뿌리를 여러 용매로 추출해 비교했으며, 클로로겐산은 에탄올·메탄올에서, 피라노쿠마린은 아세톤에서 많이 나오고 뿌리에 더 많은 것으로 보고했다.",
+        "title": "Simultaneous Quantification of Phenolic Compounds in the Leaves and Roots of Peucedanum japonicum Thunb. Using HPLC-PDA with Various Extraction Solvents",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/horticulturae11030334",
+        "year": "2025"
+      },
+      {
+        "journal": "Plants",
+        "note": "제주와 울릉에서 자란 개체를 비교해 지상부가 뿌리보다 폴리페놀·플라보노이드와 시험관 항산화 활성이 높았다고 보고했다.",
+        "title": "Regional Variations in Peucedanum japonicum Antioxidants and Phytochemicals",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants13030377",
+        "year": "2024"
+      },
+      {
+        "journal": "Molecules",
+        "note": "줄기·종자 색이 다른 23개 계통의 잎 성분을 비교해, 짙은 갈색 종자·연붉은 줄기 계통의 페놀 함량이 높은 경향을 보였다고 했다.",
+        "title": "Characteristics of Phenolic Compounds in Peucedanum japonicum According to Various Stem and Seed Colors",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules28176266",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 갯기름나물 잎과 뿌리의 페놀류·쿠마린류 성분 함량을 추출 용매, 재배 지역(제주·울릉), 줄기·종자 색에 따라 비교한 성분 분석 연구가 중심이다. 항산화 활성은 시험관 측정 수준이며, 사람 대상 연구는 확인되지 않아 건강 효과의 근거 수준은 낮다."
+  },
+  "name": "방풍나물",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 방풍죽",
+        "url": "https://encykorea.aks.ac.kr/Article/E0021807"
+      },
+      {
+        "title": "경기남 외, 인천 무인도서 갯기름나물(식방풍)의 자생지 환경특성과 식생, 한국약용작물학회지 23(3), 2015",
+        "url": "https://koreascience.or.kr/article/JAKO201520441373351.pdf"
+      },
+      {
+        "title": "방풍의 화학 성분, 생약학회지 39(4), 2008",
+        "url": "https://koreascience.kr/article/JAKO200804748558593.pdf"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 『증보산림경제』에 이른 봄 방풍 새싹을 넣어 죽을 쑤는 법이, 『도문대작』에 방풍죽을 향이 오래 남는 음식으로 높이 친 기록이 있다고 소개한다. 다만 그 '방풍'이 오늘날의 갯기름나물인지는 확인되지 않는다. 현대에는 갯기름나물 어린 잎줄기를 '방풍나물'이라는 산채로 먹고, 뿌리는 식방풍이라 하여 방풍 대용 약재로 재배·유통해 왔다고 학술 문헌에 적혀 있다."
+  },
+  "updatedAt": 1792098142664
+}

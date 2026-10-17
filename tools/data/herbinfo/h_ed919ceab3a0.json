@@ -1,0 +1,182 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "easy": [],
+    "has": false,
+    "sources": [
+      {
+        "title": "오재근·김용진 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (대한한의학원전학회지, 2010)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      },
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 나물(菜部)의 버섯 무리에 木耳·桑耳·槐耳·蘑菰·石耳·菌子가 실려 있음은 학술 논문으로 확인했으나, 표고를 가리키는 '香蕈' 항목은 찾지 못했고 蘑菰가 오늘날의 표고와 같은지 원문으로 확인하지 못해 고서 기록 없음으로 두었다."
+  },
+  "faq": [
+    {
+      "a": "익혀 드세요. 날것이나 덜 익힌 표고를 먹은 뒤 하루 이틀 사이 채찍 자국 같은 가려운 줄무늬 발진(표고 피부염)이 생긴 사례가 여러 나라에서 보고되었습니다. 보고된 사례들은 대개 1~2주 안에 나았지만, 증상이 생기면 진료를 받으세요.",
+      "q": "표고를 날로 먹어도 되나요?"
+    },
+    {
+      "a": "건표고를 모양과 품질에 따라 나눈 거래 등급입니다. 공판장 입찰가는 백화고가 가장 높고 흑화고(다화고), 동고, 향고, 향신, 슬라이스 순으로 낮았습니다(2023년 11월 기준). 산림청 안내는 모양에 따라 동고·향고·향신·등외품, 크기에 따라 극대·대·중·소형으로 나눈다고 적고 있습니다.",
+      "q": "백화고·동고·향신은 무엇이 다른가요?"
+    },
+    {
+      "a": "겉모양만으로 가리는 공인된 방법은 없으니 원산지 표시를 확인하세요. 중국산을 국산과 섞어 팔다 적발된 사례가 있어, 산림청은 2026년부터 품종 표시제와 '숲푸드' 등록 제품의 원산지·품종 표시 의무화를 추진한다고 밝혔습니다. 국내 재배품도 수입 톱밥 배지에서 키운 것이 있으니 궁금하면 판매자에게 재배 방식을 물어보세요.",
+      "q": "국산 표고와 중국산 표고는 어떻게 구별하나요?"
+    },
+    {
+      "a": "먹지 마세요. 독버섯인 화경버섯은 표고·느타리와 비슷해 일본에서 가장 흔한 버섯 중독 원인이며, 대 속 얼룩 같은 특징도 없는 개체가 있어 일반인이 확실히 가리기 어렵습니다. 시중에서 파는 재배 표고를 사 드시는 것이 안전합니다.",
+      "q": "산에서 표고처럼 생긴 버섯을 땄는데 먹어도 되나요?"
+    },
+    {
+      "a": "자연 조건의 원목재배는 봄(4~6월)과 가을(9~11월)에 많이 납니다. 시설·톱밥재배는 온도를 맞춰 일 년 내내 생산하므로 생표고는 연중 살 수 있습니다.",
+      "q": "표고는 언제가 제철인가요?"
+    }
+  ],
+  "id": {
+    "eat": "생표고는 볶음·전골·전·국에, 건표고는 불려서 국물과 나물·조림에 쓴다.",
+    "eng": "Shiitake",
+    "family": "솔밭버섯과",
+    "grade": "건표고는 공판장에서 백화고·흑화고(다화고)·동고·향고·향신·슬라이스 등으로 나뉘어 거래되며, 2023년 11월 입찰가 기준 이 순서로 값이 높았다. 산림청 재배 안내는 수확한 표고를 모양에 따라 동고·향고·향신·등외품으로, 크기에 따라 극대·대·중·소형으로 나누고, 생표고는 갓이 60~70% 벌어졌을 때 딴다고 적었다. 첫물로 딴 표고가 품질이 좋아 동고 같은 고급품으로 말리기 유리하다는 분석도 있다.",
+    "habitat": "국내 유통품은 거의 모두 재배품으로, 참나무류 원목에 종균을 넣는 원목재배와 톱밥 배지를 쓰는 톱밥재배로 키운다. 자실체는 습도 80~95%, 8~22℃ 정도에서 잘 나며, 자연 조건의 재배 적기는 봄(4~6월)과 가을(9~11월)이다.",
+    "look": {
+      "fruit": "갓은 반구형에서 펴지며 갈색~진갈색이다. 재배품 갓 지름은 대개 5cm 안팎이고, 품종에 따라 색이 더 짙은 것도 있다.",
+      "stem": "대는 갓 아래 붙고 길이 3~5cm, 굵기 1~1.6cm 정도로 갓에 비해 굵고 짧은 편이다."
+    },
+    "parts": "자실체(갓과 대). 대는 질겨서 따로 국물용으로 쓰기도 한다.",
+    "prep": "반드시 충분히 익혀 먹는다. 날것이나 덜 익힌 표고를 먹은 뒤 하루 이틀 사이 채찍 자국 같은 가려운 줄무늬 발진이 생기는 '표고 피부염'이 여러 나라에서 보고되며, 원인 물질(렌티난)은 열에 약해 익히면 줄어드는 것으로 알려져 있다. 마른 표고는 물에 불린 뒤 조리한다.",
+    "sci": "Lentinula edodes (Berk.) Pegler",
+    "season": {
+      "collect": [
+        4,
+        5,
+        6,
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "산림청 임산물 재배기술 - 표고버섯 (Lentinula edodes)",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_02_01.pdf"
+      },
+      {
+        "title": "한국농촌경제연구원 임업관측(표고버섯) 2023년 12월호",
+        "url": "https://krei.re.kr/attach/observ/2025/02/14/5a861e42-9241-475b-bd78-f41e4e29a9f4.pdf"
+      },
+      {
+        "title": "한국농촌경제연구원 - 우리나라 표고 산업의 정책과제와 발전방향 (2004)",
+        "url": "https://repository.krei.re.kr/bitstream/2018.oak/14726/1/%EC%9A%B0%EB%A6%AC%EB%82%98%EB%9D%BC%20%ED%91%9C%EA%B3%A0%20%EC%82%B0%EC%97%85%EC%9D%98%20%EC%A0%95%EC%B1%85%EA%B3%BC%EC%A0%9C%EC%99%80%20%EB%B0%9C%EC%A0%84%20%EB%B0%A9%ED%96%A5.pdf"
+      },
+      {
+        "title": "한국버섯학회지 - 표고버섯 신품종 '참존' 육성 및 특성 (농촌진흥청, 2023)",
+        "url": "https://koreascience.or.kr/article/JAKO202305165797453.pdf"
+      },
+      {
+        "title": "Shiitake Mushroom Dermatitis: A Review (Am J Clin Dermatol, 2016)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/27566177/"
+      }
+    ],
+    "store": "생표고는 냉장 보관하고 되도록 빨리 먹는다. 오래 두려면 말려서(건표고) 습기 없는 곳에 둔다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "와카야마시 - 독버섯 주의 자료 (ツキヨタケ와 シイタケ 비교)",
+      "url": "https://www.city.wakayama.wakayama.jp/_res/projects/default_project/_page_/001/066/343/1107-6.pdf"
+    },
+    {
+      "title": "일본 후생노동성 - 독버섯 식중독 주의 통지 (2018.9, ツキヨタケ 오인 식용버섯 목록)",
+      "url": "https://www.mhlw.go.jp/content/11130500/000360603.pdf"
+    },
+    {
+      "title": "Sugano et al. - LAMP for rapid identification of Omphalotus japonicus (Food Chem Mol Sci, 2022)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9253582"
+    },
+    {
+      "title": "nippon.com - 와카야마현, 표고와 닮은 독버섯 ツキヨタケ 주의 (2021)",
+      "url": "https://www.nippon.com/en/news/ks202107259797/"
+    },
+    {
+      "title": "산업경제신문 - 중국산 표고버섯 '국산 둔갑'… 산림청 유통 질서 대책 (2025.12)",
+      "url": "https://sateconomy.co.kr/news/view/1065592384138931"
+    },
+    {
+      "title": "한국농촌경제연구원 임업관측(표고버섯) 2023년 12월호",
+      "url": "https://krei.re.kr/attach/observ/2025/02/14/5a861e42-9241-475b-bd78-f41e4e29a9f4.pdf"
+    },
+    {
+      "title": "한국버섯학회지 - 표고버섯 신품종 '참존' 육성 및 특성 (농촌진흥청, 2023)",
+      "url": "https://koreascience.or.kr/article/JAKO202305165797453.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "일본 후생노동성과 지자체는 화경버섯(일본명 쓰키요타케)을 표고·느타리 등으로 잘못 알고 먹는 중독을 해마다 경고하며, 일본 버섯 식중독에서 가장 흔한 원인으로 꼽힌다. 먹은 뒤 30분~1시간 안에 구토·설사·복통이 난다. 우리나라에도 자라므로 산에서 딴 표고 닮은 버섯은 먹지 않는다.",
+      "name": "화경버섯",
+      "points": [
+        "대를 세로로 갈라 보면 화경버섯은 살 속에 검은 자줏빛~흑갈색 얼룩이 있다. 다만 얼룩이 흐리거나 없는 개체도 있어, 얼룩이 없다고 안전한 것은 아니다.",
+        "화경버섯은 주름과 대가 만나는 곳에 고리처럼 도드라진 띠가 있다.",
+        "화경버섯은 갓이 10~20cm로 크고 대가 굵고 짧으며 갓 한쪽으로 치우쳐 붙어 반달·콩팥 모양이 되기 쉽다.",
+        "화경버섯 주름은 어두운 곳에서 희미하게 녹백색 빛을 낸다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Swiss Medical Weekly",
+        "note": "덜 익힌 표고를 먹은 50대 남성에게 채찍 자국 같은 줄무늬 발진이 생겼다가 일주일 안에 나은 증례보고로, 한 사람의 사례일 뿐이다.",
+        "title": "Whip-Like Rash in the Emergency Room: Shiitake-Induced Flagellate Dermatitis, a Case Report",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.57187/5389",
+        "year": "2026"
+      },
+      {
+        "journal": "Diagnostics",
+        "note": "덜 익힌 표고를 먹고 이틀 뒤 줄무늬 발진이 생긴 사례를 소개한 증례보고로, 드물지만 특징적인 반응임을 설명한다.",
+        "title": "Flagellate Dermatitis Induced by Shiitake Mushrooms: Clinical Features of a Rare but Characteristic Entity",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/diagnostics16050692",
+        "year": "2026"
+      },
+      {
+        "journal": "Emergency Care Journal",
+        "note": "표고가 장 안에서 뭉쳐 장폐색을 일으켜 수술한 드문 증례보고로, 일반화할 수 있는 결과는 아니다.",
+        "title": "Shiitake Mushroom Bezoar: A Rare Cause of Small Bowel Obstruction in Vietnam and Lessons in Diagnosis and Management",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.4081/ecj.2025.13766",
+        "year": "2025"
+      },
+      {
+        "journal": "Applied Microbiology and Biotechnology",
+        "note": "품종 선택, 배지 활착·갈변, 자실체 발생 등 표고 재배 과정과 생물학을 정리한 리뷰로, 건강 효과를 다룬 논문은 아니다.",
+        "title": "Cultivation Methods and Biology of Lentinula edodes",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s00253-024-13387-w",
+        "year": "2025"
+      },
+      {
+        "journal": "Clinical Case Reports",
+        "note": "표고를 먹은 뒤 가려운 줄무늬 발진이 생겨 스테로이드로 치료한 네팔 첫 증례보고다.",
+        "title": "Shiitake Mushroom-Induced Flagellate Dermatitis: The First Case Reported in Nepal",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1002/ccr3.9228",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년 표고 논문은 대부분 재배·품종·가공·저장 연구이고, 사람에 관한 자료는 덜 익힌 표고를 먹은 뒤 생긴 '표고 피부염' 증례보고가 중심이다. 표고나 그 성분의 건강 효과를 사람에게서 확인한 최근 임상시험은 이번 조사에서 찾지 못했으며, 이런 효능 주장은 대체로 세포·동물 실험 수준이다."
+  },
+  "name": "표고",
+  "st": "ok",
+  "updatedAt": 1791968691249
+}

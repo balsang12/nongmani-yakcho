@@ -1,0 +1,213 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "蒲公草",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한의학고전DB 동의보감 탕액편 권03",
+        "url": "https://mediclassics.kr/books/8/volume/22"
+      }
+    ],
+    "verified": false,
+    "warn": "이번 작업에서 동의보감 원문 데이터베이스(한국한의학연구원, 위키문헌)에 접속하지 못해 원문 성미와 본문을 직접 대조하지 못했다. 항목 이름과 옛 한글 이름은 원문 확인이 필요하다."
+  },
+  "faq": [
+    {
+      "a": "꽃 바로 밑 초록 총포를 보세요. 바깥 조각이 아래로 뒤집혀 있으면 서양민들레, 꽃에 붙어 위를 향하면 토종 민들레입니다. 서양민들레는 봄 말고도 거의 한 해 내내 꽃이 핍니다.",
+      "q": "토종 민들레와 서양민들레는 어떻게 구별하나요?"
+    },
+    {
+      "a": "나물로는 봄철 어린잎이 좋습니다. 약재 포공영은 뿌리와 꽃이 피기 전의 전초를 쓴다고 기록돼 있습니다.",
+      "q": "민들레는 언제 캐는 게 좋나요?"
+    },
+    {
+      "a": "네, 흰민들레는 꽃이 흰 별도의 종입니다. 재배한 흰민들레도 유통되니 상품에 어떤 종인지 표시를 확인하세요.",
+      "q": "흰민들레와 노란 민들레는 다른 식물인가요?"
+    },
+    {
+      "a": "국내에서는 오랫동안 Taraxacum platycarpum을 민들레로 보았으나, 2020년 국가 목록에서 이 이름이 빠지고 2023년 국립수목원이 '털민들레'(T. mongolicum)를 '민들레'로 고쳤다고 소개되었습니다. 옛 자료와 학명이 다를 수 있습니다.",
+      "q": "민들레 학명이 바뀌었다는데 맞나요?"
+    },
+    {
+      "a": "권하지 않습니다. 길가·잔디밭은 오염 우려가 있고 외래종 서양민들레가 대부분이니, 깨끗한 곳에서 거둔 것이나 출처가 분명한 것을 사세요.",
+      "q": "길가 민들레를 캐 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린잎 나물·무침, 말린 뿌리나 꽃으로 우린 민들레차.",
+    "eng": "Dandelion",
+    "family": "국화과",
+    "grade": "약재로 쓰는 포공영은 뿌리와 꽃이 피기 전의 전초를 쓴다고 적혀 있어, 꽃대가 서기 전의 어린 포기를 좋게 본다. 시장에 흔한 서양민들레와 구별하려면 총포 바깥 조각이 젖혀지지 않았는지 확인한다.",
+    "habitat": "우리나라 각지의 산과 들, 길가에 흔한 여러해살이풀이다. 볕이 드는 곳을 좋아하나 반그늘에서도 자라고, 물 빠짐이 좋은 땅에서 잘 큰다. 도시의 개발지·도로변에는 외래종인 서양민들레가 더 많고, 토종 민들레는 주로 농촌 지역에 남아 있다.",
+    "look": {
+      "flower": "봄에 노란 꽃이 핀다. 꽃 밑을 받치는 초록 총포의 바깥 조각이 꽃 쪽으로 붙어 위를 향하고 뒤로 젖혀지지 않는다.",
+      "fruit": "열매에 흰 갓털이 달려 둥근 솜뭉치를 이루고 바람에 날려 퍼진다.",
+      "leaf": "줄기 없이 뿌리에서 잎이 모여 나 땅에 퍼지며, 길쭉한 잎이 깃 모양으로 깊게 갈라지고 갈래 끝이 뾰족하다.",
+      "root": "땅속으로 깊게 뻗는 곧은 뿌리를 가진다.",
+      "stem": "잎 사이에서 꽃대가 올라와 끝에 꽃이 하나씩 달리며, 꽃대나 뿌리를 자르면 흰 젖 같은 즙이 나온다."
+    },
+    "parts": "어린잎(나물), 뿌리와 꽃피기 전 전초(약재 '포공영'), 꽃·뿌리(차)",
+    "prep": "봄철 어린잎을 다듬어 나물로 먹으며, 쓴맛이 강하면 데치거나 물에 우려 조절한다. 길가·잔디밭에서 자란 것은 오염 우려가 있으니 깨끗한 곳에서 거둔 것을 쓴다.",
+    "sci": "Taraxacum mongolicum Hand.-Mazz.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "민들레 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0020094"
+      },
+      {
+        "title": "민들레 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%EB%AF%BC%EB%93%A4%EB%A0%88"
+      },
+      {
+        "title": "흔한 풀꽃의 반전! 민들레는 민들레가 아니었다? (내 손안에 서울)",
+        "url": "https://mediahub.seoul.go.kr/archives/2017968"
+      },
+      {
+        "title": "경기도 서부 일원의 민들레속 식물의 분포 (한국생태학회지, 1997)",
+        "url": "https://koreascience.or.kr/article/JAKO199711919962400.page?lang=ko"
+      }
+    ],
+    "store": "꽃과 뿌리는 말려 두었다가 차로 우려 마신다.",
+    "taste": "잎과 뿌리 모두 쓴맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "[이소영의 도시식물 탐색] 다 같은 민들레가 아니다 (서울신문, 2017)",
+      "url": "https://m.seoul.co.kr/news/2017/11/23/20171123029005"
+    },
+    {
+      "title": "경기도 서부 일원의 민들레속 식물의 분포 (한국생태학회지, 1997)",
+      "url": "https://koreascience.or.kr/article/JAKO199711919962400.page?lang=ko"
+    },
+    {
+      "title": "서양민들레 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%96%91%EB%AF%BC%EB%93%A4%EB%A0%88"
+    },
+    {
+      "title": "국내 재배 흰민들레 부위별 열수 추출물의 항산화 및 항암 활성 (한국식품영양과학회지, 2015)",
+      "url": "https://koreascience.or.kr/article/JAKO201526650061304.do"
+    },
+    {
+      "title": "고들빼기 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003397"
+    },
+    {
+      "title": "씀바귀 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Contents/Item/E0034197"
+    },
+    {
+      "title": "민들레 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%BC%EB%93%A4%EB%A0%88"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "유럽 원산 귀화식물(Taraxacum officinale)로 도시와 길가에서 토종 민들레보다 훨씬 흔하다. 꽃 밑 초록 총포의 바깥 조각 방향으로 가장 쉽게 가른다.",
+      "name": "서양민들레",
+      "points": [
+        "서양민들레는 총포 바깥 조각이 아래로 뒤집혀 처지고, 토종 민들레는 위로 꽃에 붙어 있다.",
+        "서양민들레는 한 해 내내 꽃이 피지만 토종 민들레는 주로 봄에 핀다.",
+        "서양민들레는 도로변·아파트 단지 같은 개발지에 많고, 토종 민들레는 농촌 지역에 주로 남아 있다.",
+        "서양민들레는 씨를 더 많이, 1년에 여러 번 만든다고 보고되었다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "우리나라 민들레의 한 종(Taraxacum coreanum)으로 꽃이 흰색이며, 국내에서 재배해 식용으로도 쓴다.",
+      "name": "흰민들레",
+      "points": [
+        "흰민들레는 꽃잎이 흰색이고, 민들레는 노란색이다.",
+        "흰민들레는 밭에서 재배한 것도 유통되므로 '토종 민들레'라는 상품명에 어느 종인지 함께 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "고들빼기·씀바귀류도 흰 즙과 쓴맛, 노란 꽃을 가진 국화과 나물이라 어린 잎만 보면 헷갈릴 수 있다. 줄기가 있는지로 가른다.",
+      "name": "고들빼기",
+      "points": [
+        "민들레는 줄기 없이 잎이 뿌리에서 모여 나고, 고들빼기는 줄기가 곧게 서서 가지를 친다.",
+        "민들레는 꽃대 하나에 꽃이 하나 달리고, 고들빼기는 가지 끝에 여러 개가 모여 달린다.",
+        "고들빼기는 줄기잎 밑부분이 줄기를 감싼다.",
+        "민들레는 봄에, 고들빼기는 가을에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "씀바귀(Ixeris dentata)도 봄나물로 함께 캐는 쓴 나물이다. 꽃대와 꽃 모양으로 구별한다.",
+      "name": "씀바귀",
+      "points": [
+        "씀바귀는 높이 20~50cm의 줄기가 서고 위쪽에서 가지를 치며, 민들레는 줄기가 없다.",
+        "씀바귀 꽃은 지름 약 15mm로 가지 끝마다 달리고 5~7월에 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "민들레속 여러 종의 전통적 쓰임과 성분, 실험실 수준의 생리활성 연구를 20년치 정리한 리뷰다.",
+        "title": "Bioactive Compounds from Vegetal Organs of Taraxacum Species (Dandelion) with Biomedical Applications: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ijms26020450",
+        "year": "2025"
+      },
+      {
+        "journal": "Biomedicine & Pharmacotherapy",
+        "note": "민들레의 트리테르펜·페놀산·플라보노이드 등 성분과 보고된 약리 작용을 정리한 리뷰다.",
+        "title": "The phytochemical and pharmacological profile of dandelion",
+        "type": "리뷰",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0753332224012198",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "약재 포공영(Taraxaci herba)의 식물학, 전통 사용, 성분, 품질 관리를 함께 다룬 종합 리뷰다.",
+        "title": "Botany, Traditional Use, Phytochemistry, Pharmacology and Quality Control of Taraxaci herba: Comprehensive Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ph17091113",
+        "year": "2024"
+      },
+      {
+        "journal": "Chemistry & Biodiversity",
+        "note": "민들레 꽃 추출물이 생쥐의 헬리코박터 관련 위염 모델에서 보호 작용을 보였다고 보고했으나, 사람에게 적용할 수 있는지는 확인되지 않았다.",
+        "title": "Potentialities of Dandelion (Taraxacum Mongolicum Hand.-Mazz.) Flower Extracts on Gastric Protection against Helicobacter Pylori and Characterization of its Bioactive Constituents",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1002/cbdv.202400140",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 민들레속 전체를 정리한 리뷰가 많고, 개별 연구는 대부분 시험관·세포·동물 실험이다. 사람을 대상으로 효과를 확인한 연구는 이번에 찾지 못해, 건강 효과는 아직 가능성 수준으로 보아야 한다."
+  },
+  "name": "민들레",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "민들레 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0020094"
+      }
+    ],
+    "text": "뿌리와 꽃피기 전의 전초를 '포공영'이라 부르며 한방에서 열을 내리고 염증을 가라앉히는 약재로 써 왔다고 적혀 있다. 민간에서는 젖이 잘 돌게 하는 데 쓰기도 했고, 쓴맛 나는 위장약과 봄 산나물로도 이용되었다."
+  },
+  "updatedAt": 1792098142664
+}

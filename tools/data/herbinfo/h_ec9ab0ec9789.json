@@ -1,0 +1,182 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "이 기록은 우엉의 씨앗(악실, 곧 우방자)에 관한 것이다. 어디에나 자라며, 열매 겉껍질에 가시가 많아 쥐가 지나가면 들러붙어 떨어지지 않으므로 '서점자(鼠粘子)'라고도 부른다고 적었다. '대력자(大力子)'라는 다른 이름도 실었다.",
+      "눈을 밝게 하고 바람(風)으로 상한 것을 없애며, 풍독으로 부은 데와 목구멍·가슴이 막힌 데, 풍열로 생긴 두드러기와 헌데에 쓴다고 적었다.",
+      "씨앗은 살짝 볶아 찧어 부숴서 쓴다고 했다.",
+      "뿌리와 줄기는 따로 항목을 두어, 상한(傷寒)과 중풍으로 얼굴이 부은 데, 소갈(消渴)로 속에 열이 있는 데 쓴다고 적었다."
+    ],
+    "han": "惡實",
+    "has": true,
+    "ki": "性平一云溫 味辛一云甘 無毒",
+    "kiKo": "성질은 평하다(따뜻하다는 설도 있음)고 했고, 맛은 매우며(달다는 설도 있음) 독은 없다고 적었다.",
+    "old": "우웡ᄡᅵ",
+    "orig": "主明目, 除風傷. … 治風毒腫, 利咽膈, 潤肺散氣, 療風熱癮疹瘡瘍. … 卽牛蒡子也. 處處有之, 外殼多刺, 鼠過之則綴惹不可脫, 故亦名鼠粘子. … 微炒, 搗碎用. … 一名大力子. / 根莖: 療傷寒及中風面腫, 消渴熱中.",
+    "sources": [
+      {
+        "title": "한의학고전DB 내손안에 동의보감, 탕액편 권3 草部 惡實(1.36)",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2544"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (惡實 우웡ᄡᅵ)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "껍질이 매끈하고 잔뿌리와 혹이 적으며 마르지 않은 것을 고르세요. 지름이 2cm를 훌쩍 넘게 너무 굵은 것은 질길 수 있습니다.",
+      "q": "좋은 우엉은 어떻게 고르나요?"
+    },
+    {
+      "a": "겨울~이른 봄(1~3월)이 제철로 소개됩니다. 봄에 씨를 뿌린 우엉은 7월부터 이듬해 2월까지 캐기 때문에 시장에는 오랫동안 나옵니다.",
+      "q": "우엉 제철은 언제인가요?"
+    },
+    {
+      "a": "껍질을 벗겨 썬 뒤 식초를 조금 탄 물에 담가 두면 됩니다. 조림은 한 번 데쳐 식힌 뒤 양념에 조립니다.",
+      "q": "우엉의 떫은맛은 어떻게 빼나요?"
+    },
+    {
+      "a": "네. 식약처 식품원료목록에는 우엉의 뿌리와 잎이 식품에 쓸 수 있는 부위로 올라 있고, 어린 잎을 채소로 거두기도 합니다.",
+      "q": "우엉 잎도 먹을 수 있나요?"
+    },
+    {
+      "a": "우엉 잎은 뿌리에서 긴 잎자루를 달고 모여 나는 큰 심장 모양이고, 수리취 잎은 줄기에 어긋나게 달리는 달걀꼴입니다.",
+      "q": "우엉과 수리취 잎은 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "간장·설탕으로 조린 우엉조림, 된장 장아찌로 많이 먹고, 어린 잎도 채소로 먹는다.",
+    "eng": "Great burdock",
+    "family": "국화과",
+    "grade": "껍질이 매끈하고 잔뿌리나 혹이 적으며, 바람과 마름을 피해 보관된 것을 고른다. 지름이 2cm를 훌쩍 넘게 굵은 것은 질길 수 있다. 재배 자료에서도 곧고 길며 살이 단단하고 향이 진한 뿌리를 좋은 품질로 본다.",
+    "habitat": "원산지는 분명하지 않으며 중국에서 예부터 심어 왔다. 우리나라에서는 남부를 중심으로 전국 밭에서 채소로 기른다. 깊은 흙에서 곧은 뿌리가 잘 자란다.",
+    "look": {
+      "flower": "7월 무렵 짙은 자주색(드물게 흰색) 꽃이 핀다.",
+      "fruit": "열매(씨앗)는 짙은 갈색이고, 겉껍질에 가시가 많아 지나가는 동물 털에 잘 달라붙는다.",
+      "leaf": "뿌리에서 긴 잎자루를 단 큰 심장 모양 잎이 모여 나고, 가장자리에 톱니가 있다. 윗면은 짙은 녹색, 뒷면은 흰 잔털이 빽빽해 희끗하다.",
+      "root": "곧은뿌리가 땅속으로 곧고 길게 뻗으며, 긴 품종은 1m 안팎에 이른다.",
+      "stem": "꽃대는 1.5m 안팎까지 자란다."
+    },
+    "parts": "뿌리(주로 먹는 부위)와 어린 잎. 식약처 식품원료목록의 사용부위도 뿌리·잎이다. 씨앗은 한약재 '악실(우방자)'로 쓴다.",
+    "prep": "껍질을 벗기거나 긁어 낸 뒤 가늘게 썰어 식초 탄 물(물 5컵에 식초 1큰술 정도)에 담가 떫은맛을 뺀다. 조림을 할 때는 한 번 데쳐 물기를 빼고 식힌 뒤 양념에 조린다. 데친 뒤 물에 오래 헹구면 맛과 영양이 빠지므로 바로 쓴다.",
+    "sci": "Arctium lappa L.",
+    "season": {
+      "collect": [
+        1,
+        2,
+        3,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "flower": [
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 우엉",
+        "url": "https://encykorea.aks.ac.kr/Article/E0040035"
+      },
+      {
+        "title": "제주특별자치도 농업기술원, 근채류(우엉) 재배 자료",
+        "url": "https://agri.jeju.go.kr/files/board/%EA%B7%BC%EC%B1%84%EB%A5%98(%EC%9A%B0%EC%97%89).pdf"
+      },
+      {
+        "title": "서울시 미디어허브(서울식품안전뉴스), 아삭아삭 맛있는 식감 '우엉견과조림' (2017)",
+        "url": "https://mediahub.seoul.go.kr/archives/1060058"
+      },
+      {
+        "title": "식품안전나라 식품원료 목록 (우엉: 가능 원료, 사용부위 뿌리·잎)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=441"
+      }
+    ],
+    "store": "바람과 마름을 피해 보관한다. 저장성이 좋은 채소로 소개된다.",
+    "taste": "특유의 향이 강하고, 날것은 떫은맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전, 수리취",
+      "url": "https://encykorea.aks.ac.kr/Article/E0031353"
+    },
+    {
+      "title": "제주특별자치도 농업기술원, 근채류(우엉) 재배 자료",
+      "url": "https://agri.jeju.go.kr/files/board/%EA%B7%BC%EC%B1%84%EB%A5%98(%EC%9A%B0%EC%97%89).pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전, 우엉",
+      "url": "https://encykorea.aks.ac.kr/Article/E0040035"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "수리취는 같은 국화과로 잎이 크고 뒷면이 희끗하며 자주색 꽃이 피어 우엉 잎과 닮아 보인다. 잎이 나는 자리와 잎 모양, 뿌리로 구별한다.",
+      "name": "수리취",
+      "points": [
+        "우엉 잎은 뿌리에서 모여 나고 잎자루가 길며 잎몸이 큰 심장 모양이다. 수리취 잎은 줄기에 어긋나게 달리고 달걀꼴로 끝이 뾰족하다.",
+        "우엉은 땅속으로 1m 안팎까지 곧게 뻗는 굵고 긴 곧은뿌리를 먹으려고 밭에서 기르는 채소다.",
+        "수리취 잎 뒷면은 흰 털이 빽빽하고, 우엉 잎 뒷면은 회백색 잔털이 있다.",
+        "수리취는 9~10월에 줄기 끝에 큰 둥근 꽃송이가 달리고, 우엉은 7월 무렵 꽃이 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "JBRA Assisted Reproduction",
+        "note": "다낭성난소증후군 여성 60명을 대상으로 12주간 우엉 뿌리 가루와 위약을 비교한 소규모 시험으로, 일부 혈액 지표 변화가 관찰됐다.",
+        "title": "Effects of Arctium lappa L. Root Powder on Some Markers of Oxidative Stress and Inflammation in Women with Polycystic Ovary Syndrome: A Randomized, Double-Blind Controlled Clinical Trial Study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.5935/1518-0557.20250189",
+        "year": "2026"
+      },
+      {
+        "journal": "Foods",
+        "note": "우엉의 혈당 관련 연구를 정리한 리뷰로, 근거가 주로 세포·동물 실험이고 사람 대상 혈당 시험은 아직 부족하다고 했다.",
+        "title": "Unveiling the Antihyperglycemic Potential of Arctium lappa L. (Asteraceae): Traditional Application, Phytochemistry, and Molecular Insights",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods15040794",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "면역 관련 피부질환에 대한 우엉 연구를 비판적으로 검토한 리뷰로, 임상 근거는 증례 보고와 소규모 예비 연구 수준이라고 평가했다.",
+        "title": "Immunopharmacological potential of Arctium lappa L. in immune-mediated skin diseases: A critical review of experimental and clinical evidence",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1660352",
+        "year": "2025"
+      },
+      {
+        "journal": "Natural Products and Bioprospecting",
+        "note": "우엉 뿌리의 약리 연구를 정리한 리뷰로, 대부분 동물·세포 연구라 표준화와 임상 검증이 필요하다고 했다.",
+        "title": "Harnessing the power of Arctium lappa root: a review of its pharmacological properties and therapeutic applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s13659-024-00466-8",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년 리뷰들은 우엉 뿌리의 혈당·면역·피부 관련 작용을 다루지만, 근거가 대부분 세포·동물 실험이며 사람 대상 연구는 적다고 정리했다. 사람 대상으로는 다낭성난소증후군 여성 60명에게 우엉 뿌리 가루(하루 460mg)를 12주 먹게 한 무작위 이중맹검 시험(2026)이 있는데, 위약군보다 일부 항산화 지표가 높고 산화·염증 지표가 낮았지만 월경 횟수와 다모증 점수는 차이가 없었다."
+  },
+  "name": "우엉",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 우엉",
+        "url": "https://encykorea.aks.ac.kr/Article/E0040035"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 우엉을 한국·중국·일본에서 채소로 먹으며, 씨앗을 한약재 '악실(惡實)'로 써서 풍열로 인한 기침, 인후염, 발진 등에 썼다고 소개한다."
+  },
+  "updatedAt": 1792228597022
+}

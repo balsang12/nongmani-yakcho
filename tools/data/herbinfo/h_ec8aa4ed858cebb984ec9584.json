@@ -1,0 +1,143 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네. 식약처 식품원료 목록에 스테비아(Stevia rebaudiana)의 '잎'이 식품에 사용할 수 있는 원료로 올라 있습니다. 줄기·뿌리가 아니라 잎을 판매 부위로 적어 주세요.",
+      "q": "스테비아 잎을 그대로 팔아도 되나요?"
+    },
+    {
+      "a": "아닙니다. 감미료는 잎에서 단맛 성분(스테비올배당체)만 뽑아 정제한 식품첨가물입니다. 말린 잎은 농산물·차 원료로 다룹니다.",
+      "q": "가루 감미료 '스테비아'와 같은 건가요?"
+    },
+    {
+      "a": "스테비아로 만든 농업용 자재(영양제)를 쓰는 재배 방법을 말합니다. 그렇게 키운 토마토가 스테비아처럼 단 것은 아니며, 스테비아 잎 상품과도 다릅니다.",
+      "q": "'스테비아 농법' 토마토와 관계가 있나요?"
+    },
+    {
+      "a": "꽃봉오리가 생길 때부터 꽃이 피기 직전까지가 좋습니다. 국내 연구(수원)에서는 9월 10~15일 무렵이 알맞았고, 꽃이 피면 단맛 성분이 줄어듭니다.",
+      "q": "언제 거두나요?"
+    },
+    {
+      "a": "서리에 약해 노지에서는 겨울을 나기 어렵습니다. 어미 포기를 하우스에서 겨울나게 한 뒤 봄에 꺾꽂이로 모종을 만듭니다.",
+      "q": "겨울을 나나요?"
+    },
+    {
+      "a": "안 됩니다. 스테비아 잎은 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 혈당·다이어트 같은 표현은 쓸 수 없습니다. '설탕 대신 단맛을 내는 잎' 정도로 맛과 쓰임새를 소개해 주세요.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 잎을 차로 우리거나 다른 차에 조금 섞어 단맛을 낸다. 잎 가루를 음료·요리에 소량 넣기도 한다.",
+    "family": "국화과 스테비아속",
+    "grade": "",
+    "habitat": "남미 파라과이와 브라질 국경 지대가 원산지다. 따뜻하고 습한 곳을 좋아하고 서리를 견디지 못해, 우리나라에서는 봄에 꺾꽂이 모종을 밭에 심어 가을에 거두는 한해살이처럼 키운다. 전북 고창·정읍 등에서 재배한 기록이 있고, 지금도 소규모 농가와 텃밭에서 키운다.",
+    "look": {
+      "flower": "가을에 낮이 짧아지면 줄기 끝에 흰색(옅은 보랏빛이 도는) 작은 꽃이 모여 핀다. 향은 거의 없다.",
+      "leaf": "길쭉한 달걀 모양 잎이 줄기에 마주 붙는다. 가장자리 윗부분에 얕은 톱니가 있고, 잎을 씹으면 단맛이 강하게 난다.",
+      "smell": "잎에서 풀 냄새가 약하게 나고, 맛은 설탕보다 훨씬 달며 뒷맛이 살짝 쓰다.",
+      "stem": "높이 30~60cm 안팎으로 자라며 가지가 많이 갈라진다. 줄기에 잔털이 있다."
+    },
+    "parts": "잎(식품원료 목록상 사용 부위는 잎)",
+    "prep": "꽃이 피기 직전에 줄기째 베어 잎을 훑어 그늘이나 낮은 온도에서 말린다. 줄기는 단맛이 적어 골라낸다.",
+    "sci": "Stevia rebaudiana (Bertoni) Bertoni",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품안전나라 식품원료 목록 — 스테비아(Stevia rebaudiana) 잎 '가능'",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=408"
+      },
+      {
+        "title": "강광희·이은웅, 스테비아에 관한 생리 생태적 연구, 한국작물학회지 26(1), 1981",
+        "url": "https://db.koreascholar.com/Article/Detail/11976"
+      },
+      {
+        "title": "Acta Scientiarum. Agronomy(2024), Stevia rebaudiana: Reporting data from the sweetener crop",
+        "url": "https://www.scielo.br/j/asagr/a/vTQCcfZpnBd3LbRDypPrdFc/?lang=en"
+      },
+      {
+        "title": "Wikipedia — Stevia rebaudiana",
+        "url": "https://en.wikipedia.org/wiki/Stevia_rebaudiana"
+      },
+      {
+        "title": "식품음료신문, 한국스테비아, 단맛 허브 '스테비아'로 세계 진출(2006.12.8)",
+        "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=20572"
+      }
+    ],
+    "store": "바싹 말린 잎을 밀폐 용기에 담아 빛과 습기를 피해 서늘한 곳에 둔다.",
+    "taste": "단맛이 매우 강하다. 말린 잎을 많이 넣으면 감초 같은 쓴 뒷맛이 남는다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Stevia rebaudiana",
+      "url": "https://en.wikipedia.org/wiki/Stevia_rebaudiana"
+    },
+    {
+      "title": "Acta Scientiarum. Agronomy(2024), Stevia rebaudiana: Reporting data from the sweetener crop",
+      "url": "https://www.scielo.br/j/asagr/a/vTQCcfZpnBd3LbRDypPrdFc/?lang=en"
+    },
+    {
+      "title": "Wikipedia — Eupatorium(등골나물속)",
+      "url": "https://en.wikipedia.org/wiki/Eupatorium"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 국화과 등골나물족 식물로, 산과 들에서 자라며 흰 꽃이 작게 모여 피는 모습이 스테비아와 비슷하다. 등골나물속 일부 종은 간을 상하게 하는 성분이 있다고 알려져 있다.",
+      "name": "등골나물",
+      "points": [
+        "스테비아 잎은 씹으면 바로 강한 단맛이 난다. 단맛이 없으면 스테비아가 아니다.",
+        "스테비아는 밭에서 모종으로 키우는 작물이다. 산과 들에서 저절로 난 비슷한 풀은 따서 먹지 않는다.",
+        "등골나물은 키가 1m 넘게 자라고 잎이 더 크고 넓다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "마트에서 파는 '스테비아' 감미료는 잎에서 단맛 성분만 뽑아 정제한 식품첨가물이다. 잎 자체와는 다른 상품이다.",
+      "name": "스테비아 감미료(스테비올배당체)",
+      "points": [
+        "잎 상품은 '스테비아 잎' 또는 '스테비아잎 차'로, 감미료는 원재료명에 '효소처리스테비아·스테비올배당체' 등으로 표시된다.",
+        "감미료에는 에리스리톨 같은 다른 감미료가 섞인 경우가 많다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules 28",
+        "note": "스테비올배당체의 단맛, 시험관·동물·사람 연구, 안전성 평가와 각국 허가 현황을 정리했다. 사람 대상 연구가 부족하다고 결론지었다.",
+        "title": "Steviol Glycosides from Stevia rebaudiana: An Updated Overview of Their Sweetening Activity, Pharmacological Properties, and Safety Aspects",
+        "type": "리뷰",
+        "url": "https://mdpi-res.com/d_attachment/molecules/molecules-28-01258/article_deploy/molecules-28-01258.pdf",
+        "year": "2023"
+      },
+      {
+        "journal": "한국작물학회지 26(1)",
+        "note": "국내에서 꺾꽂이 시기, 낮 길이에 따른 꽃눈 형성, 수확 적기와 심는 간격을 시험한 재배 연구다.",
+        "title": "스테비아(Stevia rebaudiana Bertoni)에 관한 생리 생태적 연구",
+        "type": "기타",
+        "url": "https://db.koreascholar.com/Article/Detail/11976",
+        "year": "1981"
+      }
+    ],
+    "summary": "연구는 주로 잎에서 뽑아 정제한 단맛 성분(스테비올배당체)에 관한 것이다. 시험관·동물 연구가 많고 사람 대상 연구는 적으며 결과도 엇갈린다. 정제 성분은 감미료(식품첨가물)로 허용되어 있고 국제 기준 하루 섭취 허용량은 체중 1kg당 4mg(스테비올 기준)이다. 말린 잎 자체를 다룬 사람 연구는 거의 없고, 식약처가 인정한 건강기능식품 원료도 아니다."
+  },
+  "name": "스테비아",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524924
+}

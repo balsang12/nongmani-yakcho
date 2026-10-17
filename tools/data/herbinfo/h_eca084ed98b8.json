@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "이른 봄입니다. 울릉도에서는 겨울에 싹이 올라와 3월 눈이 녹으면 바로 뜯는다고 소개됩니다.",
+      "q": "전호나물 제철은 언제인가요?"
+    },
+    {
+      "a": "소금물에 살짝 데쳐 찬물에 헹군 뒤 물기를 짜서 무칩니다. 생잎을 쌈이나 비빔밥에 넣어 먹기도 합니다.",
+      "q": "전호는 어떻게 손질하나요?"
+    },
+    {
+      "a": "권하지 않습니다. 같은 산형과에 독미나리·독당근 같은 맹독 식물이 있고, 꽃이 피기 전에는 잎만으로 구별하기 어려워 식약처와 국립수목원도 지식 없이 야생식물을 채취해 먹지 말라고 당부합니다.",
+      "q": "야생 전호를 직접 뜯어도 되나요?"
+    },
+    {
+      "a": "아닙니다. 한약재 전호의 정품 기원은 백화전호·바디나물 뿌리이고, 나물 전호(Anthriscus sylvestris)의 뿌리는 '토전호'로 유통된 오용품으로 지적됩니다.",
+      "q": "한약재 '전호(前胡)'와 나물 전호는 같은 식물인가요?"
+    },
+    {
+      "a": "오래 두기 어렵습니다. 저장성이 떨어지는 나물로 소개되므로 사면 빨리 드시는 것이 좋습니다.",
+      "q": "전호는 오래 보관할 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 간장·깨소금·참기름으로 무치는 나물무침이 대표적이며, 생잎을 쌈으로 먹거나 산채비빔밥·샐러드에 넣기도 한다.",
+    "eng": "Cow parsley, Wild chervil",
+    "family": "산형과",
+    "grade": "",
+    "habitat": "한국을 포함한 유라시아 온대에 자생한다. 섬이나 산지의 숲 가장자리, 축축한 풀밭, 물가 숲, 길가 등 반그늘에서 볕이 드는 곳에 자란다. 울릉도에서 봄나물로 많이 먹는다.",
+    "look": {
+      "flower": "5~6월에 작은 흰 꽃이 겹산형꽃차례로 핀다. 작은 꽃우산 4~15개로 이루어지고, 꽃우산 밑에 가장자리에 털이 있는 작은 포가 5~8개 있다.",
+      "fruit": "열매는 길이 1cm 안쪽의 가늘고 긴 달걀꼴로, 겉이 매끈하고 윤기가 나며 익으면 검어진다.",
+      "leaf": "2~3회 깃꼴로 잘게 갈라진 겹잎으로 고사리 잎처럼 보인다. 윗면은 짙은 녹색에 약간 윤기가 있고 뒷면에 짧은 털이 있다.",
+      "root": "굵은 갈색 뿌리가 있다.",
+      "stem": "줄기에 세로 능선이 있고 특히 아래쪽에 짧은 털이 있다. 잎자루가 줄기를 감싸는 부분의 능선에도 털이 있다. 독당근처럼 보라색 얼룩은 없다."
+    },
+    "parts": "이른 봄의 어린잎과 순(뿌리는 약재로 쓰인 기록이 있다)",
+    "prep": "소금물에 살짝 데친 뒤 찬물에 헹구고 물기를 짜서 쓴다.",
+    "sci": "Anthriscus sylvestris (L.) Hoffm.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Plants of the World Online (Kew) - Anthriscus sylvestris (L.) Hoffm.",
+        "url": "https://powo.science.kew.org/taxon/837969-1"
+      },
+      {
+        "title": "Minnesota Wildflowers - Wild Chervil (Anthriscus sylvestris)",
+        "url": "https://www.minnesotawildflowers.info/flower/wild-chervil"
+      },
+      {
+        "title": "Anthriscus sylvestris—Noxious Weed or Sustainable Source of Bioactive Lignans? (Plants, 2024)",
+        "url": "https://www.mdpi.com/2223-7747/13/8/1087"
+      },
+      {
+        "title": "白花前胡와 紫花前胡, 峨參의 鑑別基準 (대한본초학회지 26(3), 2011)",
+        "url": "https://koreascience.or.kr/article/JAKO201129063823838.pdf"
+      },
+      {
+        "title": "경북매일 '나물천국 울릉도' - 고기맛이 나는 삼나물부터 구황식물 섬말나리까지 (2025, 보조 출처)",
+        "url": "https://kbmaeil.com/article/20251208500088"
+      }
+    ],
+    "store": "저장성이 떨어지는 나물로 소개되므로 구입 후 빨리 먹는 것이 좋다.",
+    "taste": "향이 독특한 나물로 소개된다."
+  },
+  "lookSources": [
+    {
+      "title": "Minnesota Wildflowers - Wild Chervil (Anthriscus sylvestris)",
+      "url": "https://www.minnesotawildflowers.info/flower/wild-chervil"
+    },
+    {
+      "title": "Plantlife - Hemlock (Conium maculatum)",
+      "url": "https://www.plantlife.org.uk/plants-and-fungi/hemlock"
+    },
+    {
+      "title": "Naturblick (Museum für Naturkunde Berlin) - Cicuta virosa",
+      "url": "https://naturblick.museumfuernaturkunde.berlin/species/portrait/514?lang=en"
+    },
+    {
+      "title": "BSBI Species Account - Cicuta virosa",
+      "url": "https://bsbi.org/learn/resources/species-accounts/cicuta-virosa"
+    },
+    {
+      "title": "서울신문 - 식약처·국립수목원 봄철 독초 주의 (2026, 보조 출처)",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "같은 산형과의 맹독 식물로, 주로 연못·늪·도랑 같은 물가에 자라고 뿌리줄기와 줄기 특징으로 구별한다. 봄에 잎만 보고 구별하기 어려우니 물가에서 난 비슷한 풀은 먹지 않는다.",
+      "name": "독미나리",
+      "points": [
+        "독미나리는 물가·습지에 자라고, 전호는 숲 가장자리나 풀밭에 자란다.",
+        "독미나리 땅속줄기는 굵고 속에 가로 칸막이 같은 빈 방들이 있다.",
+        "독미나리 줄기는 털이 없고 속이 비었으며 자르면 노란 즙이 나온다. 전호 줄기에는 짧은 털이 있다.",
+        "독미나리 작은잎은 길쭉하고 거친 톱니가 있으며, 꽃은 7~8월로 전호보다 늦다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "헴록이라고도 하는 맹독 산형과 식물로, 전호와 가장 자주 혼동된다. 털 없이 보라색 얼룩이 있는 줄기와 불쾌한 냄새로 구별한다.",
+      "name": "독당근",
+      "points": [
+        "독당근 줄기는 매끈하고 털이 없으며 보라색 반점·얼룩이 있다. 전호 줄기는 털이 있고 얼룩이 없다.",
+        "독당근은 식물 전체에서 매우 불쾌한 냄새가 난다.",
+        "독당근은 6~7월에 피어 전호보다 늦고, 키가 2m 가까이 더 크게 자란다.",
+        "독당근 열매에는 물결 모양 능선이 있고, 전호 열매는 매끈하고 윤기가 난다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "산형과로 잎과 흰 꽃이 비슷하지만, 털과 열매 모양으로 구별한다.",
+      "name": "사상자",
+      "points": [
+        "사상자는 잎과 줄기에 뻣뻣한 털이 눕듯이 붙어 있다.",
+        "사상자 큰 꽃우산 밑에는 가는 포가 2개 이상 있고, 전호 큰 꽃우산 밑에는 포가 없다.",
+        "사상자 열매에는 갈고리 같은 털이 있어 옷에 붙고, 전호 열매는 매끈하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "전호 뿌리에서 새로운 화합물 4종을 포함해 19종을 분리했고, 일부가 저산소 상태에서 폐동맥 평활근세포가 지나치게 늘어나는 것을 억제했다.",
+        "title": "Chemical Constituents with Anti-Proliferative Activity on Pulmonary Arterial Smooth Muscle Cells from the Roots of Anthriscus sylvestris (L.) Hoffm.",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/1420-3049/29/11/2547",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "전호의 전통적 쓰임과 리그난 성분을 정리하고, 항암제 원료 전구체(데옥시포도필로톡신)의 대체 공급원이 될 가능성을 검토했다.",
+        "title": "Anthriscus sylvestris—Noxious Weed or Sustainable Source of Bioactive Lignans?",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2223-7747/13/8/1087",
+        "year": "2024"
+      },
+      {
+        "journal": "Mini Reviews in Medicinal Chemistry",
+        "note": "전호의 생리활성 성분과 실험에서 보고된 항암 관련 작용 기전을 정리한 리뷰다.",
+        "title": "Anthriscus sylvestris: An overview on Bioactive Compounds and Anticancer Mechanisms from a Traditional Medicinal Plant to Modern Investigation",
+        "type": "리뷰",
+        "url": "https://www.benthamdirect.com/content/journals/mrmc/24/12",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 뿌리에 든 리그난(데옥시포도필로톡신 등) 성분에 집중되어 있다. 대부분 성분 분석과 세포 실험 단계이고, 리뷰 논문들도 세포·동물 실험 결과를 정리한 것이어서 사람에게 효과가 있는지는 확인되지 않았다."
+  },
+  "name": "전호",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "白花前胡와 紫花前胡, 峨參의 鑑別基準 (대한본초학회지 26(3), 2011)",
+        "url": "https://koreascience.or.kr/article/JAKO201129063823838.pdf"
+      },
+      {
+        "title": "전호(前胡)의 기원 판별을 위한 형태특징과 PCR 분석 (한국한의학연구원논문집 9(1), 2003)",
+        "url": "https://koreascience.or.kr/article/JAKO200303041597485.page?lang=en"
+      },
+      {
+        "title": "Chemical Constituents with Anti-Proliferative Activity on Pulmonary Arterial Smooth Muscle Cells from the Roots of Anthriscus sylvestris (Molecules, 2024)",
+        "url": "https://www.mdpi.com/1420-3049/29/11/2547"
+      },
+      {
+        "title": "Anthriscus sylvestris—Noxious Weed or Sustainable Source of Bioactive Lignans? (Plants, 2024)",
+        "url": "https://www.mdpi.com/2223-7747/13/8/1087"
+      }
+    ],
+    "text": "동의보감 등의 '前胡'는 이 식물이 아니다. 한약재 前胡의 정품 기원은 백화전호(Peucedanum praeruptorum)와 바디나물 뿌리이며, 동의보감의 한글 이름 '사양불휘'도 바디나물로 해석된다. 나물 전호(峨參)는 이름이 같아 일제강점기부터 前胡 대용으로 쓰였고 1984년 규격집에서 한때 기원식물로 올랐다가 1998년에 빠졌다. 지금도 '토전호'라는 오용품으로 지적되며, 시중 전호 약재에 이 뿌리줄기가 섞인 사례도 보고되었다. 이와 별도로 중국 전통의학에서는 이 식물(峨參)의 뿌리를 열을 내리고 통증·기침을 가라앉히고 소변을 잘 나오게 하는 데 썼고, 일본에서는 뿌리를 물에 불려 찧어 식용한 기록이 있다."
+  },
+  "updatedAt": 1792141452883
+}

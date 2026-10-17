@@ -1,0 +1,136 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식약처 식품원료 목록에 '서양고추나물'이라는 이름으로 잎·열매·꽃이 '제한적 사용 원료'로 올라 있어, 조건을 지키면 식품에 쓸 수는 있습니다. 하지만 여러 약의 효과를 떨어뜨리는 위험이 커서 농마니에서는 운영자가 확인한 뒤에만 판매할 수 있고, 효능은 적을 수 없습니다.",
+      "q": "세인트존스워트를 팔 수 있나요?"
+    },
+    {
+      "a": "피임약, 와파린 같은 항응고제, 면역억제제, 디곡신 등 여러 약의 효과를 떨어뜨립니다. 항우울제와 같이 먹으면 부작용이 커질 수 있습니다. 햇빛에 피부가 예민해지는 부작용도 있습니다.",
+      "q": "어떤 위험이 있나요?"
+    },
+    {
+      "a": "양이 적어도 다른 약과 부딪힐 수 있어 위험합니다. 어떤 약을 먹는지 모르는 손님에게 식품으로 파는 것은 특히 위험합니다.",
+      "q": "차로 조금 마시는 것도 안 되나요?"
+    },
+    {
+      "a": "아닙니다. 같은 집안의 다른 종입니다. 고추나물은 키가 20~60cm로 작고 잎에 작은 흑점이 흩어져 있습니다. 세인트존스워트 잎은 빛에 비추면 반투명한 점이 보입니다.",
+      "q": "우리 산에 있는 고추나물과 같은 건가요?"
+    },
+    {
+      "a": "먹는 약이 있다면 바로 끊고 의사나 약사에게 알리세요. 수술을 앞두고 있다면 최소 5일 전에는 끊어야 합니다.",
+      "q": "모르고 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "family": "물레나물과 물레나물속",
+    "grade": "",
+    "habitat": "유럽 대부분과 서·중앙아시아, 아프리카 일부, 중국이 원산이다. 북아메리카·남아메리카·호주·뉴질랜드에서는 침입 잡초로 퍼져 20여 개 나라가 유해 잡초로 지정했다. 국내 유통품은 대부분 수입 건초나 추출물이다.",
+    "look": {
+      "flower": "지름 1.5~2.5cm의 샛노란 꽃이 피고, 꽃잎 5장 가장자리에 검은 점이 있다. 6월 24일 성 요한 축일 무렵 꽃이 핀다고 해서 이 이름이 붙었다.",
+      "leaf": "노란빛 도는 녹색 잎을 빛에 비추면 반투명한 기름점이 바늘구멍처럼 보인다. 잎 가장자리에 검은 점이 있다.",
+      "stem": "높이 0.3~1m. 줄기에 뚜렷한 능선이 두 줄 있다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Hypericum perforatum L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hypericum perforatum",
+        "url": "https://en.wikipedia.org/wiki/Hypericum_perforatum"
+      },
+      {
+        "title": "위키백과, 서양고추나물",
+        "url": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%96%91%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC"
+      },
+      {
+        "title": "약학정보원, 세인트존스워트엑스 복약정보",
+        "url": "https://common.health.kr/shared/healthkr/pharmreview/세인트존스워트엑스(Saint Johns wort extract).pdf"
+      },
+      {
+        "title": "나무위키, 서양고추나물(국내 약국 판매 일반의약품 언급)",
+        "url": "https://namu.wiki/w/%EC%84%9C%EC%96%91%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC"
+      },
+      {
+        "title": "EMA, Hyperici herba — 유럽 허브 의약품 모노그래프",
+        "url": "https://www.ema.europa.eu/en/medicines/herbal/hyperici-herba-0"
+      },
+      {
+        "title": "허브마을E샵, 서양고추나물 전초(화장품 원료, 식용 금지 표시)",
+        "url": "https://aromainherb.net/product/%EC%84%9C%EC%96%91%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC%EC%84%B8%EC%9D%B8%ED%8A%B8%EC%A1%B4%EC%8A%A4%EC%9B%8C%ED%8A%B8-%EC%A0%84%EC%B4%88-100g-hypericum-perforatum-st-johns-wort-%EC%B2%B4%EC%BD%94%EC%82%B0/2646/"
+      },
+      {
+        "title": "식품안전나라 식품원료 목록 — 서양고추나물 잎·열매·꽃 제한적 사용",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Hypericum perforatum",
+      "url": "https://en.wikipedia.org/wiki/Hypericum_perforatum"
+    },
+    {
+      "title": "위키백과, 고추나물",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 물레나물속의 우리 자생 식물로, 노란 꽃과 검은 점이 있는 잎이 비슷하다.",
+      "name": "고추나물",
+      "points": [
+        "고추나물은 높이 20~60cm로 작고, 마주나는 잎이 길이 2~5cm 타원형이며 작은 흑점이 흩어져 있다.",
+        "세인트존스워트 잎은 빛에 비추면 반투명한 점이 바늘구멍처럼 보이고, 줄기에 능선이 두 줄 있다.",
+        "고추나물도 식품 원료로 팔 수 있는지는 따로 확인해야 한다. 둘을 섞어 '서양고추나물'로 팔면 안 된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "유럽(EMA)에서는 가벼운 우울 증상 등에 쓰는 허브 의약품으로 평가받았고, 국내에서도 의약품으로 쓰인다. 식품으로서 안전성을 따로 인정받은 적은 없다."
+  },
+  "name": "세인트존스워트",
+  "st": "check",
+  "toxic": {
+    "lookalike": "고추나물",
+    "sources": [
+      {
+        "title": "약학정보원, 세인트존스워트엑스 복약정보",
+        "url": "https://common.health.kr/shared/healthkr/pharmreview/세인트존스워트엑스(Saint Johns wort extract).pdf"
+      },
+      {
+        "title": "나무위키, 서양고추나물(국내 약국 판매 일반의약품 언급)",
+        "url": "https://namu.wiki/w/%EC%84%9C%EC%96%91%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC"
+      },
+      {
+        "title": "Wikipedia — Hypericum perforatum",
+        "url": "https://en.wikipedia.org/wiki/Hypericum_perforatum"
+      },
+      {
+        "title": "허브마을E샵, 서양고추나물 전초(화장품 원료, 식용 금지 표시)",
+        "url": "https://aromainherb.net/product/%EC%84%9C%EC%96%91%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%BC%EC%84%B8%EC%9D%B8%ED%8A%B8%EC%A1%B4%EC%8A%A4%EC%9B%8C%ED%8A%B8-%EC%A0%84%EC%B4%88-100g-hypericum-perforatum-st-johns-wort-%EC%B2%B4%EC%BD%94%EC%82%B0/2646/"
+      }
+    ],
+    "text": "히페리신과 하이퍼포린이 들어 있다. 하이퍼포린은 간에서 약을 분해하는 효소(CYP3A4 등)를 늘려, 피임약·와파린·면역억제제·디곡신·HIV 치료제 같은 약의 효과를 떨어뜨린다. 다른 항우울제와 같이 먹으면 세로토닌 증후군이 생길 수 있다. 햇빛에 피부가 예민해지는 광과민 반응도 있고, 소·양·말이 뜯어 먹으면 피부가 붓고 헌다. 국내 규제: 식약처 식품원료 목록에 '서양고추나물'(Hypericum perforatum)의 잎·열매·꽃이 '제한적 사용 원료'로 올라 있다. 가공식품에 쓸 때 사용 조건이 붙고, 추출물은 약국에서 파는 의약품 성분(노이로민 등)이기도 하다. 약과 부딪히는 문제가 커서 농마니에서는 운영자 확인 없이 팔 수 없다."
+  },
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524923
+}

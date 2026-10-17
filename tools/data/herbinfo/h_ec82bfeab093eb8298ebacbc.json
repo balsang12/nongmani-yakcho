@@ -1,0 +1,108 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "잎이 갈라지는지 보면 됩니다. 우산나물은 잎이 깊게 두 갈래로 갈라지고 가장자리가 잘게 갈라지지만, 삿갓나물은 줄기 끝에 갈라지지 않은 매끈한 잎 6~8장이 돌려납니다.",
+      "q": "우산나물과 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 됩니다. 삿갓나물은 뿌리와 잎에 독성이 있는 독초이므로 데치거나 말려도 나물로 먹지 않습니다.",
+      "q": "데치면 먹어도 되나요?"
+    },
+    {
+      "a": "복통이나 구토 같은 증상이 나타나면 바로 병원에 갑니다. 정확한 진단을 위해 남은 나물을 함께 가져가는 것이 좋습니다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "백합과",
+    "grade": "",
+    "habitat": "한국을 비롯해 일본, 중국 동북부, 러시아 극동·시베리아, 몽골 등에 자라는 여러해살이풀로, 야생에서 저절로 자란다.",
+    "look": {
+      "leaf": "줄기 끝에 잎 6~8장이 한자리에서 돌려난다. 잎 가장자리는 밋밋하고 갈라지지 않는다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Paris verticillata M.Bieb.",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "국가생물종지식정보시스템 식물도감 - 삿갓나물 검색 결과",
+        "url": "https://www.nature.go.kr/kbi/plant/pilbk/selectPlantPilbkGnrlList.do?searchCnd=1&searchWrd=삿갓나물"
+      },
+      {
+        "title": "Flora of the World - Paris verticillata M.Bieb.",
+        "url": "https://floraoftheworld.org/taxons/b14c6d01-d02c-3c36-a580-685471665043"
+      },
+      {
+        "title": "산림청 남부지방산림청 보도자료 - 봄 산나물, 잘 먹으면 약초 잘못 먹으면 독초(2010)",
+        "url": "https://south.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=USUT_03_02&nttId=404460"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "산림청 국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까?(2025-04-10)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=UKNA_05_02&nttId=3206489"
+    },
+    {
+      "title": "산림청 국립수목원 보도자료 - 봄 산나물, 잘 먹으면 약초 잘못 먹으면 독초(2009)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=UKNA_05_02&nttId=404012"
+    },
+    {
+      "title": "식품의약품안전처 웹진 - 산나물과 독초 구별(2025-04)",
+      "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+    },
+    {
+      "title": "산림청 보도자료 인용 기사 - 우산나물과 삿갓나물(시대일보, 2015)",
+      "url": "https://www.sidae.com/article/2015060317358050127"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "두 식물 모두 잎이 한자리에서 우산살처럼 돌려나 헷갈린다. 잎이 깊게 갈라지는지, 가장자리가 밋밋한지를 보면 구별된다.",
+      "name": "우산나물",
+      "points": [
+        "우산나물은 잎이 깊게 두 갈래로 갈라지고 가장자리도 잘게 갈라지며 톱니가 있지만, 삿갓나물 잎은 갈라지지 않고 톱니도 없다.",
+        "우산나물은 갈라진 잎이 5~9개 돌려나고, 삿갓나물은 갈라지지 않은 잎이 줄기 끝에 6~8장 돌려난다.",
+        "잎 한 장을 펼쳐 보아 통째로 매끈한 타원형이면 삿갓나물로 보고 따지 않는다."
+      ]
+    }
+  ],
+  "name": "삿갓나물",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "우산나물",
+    "sources": [
+      {
+        "title": "산림청 남부지방산림청 보도자료 - 봄 산나물, 잘 먹으면 약초 잘못 먹으면 독초(2010)",
+        "url": "https://south.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=USUT_03_02&nttId=404460"
+      },
+      {
+        "title": "산림청 보도자료 인용 기사 - 우산나물과 삿갓나물(시대일보, 2015)",
+        "url": "https://www.sidae.com/article/2015060317358050127"
+      },
+      {
+        "title": "Paris spp (Liliaceae): a review of its botany, ethnopharmacology, phytochemistry (Frontiers in Pharmacology, 2025)",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2025.1570818/full"
+      },
+      {
+        "title": "산림청 국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까?(2025-04-10)",
+        "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1036&mn=UKNA_05_02&nttId=3206489"
+      }
+    ],
+    "text": "뿌리(땅속줄기)와 잎에 독성이 있어 나물로 먹으면 안 된다. 삿갓나물속 식물의 땅속줄기에는 스테로이드 사포닌이 많이 들어 있고, 많이 먹으면 소화기·신경계 등에 독성 반응이 생길 수 있다고 보고됐다. 독초를 잘못 먹으면 복통, 구토 같은 증상이 나타날 수 있다."
+  },
+  "updatedAt": 1792184768373
+}

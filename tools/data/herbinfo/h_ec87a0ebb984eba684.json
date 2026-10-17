@@ -1,0 +1,199 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나물(菜部)",
+    "easy": [
+      "여러 가지 종기와 잘 낫지 않는 헌데(악창)에 주로 쓴다고 적었다.",
+      "대소변을 잘 나오게 한다고 하며, 쌀가루와 양념을 넣어 국으로 끓여 먹는 법을 적었다."
+    ],
+    "han": "馬齒莧",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한국의학고전DB, 동의보감(탕액편 권차 목록)",
+        "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "헬스경향 [한동하의 식의보감] 쇠비름 (동의보감 인용 기사)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=64808"
+      }
+    ],
+    "verified": false,
+    "warn": "원문(한국의학고전DB·위키문헌)에 접속하지 못해 한문 원문과 성미는 대조하지 못했다. 위 풀이는 동의보감을 인용한 기사에 근거한 것이다."
+  },
+  "faq": [
+    {
+      "a": "줄기를 꺾어 흰 유액이 나오면 땅빈대류이니 먹지 마세요. 쇠비름은 맑은 즙이 나오고, 잎이 두툼한 다육질이며 꽃이 노랗습니다. 땅빈대류는 잎이 작고 얇으며 줄기에 잔털이 있습니다.",
+      "q": "쇠비름과 땅빈대는 어떻게 구별하나요?"
+    },
+    {
+      "a": "여름(6~8월)에 꽃이 피기 전 연한 순을 거두는 것이 좋습니다. 줄기 길이 10~15cm 정도일 때가 부드럽고, 꽃이 피고 나면 줄기가 질겨집니다.",
+      "q": "쇠비름은 언제 거두는 게 좋나요?"
+    },
+    {
+      "a": "샐러드로 날로 먹기도 하지만 잎에 수산(옥살산)이 많은 편이라 데쳐 먹는 쪽이 무난합니다. 삶으면 수산이 일부 줄어든다는 연구가 있으며, 요로결석이 걱정되는 사람은 날것을 많이 먹지 않는 것이 좋습니다.",
+      "q": "쇠비름을 날로 먹어도 되나요?"
+    },
+    {
+      "a": "잎과 줄기가 통통하고 물기가 살아 있으며 꽃대가 서지 않은 연한 것을 고르세요. 흰 유액이 나오는 다른 풀이 섞이지 않았는지, 길가나 농약을 친 곳에서 캔 것은 아닌지도 확인하세요.",
+      "q": "좋은 쇠비름은 어떻게 고르나요?"
+    },
+    {
+      "a": "물기를 빼고 봉지에 담아 냉장한 뒤 되도록 빨리 먹습니다. 오래 두려면 데쳐서 말리거나 소분해 냉동합니다.",
+      "q": "쇠비름은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 양념에 무치는 나물이 대표적이다. 날것 그대로 샐러드에 넣거나, 기름에 볶거나, 국·수프에 넣어 끓여 먹기도 한다.",
+    "eng": "Common purslane",
+    "family": "쇠비름과",
+    "grade": "꽃이 피기 전, 줄기 길이 10~15cm 정도의 연한 순을 거둔 것이 먹기 좋다고 안내된다. 잎과 줄기가 통통하고 물기가 살아 있으며, 줄기를 꺾었을 때 흰 유액이 나오는 풀(땅빈대류)이 섞이지 않은 것을 고른다.",
+    "habitat": "밭, 화단, 길가, 빈터처럼 햇볕이 잘 들고 흙이 자주 뒤집히는 곳에 흔한 한해살이풀이다. 뽑아 두어도 쉽게 마르지 않을 만큼 생명력이 강해 농사에서는 잡초로 취급된다.",
+    "look": {
+      "flower": "가지 끝이나 잎겨드랑이에 지름 6mm 안팎의 작은 노란 꽃(꽃잎 5장)이 핀다. 아침에 피었다가 한낮이면 오므라든다.",
+      "fruit": "작은 열매가 익으면 윗부분이 뚜껑처럼 떨어지고, 안에 아주 작은 검은 씨가 많이 들어 있다.",
+      "leaf": "잎자루 없이 붙는 두툼한 다육질 잎으로, 끝이 둥근 주걱(거꿀달걀) 모양이며 털이 없고 반질거린다.",
+      "root": "땅속으로 곧게 내리는 원뿌리가 있다.",
+      "stem": "붉은빛이 도는 굵고 물기 많은 줄기가 갈라지며 땅에 깔려 퍼진다. 줄기를 꺾으면 맑은 즙이 나오고 흰 유액은 나오지 않는다."
+    },
+    "parts": "연한 줄기와 잎(지상부 전체)",
+    "prep": "흙과 누런 잎, 질긴 뿌리 쪽을 떼고 여러 번 씻는다. 날로 샐러드에 쓰기도 하지만 잎에 수산(옥살산)이 많은 편이라 보통 끓는 물에 데쳐 쓰며, 삶으면 수산이 일부 줄어든다는 연구가 있다. 농약을 치거나 오염된 곳에서 자란 것은 캐지 않는다.",
+    "sci": "Portulaca oleracea L.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8
+      ],
+      "flower": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 '쇠비름'",
+        "url": "https://ko.wikipedia.org/wiki/%EC%87%A0%EB%B9%84%EB%A6%84"
+      },
+      {
+        "title": "Mississippi State University Extension, Forgotten Foods: Common Purslane (P4175)",
+        "url": "https://extension.msstate.edu/publications/forgotten-foods-common-purslane"
+      },
+      {
+        "title": "UF/IFAS Extension HS1484 (Purslane)",
+        "url": "https://ask.ifas.ufl.edu/publication/HS1484"
+      },
+      {
+        "title": "University of Arizona Extension, Yavapai plants: Portulaca oleracea",
+        "url": "https://yavapaiplants.extension.arizona.edu/portulaca-oleracea"
+      },
+      {
+        "title": "Poeydomenge & Savage (2007) Oxalate content of raw and cooked purslane, J. Food Agric. Environ.",
+        "url": "https://hero.epa.gov/hero/index.cfm/reference/details/reference_id/511303"
+      }
+    ],
+    "store": "물기를 빼 밀폐 봉지에 담아 냉장하고 되도록 빨리 먹는다. 오래 두려면 데친 뒤 말리거나 소분해 냉동한다.",
+    "taste": "아삭하게 씹히고 가볍게 새콤한 맛이 난다. 익히면 점액이 나와 국물이 약간 걸쭉해진다."
+  },
+  "lookSources": [
+    {
+      "title": "Mississippi State University Extension, Forgotten Foods: Common Purslane (P4175)",
+      "url": "https://extension.msstate.edu/publications/forgotten-foods-common-purslane"
+    },
+    {
+      "title": "University of Arizona Cooperative Extension AZ1572, Managing Spurge",
+      "url": "https://extension.arizona.edu/sites/extension.arizona.edu/files/pubs/az1572.pdf"
+    },
+    {
+      "title": "위키백과 '애기땅빈대'",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%A0%EA%B8%B0%EB%95%85%EB%B9%88%EB%8C%80"
+    },
+    {
+      "title": "위키백과 '채송화'",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%86%A1%ED%99%94"
+    },
+    {
+      "title": "University of Arizona Extension, Yavapai plants: Portulaca oleracea",
+      "url": "https://yavapaiplants.extension.arizona.edu/portulaca-oleracea"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "대극과(Euphorbia maculata)의 북미 원산 귀화 잡초로, 쇠비름처럼 붉은 줄기로 땅에 깔려 자라 같은 밭에서 함께 뽑히기 쉽다. 같은 대극과인 땅빈대 등도 줄기를 꺾으면 흰 유액이 나오며, 이 유액은 피부와 눈을 자극하고 먹으면 구토·설사를 일으킬 수 있다.",
+      "name": "애기땅빈대",
+      "points": [
+        "줄기를 꺾었을 때 흰 유액이 나오면 땅빈대류이고, 맑은 즙이면 쇠비름이다.",
+        "애기땅빈대 잎은 길이 1cm 안팎으로 훨씬 작고 얇으며 가장자리에 잔톱니가 있고 가운데에 검붉은 얼룩이 있는 경우가 많다. 쇠비름 잎은 두툼한 다육질이고 매끈하다.",
+        "애기땅빈대 줄기에는 잔털이 있지만 쇠비름 줄기는 털이 없고 굵다.",
+        "애기땅빈대 꽃은 눈에 잘 띄지 않는 희붉은빛이고, 쇠비름 꽃은 노란색이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "같은 쇠비름과(Portulaca grandiflora)의 남미 원산 화초로, 다육질 잎과 붉은 줄기가 비슷하다. 주로 꽃밭에 심는 관상식물이며 나물로 쓰는 식물은 아니다.",
+      "name": "채송화",
+      "points": [
+        "채송화 잎은 가늘고 길쭉한 원통형이고, 쇠비름 잎은 넓적한 주걱 모양이다.",
+        "채송화는 잎겨드랑이에 흰 털이 뭉쳐 나지만 쇠비름은 털이 없다.",
+        "채송화 꽃은 붉은색·흰색 등으로 크고 화려하며, 쇠비름 꽃은 작은 노란색이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Planta",
+        "note": "쇠비름속 식물의 환경 스트레스 적응력과 기능성 성분의 산업적 활용 가능성을 정리한 리뷰다.",
+        "title": "Resilience of Portulaca plants to environmental stresses and the economic potential of their bioactive compounds",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s00425-025-04767-1",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Chemistry International",
+        "note": "쇠비름 섭취가 체중 등 신체 계측치와 혈중 지질에 미치는 영향을 종합한 메타분석이다(세부 수치는 확인하지 못함).",
+        "title": "The Effect of Purslane (Portulaca oleracea) on Anthropometric and Lipid Parameters: A Systematic Review and Meta-Analysis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1002/fci2.70023",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "당뇨 관련 염증·산화 스트레스에 쇠비름이 도움이 될 가능성을 정리했지만, 저자들도 더 큰 임상시험이 필요하다고 보았다.",
+        "title": "Purslane Ameliorates Inflammation and Oxidative Stress in Diabetes Mellitus: A Systematic Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ijms252212276",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "비알코올성 지방간 성인 70명에게 8주간 쇠비름 보충제를 준 소규모 시험에서 간 지표 개선이 보고되었으나 추가 확인이 필요하다.",
+        "title": "Effects of Portulaca oleracea (purslane) on liver function tests, metabolic profile, oxidative stress and inflammatory biomarkers in patients with non-alcoholic fatty liver disease: a randomized, double-blind clinical trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fnut.2024.1371137",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 쇠비름의 항산화·항염 성분과 혈중 지질, 체중, 혈압, 지방간 지표에 대한 영향을 주로 다룬다. 사람 대상 임상시험과 메타분석이 있으나 대부분 규모가 작고 기간이 짧아 근거 수준은 아직 낮거나 중간 정도로, 일상 섭취의 효과를 단정할 수는 없다."
+  },
+  "name": "쇠비름",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과 '쇠비름'",
+        "url": "https://ko.wikipedia.org/wiki/%EC%87%A0%EB%B9%84%EB%A6%84"
+      }
+    ],
+    "text": "쇠비름 전초를 말린 것을 한약재 이름으로 마치현(馬齒莧)이라 부른다. 우리나라와 중국에서는 전통적으로 해독과 소변을 잘 나오게 하는 데 써 왔다고 정리되어 있다."
+  },
+  "updatedAt": 1792098142664
+}

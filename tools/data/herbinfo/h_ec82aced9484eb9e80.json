@@ -1,0 +1,156 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네. 식약처 식품원료 목록에 사프란(Crocus sativus)의 '암술머리'가 식품에 사용할 수 있는 원료로 올라 있습니다. 꽃잎·알뿌리는 판매 부위가 아닙니다.",
+      "q": "사프란은 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "꽃 하나에서 붉은 암술머리 3가닥만 손으로 따야 하고, 마른 사프란 1g을 얻으려면 꽃이 약 150송이 필요하기 때문입니다.",
+      "q": "왜 그렇게 비싼가요?"
+    },
+    {
+      "a": "몇 가닥을 찬물에 넣어 보세요. 진짜는 천천히 노랗게 우러나고 가닥은 붉은색을 유지합니다. 바로 주황·빨강으로 번지거나 가닥이 하얗게 바래면 홍화나 색소를 입힌 가짜일 가능성이 큽니다. 가루보다 실 형태가 안전합니다.",
+      "q": "진짜인지 어떻게 확인하나요?"
+    },
+    {
+      "a": "네. 경북 청송에서 노지 재배에 성공해 2021년 약 4,000㎡에서 3.5kg을 거둔 사례가 있습니다. 늦여름에 알줄기를 심으면 10~11월에 꽃이 핍니다.",
+      "q": "우리나라에서도 키우나요?"
+    },
+    {
+      "a": "요리에 쓰는 양(한 번에 몇 가닥, 0.1g 이하)은 문제가 되지 않습니다. 5g이 넘는 많은 양은 독성이 나타날 수 있고, 임신 중에는 많이 먹지 말라는 안내가 있습니다.",
+      "q": "많이 먹어도 되나요?"
+    },
+    {
+      "a": "안 됩니다. 사프란은 식약처가 기능성을 인정한 건강기능식품 원료로 확인되지 않아 우울·수면·기억력 같은 표현은 쓸 수 없습니다. 산지, 등급, 향과 색, 요리법으로 소개해 주세요.",
+      "q": "판매할 때 효능을 적어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 암술머리 몇 가닥을 따뜻한 물에 불려 그 물째 쌀 요리(파에야·필라프), 수프, 빵·과자에 넣어 노란색과 향을 낸다. 아주 적은 양만 쓴다.",
+    "family": "붓꽃과 크로커스속",
+    "grade": "",
+    "habitat": "지중해 동부~서아시아에서 재배되어 온 작물로, 야생에서는 자라지 않는다. 씨를 맺지 못해 알줄기(구근)를 나눠 심어 늘린다. 국내에서는 경북 청송 등 소규모 농가가 노지에서 키운 사례가 있고(2021년 약 4,000㎡에서 3.5kg 수확), 텃밭·화분에서도 키운다.",
+    "look": {
+      "flower": "10~11월에 연보라~진보라 꽃이 높이 15cm쯤으로 핀다. 꽃 하나에 붉은 암술머리가 세 갈래로 갈라져 늘어지고, 노란 수술은 3개다.",
+      "leaf": "가늘고 긴 풀잎 모양 잎(길이 40cm까지)이 알줄기에서 모여 나며, 잎 가운데 흰 줄이 있다.",
+      "root": "지름 5cm 안팎의 둥근 갈색 알줄기(구근)가 있고, 그물 같은 껍질에 싸여 있다.",
+      "smell": "말린 암술머리는 꿀·건초를 섞은 듯한 진한 향이 나고, 맛은 쌉쌀하다."
+    },
+    "parts": "암술머리(식품원료 목록상 사용 부위)",
+    "prep": "꽃이 핀 날 아침에 꽃을 따서 붉은 암술머리 3가닥만 손으로 떼어 낸 뒤 낮은 온도에서 말린다. 노란 수술과 흰·노란 암술대는 섞지 않는다. 꽃 약 150송이에서 마른 사프란 1g이 나온다.",
+    "sci": "Crocus sativus L.",
+    "season": {
+      "collect": [
+        10,
+        11
+      ],
+      "flower": [
+        10,
+        11
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품안전나라 식품원료 목록 — 사프란(Crocus sativus) 암술머리 '가능'",
+        "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04&page=385"
+      },
+      {
+        "title": "Wikipedia — Saffron",
+        "url": "https://en.wikipedia.org/wiki/Saffron"
+      },
+      {
+        "title": "영남일보, 청송군, 금보다 비싼 향신료 '사프란' 노지재배 성공(2021.12.7)",
+        "url": "https://www.yeongnam.com/web/view.php?key=20211207010000726"
+      }
+    ],
+    "store": "빛과 습기에 약하다. 밀폐 용기에 담아 어둡고 서늘한 곳에 두고, 가루보다 실(가닥) 형태로 보관한다.",
+    "taste": "쌉쌀한 맛과 특유의 진한 향이 있다. 물에 우리면 노란빛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia — Saffron",
+      "url": "https://en.wikipedia.org/wiki/Saffron"
+    },
+    {
+      "title": "Hardy Plant Society, The autumn crocus (콜키쿰)",
+      "url": "https://hardy-plant.org.uk/publication/the-autumn-crocus"
+    },
+    {
+      "title": "IVIS, Colchicum species (Autumn Crocus) — 유독 식물 안내",
+      "url": "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/colchicum-species-autumn-crocus"
+    },
+    {
+      "title": "Wikipedia — Safflower(홍화)",
+      "url": "https://en.wikipedia.org/wiki/Safflower"
+    },
+    {
+      "title": "CulinaryLore, How To Check if Your Saffron is Fake",
+      "url": "https://culinarylore.com/specialty-foods:how-to-check-if-your-saffron-is-fake"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "값싼 홍화 꽃잎을 사프란으로 속여 팔거나 섞는 일이 가장 흔하다. 외국에서는 '가짜 사프란(bastard saffron)'이라고 부른다.",
+      "name": "홍화(잇꽃) — 가짜 사프란",
+      "points": [
+        "진짜 사프란은 한 가닥 끝이 나팔처럼 벌어진 진한 붉은 실이고, 홍화는 납작하고 가늘게 찢어진 주황·노란 꽃잎이다.",
+        "찬물에 넣으면 진짜는 몇 분에 걸쳐 천천히 노랗게 우러나고, 홍화나 색소를 입힌 가짜는 바로 주황·빨강으로 번진다.",
+        "진짜는 꿀·건초 같은 진한 향이 나고 맛이 쌉쌀하다. 향이 없거나 흙냄새만 나면 의심한다.",
+        "1g에 몇천 원 수준으로 지나치게 싸면 의심한다. 국내산도 1g에 5만 원 넘게 거래된 사례가 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "가루 사프란에 강황·파프리카·치자 색소를 섞거나, 옥수수수염·색 입힌 실·사프란 자체의 노란 수술을 섞는 위조가 보고되어 있다.",
+      "name": "사프란 가루·옥수수수염·염색 실",
+      "points": [
+        "가루는 위조를 가려내기 어려우니 실 형태로 사고 판다.",
+        "노란 수술이나 노란·흰 암술대가 많이 섞이면 등급이 낮다.",
+        "물에 넣었을 때 가닥 자체의 붉은색이 빠지며 하얗게 되면 염색한 가짜다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "가을에 보라색 꽃이 피는 알뿌리 화초로 사프란 꽃과 매우 닮았다. 콜히친이라는 맹독 성분이 알뿌리·꽃·씨 등 식물 전체에 있다. 구근을 사서 심을 때 특히 조심한다.",
+      "name": "콜키쿰(가을크로커스)",
+      "points": [
+        "사프란은 꽃 하나에 수술이 3개이고, 콜키쿰은 6개다.",
+        "사프란은 꽃이 필 때 가는 잎이 함께 있고, 콜키쿰은 꽃이 필 때 잎이 없고 봄에 넓은 잎이 난다.",
+        "학명이 Crocus sativus로 표시된 구근만 산다. '가을크로커스', 'meadow saffron'은 콜키쿰이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Longhua Chinese Medicine 5",
+        "note": "사프란의 성분·안전성·위조 실태를 정리한 서술형 리뷰다. 안전한 섭취량이 정해지지 않았고, 홍화·강황·치자·수술 섞기가 주요 위조라고 정리했다.",
+        "title": "Saffron (Crocus sativus L.) as a valuable spice and food product: a narrative review",
+        "type": "리뷰",
+        "url": "https://lcm.amegroups.org/article/view/8290/html",
+        "year": "2022"
+      },
+      {
+        "journal": "Food Control 35(1)",
+        "note": "사프란에 섞인 홍화를 DNA(다중 PCR)로 가려내는 검사법을 개발했다.",
+        "title": "Developing an SCAR and ITS reliable multiplex PCR-based assay for safflower adulterant detection in saffron samples",
+        "type": "기타",
+        "url": "https://agris.fao.org/search/ar/records/65dfb0c80f3e94b9e5db6d3a",
+        "year": "2014"
+      }
+    ],
+    "summary": "사프란 추출물로 한 사람 대상 소규모 임상시험이 여러 건 있지만, 대부분 기간이 짧고 규모가 작아 결론을 내리기 어렵다. 안전한 하루 섭취량은 정해져 있지 않고, 요리용 소량은 위험이 낮지만 고농축 추출물은 주의가 필요하다고 정리된다. 위조가 흔해 홍화 등을 가려내는 DNA 검사법 같은 품질 연구도 많다. 식약처가 인정한 건강기능식품 원료로는 확인되지 않았다."
+  },
+  "name": "사프란",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792243524923
+}

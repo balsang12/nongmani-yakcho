@@ -3,6 +3,109 @@
   "classic": {
     "has": false
   },
+  "faq": [
+    {
+      "a": "꽃 피는 시기와 잎 모양으로 구별합니다. 씀바귀는 5~7월에 꽃이 피고 줄기잎이 좁은 피침형이며, 고들빼기는 가을에 꽃이 피고 줄기잎이 달걀꼴로 넓게 줄기를 감쌉니다.",
+      "q": "씀바귀와 고들빼기는 어떻게 구별하나요?"
+    },
+    {
+      "a": "이른 봄(3~4월)입니다. 이때 뿌리와 어린 잎을 함께 캐서 나물로 먹습니다.",
+      "q": "씀바귀 제철은 언제인가요?"
+    },
+    {
+      "a": "살짝 데친 뒤 찬물에 담가 우려냅니다. 쓴맛이 강하면 물을 몇 번 갈아 주며 담가 둡니다.",
+      "q": "씀바귀 쓴맛은 어떻게 빼나요?"
+    },
+    {
+      "a": "흙이 묻은 채 신문지에 싸서 냉장 보관합니다. 오래 두려면 데쳐서 물기를 짜고 소분해 냉동합니다.",
+      "q": "씀바귀는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "이른 봄 뿌리와 어린 잎을 데쳐 쓴맛을 우려낸 뒤 초고추장 등에 무치거나 볶아 먹는다.",
+    "eng": "",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "전국의 들과 길가 등 햇볕 드는 풀밭에 흔히 자라는 여러해살이풀이다.",
+    "look": {
+      "flower": "5~7월에 가지 끝마다 지름 약 1.5cm의 노란 꽃(드물게 흰 꽃)이 달린다.",
+      "fruit": "길이 3.5~5mm의 씨열매에 세로 능선이 10개 있고, 연한 노란 갓털(4~4.5mm)이 붙는다.",
+      "leaf": "뿌리잎은 거꿀피침형으로 꽃필 때까지 남아 있다. 줄기잎은 길이 4~9cm의 피침형으로 밑이 줄기를 감싸며 가장자리에 잔톱니가 있거나 깃꼴로 갈라진다.",
+      "stem": "높이 20~50cm로 가늘게 서고 위쪽에서 가지가 갈라진다. 자르면 흰 유액이 나온다."
+    },
+    "parts": "뿌리와 어린 잎",
+    "prep": "흙을 털고 잔뿌리와 시든 잎을 떼어 낸 뒤, 끓는 물에 살짝 데쳐 찬물에 담가 쓴맛을 우려낸다. 쓴맛이 강하면 물을 몇 번 갈아 준다.",
+    "sci": "Ixeridium dentatum (Thunb.) Tzvelev",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 씀바귀",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034197"
+      },
+      {
+        "title": "Jin 외, Analysis of growth characteristics and carotenoids and phenolic compounds contents of Ixeris dentata, 농업과학연구 46(1), 2019",
+        "url": "https://doi.org/10.7744/kjoas.20190006"
+      }
+    ],
+    "store": "흙 묻은 채 신문지에 싸서 냉장 보관하고, 오래 둘 때는 데쳐서 물기를 짜 소분해 냉동한다.",
+    "taste": "뿌리와 잎 모두 쓴맛이 강하다. 줄기나 잎을 자르면 쓴 흰 즙이 나온다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전, 씀바귀",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034197"
+    },
+    {
+      "title": "한국민족문화대백과사전, 고들빼기",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003397"
+    },
+    {
+      "title": "Jin 외, Analysis of growth characteristics and carotenoids and phenolic compounds contents of Ixeris dentata, 농업과학연구 46(1), 2019",
+      "url": "https://doi.org/10.7744/kjoas.20190006"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "고들빼기(Crepidiastrum sonchifolium)도 쓴맛 나는 국화과 나물이고 어린 잎 모양이 비슷해 섞여 불린다. 둘 다 먹는 나물이지만 다른 식물이다.",
+      "name": "고들빼기",
+      "points": [
+        "고들빼기는 두해살이풀이고 씀바귀는 여러해살이풀이다.",
+        "고들빼기는 가을에 꽃이 피고, 씀바귀는 5~7월에 핀다.",
+        "고들빼기 줄기잎은 달걀꼴로 밑이 넓게 퍼져 줄기를 감싸고, 씀바귀 줄기잎은 좁은 피침형이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 씀바귀 무리의 근연종(Ixeris japonica)으로 노란 꽃이 4~7월에 피고 뿌리와 어린 순을 같은 방식으로 먹는다. 나물로 섞여 팔리는 경우가 있다.",
+      "name": "벋음씀바귀",
+      "points": [
+        "꽃 피는 시기가 4월부터로 씀바귀(5~7월)보다 조금 이르다.",
+        "꽃이 노란색이라 꽃만으로는 씀바귀와 헷갈리기 쉬우니 이름 표기를 확인한다.",
+        "팔 때는 씀바귀와 구분해 이름을 밝히는 것이 정확하다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "씀바귀 가운데 흰 꽃이 피는 것을 흰씀바귀로 따로 부른다. 쓴맛과 흰 유액, 먹는 법은 씀바귀와 같다.",
+      "name": "흰씀바귀",
+      "points": [
+        "꽃이 흰색이면 흰씀바귀, 노란색이면 씀바귀로 본다.",
+        "잎과 뿌리만 있는 봄철에는 둘을 구별하기 어렵다.",
+        "두 종류 모두 자르면 흰 즙이 나온다."
+      ]
+    }
+  ],
   "modern": {
     "papers": [
       {
@@ -14,15 +117,39 @@
         "year": "2024"
       },
       {
+        "journal": "Food Science and Biotechnology",
+        "note": "씀바귀 추출물이 LPS로 자극한 대식세포에서 염증 관련 유전자 발현을 낮추고 시험관 항산화·리파아제 억제 활성을 보였다고 보고했다.",
+        "title": "Effect of Ixeris dentata extract on anti-inflammatory by inhibition of Nf-kb and cytokine levels",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1007/s10068-024-01654-5",
+        "year": "2024"
+      },
+      {
         "journal": "Vietnam Journal of Science and Technology",
         "note": "씀바귀 잎에서 페놀류와 세스퀴테르펜 락톤 등 7가지 화합물을 분리해 구조를 확인했다.",
         "title": "Study on chemical constituents from Ixeris dentata",
         "type": "기타",
         "url": "https://doi.org/10.15625/2525-2518/17167",
         "year": "2023"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "구강건조증에 대한 천연물 연구를 정리한 리뷰로, 씀바귀 추출물은 당뇨·노화 쥐 실험 2건에서 침 분비 지표가 늘었다는 결과만 포함되어 있다.",
+        "title": "A Review of the Role of Natural Products as Treatment Approaches for Xerostomia",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ph16081136",
+        "year": "2023"
+      },
+      {
+        "journal": "Scientific Reports",
+        "note": "씀바귀와 유산균 배양액을 함께 쓴 추출물이 치주염 생쥐 모델과 세포에서 산화 스트레스·염증·치조골 손실을 줄였다고 보고했다.",
+        "title": "Ixeris dentata and Lactobacillus gasseri media protect against periodontitis through Nrf2-HO-1 signalling pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1038/s41598-023-39853-5",
+        "year": "2023"
       }
     ],
-    "summary": "씀바귀(Ixeridium dentatum, 이명 Ixeris dentata)에 대한 최근 연구는 잎의 성분을 분리·확인하는 화학 연구와 추출물이 기억력 저하 동물 모델에 미치는 영향을 본 동물 실험 정도가 확인된다. 사람 대상 연구는 확인되지 않아 근거 수준은 동물·실험실 단계에 머문다."
+    "summary": "씀바귀(Ixeridium dentatum, 이명 Ixeris dentata)에 대한 최근 연구는 잎 성분 분리 같은 화학 연구와, 추출물의 항염·신경 보호·치주 질환 효과를 세포와 쥐 실험에서 살핀 연구가 중심이다. 2023년 리뷰도 쥐 실험 결과만 다루며 사람 대상 연구는 확인되지 않아, 근거 수준은 실험실·동물 단계에 머문다."
   },
   "name": "씀바귀",
   "st": "ok",
@@ -35,5 +162,5 @@
     ],
     "text": "한국민족문화대백과사전에 따르면 씀바귀는 이른 봄에 뿌리와 어린 잎을 캐어 먹는 대표적인 봄나물로, 살짝 데친 뒤 물에 담가 쓴맛을 우려내고 무치거나 볶아 먹는다. 한방에서는 열을 내리고 붓기를 가라앉히는 데 쓴다고 여겨 폐렴·간염·소화불량·종기 같은 증상에 쓰였다고 적고 있다."
   },
-  "updatedAt": 1791811935559
+  "updatedAt": 1792098142664
 }

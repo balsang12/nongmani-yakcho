@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [],
+    "han": "海松子",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "잣",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 탕액편 권02",
+        "url": "https://mediclassics.kr/books/8/volume/21"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 과부(果部)에 海松子(잣) 항목이 있는 것으로 알려져 있으나, 이번 조사에서는 한국한의학연구원 한의고전 DB와 위키문헌 원문 페이지에 접속하지 못해 원문을 직접 읽지 못했다. 그래서 성미·원문·풀이 칸은 비워 두었다."
+  },
+  "faq": [
+    {
+      "a": "잣송이(구과)는 꽃이 핀 다음 해 가을, 주로 9~10월에 땁니다. 송이를 며칠 두었다가 털고, 씨앗을 말려 껍데기를 까는 과정을 거쳐 알잣이 됩니다.",
+      "q": "잣은 언제 나오나요?"
+    },
+    {
+      "a": "밀폐 용기나 지퍼백에 담아 냉장 또는 냉동 보관하세요. 지방이 70% 안팎이라 상온에 두면 빨리 산패하며, 연구에서도 4℃에 둔 잣이 25℃보다 맛이 덜 떨어졌습니다.",
+      "q": "잣은 어떻게 보관하나요?"
+    },
+    {
+      "a": "'잣 미각장애(pine nut syndrome)'일 수 있습니다. 일부 중국산 잣(화산송 등 다른 소나무 씨앗)을 먹은 뒤 1~2일 지나 쓴맛·쇠맛이 나타나 보통 2주 안에 사라진다고 보고되었습니다. 같은 제품은 더 먹지 말고, 증상이 오래가면 진료를 받으세요.",
+      "q": "잣을 먹고 며칠째 입이 쓰고 쇠맛이 나요. 왜 그런가요?"
+    },
+    {
+      "a": "겉모습만으로는 확실히 구별하기 어렵습니다. 원산지 표시와 품질인증 표시를 확인하고, 지나치게 싸거나 알이 유난히 작고 둥근 수입품, 기름 쩐 냄새가 나는 제품은 피하세요.",
+      "q": "국산 잣과 수입 잣은 어떻게 구별하나요?"
+    },
+    {
+      "a": "그렇습니다. 잣은 식약처가 정한 알레르기 유발물질 표시 대상이라 가공식품에 쓰면 반드시 표시해야 합니다. 견과류 알레르기가 있으면 의사와 상의해 검사로 확인한 뒤 드세요.",
+      "q": "잣도 알레르기를 일으키나요?"
+    }
+  ],
+  "id": {
+    "eat": "그대로 먹거나 잣죽, 음식의 고명, 수정과·식혜 띄우기, 잣강정, 나물·샐러드 소스(잣즙) 등에 쓴다.",
+    "eng": "Korean pine (나무), pine nut (잣)",
+    "family": "소나무과",
+    "grade": "공공기관 자료에서 잣의 국가 등급 기준은 확인하지 못했다. 산림청 안내서는 가공 과정에서 크기별로 선별하며, 정부 품질인증 표시가 있는 제품을 고르라고 권한다. 저장 연구를 보면 오래될수록 누렇게 변하고 맛이 떨어지므로, 알이 고르고 색이 맑으며 기름 쩐 냄새가 없는 것을 고른다.",
+    "habitat": "우리나라와 중국 동북부, 러시아 극동, 일본에 분포한다. 우리나라에서는 해발 약 100~1,900m에 자라며, 남쪽에서는 높은 산(중부 이남은 대개 해발 1,000m 이상)에, 북쪽으로 갈수록 낮은 곳에 자란다. 낮은 지대에도 조림으로 많이 심어 기른다.",
+    "look": {
+      "flower": "5월 무렵 꽃(구화)이 핀다.",
+      "fruit": "솔방울은 길쭉한 달걀꼴로 12~15cm 정도로 크고, 비늘 끝이 길게 자라 뒤로 젖혀진다. 꽃이 핀 다음 해 가을에 익으며 한 송이에 씨앗이 100~180개 들어 있다.",
+      "leaf": "바늘잎이 한 다발에 5개씩 모여 나며, 길이 7~12cm 정도이고 가장자리에 잔톱니가 있다(소나무는 2개씩).",
+      "smell": "솔방울에서 송진 냄새가 강하게 난다. 깐 잣은 고소한 냄새가 나야 하며, 기름 쩐 냄새가 나면 오래된 것이다.",
+      "stem": "곧게 자라는 늘푸른 큰키나무다."
+    },
+    "parts": "솔방울(구과) 속 씨앗의 알맹이(배젖)",
+    "prep": "솔방울은 송진이 물러지도록 며칠 둔 뒤 털어 씨앗(피잣)을 빼고, 말려서 단단한 껍데기를 깐 다음 속껍질을 벗겨 알맹이(백잣)로 쓴다. 깐 알맹이는 그대로 날로 먹을 수 있다.",
+    "sci": "Pinus koraiensis Siebold & Zucc.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 잣나무 (Pinus koraiensis Siebold & Zucc.)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4984"
+      },
+      {
+        "title": "산림청 임산물 재배 안내 - 수실류 잣나무 (구과 수확·탈각·저장)",
+        "url": "https://english.forest.go.kr/kfs/images/data/down/imsan/imsan_01_04.pdf"
+      },
+      {
+        "title": "한국포장학회지 - 밀폐용기와 지퍼백에 저장한 잣의 품질변화 연구 (김성수 외, 2008)",
+        "url": "https://koreascience.kr/article/JAKO200806135605899.pdf"
+      },
+      {
+        "title": "메디팜헬스 - 식약처, 알레르기 표시 누락 '잣엿' 판매중단·회수 조치 (2026)",
+        "url": "https://www.medipharmhealth.co.kr/news/article.html?no=116234"
+      }
+    ],
+    "store": "지방이 많아 공기와 열에 닿으면 쉽게 산패하므로 밀폐 용기나 지퍼백에 담아 냉장·냉동 보관한다. 연구에서 25℃보다 4℃에 둔 잣이 관능 품질이 덜 떨어졌고, 저장 기간이 길수록 산화 지표가 올라가고 색이 누레졌다.",
+    "taste": "고소하고 기름진 맛이 강하다. 알맹이의 약 70%가 지방이어서 오래되면 기름 쩐 냄새(산패취)가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "Journal of Medical Toxicology - A Trial Investigating the Symptoms Related to Pine Nut Syndrome (Ballin, 2012)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3550163"
+    },
+    {
+      "title": "Santé publique France - Dysgeusia following consumption of pine nuts: more than 3000 cases in France",
+      "url": "https://www.santepubliquefrance.fr/index.php/en/node/10204"
+    },
+    {
+      "title": "FoodNavigator - Metallic tasting pine nuts are from illegitimate Chinese sources (2010, 덴마크 식품당국 발표 소개)",
+      "url": "https://www.foodnavigator.com/Article/2010/09/02/Metallic-tasting-pine-nuts-are-from-illegitimate-Chinese-sources/"
+    },
+    {
+      "title": "Food Chemistry - Mono- and sesquiterpenoid fingerprinting: A powerful and streamlined solution for pine nut authentication (2025)",
+      "url": "https://doi.org/10.1016/j.foodchem.2025.143153"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "중국에 자라는 다른 소나무(Pinus armandii)의 씨앗으로, 수입 잣에 섞여 유통된 적이 있다. 먹은 뒤 하루쯤 지나 입에 쓴맛·쇠맛이 며칠~2주가량 남는 '잣 미각장애(pine nut syndrome)'와 관련된 종으로 보고되었다.",
+      "name": "화산송",
+      "points": [
+        "덴마크 식품당국은 미각장애를 일으킨 중국산 잣으로 화산송과 마미송(Pinus massoniana)을 지목했으며, 알이 더 작고 둥글거나 세모진 모양이라고 설명했다.",
+        "프랑스에서는 2008~2010년 잣을 먹은 뒤 쓴맛이 남는 신고가 3,000건 넘게 접수되었고, 증상은 대개 먹은 지 하루 뒤 나타나 2주 안에 사라졌다.",
+        "겉모습만으로는 가리기 어렵고 성분 분석이 필요하므로, 원산지와 품명을 확인하고 값이 지나치게 싼 수입 잣은 주의한다.",
+        "먹은 뒤 오래 쓴맛이 남으면 같은 제품을 더 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "중국·러시아 등에서 들어오는 잣은 같은 잣나무(Pinus koraiensis)나 시베리아잣나무(Pinus sibirica) 씨앗이 많아 먹는 데는 문제가 없지만, 국산으로 속여 팔리면 원산지 문제가 된다.",
+      "name": "수입 잣",
+      "points": [
+        "국산과 수입 잣을 눈으로 확실히 가르는 공공기관 기준은 찾지 못했다. 원산지 표시와 품질인증 표시를 확인한다.",
+        "유럽에서는 테르펜 성분 지문 분석으로 잣의 산지·종을 판별하는 연구가 나와 있을 만큼 외관 구별이 어렵다.",
+        "수입 잣은 오래 유통되는 경우가 있으므로 기름 쩐 냄새, 누렇게 변한 색이 없는지 살핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food & Function",
+        "note": "잣 단백질 분해물을 잣 알레르기 생쥐 모델에 경구 면역요법 재료로 써 본 동물 실험으로, 사람에게 적용된 것은 아니다.",
+        "title": "Antioxidant pine nut protein hydrolysate as a therapeutic oral immunotherapy agent in a murine model of pine nut allergy",
+        "type": "동물 실험",
+        "url": "https://pubs.rsc.org/en/content/articlelanding/2026/fo/d5fo04650e",
+        "year": "2026"
+      },
+      {
+        "journal": "Food Chemistry",
+        "note": "중국·러시아산(잣나무·시베리아잣나무)과 스페인·터키산(Pinus pinea) 잣 253개 시료의 향 성분 지문으로 산지를 가려내는 방법을 제시한 품질·진위 판별 연구다.",
+        "title": "Mono- and sesquiterpenoid fingerprinting: A powerful and streamlined solution for pine nut authentication",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.foodchem.2025.143153",
+        "year": "2025"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "불포화지방이 많은 잣기름이 쉽게 산화되는 문제와 추출·저장·캡슐화 단계에서 이를 늦추는 방법을 정리한 리뷰로, 보관 방법을 이해하는 데 참고가 된다.",
+        "title": "A Review on Improving the Oxidative Stability of Pine Nut Oil in Extraction, Storage, and Encapsulation",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2076-3921/14/6/716",
+        "year": "2025"
+      },
+      {
+        "journal": "Italian Journal of Pediatric Allergy and Immunology",
+        "note": "견과류 알레르기가 있는 어린이 35명을 검사한 결과 잣을 먹는 아이가 8명에서 23명으로 늘었다는 사례 연구로, 잣을 먹어도 되는지는 반드시 검사로 확인해야 한다는 뜻이다.",
+        "title": "Assessment of pine nut tolerance in children with tree nut allergy: a case series",
+        "type": "사람 대상",
+        "url": "https://www.riaponline.it/article/view/618",
+        "year": "2024"
+      },
+      {
+        "journal": "Chemosphere",
+        "note": "잣나무 줄기에 주입한 방제 약제가 잣 씨앗에 얼마나 남는지와 그 위험을 평가한 연구로, 산림청·국립산림과학원 지원을 받았다.",
+        "title": "Pesticide residues and risk assessment of trunk-injected pesticides in pine nut (Pinus koraiensis) seeds",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.chemosphere.2024.143313",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년 잣 연구는 기름의 산화 안정성, 산지·종 판별, 농약 잔류, 알레르기 등 품질과 안전에 관한 것이 많다. 사람 대상 연구로는 견과류 알레르기 어린이가 잣을 먹을 수 있는지 확인한 사례 연구가 있었고, 효능 관련 연구는 대부분 동물·세포 실험 수준이었다. 잣 섭취가 특정 질병에 효과가 있다고 사람에게서 확인한 연구는 이번 조사에서 찾지 못했다(Europe PMC·PubMed 직접 검색은 접속 제한으로 막혀 Crossref 목록과 웹 검색 결과로 확인한 논문만 실었다)."
+  },
+  "name": "잣",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 재배 안내 - 수실류 잣나무 (구과 수확·탈각·저장)",
+        "url": "https://english.forest.go.kr/kfs/images/data/down/imsan/imsan_01_04.pdf"
+      }
+    ],
+    "text": "산림청 임산물 재배 안내서는 잣을 예로부터 몸을 보하는 자양 식품·약재로 써 왔다고 소개한다."
+  },
+  "updatedAt": 1792011713151
+}

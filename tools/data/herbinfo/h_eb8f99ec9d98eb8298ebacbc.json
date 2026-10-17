@@ -1,0 +1,118 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 동의나물은 독초이며, 데치거나 말려서 안전해진다는 공공기관 자료는 없다.",
+      "q": "데치거나 말리면 먹어도 되나요?"
+    },
+    {
+      "a": "잎의 윤기와 향을 먼저 본다. 동의나물은 잎이 두껍고 윤이 나며 톱니가 둔하고 향이 없다. 곰취는 잎이 부드럽고 윤기가 없으며 톱니가 뾰족하고 향이 좋다.",
+      "q": "곰취와 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 병원에 가거나 119에 연락한다. 먹고 남은 풀이 있으면 가져가면 진단과 치료에 도움이 된다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    },
+    {
+      "a": "따지 않는 것이 안전하다. 동의나물은 주로 물가와 습지에서 자라고, 산림청은 확실하지 않은 식물은 채취하지 않는 것이 독초 사고를 막는 가장 좋은 방법이라고 안내한다.",
+      "q": "물가에서 곰취처럼 생긴 잎을 봤는데 따도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Marsh marigold",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "물가나 햇빛이 잘 드는 습지처럼 늘 젖어 있는 땅에서 자란다. 산에서 곰취와 비슷한 둥근 잎을 물가에서 보면 동의나물일 가능성을 먼저 생각해야 한다.",
+    "look": {
+      "flower": "4~5월에 노란 꽃이 핀다.",
+      "leaf": "어린잎은 둥근 심장 모양이라 곰취와 비슷하다. 잎이 두껍고 앞뒤로 반질반질 윤이 나며, 털이 없고 가장자리 톱니가 둔하다.",
+      "smell": "잎을 비벼도 곰취 같은 좋은 향이 나지 않는다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Caltha palustris L. var. palustris",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "국립수목원 웹진 2014년 5월 테마기획(산나물과 독초 구별)",
+        "url": "https://forest.go.kr/kna/webzine/2014/5/s6.html"
+      },
+      {
+        "title": "국립수목원 웹진 2011년 5월 - 봄산나물 VS 독초 구별하기",
+        "url": "https://www.forest.go.kr/kna/webzine/2011/5/sub_04_3.html"
+      },
+      {
+        "title": "산림청 - 백두대간 동식물(동의나물 학명)",
+        "url": "https://www.forest.go.kr/kfsweb/kfi/kfs/cms/cmsView.do?cmsId=FC_000848&mn=AR03_05_05"
+      },
+      {
+        "title": "Massey University Poisonous Plants - Marsh marigold",
+        "url": "https://poisonousplants.massey.ac.nz/data/marsh_marigold/marsh_marig.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "국립수목원 보도자료 - 독초와 산나물, 혼동하지 마세요!(2023)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?nttId=3182185&bbsId=BBSMSTR_1036&mn=UKNA_05_02"
+    },
+    {
+      "title": "국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까? 독초와 구별하는 법(2025)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?nttId=3206489&bbsId=BBSMSTR_1036&mn=UKNA_05_02"
+    },
+    {
+      "title": "식품의약품안전처 웹진 2025년 4월(산나물과 독초 구별)",
+      "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+    },
+    {
+      "title": "국립수목원 웹진 2014년 5월 테마기획(산나물과 독초 구별)",
+      "url": "https://forest.go.kr/kna/webzine/2014/5/s6.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "어린잎이 둘 다 둥근 심장 모양이라 헷갈린다. 잎의 윤기·두께, 톱니 모양, 향, 자라는 곳을 함께 보면 구별할 수 있다.",
+      "name": "곰취",
+      "points": [
+        "곰취 잎은 부드럽고 윤기가 없지만, 동의나물 잎은 두껍고 반질반질 윤이 난다.",
+        "곰취는 잎 가장자리 톱니가 뾰족하고, 동의나물은 톱니가 둔하다.",
+        "곰취는 향이 좋지만, 동의나물은 향이 없다.",
+        "동의나물은 주로 물가나 습지에서 자란다."
+      ]
+    }
+  ],
+  "name": "동의나물",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "곰취",
+    "sources": [
+      {
+        "title": "국립수목원 웹진 2011년 5월 - 봄산나물 VS 독초 구별하기",
+        "url": "https://www.forest.go.kr/kna/webzine/2011/5/sub_04_3.html"
+      },
+      {
+        "title": "Massey University Poisonous Plants - Marsh marigold",
+        "url": "https://poisonousplants.massey.ac.nz/data/marsh_marigold/marsh_marig.html"
+      },
+      {
+        "title": "국립수목원 보도자료 - 독초와 산나물, 혼동하지 마세요!(2023)",
+        "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?nttId=3182185&bbsId=BBSMSTR_1036&mn=UKNA_05_02"
+      }
+    ],
+    "text": "동의나물은 국립수목원이 독성이 매우 강하다고 소개한 독초로, 곰취로 잘못 알고 먹는 사고가 난다. 해외 독성식물 자료에 따르면 생풀 전체에 프로토아네모닌이라는 자극성 독성분이 들어 있고 봄에 특히 강하다. 이 성분은 입안을 헐게 하고 복통·설사를 일으킬 수 있으며, 즙이 피부에 닿으면 붉어지거나 물집이 생길 수 있다. 독초를 먹으면 설사, 복통, 구토, 어지러움, 경련, 호흡곤란이 나타날 수 있다."
+  },
+  "updatedAt": 1792184768368
+}
