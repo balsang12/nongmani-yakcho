@@ -69,7 +69,7 @@ for d in load_dir(os.path.join(DATA_ROOT, "herbphotos")):
     d["file"] = "img/" + fn
     PHOTOS.setdefault(d["herb"], []).append(d)
 for _l in PHOTOS.values():
-    _l.sort(key=lambda x: x.get("createdAt", 0))
+    _l.sort(key=lambda x: (x.get("source") == "위키미디어 공용", x.get("createdAt", 0)))
 for d in load_dir(os.path.join(DATA_ROOT, "fieldnotes")):
     if d.get("herb"):
         FIELD.setdefault(d["herb"], []).append(d)
@@ -235,7 +235,7 @@ for h in HERBS:
         parts.append(f'<p class="note">지역에서 부르는 이름: {E(", ".join(lnames))}</p>')
     phs = PHOTOS.get(n, [])
     if phs:
-        parts.append('<div class="gal">' + "".join(f'<figure><img src="{E(x["file"])}" alt="{E(n)} {E(x.get("part",""))} 사진{(" — " + E(x.get("caption"))) if x.get("caption") else ""}" loading="lazy" width="400" height="300"><figcaption>{E(x.get("part",""))}{(" · " + E(x.get("caption"))) if x.get("caption") else ""} · 사진 {E(x.get("credit") or "농부와 심마니 판매자")}</figcaption></figure>' for x in phs[:12]) + '</div>')
+        parts.append('<div class="gal">' + "".join(f'<figure><img src="{E(x["file"])}" alt="{E(n)} {E(x.get("part",""))} 사진{(" — " + E(x.get("caption"))) if x.get("caption") else ""}" loading="lazy" width="400" height="300"><figcaption>{E(x.get("part",""))}{(" · " + E(x.get("caption"))) if x.get("caption") else ""} · 사진 {E(x.get("credit") or "농부와 심마니 판매자")}{(' · <a href="' + E(x["srcUrl"]) + '" rel="noopener">원본·라이선스</a>') if str(x.get("srcUrl","")).startswith("https://commons.wikimedia.org/") else ""}</figcaption></figure>' for x in phs[:12]) + '</div>')
     rv = meta_.get("review") or []
     parts.append('<div class="box trust">' + ("".join(f'<div><span class="chip ok">{E(r.get("area"))} 확인</span><b>{E(r.get("name"))}</b><span class="note">{E(r.get("title",""))} · {E(r.get("date",""))}</span></div>' for r in rv) if rv else '<span class="note">아직 전문가 검수를 받지 않은 자료입니다. 아래 출처를 함께 확인하세요.</span>') + '</div>')
     # 한 줄 요약 (AI가 인용하기 좋은 첫 문단)
