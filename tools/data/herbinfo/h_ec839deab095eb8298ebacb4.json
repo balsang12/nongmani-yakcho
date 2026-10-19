@@ -1,0 +1,185 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "동의보감 탕액편에서 생강나무에 해당하는 항목을 찾지 못했고, 원문 자료(한의고전명저총서, 위키문헌)도 열람이 되지 않아 확인하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "꽃이 꽃자루 없이 가지에 바짝 붙어 뭉쳐 피고 가지를 비볐을 때 생강 향이 나면 생강나무입니다. 산수유는 긴 꽃자루 끝에 꽃이 달리고 줄기 껍질이 벗겨져 지저분해 보이며, 가을에 빨간 열매가 열립니다.",
+      "q": "생강나무와 산수유는 어떻게 구별하나요?"
+    },
+    {
+      "a": "강원도 등에서는 생강나무를 동박나무·동백나무라고 불러 왔으니 그럴 수 있습니다. 다만 남부의 붉은 꽃 동백나무와는 다른 나무이므로 학명이나 실물을 확인하세요.",
+      "q": "동박나무, 동백나무라고 파는 것이 생강나무인가요?"
+    },
+    {
+      "a": "3~4월 잎이 나기 전에 핍니다. 산수유도 비슷한 때(4월 초중순) 노란 꽃이 피어 헷갈리기 쉽습니다.",
+      "q": "생강나무 꽃은 언제 피나요?"
+    },
+    {
+      "a": "어린잎을 그늘에 말려 찹쌀풀을 발라 튀긴 부각이 대표적이고, 꽃은 차로도 마십니다.",
+      "q": "생강나무는 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린잎 부각이 대표적이며, 꽃을 말려 차로도 마신다.",
+    "eng": "Japanese spice bush",
+    "family": "녹나무과(Lauraceae)",
+    "grade": "",
+    "habitat": "평안남도·함경남도 이남의 산에 저절로 자라며 해발 1,600m 정도까지 볼 수 있다. 추위와 가뭄, 바닷바람에 강하고 큰 나무 그늘 아래에서도 꽃과 열매를 맺지만 축축한 곳에서는 잘 자라지 못한다.",
+    "look": {
+      "flower": "3~4월 잎보다 먼저 연둣빛이 살짝 도는 노란 꽃이 꽃자루 없이 가지에 바짝 붙어 뭉쳐 핀다. 암나무와 수나무가 따로 있다.",
+      "fruit": "지름 7~8mm의 둥근 열매가 초록에서 노랑, 빨강을 거쳐 9~10월에 검게 익는다.",
+      "leaf": "잎은 어긋나고 달걀 모양~둥근 모양으로 길이 5~15cm이며, 윗부분이 3~5갈래로 얕게 갈라지기도 하는데 가장자리는 톱니 없이 밋밋하다.",
+      "smell": "잎이나 가지를 비비면 생강 비슷한 향이 난다.",
+      "stem": "키 3m 안팎의 떨기나무로, 줄기 껍질이 비교적 매끈하고 깨끗하며 어린 가지와 겨울눈에 털이 없다."
+    },
+    "parts": "어린잎, 꽃, 말린 가지(약재 이름 황매목), 열매(기름)",
+    "prep": "어린잎은 그늘에 말린 뒤 찹쌀풀을 발라 기름에 튀겨 부각으로 만든다.",
+    "sci": "Lindera obtusiloba Blume",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        3,
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - Lindera obtusiloba (생강나무)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5389"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 생강나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0027496"
+      },
+      {
+        "title": "내 손안에 서울 - 같은 듯 다른 '봄꽃 구별법'(서울시 공원녹지정책과)",
+        "url": "https://mediahub.seoul.go.kr/archives/2004290"
+      }
+    ],
+    "store": "",
+    "taste": "잎과 가지에서 생강과 비슷한 알싸한 향이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "내 손안에 서울 - 같은 듯 다른 '봄꽃 구별법'(서울시 공원녹지정책과)",
+      "url": "https://mediahub.seoul.go.kr/archives/2004290"
+    },
+    {
+      "title": "한국교육신문 - 저기 노란 꽃망울 산수유? 생강나무?",
+      "url": "https://www.hangyo.com/mobile/article.html?no=84715"
+    },
+    {
+      "title": "Flora of Korea - 층층나무속(Cornus) 검색표 (산수유 포함)",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5176"
+    },
+    {
+      "title": "Flora of Korea - Lindera obtusiloba (생강나무)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5389"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 생강나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0027496"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이른 봄 같은 때 노란 꽃이 피어 생강나무와 자주 헷갈린다. 산수유(Cornus officinalis)는 층층나무과로 열매가 빨갛고 주로 심어 기르는 나무이며, 생강나무는 녹나무과로 산에 저절로 자란다.",
+      "name": "산수유",
+      "points": [
+        "생강나무 꽃은 꽃자루 없이 가지에 바짝 붙어 뭉쳐 피고, 산수유 꽃은 긴 꽃자루 끝에 하나씩 달려 모여 핀다.",
+        "생강나무 줄기는 매끈하고 깨끗하지만, 산수유 줄기는 껍질이 얇게 벗겨져 지저분해 보인다.",
+        "가지나 잎을 비벼 생강 비슷한 향이 나면 생강나무다.",
+        "산수유 잎은 길쭉한 타원형에 가장자리가 밋밋하고, 생강나무 잎은 윗부분이 3~5갈래로 갈라진 것이 많다. 열매는 산수유가 빨갛고 생강나무가 검다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "강원도 등 중부 이북에서는 생강나무를 '동백나무'·'동박나무'라고 불러 왔다. 남부에 자라는 붉은 꽃의 동백나무(Camellia japonica)와는 전혀 다른 나무이므로 '동백'이라는 이름만 보고 사지 않는다.",
+      "name": "동백나무",
+      "points": [
+        "생강나무는 이른 봄 노란 꽃이 피고 겨울에 잎이 지며, 동백나무는 붉은 꽃이 피고 잎이 늘 푸르다.",
+        "붉은 동백나무가 자라지 않는 지역에서는 생강나무 열매로 기름을 짜서 동백기름 대신 머릿기름으로 썼다.",
+        "상품 이름에 '동박'·'동백'이 있으면 어느 나무의 어느 부위인지 판매자에게 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "잎 추출물을 쥐 연골세포와 수술로 관절염을 만든 쥐에 주어 염증·연골 분해 지표의 변화를 살폈다.",
+        "title": "Protective Effects of Lindera obtusiloba Leaf Extract on Osteoarthritis in Mouse Primary Chondrocytes and a Medial Meniscus Destabilization Model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms26209877",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "줄기에서 성분 4가지(새 성분 1개 포함)를 분리해 면역세포의 염증 물질 생성에 미치는 영향을 시험했다.",
+        "title": "Secobutanolides Isolated from Lindera obtusiloba Stem and Their Anti-Inflammatory Activity",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/molecules29184292",
+        "year": "2024"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "말린 잎 추출물을 간세포와 고지방식을 먹인 쥐에 시험해 지방간 지표의 변화를 살폈다.",
+        "title": "Lindera obtusiloba Blume Alleviates Non-Alcoholic Fatty Liver Disease Promoted by Nε-(carboxymethyl)lysine",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu16142330",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Applied Biological Chemistry",
+        "note": "생강나무 꽃차의 항산화 활성과 염증을 일으킨 대식세포에서의 반응을 시험했다.",
+        "title": "Anti-oxidant activity and protective effects of Lindera obtusiloba flower teas on inflammatory response in Raw 264.7 macrophages induced by lipopolysaccharide",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3839/jabc.2024.010",
+        "year": "2024"
+      },
+      {
+        "journal": "Scientia Pharmaceutica",
+        "note": "줄기에서 리그난 7가지를 분리해 간암 세포주에서 염증 관련 신호(STAT3) 억제 여부를 시험했다.",
+        "title": "STAT3 Inhibitory Activities of Lignans Isolated from the Stems of Lindera obtusiloba Blume",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/scipharm91040056",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 생강나무 잎·줄기·꽃 추출물이나 분리 성분을 세포와 쥐에 시험한 실험실 연구가 대부분이다. 염증, 지방간, 관절 연골 손상 모델에서 변화를 보고했지만 사람 대상 연구는 확인하지 못해 효과를 말하기에는 근거가 이르다."
+  },
+  "name": "생강나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 생강나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0027496"
+      },
+      {
+        "title": "한국교육신문 - 저기 노란 꽃망울 산수유? 생강나무?",
+        "url": "https://www.hangyo.com/mobile/article.html?no=84715"
+      }
+    ],
+    "text": "말린 가지를 황매목(黃梅木)이라 하여 오한과 발열, 신경통, 어혈로 인한 통증, 타박상 등에 써 왔다고 한국민족문화대백과사전에 적혀 있다. 열매로 짠 기름은 머리를 희게 세는 것을 늦춘다고 여겨 머릿기름으로 썼고, 어린잎은 부각으로 만들어 먹었다."
+  },
+  "updatedAt": 1792314395227
+}

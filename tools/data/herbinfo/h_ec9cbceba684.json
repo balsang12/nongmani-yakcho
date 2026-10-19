@@ -1,0 +1,173 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "通草",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "동의보감에서 으름덩굴은 '通草' 항목(지금의 목통)에 해당하지만, 원문 사이트(mediclassics.kr, 위키문헌)에 접속하지 못해 원문과 열매(燕覆子) 기록을 직접 확인하지 못했다. 확인 전까지 성미·풀이는 비워 둔다."
+  },
+  "faq": [
+    {
+      "a": "9~10월입니다. 8월 하순부터 익기 시작해 10월경 자갈색으로 익으면 껍질이 세로로 벌어집니다.",
+      "q": "으름 제철은 언제인가요?"
+    },
+    {
+      "a": "벌어진 열매 속 흰 과육을 떠서 먹습니다. 검은 씨는 매우 쓰므로 뱉거나 씹지 않고 삼키며, 과육으로 잼을 만들기도 합니다.",
+      "q": "으름은 어떻게 먹나요?"
+    },
+    {
+      "a": "날로는 먹지 않고 요리해서 먹습니다. 일본에서는 두꺼운 껍질 속에 고기·버섯 등을 채워 볶거나 튀겨 먹습니다.",
+      "q": "으름 껍질도 먹을 수 있나요?"
+    },
+    {
+      "a": "아니요, 식품으로 먹지 않습니다. 줄기를 말린 목통은 대한민국약전에 실린 한약재이고, 해외에서는 '목통'이라는 같은 이름으로 독성 있는 관목통(등칡 줄기)이 섞여 신장 질환이 생긴 사례도 있습니다.",
+      "q": "으름덩굴 줄기(목통)를 차로 달여 먹어도 되나요?"
+    },
+    {
+      "a": "잎이 겨울에 지는지 보면 됩니다. 으름은 갈잎 덩굴이고 과육이 희며, 멀꿀은 남부 해안·제주에 자라는 늘푸른 덩굴로 열매가 적갈색이고 과육이 노랗습니다.",
+      "q": "으름과 멀꿀은 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "과육을 생으로 먹거나 잼 같은 저장식품으로 만든다. 일본에서는 두꺼운 껍질에 고기·버섯 등을 채워 볶거나 튀겨 먹기도 한다. 봄 새순은 나물로 먹는다.",
+    "eng": "Chocolate vine, Five-leaf akebia",
+    "family": "으름덩굴과(Lardizabalaceae)",
+    "grade": "",
+    "habitat": "황해도 이남(강원 제외)의 산과 들에 흔한 갈잎 덩굴로, 골짜기 근처에서 다른 나무를 감고 5m 정도까지 자란다. 중국 동부와 일본 혼슈 이남에도 분포한다.",
+    "look": {
+      "flower": "4월 하순~5월 중순, 잎겨드랑이에서 자줏빛 꽃이 송이로 달린다. 한 꽃차례에 작은 수꽃이 여럿, 지름 2.5~3cm의 큰 자갈색 암꽃이 3~4송이 달리며 꽃잎 없이 꽃받침 3장이 꽃잎처럼 보인다.",
+      "fruit": "길이 6~10cm의 길쭉한 소시지 모양 장과로, 10월경 자갈색으로 익으면 한쪽 솔기를 따라 세로로 벌어져 흰 과육과 많은 검은 씨가 드러난다.",
+      "leaf": "작은잎 5장(가끔 6장)이 손바닥 모양으로 모여 달리는 겹잎이다. 작은잎은 길이 3~6cm의 넓은 달걀형~타원형이고 가장자리가 밋밋하며 털이 없다.",
+      "smell": "꽃에서 초콜릿·바닐라를 떠올리게 하는 달콤한 향이 난다.",
+      "stem": "갈잎 덩굴로 다른 나무를 감고 오르며, 어린 가지는 털이 없는 갈색이다."
+    },
+    "parts": "잘 익어 벌어진 열매의 흰 과육. 봄 새순은 나물로도 먹는다. 줄기를 말린 '목통(木通)'은 대한민국약전에 실린 한약재로, 식품으로 먹는 부위가 아니다.",
+    "prep": "벌어진 열매의 흰 과육을 숟가락으로 떠서 먹고, 씨는 매우 쓰므로 뱉거나 씹지 않고 삼킨다. 줄기(목통)는 한약재 전용이므로 차나 음식 재료로 달여 먹지 않는다.",
+    "sci": "Akebia quinata (Houtt.) Decne.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 – 으름덩굴 (Akebia quinata)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5378"
+      },
+      {
+        "title": "Kew – Chocolate vine (Akebia quinata)",
+        "url": "https://www.kew.org/plants/chocolate-vine"
+      },
+      {
+        "title": "산림청 임산물 정보 – 으름덩굴",
+        "url": "https://east.forest.go.kr/kfs/images/data/down/imsan/으름덩굴.pdf"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 – 목통(Akebiae Caulis)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_50.pdf"
+      }
+    ],
+    "store": "",
+    "taste": "흰 과육은 말랑하고 달콤하게 먹으며, 과육 속에 박힌 검은 씨는 매우 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 – 멀꿀 (Stauntonia hexaphylla)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5380"
+    },
+    {
+      "title": "한국의 수목 – 으름덩굴과 (속 검색표)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5376"
+    },
+    {
+      "title": "EMA – Position paper on the risks associated with the use of herbal products containing Aristolochia species",
+      "url": "https://www.ema.europa.eu/en/documents/position/position-paper-risks-associated-use-herbal-products-containing-aristolochia-species_en.pdf"
+    },
+    {
+      "title": "데일리팜 – 청목향·마두령·자하거, 한약재 공정서 삭제",
+      "url": "https://m.dailypharm.com/user/news/261112"
+    },
+    {
+      "title": "식품의약품안전처 대한민국약전 – 목통(Akebiae Caulis)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_50.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "멀꿀(Stauntonia hexaphylla)은 같은 으름덩굴과의 늘푸른 덩굴로, 전남 해안과 제주에 자란다. 열매가 으름처럼 생겼지만 적갈색이고 과육이 노랗다.",
+      "name": "멀꿀",
+      "points": [
+        "멀꿀은 겨울에도 잎이 지지 않는 늘푸른 덩굴이고, 으름은 가을에 잎이 지는 갈잎 덩굴이다.",
+        "멀꿀은 작은잎이 5~7장, 으름은 대개 5장이다.",
+        "멀꿀 열매는 적갈색에 과육이 노랗고, 으름 열매는 자갈색에 과육이 희다.",
+        "멀꿀은 전남·제주 등 남쪽에만 자라고, 으름은 황해도 이남 산과 들에 널리 자란다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "등칡(Aristolochia manshuriensis)은 쥐방울덩굴과 덩굴로, 그 줄기를 '관목통(關木通)'이라 부른다. 중국에서 목통 대용으로 쓰였고, 콩팥을 망가뜨리고 암을 일으키는 아리스톨로킥산이 들어 있다.",
+      "name": "등칡",
+      "points": [
+        "'목통(Mu Tong)'이라는 이름이 으름덩굴 줄기와 등칡 줄기(관목통)에 함께 쓰여, 말린 한약재 상태에서 바꿔치기된 사례가 있다.",
+        "일본과 영국에서 으름덩굴 대신 등칡 줄기가 들어간 약재로 신장 질환이 생긴 사례가 보고됐다.",
+        "아리스톨로킥산이 든 한약재 청목향·마두령은 2005년 국내 제조·수입이 금지됐다.",
+        "으름은 열매 과육만 먹고, '목통'이라 적힌 말린 줄기는 출처가 불분명하면 사거나 달여 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "으름 씨의 표지 성분 8종을 정량하는 분석법을 만들고, 씨 추출물과 성분이 사람 암세포주에 미치는 영향을 실험실에서 살폈다.",
+        "title": "Simultaneous Component Analysis of Akebia quinata Seeds (Lardizabalaceae) by Ultra-Performance Liquid Chromatography–Tandem Mass Spectrometry for Quality and Cytotoxicity Assessment",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/2223-7747/14/5/669",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "으름 잎과 열매 추출물을 박층크로마토그래피와 여러 생물 검정으로 훑어 활성 성분 후보를 찾은 실험실 분석 연구다.",
+        "title": "Effect-Directed Profiling of Akebia quinata and Clitoria ternatea via High-Performance Thin-Layer Chromatography, Planar Assays and High-Resolution Mass Spectrometry",
+        "type": "기타",
+        "url": "https://www.mdpi.com/1420-3049/28/7/2893/html",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 으름의 씨·열매·잎 추출물 성분을 분석하고 실험실에서 생리활성을 살핀 것이 대부분이다. 모두 세포·실험실 단계 결과이며, 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+  },
+  "name": "으름",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "식품의약품안전처 대한민국약전 – 목통(Akebiae Caulis)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_50.pdf"
+      },
+      {
+        "title": "Kew – Chocolate vine (Akebia quinata)",
+        "url": "https://www.kew.org/plants/chocolate-vine"
+      },
+      {
+        "title": "산림청 임산물 정보 – 으름덩굴",
+        "url": "https://east.forest.go.kr/kfs/images/data/down/imsan/으름덩굴.pdf"
+      }
+    ],
+    "text": "으름덩굴 줄기를 말린 목통은 대한민국약전에 실린 한약재이며, 동아시아 전통 의학에서는 소변이 잘 나오지 않는 증상 등 비뇨기 질환에 써 왔다. 열매는 예부터 산에서 따 먹는 과일이었고, 봄 새순은 나물로 먹었다."
+  },
+  "updatedAt": 1792357325694
+}

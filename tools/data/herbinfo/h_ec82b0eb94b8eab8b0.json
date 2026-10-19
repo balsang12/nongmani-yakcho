@@ -1,0 +1,195 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "동의보감 탕액편의 覆盆子(복분자) 항목은 한약재 복분자(복분자딸기의 덜 익은 열매)와 연결되는 항목이라 산딸기 자체의 항목으로 보기 어렵다. 동의보감 원문(mediclassics.kr 등)에도 접속하지 못해 대조하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "노지 산딸기는 6월 전후입니다. 김해 등 재배지에서는 노지 수확이 5월 말~6월 말이고, 비닐하우스 재배품은 3~5월에도 나옵니다. 산에서 자란 것은 7~8월까지 열매를 볼 수 있습니다.",
+      "q": "산딸기 제철은 언제인가요?"
+    },
+    {
+      "a": "아닙니다. 둘 다 산딸기속이지만 다른 식물입니다. 산딸기는 붉게 익고 잎이 갈라진 홑잎이며, 복분자딸기는 검붉게 익고 작은잎 5~7장으로 된 겹잎입니다.",
+      "q": "산딸기와 복분자는 같은 건가요?"
+    },
+    {
+      "a": "아닙니다. 산딸나무는 층층나무과의 큰키나무로 열매가 10월에 익고, 산딸기는 가시 있는 떨기나무로 초여름에 익습니다.",
+      "q": "산딸기와 산딸나무 열매는 같은 건가요?"
+    },
+    {
+      "a": "네, 냉동 산딸기나 와인·식초 같은 가공품으로 살 수 있습니다. 생과는 하우스 재배품이 봄에 먼저 나오고 노지 것은 초여름에 나옵니다.",
+      "q": "제철이 아닐 때도 산딸기를 살 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "생과로 먹는 것이 가장 흔하고, 산지에서는 와인·식초 같은 가공품으로도 만든다.",
+    "eng": "Korean raspberry",
+    "family": "장미과(Rosaceae)",
+    "grade": "",
+    "habitat": "전국 산지에 자라며 중국 북부·동북부, 러시아 극동, 일본에도 분포한다. 뿌리에서 새순이 올라와 무리 지어 자라는 키 2m 안팎의 갈잎떨기나무다. 경남 김해 상동·대동면 등에서는 소득 작물로 재배도 한다.",
+    "look": {
+      "flower": "지름 2cm 안팎의 흰 꽃이 가지 끝에 몇 송이씩 모여 달린다.",
+      "fruit": "작은 알갱이가 모인 둥근 열매로, 노란빛이 도는 붉은색~약간 검붉은색으로 익는다.",
+      "leaf": "어긋나게 달리는 홑잎인데 손바닥처럼 3~5갈래로 갈라지고, 밑은 심장 모양, 가장자리에 겹톱니가 있다. 잎 크기는 3~6cm 안팎이다.",
+      "stem": "줄기는 곧게 서고 붉은 갈색이며, 줄기와 잎자루에 갈고리 같은 가시가 있다."
+    },
+    "parts": "잘 익은 열매",
+    "prep": "익은 열매를 날로 먹을 수 있다.",
+    "sci": "Rubus crataegifolius Bunge",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 – 산딸기 (Rubus crataegifolius)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5597"
+      },
+      {
+        "title": "한국의 수목 – 산딸기속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+      },
+      {
+        "title": "김해시 – 산과 어우러진 산딸기 재배",
+        "url": "https://www.gimhae.go.kr/00510/00513/03751.web"
+      },
+      {
+        "title": "Quantification of Antidepressant Miquelianin in Mature and Immature Fruits of Korean Rubus Species (Natural Product Sciences, 2014)",
+        "url": "https://koreascience.kr/article/JAKO201402852974818.do"
+      }
+    ],
+    "store": "생과 외에 냉동 산딸기로도 유통된다.",
+    "taste": "단맛이 나는 산과일로, 날로 먹는다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 – 산딸기속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+    },
+    {
+      "title": "산림청 임산물 재배 자료 – 복분자딸기",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_07.pdf"
+    },
+    {
+      "title": "김해시 – 산과 어우러진 산딸기 재배",
+      "url": "https://www.gimhae.go.kr/00510/00513/03751.web"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 산딸나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0075133"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "복분자딸기(Rubus coreanus)는 같은 산딸기속으로, 열매가 검붉게 익고 잎이 여러 장의 작은잎으로 된 겹잎이다. 한약재 '복분자'는 이 식물의 덜 익은 열매를 말린 것이고, 북미산 블랙라즈베리(R. occidentalis)도 '복분자'로 재배된다.",
+      "name": "복분자",
+      "points": [
+        "산딸기 잎은 한 장이 손바닥처럼 갈라진 홑잎이고, 복분자딸기 잎은 작은잎 5~7장으로 된 겹잎이다.",
+        "산딸기 열매는 붉은색~약간 검붉은색, 복분자는 검붉은색~검은색으로 익는다.",
+        "복분자딸기 줄기는 자줏빛에 흰 가루가 덮여 있다.",
+        "토종 복분자딸기 꽃은 분홍색이고, 산딸기 꽃은 흰색이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "멍석딸기(Rubus parvifolius)는 줄기가 땅 위로 기며 퍼지는 산딸기속 식물로, 잎이 작은잎 3~5장의 겹잎이다.",
+      "name": "멍석딸기",
+      "points": [
+        "멍석딸기는 가지가 옆으로 기어가며 줄기 끝에서 뿌리를 내리고, 산딸기는 줄기가 곧게 선다.",
+        "멍석딸기 잎은 둥근 작은잎 3~5장으로 된 겹잎이고, 산딸기 잎은 갈라진 홑잎이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "줄딸기(Rubus pungens var. oldhamii)는 전국에 자라는 덩굴성 산딸기속 식물로, 작은잎 7장 안팎의 겹잎을 가진다.",
+      "name": "줄딸기",
+      "points": [
+        "줄딸기는 줄기가 옆으로 길게 뻗고, 산딸기는 곧게 선다.",
+        "줄딸기 잎은 달걀형 작은잎 7장 안팎의 겹잎이고, 산딸기 잎은 갈라진 홑잎이다.",
+        "줄딸기는 전년도 가지에서 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "이름이 비슷한 산딸나무(Cornus kousa)는 층층나무과의 키 10m가 넘는 큰키나무로, 산딸기와 전혀 다른 식물이다.",
+      "name": "산딸나무",
+      "points": [
+        "산딸나무는 큰키나무이고 잎이 마주나며 가장자리가 밋밋하거나 물결 모양이다. 산딸기는 가시 있는 떨기나무다.",
+        "산딸나무 열매는 10월에 붉게 익는 울퉁불퉁한 둥근 열매이고, 산딸기는 초여름에 익는다.",
+        "산딸나무는 6월에 흰 꽃잎 같은 총포 4장이 십자 모양으로 펼쳐진다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmaceuticals",
+        "note": "피부세포 실험과 함께 여성 12명에게 추출물을 발라 피부 수분 변화를 살폈으며, 대조군 없이 짧게 진행된 소규모 시험이다.",
+        "title": "In Vitro and Clinical Dermatological Effects of Rubus crataegifolius Fruit Extracts on Human Fibroblasts and Keratinocytes",
+        "type": "사람 대상",
+        "url": "https://www.mdpi.com/1424-8247/19/9/1451",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "산딸기 10개 계통의 잎 모양을 수치로 분석해 품종을 구별하는 방법을 시험한 연구로, 새로 난 가지의 잎이 품종 구별에 더 쓸모 있었다.",
+        "title": "Application of geometric morphometrics for variety identification in Rubus crataegifolius: a comparison of primocane and floricane leaf morphology",
+        "type": "기타",
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1799767/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "국내 산딸기속 15개 자원의 열매를 비교한 결과, 야생 산딸기는 총 페놀 함량이 가장 높았지만 안토시아닌은 검은 열매 계통보다 적었다.",
+        "title": "Evaluation of Anthocyanin Profiling, Total Phenolic and Flavonoid Content, and Antioxidant Activity of Korean Rubus Accessions for Functional Food Applications and Breeding",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2076-3921/14/8/1012",
+        "year": "2025"
+      },
+      {
+        "journal": "Biochemical Systematics and Ecology",
+        "note": "산딸기 뿌리에서 분리한 화학 성분과 그 분류학적 의미를 다룬 성분 연구다.",
+        "title": "Chemical constituents from the roots of Rubus crataegifolius Bunge and their chemotaxonomic significance",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0305197825002613",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 산딸기 열매 추출물의 성분과 항산화 활성 분석, 피부세포 실험이 중심이다. 사람 대상 연구는 건강한 여성 12명의 피부에 추출물을 24시간 발라 본 소규모 시험 하나뿐이고, 먹었을 때의 효과를 본 임상 연구는 확인되지 않았다."
+  },
+  "name": "산딸기",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Antioxidant Activity of Rubus crataegifolius Bge. Fruit Extracts (생명과학회지, 2011)",
+        "url": "https://koreascience.kr/article/JAKO201130557757798.do"
+      },
+      {
+        "title": "Quantification of Antidepressant Miquelianin in Mature and Immature Fruits of Korean Rubus Species (Natural Product Sciences, 2014)",
+        "url": "https://koreascience.kr/article/JAKO201402852974818.do"
+      }
+    ],
+    "text": "산딸기 열매는 예부터 단맛 나는 산과일로 날로 먹어 왔고, 국내 학술 논문에서는 한국에서 민간 약용식물로도 써 왔다고 소개한다. 다만 한약재 '복분자(覆盆子, Rubi Fructus)'는 산딸기가 아니라 복분자딸기(Rubus coreanus)의 덜 익은 열매를 가리킨다."
+  },
+  "updatedAt": 1792357325694
+}

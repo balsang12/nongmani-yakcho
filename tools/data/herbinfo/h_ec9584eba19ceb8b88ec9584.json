@@ -1,0 +1,186 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "원래 떫은맛이 매우 강한 열매이기 때문입니다. 껍질이 두껍고 떫고 신맛이 강해 생과로 먹기 어려워, 즙·잼·청이나 다른 과일과 섞어 먹는 경우가 많습니다.",
+      "q": "아로니아는 왜 이렇게 떫은가요?"
+    },
+    {
+      "a": "8~9월입니다. 5월 중순쯤 꽃이 피고 주로 8월에 열매가 검은 자줏빛으로 익으며, 익은 뒤 오래 두면 쭈글쭈글해지며 떨어집니다.",
+      "q": "아로니아 제철은 언제인가요?"
+    },
+    {
+      "a": "원산지와 제조원, 식약처 회수·부적합 이력을 확인하세요. 분말·환은 분쇄 중 쇳가루가 섞일 수 있어 식약처가 쇳가루 10mg/kg 미만 기준과 자석 제거 공정을 의무화했고, 실제로 아로니아 분말이 금속성 이물로 부적합 처리된 사례가 있습니다. 회수 정보는 식품안전나라에서 볼 수 있습니다.",
+      "q": "아로니아 분말은 무엇을 확인하고 사야 하나요?"
+    },
+    {
+      "a": "색과 맛으로 구별합니다. 블루베리는 파란빛~보랏빛이고 생으로 달게 먹지만, 아로니아는 윤기 나는 검은 자줏빛이고 떫은맛이 매우 강합니다.",
+      "q": "아로니아와 블루베리는 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 먹을 것은 냉장하고, 나머지는 씻어 물기를 말린 뒤 냉동합니다. 냉동한 열매는 해동 없이 갈아서 주스·스무디로 쓰기 좋습니다.",
+      "q": "생 아로니아는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "생과를 갈아 주스·스무디로 마시거나 잼·젤리·청·착즙액으로 만든다. 말린 열매, 분말, 농축액 형태로도 많이 팔린다.",
+    "eng": "Black chokeberry",
+    "family": "장미과",
+    "grade": "생과는 송이째 고르게 익어 윤기 나는 검은 자줏빛을 띠고 무르거나 쭈글쭈글하지 않은 것이 좋다. 분말·환 제품은 분쇄 과정에서 쇳가루가 섞일 수 있어, 식약처는 쇳가루 10mg/kg 미만·2mm 이상 금속 조각 불검출 기준을 두고 2020년 4월부터 자석 제거 공정을 의무화했다. 2020년 식약처 분말·환 일제 검사에서도 국산 아로니아 분말 1건이 금속성 이물로 부적합 처리됐으므로, 원산지·제조원을 확인하고 식품안전나라 회수 정보를 살핀다.",
+    "habitat": "북미 동부(캐나다 뉴브런즈윅~온타리오, 미국 동부) 원산의 떨기나무로, 습지·늪가·물가부터 바위 비탈·길가 같은 건조한 곳까지 자라며 양지~반그늘을 견딘다. 국내 자생종은 없고 2010년대 충북 단양 등에서 재배가 크게 늘어난 재배 작물이다.",
+    "look": {
+      "flower": "5월 중순 무렵 꽃잎 5장의 작은 흰 꽃(지름 약 8mm)이 여러 송이 모여 피고, 분홍빛 수술이 많다.",
+      "fruit": "지름 8~13mm의 둥근 열매가 붉은 열매자루에 송이로 달리며, 익으면 윤기 나는 검은 자줏빛이 된다. 속에 씨가 1~5개 있고, 주로 8월에 익은 뒤 쭈글쭈글해지며 떨어진다.",
+      "leaf": "어긋나는 홑잎으로 길이 2.5~7.5cm의 거꿀달걀꼴이며 가장자리에 잔톱니가 고르게 있다. 윗면은 짙은 녹색에 윤기가 나고 가운데 잎맥 위쪽에 검은 샘점이 있으며, 털이 없고 가을에 붉게 물든다.",
+      "smell": "줄기와 잎에서 특별한 냄새는 나지 않는다.",
+      "stem": "밑에서 여러 줄기가 올라오는 1~3m 높이의 떨기나무로, 나무껍질은 짙은 갈색~짙은 회색이고 뿌리에서 새 줄기가 잘 난다."
+    },
+    "parts": "열매",
+    "prep": "생과는 꼭지·잎을 골라내고 물에 가볍게 씻어 물기를 뺀다. 떫은맛이 강해 그대로 먹기보다 즙·잼·청으로 만들거나 다른 과일·요거트와 섞어 먹는다.",
+    "sci": "Aronia melanocarpa (Michx.) Elliott",
+    "season": {
+      "collect": [
+        8,
+        9
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "NC State Extension Plant Toolbox - Aronia melanocarpa",
+        "url": "https://plants.ces.ncsu.edu/plants/aronia-melanocarpa"
+      },
+      {
+        "title": "University of Maine Extension - Plant Description and Habitat of Aronia",
+        "url": "https://extension.umaine.edu/agriculture/?p=550"
+      },
+      {
+        "title": "주간경향 - 아로니아, 보랏빛 쓴맛은 누구 탓인가 (농식품부 통계 인용)",
+        "url": "https://weekly.khan.co.kr/article/202106041542291"
+      },
+      {
+        "title": "아주경제 - 충북농업기술원 아로니아 가공기술 개발",
+        "url": "https://www.ajunews.com/view/20140820073456740"
+      },
+      {
+        "title": "메디팜헬스뉴스 - 식약처 분말·환 제품 금속성 이물 검사 결과",
+        "url": "https://medipharmhealth.co.kr/news/article.html?no=67746"
+      },
+      {
+        "title": "포인트경제 - 식품 금속성 이물 기준과 발생 원인",
+        "url": "https://www.pointe.co.kr/news/articleView.html?idxno=4086"
+      }
+    ],
+    "store": "생과는 쉽게 무르므로 냉장 보관하고 바로 먹지 않을 것은 씻어 물기를 말린 뒤 냉동한다. 분말은 밀봉해 습기를 피해 서늘한 곳에 둔다.",
+    "taste": "떫은맛이 매우 강하고 시고 쓴맛이 함께 난다. 영어 이름 chokeberry도 목이 막힐 듯한 떫은맛에서 왔다."
+  },
+  "lookSources": [
+    {
+      "title": "NC State Extension - Vaccinium corymbosum",
+      "url": "https://plants.ces.ncsu.edu/plants/vaccinium-corymbosum/"
+    },
+    {
+      "title": "Go Botany (Native Plant Trust) - Ribes nigrum",
+      "url": "https://gobotany.nativeplanttrust.org/species/ribes/nigrum/"
+    },
+    {
+      "title": "Queensland Health Poisons Information - Pokeweed (Phytolacca americana)",
+      "url": "https://poisonsinfo.health.qld.gov.au/plants-and-mushrooms/pokeweed-phytolacca-americana"
+    },
+    {
+      "title": "University of Maine Extension - Plant Description and Habitat of Aronia",
+      "url": "https://extension.umaine.edu/agriculture/?p=550"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "블루베리(Vaccinium corymbosum 등)는 진달래과 작물로, 열매 크기와 색이 비슷해 냉동·건조품에서 헷갈릴 수 있다.",
+      "name": "블루베리",
+      "points": [
+        "블루베리 열매는 파란빛~보랏빛이고, 아로니아는 윤기 나는 검은 자줏빛이다.",
+        "블루베리는 생으로 먹어도 달지만, 아로니아는 떫은맛이 아주 강하다.",
+        "블루베리 꽃은 종·항아리 모양이고, 아로니아 꽃은 꽃잎 5장이 활짝 벌어진다.",
+        "아로니아 잎은 가운데 잎맥 위에 검은 샘점이 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "블랙커런트(Ribes nigrum, 까치밥나무속)는 유럽~중앙아시아 원산의 검은 열매로, 수입 냉동·분말 제품으로 들어와 혼동될 수 있다.",
+      "name": "블랙커런트",
+      "points": [
+        "블랙커런트 잎은 둥글고 가장자리가 얕게 갈라지며 밑이 심장형이지만, 아로니아 잎은 갈라지지 않은 거꿀달걀꼴이다.",
+        "블랙커런트 열매는 한 줄기를 따라 늘어진 꽃차례(총상)에 달리고 향이 있다.",
+        "블랙커런트는 7월 말쯤 익어 아로니아(8월)보다 조금 이르다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "미국자리공(Phytolacca americana)은 길가·빈터에 흔한 귀화식물로, 검은 자줏빛 열매가 송이로 달려 열매만 보면 헷갈릴 수 있다. 식물 전체, 특히 뿌리와 덜 익은 열매에 독이 있다.",
+      "name": "미국자리공",
+      "points": [
+        "미국자리공 열매는 위아래로 눌린 납작한 공 모양(약 8mm)이고, 아로니아는 둥글다.",
+        "미국자리공은 긴 이삭처럼 늘어진 송이에 열매가 줄지어 달리고, 아로니아는 짧은 송이에 모여 달린다.",
+        "미국자리공 열매를 누르면 붉은 즙이 많이 나온다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "The North African Journal of Food and Nutrition Research",
+        "note": "사람 대상 시험 4편(200명)을 모은 결과 장내 미생물 다양성 전체에는 변화가 없었고, 일부 유익균 증가가 관찰됐으나 혈관 기능·공복 혈당은 달라지지 않았다.",
+        "title": "The Impact of Black Chokeberry (Aronia melanocarpa) on Gut Microbiota and Human Health: Systematic Review and Meta-analysis of Randomized Controlled Trials in Humans",
+        "type": "리뷰",
+        "url": "https://najfnr.com/home/article/view/706",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "무작위 대조시험 10편(666명)을 분석했으나 일반 성인에서 혈압·지질·혈당·체중의 의미 있는 개선은 확인되지 않았고 근거 확실성은 매우 낮았다.",
+        "title": "Impact of a Chokeberry (Aronia melanocarpa (Michx.) Elliott) Supplementation on Cardiometabolic Outcomes: A Critical Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+        "type": "리뷰",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12073822/",
+        "year": "2025"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "아로니아의 안토시아닌·클로로겐산 등 폴리페놀과 혈당·염증·혈압 관련 연구를 정리한 문헌 고찰로, 주로 실험 연구에 기반한다.",
+        "title": "Functional Activities and Mechanisms of Aronia melanocarpa in Our Health",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/54d9cb48e60f493389bbc438efe126c0",
+        "year": "2024"
+      }
+    ],
+    "summary": "아로니아는 안토시아닌·클로로겐산 등 폴리페놀이 많아 연구가 활발하다. 그러나 사람 대상 무작위 대조시험 10편을 모은 2025년 메타분석에서는 혈압·혈중지질·혈당·체중에 뚜렷한 개선이 없었고 근거 확실성도 '매우 낮음'으로 평가됐다. 장내 미생물 관련 시험도 소규모여서 효과를 단정할 수 없다."
+  },
+  "name": "아로니아",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Aronia plants: a review of traditional use, biological activities, and perspectives for modern medicine (J Med Food, 2010)",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20170359/"
+      }
+    ],
+    "text": "북미 원산이라 동아시아 고서에는 기록이 없다. 학술 리뷰에 따르면 북미 포타와토미 원주민은 열매로 차를 끓여 감기에 썼고, 미국 북동부에서는 열매를 말린 고기와 섞은 보존식(페미컨)에 넣었으며, 정착민들은 열매와 나무껍질을 수렴제로 썼다. 이후 러시아(옛 소련)와 동유럽으로 건너가 과일 작물로 재배되었다."
+  },
+  "updatedAt": 1792357325694
+}

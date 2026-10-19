@@ -1,0 +1,210 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목 권30",
+    "bu": "과부(果部)",
+    "easy": [
+      "열이 나는 기침에 쓰고 갈증을 멎게 한다고 적었다.",
+      "얇게 썰어 불에 덴 곳에 붙이면 통증을 덜고 짓무르지 않게 한다고 적었다.",
+      "바깥에서 들어온 열, 상한으로 인한 발열을 내리고 대소변을 잘 나가게 한다고 적었다.",
+      "폐를 적시고 가슴의 열을 식히며 가래를 삭이고 술독을 푼다고 적었다."
+    ],
+    "han": "梨",
+    "has": true,
+    "ki": "甘、微酸，寒，無毒",
+    "kiKo": "맛은 달고 조금 시며, 성질은 차고, 독이 없다.",
+    "old": "",
+    "orig": "實【氣味】甘、微酸，寒，無毒。多食令人寒中萎困。【主治】熱嗽，止渴。切片貼湯火傷，止痛不爛。治客熱，中風不語，治傷寒熱發，解丹石熱氣、驚邪，利大小便。",
+    "sources": [
+      {
+        "title": "本草綱目 果部 第三十卷 (梨)",
+        "url": "https://www.theqi.com/cmed/oldbook/book132/b132_33.html"
+      }
+    ],
+    "verified": true,
+    "warn": "많이 먹으면 속이 차가워져 기운이 없어지며, 칼 등에 다친 상처가 있는 사람, 젖먹이는 산모, 혈이 부족한 사람은 특히 먹지 말라고 적었다. 고서의 梨는 배 전반을 가리키며 돌배만을 따로 적은 항목은 아니다. (동의보감 탕액편 梨 항목 원문은 열람하지 못해 본초강목 원문으로 대신했다.)"
+  },
+  "faq": [
+    {
+      "a": "열매 색과 꽃받침을 보면 됩니다. 돌배나무 열매는 다갈색이고 끝에 꽃받침이 없으며, 산돌배 열매는 노랗고 끝에 꽃받침이 남아 있습니다. 둘 다 배나무속이라 먹는 방법은 비슷합니다.",
+      "q": "돌배와 산돌배는 어떻게 다른가요?"
+    },
+    {
+      "a": "8월부터 10월까지입니다. 돌배나무는 8월쯤부터 익고, 산돌배는 8~10월에 익으며, 서리를 맞은 뒤 단맛이 깊어진다고 소개됩니다.",
+      "q": "돌배 제철은 언제인가요?"
+    },
+    {
+      "a": "먹을 수는 있지만 과육이 단단하고 떫어 주로 즙·청·차·술로 가공해 먹습니다. 농촌진흥청 자료도 돌배가 원물보다 가공품으로 주로 쓰인다고 소개합니다.",
+      "q": "돌배는 생으로 먹나요?"
+    },
+    {
+      "a": "크기와 단단함, 맛으로 구별합니다. 돌배는 지름 3~4cm 정도로 작고 단단하며 향이 진하고 신맛·떫은맛이 남지만, 재배 배는 과즙이 많고 단맛이 앞섭니다. 품종명이 붙어 있으면 재배 배입니다.",
+      "q": "작은 재배 배를 돌배로 파는 경우는 어떻게 구별하나요?"
+    },
+    {
+      "a": "껍질이 매끈하고 상처가 없으며 손에 쥐었을 때 단단한 것을 고릅니다. 상처 난 열매는 쉽게 상하므로 피하고, 크기는 원래 작으니 크기보다 상태를 봅니다.",
+      "q": "좋은 돌배는 어떻게 고르나요?"
+    }
+  ],
+  "id": {
+    "eat": "즙(배즙·돌배즙), 청, 차, 담금주, 젤리·음료 등 가공품으로 주로 먹는다. 생강·도라지와 함께 즙을 내는 방식이 전통적으로 알려져 있다.",
+    "eng": "Sand pear",
+    "family": "장미과",
+    "grade": "농촌진흥청은 배를 고를 때 껍질이 매끈하고 색이 맑으며 손에 쥐었을 때 단단한 탄력이 있는 것을 권하고, 상처·흠집이 있으면 쉽게 상한다고 안내한다. 돌배는 크기가 작고 단단한 것이 원래 특성이므로 크기보다 상처 없음과 단단함을 우선 본다.",
+    "habitat": "돌배나무는 강원도 이남의 산과 들에 자라는 낙엽 작은키나무다(중국 중남부·일본 혼슈 이남에도 분포). 시장에서 함께 '돌배'로 부르는 산돌배(Pyrus ussuriensis)는 함경·평안도에서 남쪽으로 경상북도까지 자라고, 전남 순천·광양 등지에서는 열매를 얻으려고 가꾸기도 한다.",
+    "look": {
+      "flower": "흰 꽃이 한 꽃차례에 6~9송이씩 모여 피고 지름은 2.5~3.5cm, 수술 끝(꽃밥)이 분홍빛이다. 돌배나무는 4월, 산돌배는 5월에 핀다.",
+      "fruit": "돌배나무 열매는 지름 3cm 안팎의 둥근 다갈색 배로, 꽃받침이 떨어져 열매 끝이 매끈하고 열매자루가 3~5cm로 길다. 산돌배 열매는 노란색(지름 3~4cm)이고 열매 끝에 꽃받침이 남아 있다.",
+      "leaf": "돌배나무 잎은 넓은 달걀꼴로 길이 7~12cm, 끝이 길게 뾰족하고 가장자리 톱니가 날카롭다. 산돌배 잎은 둥근 편이고 톱니 끝이 바늘처럼 길게 뻗는다.",
+      "smell": "익은 열매는 배 특유의 향이 재배 배보다 진하다.",
+      "stem": "돌배나무는 높이 5m 안팎의 작은키나무로, 어린 가지는 갈색이며 처음 난 털이 점점 없어진다. 산돌배는 10m까지 자란다."
+    },
+    "parts": "열매",
+    "prep": "흐르는 물에 씻어 꼭지와 씨 부분을 잘라 낸다. 과육이 단단하고 떫어 날로 먹기보다 즙·청·차·술로 가공하는 경우가 많다.",
+    "sci": "Pyrus pyrifolia (Burm.f.) Nakai",
+    "season": {
+      "collect": [
+        8,
+        9,
+        10
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 돌배나무 Pyrus pyrifolia",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5575"
+      },
+      {
+        "title": "Flora of Korea - 산돌배 Pyrus ussuriensis",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5576"
+      },
+      {
+        "title": "Flora of Korea - 배나무속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5573"
+      },
+      {
+        "title": "농촌진흥청 그린매거진 2026년 5월 - 돌배",
+        "url": "https://rda.go.kr/webzine/2026/05/2_3.html"
+      },
+      {
+        "title": "농촌진흥청 웹진 2025년 10월 - 배 고르는 법",
+        "url": "https://rda.go.kr/webzine/2025/10/sub_45.html"
+      }
+    ],
+    "store": "단단한 상태로 서늘한 곳이나 냉장고에 두고, 상처 난 열매는 쉽게 무르므로 골라내 먼저 쓴다. 오래 두려면 즙이나 청으로 가공해 둔다.",
+    "taste": "재배 배보다 작고 단단하며 향이 진하다. 단맛과 함께 신맛·떫은맛이 있고, 서리를 맞은 뒤 단맛이 깊어진다고 소개된다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 배나무속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5573"
+    },
+    {
+      "title": "Flora of Korea - 콩배나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5574"
+    },
+    {
+      "title": "Flora of Korea - 산돌배",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5576"
+    },
+    {
+      "title": "Flora of Korea - 아그배나무 Malus toringo",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5538"
+    },
+    {
+      "title": "농촌진흥청 웹진 2025년 10월 - 배 품종",
+      "url": "https://rda.go.kr/webzine/2025/10/sub_45.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "산돌배(Pyrus ussuriensis)는 같은 배나무속으로 시장에서 돌배와 함께 팔린다. 먹는 데 문제는 없지만 열매 색과 꽃받침으로 구별된다.",
+      "name": "산돌배",
+      "points": [
+        "산돌배 열매는 노랗고, 돌배나무 열매는 다갈색이다.",
+        "산돌배는 열매 끝에 꽃받침이 남아 있고, 돌배나무는 꽃받침이 떨어져 없다.",
+        "산돌배 잎 톱니는 끝이 바늘처럼 길게 뻗고, 돌배나무 톱니는 날카롭지만 짧다.",
+        "산돌배는 5월, 돌배나무는 4월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "콩배나무(Pyrus calleryana var. fauriei)는 경기·충남·전라·강원 서부에 자라는 배나무 무리로, 열매가 콩만 하게 작다.",
+      "name": "콩배나무",
+      "points": [
+        "콩배 열매는 지름 1~1.5cm로 돌배(약 3cm)보다 훨씬 작고 녹갈색~검은색이다.",
+        "콩배는 열매자루가 1.5~3cm로 짧고, 돌배는 3~5cm로 길다.",
+        "콩배 잎은 달걀꼴에 톱니가 둔한 물결 모양이고, 돌배 잎은 톱니가 날카롭다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "신고·원황 등 과수원에서 기르는 배는 돌배나무를 개량한 계통으로, 작은 비품 배가 돌배로 섞여 팔릴 수 있다.",
+      "name": "재배 배",
+      "points": [
+        "재배 배는 대개 주먹보다 크고 과즙이 많으며 과육이 무르다. 돌배는 지름 3~4cm 정도로 작고 단단하다.",
+        "돌배는 향이 진하고 신맛·떫은맛이 남지만 재배 배는 단맛이 앞선다.",
+        "재배 배 품종명(신고, 원황, 화산 등)이 붙어 있으면 돌배가 아니다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "아그배나무(Malus toringo)는 이름에 '배'가 들어가지만 사과나무속으로, 붉은 열매가 아주 작다.",
+      "name": "아그배나무",
+      "points": [
+        "아그배 열매는 지름 4~6mm로 콩알보다 작고 붉거나 주황빛이다.",
+        "아그배는 긴 가지의 잎이 2~3갈래로 갈라지기도 하지만, 돌배 잎은 갈라지지 않는다.",
+        "아그배 열매는 9~10월에 익어 붉게 달린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Horticulturae",
+        "note": "산돌배 두 계통의 부위별 성분을 비교한 실험실 분석으로, 줄기에 폴리페놀이, 잎에 플라보노이드가 가장 많았고 클로로겐산이 주요 성분이었다.",
+        "title": "Comparative Assessment of Phytochemical Content and Antioxidant Activities in Different Parts of Pyrus ussuriensis Cultivars",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2311-7524/11/2/184",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmacological Research - Modern Chinese Medicine",
+        "note": "돌배(일본배)를 포함한 배속 식물의 페놀·플라보노이드·트리테르페노이드 성분과 보고된 생리활성을 정리한 문헌 고찰이다.",
+        "title": "Exploring the therapeutic potential and bioactive compounds in Pyrus species",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/f15e79325d7a4d2dbcd4a96965df3d1e",
+        "year": "2024"
+      },
+      {
+        "journal": "Applied Sciences",
+        "note": "덜 익은 동양배 추출물이 미세먼지로 생긴 쥐의 폐 손상에 어떤 영향을 주는지 살핀 동물 연구다.",
+        "title": "Effectiveness of Immature Asian Pear Extract on Pulmonary Injury Caused by Particulate Matter in Mice",
+        "type": "동물 실험",
+        "url": "https://www.mdpi.com/2076-3417/13/17/9578",
+        "year": "2023"
+      },
+      {
+        "journal": "Plant Foods for Human Nutrition",
+        "note": "돌배 열매 추출물과 페놀 성분의 항산화 활성과 대사 관련 효소 억제 정도를 시험관 실험과 컴퓨터 분석으로 살폈다.",
+        "title": "Modulatory Effect of Pyrus pyrifolia Fruit and its Phenolics on Key Enzymes against Metabolic Syndrome: Bioassay-Guided Approach, HPLC Analysis, and In Silico Study",
+        "type": "기타",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10363080",
+        "year": "2023"
+      }
+    ],
+    "summary": "돌배·산돌배 연구는 열매·잎·줄기의 폴리페놀 성분과 항산화 활성을 분석한 실험실 연구, 동물 실험이 대부분이다. 배속(Pyrus) 전반을 다룬 리뷰가 있으나, 돌배를 먹는 사람을 대상으로 효과를 확인한 연구는 찾지 못했으므로 근거 수준은 낮다."
+  },
+  "name": "돌배",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792357325694
+}

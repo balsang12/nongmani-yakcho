@@ -1,0 +1,172 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "三白草",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "『동의보감』 탕액편에서 三白草 항목을 확인하지 못했다. 『본초강목』에 실려 있다고 알려져 있으나 위키문헌·ctext 원문 페이지를 열람하지 못해 원문 대조를 하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 삼백초는 환경부 지정 멸종위기 야생생물 II급이라 자생지에서 허가 없이 채취할 수 없으며, 판매용은 재배한 것이어야 합니다.",
+      "q": "산에서 삼백초를 캐서 팔아도 되나요?"
+    },
+    {
+      "a": "아닙니다. 둘 다 삼백초과지만, 삼백초는 긴 꼬리 모양 꽃이삭과 하얗게 변하는 윗잎이 특징이고, 어성초(약모밀)는 짧은 이삭 밑에 흰 포가 4~6장 달리고 비린내가 강합니다.",
+      "q": "삼백초와 어성초는 같은 식물인가요?"
+    },
+    {
+      "a": "뿌리줄기, 꽃, 그리고 꽃필 무렵 줄기 끝의 잎 2~3장이 모두 흰색이어서 붙은 이름입니다.",
+      "q": "삼백초라는 이름은 왜 붙었나요?"
+    },
+    {
+      "a": "습기가 들지 않도록 밀폐 용기에 담아 보관합니다.",
+      "q": "말린 삼백초는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 지상부를 달이거나 우려 차로 마시는 경우가 많다.",
+    "eng": "Asian lizard's tail",
+    "family": "삼백초과",
+    "grade": "한약재 공정서 기준에서 삼백초는 지상부를 말린 것으로, 줄기 속이 비고 4줄 세로 홈이 있으며 잎밑이 심장 모양인 것이 특징이다. 이물 3.0% 이하, 건조감량 13.0% 이하, 회분 11.0% 이하와 중금속·잔류농약 기준이 정해져 있으므로, 이 기준에 맞춘 규격품인지 확인하는 것이 좋다.",
+    "habitat": "제주 협재 일대 등 해안가 밭 주변, 개울가 같은 습지와 진흙땅에 자라며, 지리산 일부에서도 자생 보고가 있다. 환경부 지정 멸종위기 야생생물 II급(2022년 개정안에서도 II급 유지)이고 국립수목원 희귀식물 '위기종'이므로 자생지에서 허가 없이 캐거나 채취할 수 없다. 시중 유통품은 재배품이어야 한다.",
+    "look": {
+      "flower": "꽃잎 없는 작은 흰 꽃이 길이 10~15cm의 꼬리 같은 이삭으로 잎과 마주 보며 달리고, 이삭 끝이 휘어 올라간다.",
+      "fruit": "둥근 열매가 달린다.",
+      "leaf": "어긋나게 나며 긴 달걀 모양으로 끝이 뾰족하고 밑은 심장 모양, 가장자리는 밋밋하다. 뒷면은 흰빛이 돌고, 꽃필 무렵 줄기 끝의 잎 2~3장이 하얗게 변한다.",
+      "root": "흰색 뿌리줄기가 진흙 속을 옆으로 뻗는다.",
+      "smell": "말린 것은 약간 특유한 냄새가 나지만 어성초처럼 비린내가 강하지는 않다.",
+      "stem": "높이 50~100cm로 자란다. 말린 줄기는 원기둥 모양에 세로 홈이 4줄 있고 속이 비어 있다."
+    },
+    "parts": "지상부(줄기·잎·꽃), 전초",
+    "prep": "한약재로는 지상부를 말려서 쓴다.",
+    "sci": "Saururus chinensis (Lour.) Baill.",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 삼백초",
+        "url": "https://encykorea.aks.ac.kr/Article/E0026596"
+      },
+      {
+        "title": "식품의약품안전처 생약 규격 - 삼백초(三白草) Saururi Herba",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP164.5.pdf"
+      },
+      {
+        "title": "국립생태원 - 멸종위기 야생생물 목록 개정(안) (2022.6.21. 기준)",
+        "url": "https://www.nie.re.kr/nie/cmmn/file/fileDown.do?atchFileId=25bea903465447e1a1d651f74b20dfc0&fileSn=4"
+      },
+      {
+        "title": "제주환경일보 - 뿌리, 잎, 꽃이 흰색이기 때문에 '삼백초'..위기의 습지식물",
+        "url": "https://www.newsje.com/news/articleView.html?idxno=274835"
+      }
+    ],
+    "store": "말린 것은 습기가 들지 않게 밀폐 용기에 보관한다.",
+    "taste": "말린 것은 약간 특유한 냄새가 나고 맛은 담담하다."
+  },
+  "lookSources": [
+    {
+      "title": "제주환경일보 - 뿌리, 잎, 꽃이 흰색이기 때문에 '삼백초'..위기의 습지식물",
+      "url": "https://www.newsje.com/news/articleView.html?idxno=274835"
+    },
+    {
+      "title": "코스모닝 - 정연옥 소장의 '한국 자생식물과 화장품 원료'(삼백초)",
+      "url": "https://www.cosmorning.com/news/article.html?no=41308"
+    },
+    {
+      "title": "산림청 동부지방산림청 - 약모밀",
+      "url": "https://east.forest.go.kr/kfs/images/data/down/imsan/약모밀.pdf"
+    },
+    {
+      "title": "Wikipedia - Houttuynia cordata",
+      "url": "https://en.wikipedia.org/wiki/Houttuynia_cordata"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 삼백초",
+      "url": "https://encykorea.aks.ac.kr/Article/E0026596"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 삼백초과의 약모밀(Houttuynia cordata)로, 울릉도 등지에서는 약모밀을 '삼백초'라 부르기도 해 이름과 물건이 자주 뒤섞인다.",
+      "name": "어성초",
+      "points": [
+        "어성초는 꽃이삭이 2~3cm로 짧고 그 밑에 흰 꽃잎 같은 포 4~6장이 십자 모양으로 벌어지지만, 삼백초는 10~15cm의 긴 꼬리 모양 이삭에 꽃잎이 없다.",
+        "삼백초는 꽃필 때 줄기 끝 잎 2~3장이 하얗게 변하지만, 어성초는 잎이 하얘지지 않는다.",
+        "어성초 잎은 넓은 심장 모양이고 비비면 생선 비린내가 강하게 나며, 삼백초 잎은 길쭉한 달걀 모양이고 비린내가 거의 없다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Medicinal Food",
+        "note": "알레르기 비염이 있는 사람에게 삼백초 추출물과 위약을 비교해 증상 변화와 안전성을 본 다기관 임상시험이다.",
+        "title": "Efficacy and Safety of Saururus chinensis Extract (LHF618) for Treating Allergic Rhinitis: A Randomized, Double-Blind, Placebo-Controlled, Multicenter Clinical Study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1089/jmf.2025.k.0008",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "모과와 삼백초 혼합 추출물이 천식 모델 쥐의 기도 염증 지표를 줄였는지 살핀 동물 연구다.",
+        "title": "Therapeutic effects of a combination of Chinese quince and Saururus chinensis extract on allergic airway inflammation in an ovalbumin-induced asthma mouse model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fnut.2025.1613413",
+        "year": "2025"
+      },
+      {
+        "journal": "Artificial Cells, Nanomedicine, and Biotechnology",
+        "note": "네트워크 약리학과 분자 도킹으로 삼백초 성분과 장내 미생물 대사물의 대사질환 관련 작용을 컴퓨터로 예측한 연구로, 실험 검증은 없다.",
+        "title": "The synchronized feature of Saururus chinensis and gut microbiota against T2DM, NAFLD, obesity and hypertension via integrated pharmacology",
+        "type": "기타",
+        "url": "https://doi.org/10.1080/21691401.2024.2350475",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmacological Research - Modern Chinese Medicine",
+        "note": "삼백초의 리그난 성분 사우치논에 관한 기존 연구를 정리한 리뷰로, 저자들도 전임상·임상 자료가 더 필요하다고 밝혔다.",
+        "title": "Sauchinone, an active phytochemical of Saururus Chinensis, and its use as therapeutic",
+        "type": "리뷰",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2667142524001283",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Functional Foods",
+        "note": "삼백초 물 추출물을 천식 모델 동물과 대식세포에 적용해 염증 지표 변화를 본 연구다.",
+        "title": "Saururus chinensis water-extract effectively controls asthma by ameliorating of Th1/Th2 imbalance and suppressing of NF-κB/COX-2/PGE2-related inflammation",
+        "type": "동물 실험",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1756464623005303",
+        "year": "2024"
+      }
+    ],
+    "summary": "사람 대상 연구로는 삼백초 추출물(LHF618)의 알레르기 비염 증상에 대한 무작위 이중맹검 위약대조 임상시험이 2025년에 보고되었다. 그 밖의 최근 연구는 동물 실험, 컴퓨터 예측 연구, 성분(사우치논) 리뷰가 대부분이라 근거 수준은 아직 제한적이며, 추출물 연구 결과를 말린 삼백초 차에 그대로 적용할 수는 없다."
+  },
+  "name": "삼백초",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 삼백초",
+        "url": "https://encykorea.aks.ac.kr/Article/E0026596"
+      }
+    ],
+    "text": "전통 의약에서는 말린 전초를 성질이 차고 맛이 쓰고 매운 약재로 보았다. 열을 내리고 소변을 잘 나오게 하며 부기를 가라앉힌다고 하여 소변이 잘 안 나올 때, 몸이 붓거나 각기·황달, 종기 등에 썼다고 백과사전에 적혀 있다."
+  },
+  "updatedAt": 1792314395227
+}

@@ -1,0 +1,173 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "(원문 미대조) 『동의보감』에 '겨ᄋᆞ사리너출'이라는 한글 이름으로 실려 있다고 한국민족문화대백과사전은 적었다.",
+      "(원문 미대조) 같은 백과사전은 열을 내리고 독을 풀며 땀을 내는 약으로 알려져, 감기·몸살로 열이 나고 온몸이 아플 때 줄기를 달여 먹었다고 적었다."
+    ],
+    "han": "忍冬",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "겨ᄋᆞ사리너출",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 인동",
+        "url": "https://encykorea.aks.ac.kr/Article/E0046860"
+      }
+    ],
+    "verified": false,
+    "warn": "한국한의학연구원 원문 페이지(탕액편 권2 草部上, 蘭草와 蛇床子 사이 항목으로 추정)에 여러 번 접속했으나 읽지 못해 원문과 대조하지 못했다. 성미·원문 구절은 비워 두었다."
+  },
+  "faq": [
+    {
+      "a": "같은 식물(인동덩굴)이지만 쓰는 부위가 다릅니다. 꽃봉오리나 막 핀 꽃은 '금은화', 잎과 줄기는 '인동'이라는 약재로 구분합니다.",
+      "q": "금은화와 인동은 같은 것인가요?"
+    },
+    {
+      "a": "피지 않은 꽃봉오리 위주로 겉이 누런 흰색~푸른 흰색이고 특유의 향이 나는 것을 고릅니다. 색이 짙게 변한 것은 오래 묵은 것이고, 줄기·잎이 많이 섞인 것은 피합니다.",
+      "q": "좋은 금은화는 어떻게 고르나요?"
+    },
+    {
+      "a": "꽃이 흰색(은)으로 피었다가 노란색(금)으로 변해, 한 덩굴에 두 빛깔 꽃이 함께 보이기 때문입니다.",
+      "q": "꽃 이름이 왜 금은화인가요?"
+    },
+    {
+      "a": "원산지와 기원 식물 표시(Lonicera japonica)부터 확인하세요. 산은화는 꽃받침의 털이 짧고 꽃통의 털이 적은 편이지만, 눈으로 완전히 가리기는 어려워 표시 확인이 가장 확실합니다.",
+      "q": "수입 금은화와 산은화는 어떻게 구별하나요?"
+    },
+    {
+      "a": "식품으로 쓸 수 있는지는 식약처 식품원료목록에서 부위별로 확인해야 합니다. 이 문서를 쓸 때는 확인하지 못했으니, 판매자에게 식품 원료 여부를 물어보세요.",
+      "q": "금은화를 식품으로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Japanese honeysuckle",
+    "family": "인동과(Caprifoliaceae)",
+    "grade": "대한민국약전 기준으로 좋은 금은화는 길이 15~35mm의 몽둥이~깔때기 모양 꽃봉오리 위주이고 겉이 누런 흰색이나 푸른 흰색이며, 오래 묵은 것은 색이 짙어진다. 줄기·잎 섞임은 5% 이하, 건조감량 15% 이하, 회분 9% 이하로 정해져 있다.",
+    "habitat": "함경도를 뺀 우리나라 전역의 산과 들에 자라는 반상록 덩굴식물이다.",
+    "look": {
+      "flower": "잎겨드랑이에 꽃이 1~2개씩 달리고, 길이 3~4cm의 통 모양 꽃이 흰색으로 피었다가 노란색으로 변한다. 꽃잎 끝은 다섯 갈래인데 한 갈래가 깊게 갈라져 뒤로 말린다.",
+      "fruit": "열매는 지름 7~8mm의 둥근 장과로 9~10월에 검게 익는다.",
+      "leaf": "잎은 넓은 피침꼴~달걀꼴 타원형으로 길이 3~8cm이고 가장자리에 톱니가 없다. 겨울에도 잎이 남아 '인동(忍冬)'이라는 이름이 붙었다.",
+      "smell": "꽃에서 특유의 달콤한 향이 난다.",
+      "stem": "줄기는 오른쪽으로 감아 올라가는 덩굴이다. 어린 가지는 붉은 갈색에 털이 있고 속이 비어 있다."
+    },
+    "parts": "꽃봉오리 또는 막 피기 시작한 꽃(약재 '금은화'). 잎과 줄기는 따로 '인동'이라는 약재로 구분한다.",
+    "prep": "꽃봉오리나 막 핀 꽃을 따서 말린다. 약전 기준으로 줄기·잎이 5% 넘게 섞이면 안 된다. 식품 원료로 쓸 수 있는 부위와 조건은 식약처 식품원료목록에서 따로 확인해야 하며, 이 문서 작성 때는 확인하지 못했다.",
+    "sci": "Lonicera japonica Thunb.",
+    "season": {
+      "collect": [
+        6,
+        7
+      ],
+      "flower": [
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 인동덩굴 Lonicera japonica",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5117"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 인동",
+        "url": "https://encykorea.aks.ac.kr/Article/E0046860"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 금은화(Lonicerae Flos)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_28.pdf"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 인동(Lonicerae Folium et Caulis)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_1221.pdf"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 정보 - 금은화",
+        "url": "https://www.kmcric.com/database/herb_list?id=69&search_word=%EA%B8%88%EC%9D%80%ED%99%94"
+      }
+    ],
+    "store": "",
+    "taste": "말린 꽃은 특유의 향이 있고 맛은 담백하면서 약간 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "香港 衞生署 政府中藥檢測中心 - 金银花与山银花 鉴别",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/011_LJF_vs_LF_sc.pdf"
+    },
+    {
+      "title": "Flora of Korea - Lonicera(인동속) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5113"
+    },
+    {
+      "title": "Flora of Korea - 인동덩굴 Lonicera japonica",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5117"
+    },
+    {
+      "title": "국립수목원 6월의 정원식물 '마삭줄' (헤럴드경제 보도)",
+      "url": "https://www.heraldk.com/article/2026060416252871078"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "중국에서 '산은화(山銀花)'로 따로 분류해 유통하는 다른 인동속 꽃(Lonicera macranthoides, Lonicera hypoglauca 등)으로, 값싼 수입 약재가 금은화와 섞이거나 바뀔 수 있다.",
+      "name": "산은화",
+      "points": [
+        "금은화는 꽃받침 갈래에 긴 털이 있고, 산은화는 꽃받침 갈래의 털이 짧다.",
+        "금은화는 꽃통 겉에 짧고 부드러운 털이 빽빽하다.",
+        "산은화 중 일부(L. hypoglauca)는 꽃통 겉에 털이 거의 없거나 드물다.",
+        "확실히 가리려면 원산지와 약전 기원(Lonicera japonica) 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "같은 인동속(Lonicera maackii 등)으로 꽃이 두 개씩 달려 비슷해 보이지만, 덩굴이 아니라 곧게 서는 떨기나무다.",
+      "name": "괴불나무",
+      "points": [
+        "괴불나무는 곧게 서는 떨기나무이고, 인동덩굴은 다른 물체를 감고 오르는 덩굴이다.",
+        "괴불나무 열매는 붉게 익고, 인동덩굴 열매는 검게 익는다.",
+        "괴불나무 꽃자루는 2~4mm로 짧다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "협죽도과의 상록 덩굴(Trachelospermum asiaticum)로, 흰 꽃이 피었다가 연노랑으로 변하고 향이 진해 인동꽃과 헷갈릴 수 있다.",
+      "name": "마삭줄",
+      "points": [
+        "마삭줄 꽃은 다섯 장 꽃잎이 바람개비처럼 돌려 펼쳐지고, 인동꽃은 긴 통 끝이 입술처럼 위아래로 갈라진다.",
+        "마삭줄은 주로 남부 지방과 제주의 숲에서 바위나 나무줄기를 타고 자란다.",
+        "마삭줄은 5~6월, 인동덩굴은 6~7월에 꽃이 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "이번 조사에서는 논문 검색 서비스 접속이 제한되어 2023~2026년 논문을 직접 확인하지 못했다. 그래서 최근 연구는 싣지 않았으며, 사람에게 효과가 있다는 근거 수준도 판단하지 않았다."
+  },
+  "name": "금은화",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 인동",
+        "url": "https://encykorea.aks.ac.kr/Article/E0046860"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 금은화(Lonicerae Flos)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_28.pdf"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 인동(Lonicerae Folium et Caulis)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_1221.pdf"
+      }
+    ],
+    "text": "한방에서는 인동덩굴의 꽃봉오리를 '금은화', 잎과 줄기를 '인동'이라는 서로 다른 약재로 구분한다. 민간에서는 열이 심한 감기·몸살이나 종기에 줄기를 달여 썼다고 전한다."
+  },
+  "updatedAt": 1792314395227
+}

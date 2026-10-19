@@ -1,0 +1,238 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "(원문 미대조) 성질은 약간 차고(서늘하다고도 함) 맛은 쓰고 매우며, 독이 없다(조금 있다고도 함)고 적었다.",
+      "(원문 미대조) 열이 뭉쳐 생긴 황달로 온몸이 누렇게 되고 소변이 잘 나오지 않는 데 쓴다고 적었다."
+    ],
+    "han": "茵蔯蒿",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "파이낸셜뉴스(다음 게재) [한동하의 본초여담] 황달과 심한 변비에는 인진쑥과 돼지족발이 약이었다 (2025.12.20)",
+        "url": "https://v.daum.net/v/20251220060214200?f=p"
+      }
+    ],
+    "verified": false,
+    "warn": "원문 사이트(한의학고전DB, 위키문헌)에 접속하지 못해 원문과 대조하지 못했고, 한의사 칼럼에 옮겨 적힌 원문 인용만 보았다. 그 칼럼은 이 항목의 우리말 이름을 '더위지기'로 옮기고 있는데, 오늘날 '더위지기'는 다른 식물(한인진)의 이름이므로 옛 기록의 이름과 현재 식물을 바로 같게 보면 안 된다. 옛 책의 쓰임은 기록일 뿐 효능을 보장하지 않는다."
+  },
+  "faq": [
+    {
+      "a": "네, 인진쑥은 사철쑥(Artemisia capillaris)을 가리키는 이름이고 한약명은 인진호입니다. 다만 시장에서는 더위지기(한인진)를 '인진'으로 파는 경우가 많다는 지적이 있어 기원 식물 표시를 확인해야 합니다.",
+      "q": "인진쑥과 사철쑥은 같은 식물인가요?"
+    },
+    {
+      "a": "잎 갈래를 보세요. 사철쑥은 잎 갈래가 실처럼 가늘고 흰 털이 있으며, 더위지기는 갈래가 피침형으로 넓고 톱니가 있고 줄기 아래가 나무처럼 단단합니다.",
+      "q": "더위지기(한인진)와 어떻게 구별하나요?"
+    },
+    {
+      "a": "봄(3~6월)에 어린싹을, 가을(9~10월)에 꽃봉오리·열매가 달린 지상부를 거둡니다. 생약규격은 봄 것을 면인진, 가을 것을 인진호로 구분합니다.",
+      "q": "인진쑥은 언제 거두나요?"
+    },
+    {
+      "a": "전국에 자생하며 냇가의 모래땅에서 흔히 볼 수 있습니다.",
+      "q": "어디서 자라나요?"
+    },
+    {
+      "a": "그늘에서 잘 말려 밀폐용기에 넣고, 습기와 직사광선을 피해 보관합니다.",
+      "q": "어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린 줄기와 잎을 말려 달이거나 차로 우려 마시는 방식이 알려져 있다.",
+    "eng": "capillary wormwood",
+    "family": "국화과(Asteraceae)",
+    "grade": "생약규격은 봄에 거둔 것을 '면인진', 가을에 거둔 것을 '인진호'로 나누며, 약재로는 가을 꽃봉오리·열매가 달릴 때 거둔 것을 좋은 물건으로 친다는 설명이 있다. 국내 시장에 '인진'으로 도는 물건은 대부분 더위지기(한인진)라는 지적이 있으므로, 사철쑥(Artemisia capillaris)이 기원인지 표시를 확인한다. 잎 갈래가 실처럼 가늘고 흰 털이 있는지 원물을 보고 고른다.",
+    "habitat": "전국에 자생하며 냇가의 모래땅 같은 양지바른 곳에서 흔히 자란다.",
+    "look": {
+      "flower": "8~9월에 아주 작고 둥근 머리모양꽃이 큰 원뿔 모양 꽃차례에 촘촘히 달린다.",
+      "fruit": "열매는 0.8mm 정도로 아주 작고 누런 갈색이다.",
+      "leaf": "잎은 2회 깃꼴로 갈라지고 갈래가 실처럼 가늘며, 보통 비단 같은 흰 털로 덮여 있다. 처음 나올 때는 땅에 붙어 둥글게 퍼진다.",
+      "smell": "말린 약재 기준으로 봄에 거둔 어린 것은 맑은 향, 가을에 거둔 것은 특유한 냄새가 난다.",
+      "stem": "높이 30~100cm로 가지가 많이 갈라지며, 밑부분은 나무처럼 단단해진다. 가을 줄기는 갈색이나 자줏빛을 띠고 세로 줄이 있다."
+    },
+    "parts": "어린 줄기와 잎, 지상부(한약재 '인진호'는 사철쑥의 지상부). 식품원료로서의 인정 부위는 이번에 확인하지 못했다.",
+    "prep": "흙과 묵은 잎을 털어 내고 깨끗이 씻어 그늘에서 말린다. 봄(3~6월)에 거두는 어린싹과 가을(9~10월)에 꽃봉오리·열매가 달린 지상부는 쓰임과 이름이 다르므로 섞지 않는다.",
+    "sci": "Artemisia capillaris Thunb.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5,
+        6,
+        9,
+        10
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "농사로(농촌진흥청) 사철쑥",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=16&pageSize=10&pageUnit=6&cntntsNo=204967&sType=sCntntsSj"
+      },
+      {
+        "title": "식품의약품안전처 생약규격 '인진호(茵蔯蒿) Artemisiae Capillaris Herba' (KHP_235)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP_235.pdf"
+      },
+      {
+        "title": "약사공론 기고, 간담병에는 사철쑥, 월경통에는 더위지기 (2023.3.6)",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=301342"
+      },
+      {
+        "title": "약사공론 기고, 혼동하기 쉬운 藥用植物 이야기 (2021.10.12)",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=300783"
+      },
+      {
+        "title": "민족의학신문 [본초기획] 茵蔯",
+        "url": "https://www.mjmedi.com/news/articleView.html?idxno=1973"
+      }
+    ],
+    "store": "잘 말려 밀폐용기에 넣어 습기와 직사광선을 피해 보관한다.",
+    "taste": "맛은 약간 쓰다. 봄에 거둔 어린 것(면인진)은 맑은 향이, 가을에 거둔 것(인진호)은 특유한 냄새가 있다."
+  },
+  "lookSources": [
+    {
+      "title": "식품의약품안전처 생약규격 '인진호(茵蔯蒿) Artemisiae Capillaris Herba' (KHP_235)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP_235.pdf"
+    },
+    {
+      "title": "식품의약품안전처 생약규격 '한인진(Artemisiae Iwayomogii Herba)' (KHP359)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP359.pdf"
+    },
+    {
+      "title": "약사공론 기고, 간담병에는 사철쑥, 월경통에는 더위지기 (2023.3.6)",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=301342"
+    },
+    {
+      "title": "민족의학신문 [본초기획] 茵蔯",
+      "url": "https://www.mjmedi.com/news/articleView.html?idxno=1973"
+    },
+    {
+      "title": "박명순·남보미·정규영, 더위지기 및 근연분류군의 분류학적 재검토, 식물분류학회지 46(2), 2016",
+      "url": "https://koreascience.kr/article/JAKO201621650896783.page?_escaped_fragment_=&lang=ko"
+    },
+    {
+      "title": "쿠키뉴스, 한의학연 '청호·한인진' 유전자 마커 감별기술 개발 (2026.4.14)",
+      "url": "https://www.kukinews.com/article/view/kuk202604140100"
+    },
+    {
+      "title": "농사로(농촌진흥청) 사철쑥",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=16&pageSize=10&pageUnit=6&cntntsNo=204967&sType=sCntntsSj"
+    },
+    {
+      "title": "농사로(농촌진흥청) 쑥",
+      "url": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=204944&detailSrch=&menuId=PS04103&pageIndex=20&pageSize=10&pageUnit=6&sDtlSrchText=&sText=&sType=sCntntsSj"
+    },
+    {
+      "title": "푸드투데이, 제대로 알고 먹는 약재 상식 - 개똥쑥 황화호 (2013.5.13)",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=103613"
+    },
+    {
+      "title": "식품의약품안전처 보도자료: 식품 사용 불가 원료로 제조된 액상차 등 회수·폐기 (2013.5.31)",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=155898737"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "더위지기(Artemisia iwayomogi, 현재 A. sacrorum var. iwayomogi 또는 A. gmelinii로도 처리)는 한약명 '한인진(韓茵蔯)'으로 사철쑥(인진호)과 다른 약재인데, 국내에서 '인진'으로 유통되는 물건의 대부분이 더위지기라는 지적이 있다.",
+      "name": "더위지기",
+      "points": [
+        "더위지기는 나무에 가까운 식물로 줄기 아래쪽이 목질화되어 있고, 사철쑥은 풀이면서 밑부분만 단단해진다.",
+        "더위지기 잎은 깃모양으로 깊게 갈라진 갈래가 피침형으로 넓고 끝이 뾰족하며 톱니가 있고, 사철쑥 잎 갈래는 실처럼 가늘다.",
+        "더위지기 잎은 윗면이 녹색, 아랫면이 황록색이며 아랫면에 기름점(선점)이 있다.",
+        "주성분도 다르다(사철쑥은 카필린·카필라리신 계열, 더위지기는 쿠마린 계열)는 설명이 있어 같은 약재로 볼 수 없다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "흔히 먹는 쑥(Artemisia princeps 등)은 잎이 넓게 갈라져, 잎이 실처럼 가는 사철쑥과 생김새가 다르다.",
+      "name": "쑥",
+      "points": [
+        "쑥은 잎이 타원형 바탕에 깃꼴로 갈라지는 정도이고, 사철쑥 잎은 실처럼 가늘게 갈라진다.",
+        "쑥은 들판·밭 둘레에 흔하고, 사철쑥은 냇가 모래땅에 많다.",
+        "쑥은 7월쯤, 사철쑥은 8~9월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "개똥쑥(Artemisia annua)도 잎이 가늘게 갈라져 헷갈릴 수 있으나 한약명 '청호'로 다른 약재이며, 식품으로는 꽃·줄기가 금지 원료다.",
+      "name": "개똥쑥",
+      "points": [
+        "개똥쑥은 한해살이이고 털이 거의 없으며, 사철쑥은 여러해살이로 잎이 흰 털로 덮여 있다.",
+        "개똥쑥은 비비면 개똥 같은 독특한 냄새가 난다.",
+        "사철쑥은 줄기 밑부분이 나무처럼 단단하지만, 개똥쑥 줄기는 풀 줄기다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "사철쑥을 포함한 한국 쑥속 식물의 유전체 기반 판별과 전통 쓰임을 정리했고, 효능 근거는 주로 실험실·동물 수준이라고 밝혔다.",
+        "title": "Korean Artemisia species: phylogenomic authentication, ethnopharmacology, and commercial applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1873437",
+        "year": "2026"
+      },
+      {
+        "journal": "Industrial Crops and Products",
+        "note": "인진으로 흔히 유통되는 더위지기(한인진)와 청호를 0.1% 섞임까지 가려내는 유전자 마커를 개발해 시판 약재에 적용했다.",
+        "title": "Rapid and reliable authentication of Artemisiae Annuae Herba and Artemisiae Iwayomogii Herba using ITS-based SCAR markers",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0926669026003699",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "사철쑥에서 얻은 엑소좀 유사 소포가 지방간 모델 생쥐와 간세포에서 지방 축적과 염증 지표를 줄였다는 예비 결과다.",
+        "title": "Protective effects of small RNAs encapsulated in Artemisia Capillaris-derived exosomes against non-alcoholic fatty liver disease",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2024.1476820",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "사철쑥 유래 가공물이 시험관 배양과 사람 대변 발효 실험에서 유익균 쪽으로 장내 미생물 변화를 보였다는 시험관 연구다.",
+        "title": "Potential Prebiotic Effects of Artemisia capillaris-Derived Transglycosylated Product",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods13203267",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 대부분 지방간 모델 동물이나 시험관 실험이며, 이번 조사에서 확인한 범위에서는 사람 대상 연구가 없었다. 국내에서는 인진호와 혼동되는 더위지기(한인진)를 유전자로 구별하는 방법이 보고됐다."
+  },
+  "name": "인진쑥",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "식품의약품안전처 생약규격 '인진호(茵蔯蒿) Artemisiae Capillaris Herba' (KHP_235)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP_235.pdf"
+      },
+      {
+        "title": "약사공론 기고, 간담병에는 사철쑥, 월경통에는 더위지기 (2023.3.6)",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=301342"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약정보 인진호",
+        "url": "https://www.kmcric.com/database/herb_list?id=98&search_word=%EC%9D%B8%EC%A7%84%ED%98%B8"
+      },
+      {
+        "title": "농사로(농촌진흥청) 사철쑥",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=16&pageSize=10&pageUnit=6&cntntsNo=204967&sType=sCntntsSj"
+      }
+    ],
+    "text": "사철쑥은 중국에서 인진호(茵蔯蒿)라 부르며 『신농본초경』 상품에 실린 약재로 소개된다. 식약처 생약규격은 사철쑥의 지상부를 인진호로 정하고, 봄에 거둔 것을 면인진, 가을에 거둔 것을 인진호로 구분한다. 한방에서는 습열을 빼고 황달을 다스리는 약으로 분류해 왔고, 민간에서는 간 질환에 달여 쓰는 방식이 알려져 있다."
+  },
+  "updatedAt": 1792314395227
+}

@@ -1,0 +1,232 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [],
+    "han": "蘡薁",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 – 포도나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060134"
+      },
+      {
+        "title": "한의학고전DB – 동의보감 탕액편 권2",
+        "url": "https://mediclassics.kr/books/8/volume/21"
+      }
+    ],
+    "verified": false,
+    "warn": "머루의 한자 이름이 영욱(蘡薁)·산포도(山葡萄)라는 것은 확인했지만, 동의보감 원문(mediclassics.kr, 위키문헌)에 접속하지 못해 蘡薁 항목의 원문·성미·효능을 대조하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "9월부터 10월 초까지입니다. 열매가 9월에 익고, 중부 지방에서는 보통 9월 중순부터 수확합니다.",
+      "q": "머루 제철은 언제인가요?"
+    },
+    {
+      "a": "머루는 산에 자생하는 포도속 식물로, 알이 지름 8mm 안팎으로 작고 씨가 2~3개 들어 있습니다. 포도는 재배 과일로 알이 훨씬 큽니다. 가공품은 원재료 표시로 확인하세요.",
+      "q": "머루와 포도는 어떻게 다른가요?"
+    },
+    {
+      "a": "먹지 않는 것이 좋습니다. 개머루는 먹는 열매가 아니며 약한 독성이 있다는 자료가 있습니다. 열매가 분홍·보라·청록색으로 얼룩덜룩하고, 줄기 골속이 흰 것으로 머루와 구별합니다.",
+      "q": "산에서 본 개머루도 먹을 수 있나요?"
+    },
+    {
+      "a": "아닙니다. 머루는 따고 나면 더 익지 않으므로 처음부터 검게 잘 익고 흰 가루가 앉은 송이를 고르세요.",
+      "q": "덜 익은 머루를 사서 두면 익나요?"
+    },
+    {
+      "a": "서로 다른 종이지만 둘 다 먹는 머루로 '산머루'라는 이름으로 함께 유통됩니다. 잎 뒷면에 붉은 갈색 털이 빽빽하면 머루, 거의 털이 없으면 왕머루입니다.",
+      "q": "머루와 왕머루는 다른 건가요?"
+    }
+  ],
+  "id": {
+    "eat": "생과로 먹거나 머루주·와인·즙·잼으로 만든다. 조선 시대 『산림경제』에도 머루주 만드는 법이 실려 있다.",
+    "eng": "Crimson glory vine",
+    "family": "포도과(Vitaceae)",
+    "grade": "산림청 재배 자료에 따르면 머루는 따고 나면 더 익지 않으므로, 색이 충분히 들고 당도가 오른 때에 맑은 날 수확한 것이 좋다. 중부 지방에서는 보통 9월 중순부터 수확한다.",
+    "habitat": "전국 산지의 해발 약 100~1,650m에 자라며, 주로 계곡이나 바위가 많은 산비탈에서 다른 나무를 타고 오른다. 추위에 강하고 양지와 그늘을 가리지 않는다. 시중의 '산머루'에는 머루와 함께 같은 포도속의 왕머루(Vitis amurensis)도 포함되는데, 왕머루 역시 전국에 자란다.",
+    "look": {
+      "flower": "5월 중순~7월에 작은 황록색 꽃이 원뿔 모양으로 모여 피고, 암수딴그루다.",
+      "fruit": "지름 8mm 안팎의 검은 열매가 송이로 달리며, 겉에 보랏빛 흰 가루(분)가 앉는다. 9월에 익고 알마다 씨가 2~3개 들어 있다.",
+      "leaf": "어긋나게 달리는 크고 둥근 심장형 잎으로 길이 8~30cm, 끝이 얕게 3~5갈래로 갈라진다. 잎 뒷면에 붉은 갈색 털이 빽빽해 뒤집어 보면 녹슨 듯한 빛이 난다. 가을에 붉게 단풍이 든다.",
+      "stem": "길이 10~15m까지 뻗는 갈잎 덩굴로, 잎과 마주 난 덩굴손으로 감아 오른다. 줄기 껍질은 갈색이며 실처럼 길게 벗겨진다."
+    },
+    "parts": "잘 익은 열매",
+    "prep": "익은 열매를 날로 먹을 수 있다. 따고 나면 더 익지 않으므로 충분히 익은 송이를 쓴다.",
+    "sci": "Vitis coignetiae Pulliat ex Planch.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "산림청 임산물 재배 자료 – 머루",
+        "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_08.pdf"
+      },
+      {
+        "title": "국립산림과학원 – 머루",
+        "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/머루.pdf"
+      },
+      {
+        "title": "한국의 수목 – 왕머루 (Vitis amurensis)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5787"
+      },
+      {
+        "title": "Trees and Shrubs Online – Vitis coignetiae",
+        "url": "https://www.treesandshrubsonline.org/articles/vitis/vitis-coignetiae/"
+      },
+      {
+        "title": "한국민족문화대백과사전 – 포도나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060134"
+      },
+      {
+        "title": "농촌진흥청 그린매거진 – 감악산 산머루",
+        "url": "https://rda.go.kr/webzine/2022/07/sub2-1.html"
+      }
+    ],
+    "store": "",
+    "taste": "독특한 맛과 향이 있는 산과일이다. 재배 산머루는 포도보다 맛이 진하고 신맛이 적다는 평을 듣는다."
+  },
+  "lookSources": [
+    {
+      "title": "산림청 임산물 재배 자료 – 머루",
+      "url": "https://forest.go.kr/kfs/images/data/down/imsan/imsan_01_08.pdf"
+    },
+    {
+      "title": "한국의 수목 – 왕머루 (Vitis amurensis)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5787"
+    },
+    {
+      "title": "한국민족문화대백과사전 – 포도나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0060134"
+    },
+    {
+      "title": "Trees and Shrubs Online – Ampelopsis glandulosa",
+      "url": "https://www.treesandshrubsonline.org/articles/ampelopsis/ampelopsis-glandulosa/"
+    },
+    {
+      "title": "NC State Extension – Ampelopsis glandulosa var. heterophylla",
+      "url": "https://plants.ces.ncsu.edu/plants/ampelopsis-glandulosa-var-heterophylla/"
+    },
+    {
+      "title": "Wisconsin DNR – Porcelain berry",
+      "url": "https://dnr.wisconsin.gov/topic/Invasives/fact/PorcelainBerry.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "개머루(Ampelopsis glandulosa var. heterophylla)는 포도과 개머루속 덩굴로 산과 들에 흔하다. 열매가 머루처럼 송이로 달리지만 먹는 열매가 아니며, 미국 노스캐롤라이나주립대 자료는 열매에 약한 독성이 있다고 적었다.",
+      "name": "개머루",
+      "points": [
+        "개머루 열매는 분홍·보라·청록색 등 여러 색이 섞이고 반점이 있으며 과육이 희다. 머루는 검게 익고 흰 가루가 앉는다.",
+        "개머루는 한 그루 안에서도 잎 모양이 갈라지지 않은 것부터 깊게 3~5갈래로 갈라진 것까지 제각각이다.",
+        "줄기를 잘라 보면 개머루 골속은 희고, 머루 등 포도속 골속은 갈색이다.",
+        "머루 줄기 껍질은 자라면서 실처럼 벗겨지지만, 개머루 줄기에는 껍질눈(피목)이 보인다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "왕머루(Vitis amurensis)는 전국에 자라는 포도속 덩굴로 열매를 머루처럼 먹으며, 시중 '산머루'로 함께 유통된다. 잎 뒷면 털로 머루와 구별한다.",
+      "name": "왕머루",
+      "points": [
+        "머루 잎 뒷면은 붉은 갈색 털로 덮여 있고, 왕머루 잎 뒷면은 맥 위를 빼면 거의 털이 없이 흰빛 도는 녹색이다.",
+        "두 종 모두 지름 8~10mm 안팎의 검은 열매가 송이로 달려 열매만으로는 구별이 어렵다.",
+        "왕머루는 8월 중순~9월 초에 열매가 익어 머루보다 조금 이르다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "새머루(Vitis flexuosa)는 같은 포도속 덩굴로 열매가 검게 익는다. 머루보다 잎이 작고 삼각형에 가깝다.",
+      "name": "새머루",
+      "points": [
+        "새머루 잎은 약간 삼각형으로 보이고 뒷면 맥 위에만 잔털이 있으며, 머루 잎은 둥근 심장형에 뒷면 전체가 붉은 갈색 털로 덮여 있다.",
+        "새머루는 6~7월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "포도(Vitis vinifera, 미국계 포도 등)는 같은 포도속의 재배·수입 과일이다. 머루즙이나 가공품을 살 때 포도 원료와 헷갈릴 수 있다.",
+      "name": "포도",
+      "points": [
+        "머루 알은 지름 8mm 안팎으로 작고 씨가 2~3개 들었으며, 재배 포도 알은 대개 훨씬 크다.",
+        "머루 잎은 뒷면에 붉은 갈색 털이 빽빽하다.",
+        "가공품은 원재료 표시에서 머루인지 포도인지 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Antioxidants",
+        "note": "머루 줄기 열수 추출물을 미리 먹인 생쥐에서 화학물질로 생긴 간 손상 지표가 덜 나빠졌다는 결과로, 사람에게 그대로 적용할 수는 없다.",
+        "title": "Protective Effects of Vitis coignetiae Vine Stem Extract Against Carbon Tetrachloride-Induced Acute Liver Injury in Mice",
+        "type": "동물 실험",
+        "url": "https://www.mdpi.com/2076-3921/15/5/651",
+        "year": "2026"
+      },
+      {
+        "journal": "Foods",
+        "note": "왕머루 씨에 든 프로안토시아니딘의 구성을 분석한 성분 연구다.",
+        "title": "Compositional Analysis of Polymeric Proanthocyanidins from Vitis amurensis Rupr. (Vitaceae) Seeds After Catechin-Assisted Sulfitolytic Cleavage",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods15122045",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Polyphenols",
+        "note": "기온·강수·일조 변화가 중국 동북부 왕머루 열매의 폴리페놀 함량에 미치는 영향을 정리한 짧은 리뷰다.",
+        "title": "The impact of climate change on polyphenols in mountain grapes (Vitis amurensis Rupr.) in Northeast China: A mini review",
+        "type": "리뷰",
+        "url": "https://journal.hep.com.cn/jp/EN/Y2025/V7/I2/70",
+        "year": "2025"
+      },
+      {
+        "journal": "Biotechnology and Bioprocess Engineering",
+        "note": "머루 열매 안토시아닌을 배양한 전립선암 세포에 처리해 세포 반응을 본 실험실 연구다.",
+        "title": "Anthocyanins extracted from Vitis coignetiae pulliat fruits induce reactive oxygen species-dependent growth arrest and apoptosis in PC3 human prostate carcinoma cells",
+        "type": "세포 실험",
+        "url": "https://link.springer.com/article/10.1007/s12257-025-00199-6",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Food Biochemistry",
+        "note": "면역 기능을 떨어뜨린 쥐와 비장 세포에서 머루 추출물이 면역 지표에 주는 영향을 살핀 연구다.",
+        "title": "Immune-Enhancing Activity of Vitis coignetiae Extract via Increasing Cytokine and Natural Killer Cell Activity in Splenocytes and Cyclophosphamide-Induced Immunosuppressed Rats",
+        "type": "동물 실험",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/2024/5010095",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 머루·왕머루의 열매와 줄기, 씨에 든 안토시아닌·레스베라트롤·프로안토시아니딘 같은 폴리페놀 성분 분석과 동물·세포 실험이 중심이다. 간 보호나 면역 관련 결과는 쥐 실험 단계이고, 사람을 대상으로 한 임상 연구는 확인되지 않았다."
+  },
+  "name": "머루",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 – 포도나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060134"
+      },
+      {
+        "title": "국립산림과학원 – 머루",
+        "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/머루.pdf"
+      }
+    ],
+    "text": "머루는 예부터 '머루' 또는 '멀위'로 불렸고 한자로는 영욱(蘡薁)·산포도(山葡萄)라 했다. 『세종실록』 지리지 강원도 조의 포도 산출 기록이 머루를 가리킨다고 보며, 귀한 산과일로 여겼다. 『산림경제』에 머루주 담그는 법이 있어 일찍부터 술로도 빚었음을 알 수 있다."
+  },
+  "updatedAt": 1792357325694
+}

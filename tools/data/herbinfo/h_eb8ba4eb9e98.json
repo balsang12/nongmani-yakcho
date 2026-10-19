@@ -1,0 +1,207 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [
+      "심한 갈증과 가슴이 답답하고 열이 나는 증상을 풀어 주는 데 쓴다고 적었다.",
+      "소변이 잘 나오지 않고 돌이 생긴 듯 찔끔거리는 증상(석림)에 쓴다고 적었다.",
+      "맛이 몹시 떫어 서리를 맞은 뒤에야 달아져서 먹을 수 있다고 적었다."
+    ],
+    "han": "獼猴桃",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질이 차고, 맛은 달면서 시며, 독이 없다고 적었다(번역 인용 자료 기준).",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "조선왕조실록 사전(한국학중앙연구원) – 미후도(獼猴桃)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EB%AF%B8%ED%9B%84%EB%8F%84(%E7%8D%BC%E7%8C%B4%E6%A1%83)"
+      },
+      {
+        "title": "주간경향 – 손오공이 속끓일 때 먹었다는 다래 열매 미후도",
+        "url": "https://weekly.khan.co.kr/article/202005081534191"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 원문(mediclassics.kr, 위키문헌)에 접속하지 못해 한문 원문과 직접 대조하지 못했다. 풀이는 한국학중앙연구원 조선왕조실록 사전과 언론 기사의 번역 인용을 바탕으로 했다."
+  },
+  "faq": [
+    {
+      "a": "9~10월입니다. 지역과 품종에 따라 8월 하순부터 10월 초까지 거두며, 첫서리를 맞아 껍질에 잔주름이 잡힐 무렵 맛이 가장 좋다고 전해집니다.",
+      "q": "다래 제철은 언제인가요?"
+    },
+    {
+      "a": "네, 껍질째 먹습니다. 키위와 달리 껍질에 털이 없이 매끈해서 가볍게 씻어 통째로 먹으면 됩니다.",
+      "q": "다래는 껍질째 먹어도 되나요?"
+    },
+    {
+      "a": "실온에 며칠 두어 말랑해질 때까지 후숙하세요. 단단한 다래는 시고 떫지만 후숙하면 단맛이 오릅니다. 다만 딱딱할 때 일찍 딴 열매는 나무에서 익힌 것보다 덜 달 수 있습니다.",
+      "q": "받은 다래가 딱딱하고 신데 어떻게 하나요?"
+    },
+    {
+      "a": "익은 다래는 냉장(3℃ 안팎)에 두면 약 4주까지 보관할 수 있습니다. 2℃보다 차가우면 저온 피해가 생길 수 있고, 상온에서는 며칠 안에 먹는 것이 좋습니다.",
+      "q": "다래는 어떻게 보관하나요?"
+    },
+    {
+      "a": "크기와 껍질 털로 구별합니다. 토종다래는 대추만 하고(길이 2~3cm) 껍질이 매끈한 초록색이며, 키위는 훨씬 크고 갈색 털이 있습니다. 다래와 키위를 교잡한 '녹가'·'그린몰' 같은 품종은 다래보다 2~3배 큽니다.",
+      "q": "토종다래와 키위(참다래)는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "후숙한 열매를 껍질째 생으로 먹는 것이 가장 흔하고, 잼·음료·과실주로도 만든다. 옛날에는 꿀에 졸이거나(정과) 말려 먹기도 했다.",
+    "eng": "Hardy kiwi, Kiwiberry, Tara vine",
+    "family": "다래나무과(Actinidiaceae)",
+    "grade": "산림청 재배 자료는 껍질에 상처가 없고, 품종별 적기에 당도를 확인해 수확한 열매를 상품으로 본다. 그을음병으로 겉이 거뭇해진 열매는 상품 가치가 떨어진다. 나무에서 너무 익혀 딴 열매는 달지만 쉽게 터지므로 상자 안에서 눌리거나 즙이 샌 것은 피한다.",
+    "habitat": "평안·함경도에서 백두대간을 따라 지리산까지 전국 산지에 자생하며, 해발 1,600m 이하의 산골짜기, 물이 넉넉하고 배수가 잘 되는 계곡·시냇가에서 잘 자란다. 추위에 강해 강원도 산간에서도 자란다.",
+    "look": {
+      "flower": "암수딴그루로 5월 중순~6월 중순에 지름 2cm쯤 되는 흰 꽃이 잎겨드랑이에 몇 송이씩 달린다. 꽃밥은 짙은 자주색이다.",
+      "fruit": "길이 2~2.5cm 정도의 달걀형·타원형 열매로, 대추만 하거나 조금 크다. 껍질은 털이 없이 매끈한 초록색(익으면 황록색)이다.",
+      "leaf": "어긋나게 달리는 넓은 달걀형~타원형 잎으로 길이 6~12cm, 끝이 갑자기 뾰족하고 가장자리에 잔톱니가 있다. 잎이 두껍고 윤기 나는 짙은 녹색이며, 개다래·쥐다래처럼 하얗게 변하지 않는다.",
+      "stem": "갈잎 덩굴로 다른 나무를 타고 오른다. 가지를 잘라 보면 속(골속)이 연한 갈색이고 사다리처럼 칸칸이 나뉘어 있다."
+    },
+    "parts": "잘 익은 열매(껍질째 먹음). 어린 순은 '다래순'으로 따로 나물로 쓴다.",
+    "prep": "털이 없는 껍질이라 흐르는 물에 가볍게 씻어 껍질째 먹는다. 단단하면 시고 떫으니 실온에서 말랑해질 때까지 후숙한 뒤 먹는다. 무른 열매는 잘 터지므로 손질할 때 눌리지 않게 다룬다.",
+    "sci": "Actinidia arguta (Siebold & Zucc.) Planch. ex Miq.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 – 다래 (Actinidia arguta)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5013"
+      },
+      {
+        "title": "한국의 수목 – 다래속 (검색표)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5012"
+      },
+      {
+        "title": "산림청 임산물 재배 매뉴얼 – 다래",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_10.pdf"
+      },
+      {
+        "title": "농촌진흥청 웹진 – 다래",
+        "url": "https://rda.go.kr/webzine/2020/05/sub4-3.html"
+      },
+      {
+        "title": "조선왕조실록 사전(한국학중앙연구원) – 미후도(獼猴桃)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EB%AF%B8%ED%9B%84%EB%8F%84(%E7%8D%BC%E7%8C%B4%E6%A1%83)"
+      }
+    ],
+    "store": "상온에서는 며칠 안에 먹는다. 냉장할 때는 3℃ 안팎이 알맞고, 이 온도에서 약 4주(5℃ 약 2주, 10℃ 약 1주)까지 둘 수 있다. 2℃ 아래에서는 저온 피해가 생길 수 있다.",
+    "taste": "잘 익으면 달면서 새콤하다. 덜 익은 것은 시고 떫어서 서리를 맞거나 후숙한 뒤에야 단맛이 오른다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 – 다래속 (검색표)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5012"
+    },
+    {
+      "title": "산림청 임산물 재배 매뉴얼 – 다래",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_10.pdf"
+    },
+    {
+      "title": "Trees and Shrubs Online – Actinidia polygama",
+      "url": "https://www.treesandshrubsonline.org/articles/actinidia/actinidia-polygama/"
+    },
+    {
+      "title": "농촌진흥청 웹진 – 다래",
+      "url": "https://rda.go.kr/webzine/2020/05/sub4-3.html"
+    },
+    {
+      "title": "농촌진흥청 웹진 – 종간 교잡 다래 품종",
+      "url": "https://rda.go.kr/webzine/2024/09/sub2-8.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "개다래(Actinidia polygama)는 같은 다래속 덩굴로 산에서 함께 자란다. 열매가 노랗고 끝이 뾰족하며 혀를 아리게 하는 맛이 나서 다래처럼 생으로 먹기 어렵다.",
+      "name": "개다래",
+      "points": [
+        "꽃 필 무렵 개다래는 잎 일부나 전체가 하얗게 변하지만, 다래 잎은 늘 윤기 나는 녹색이다.",
+        "개다래 열매는 끝이 부리처럼 좁아지는 길쭉한 모양에 노란색이고, 다래는 둥근 달걀형의 초록색이다.",
+        "가지를 잘라 보면 개다래 골속은 희고 꽉 차 있고, 다래 골속은 연갈색으로 칸칸이 나뉘어 있다.",
+        "개다래 열매는 달지 않고 혀를 아리게 하므로 맛을 보면 바로 구별된다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "쥐다래(Actinidia kolomikta)는 해발 500~1,000m 숲속 그늘에 자라는 다래속 덩굴로, 열매가 다래보다 작고 단맛이 난다.",
+      "name": "쥐다래",
+      "points": [
+        "꽃 필 무렵 쥐다래 잎은 흰색이나 연분홍빛으로 물들고, 다래 잎은 녹색 그대로다.",
+        "쥐다래 잎은 얇고 윤기가 없으며, 다래 잎은 두껍고 반들거린다.",
+        "쥐다래 열매는 다래보다 작다.",
+        "쥐다래 꽃밥은 연노란색, 다래 꽃밥은 짙은 자주색이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "흔히 파는 키위(참다래, Actinidia deliciosa 등)는 같은 다래속의 재배·수입 과일이다. 크기가 훨씬 크고 껍질에 갈색 털이 있어 껍질째 먹는 토종다래와 다르다. 농촌진흥청의 '녹가'·'그린몰'처럼 다래와 키위를 교잡한 큰 품종도 있다.",
+      "name": "키위",
+      "points": [
+        "키위 껍질에는 까슬한 갈색 털이 있고, 다래 껍질은 털 없이 매끈한 초록색이다.",
+        "토종다래는 길이 2~3cm로 대추만 하지만 키위는 달걀만 하다.",
+        "교잡 품종 '녹가'(약 44g)·'그린몰'(약 33g)은 다래보다 2~3배 커서 크기로 구별된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "다래 열매의 생리활성과 유효 성분 분석법을 정리한 리뷰로, 항산화·항염증 등은 주로 실험 단계 결과라고 볼 수 있다.",
+        "title": "Actinidia arguta: Biological and Health Promoting Properties—Analysis of Bioactive Components",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2223-7747/14/23/3565",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "추위에 강한 다래속 세 종의 열매가 가진 생리활성 가능성을 비교해 살핀 연구다.",
+        "title": "Biological and Health-Promoting Potential of Fruits from Three Cold-Hardy Actinidia Species",
+        "type": "기타",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11767855/",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "다래에서 분리된 화합물 539종과 보고된 약리 작용을 정리하고, 작용 원리와 품질 관리 연구가 더 필요하다고 지적한 리뷰다.",
+        "title": "Actinidia arguta (Sieb. et Zucc.) Planch. ex Miq.: A Review of Phytochemistry and Pharmacology",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1420-3049/28/23/7820",
+        "year": "2023"
+      },
+      {
+        "journal": "Food Research International",
+        "note": "다래 열매 성분과 뇌종양의 관련성을 다룬 전임상 근거 리뷰로, 저자들도 사람에서 안전성과 효과는 아직 확인되지 않았다고 밝혔다.",
+        "title": "Bioactive compounds from Actinidia arguta fruit as a new strategy to fight glioblastoma",
+        "type": "리뷰",
+        "url": "https://nutrition-evidence.com/article/441939/bioactive-compounds-from-actinidia-arguta-fruit-as-a-new-strategy-to-fight-glioblastoma",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 다래 열매에 페놀 화합물, 플라보노이드, 비타민, 식이섬유가 많다는 성분 분석과 항산화·항염증 등 생리활성을 정리한 문헌 리뷰가 중심이다. 근거 대부분은 세포·동물 실험 단계이며, 사람에게 효과가 확인된 임상 연구는 아직 부족하다."
+  },
+  "name": "다래",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "조선왕조실록 사전(한국학중앙연구원) – 미후도(獼猴桃)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EB%AF%B8%ED%9B%84%EB%8F%84(%E7%8D%BC%E7%8C%B4%E6%A1%83)"
+      }
+    ],
+    "text": "다래 열매는 '미후도(獼猴桃)'라는 이름으로 식용과 약용을 겸했고, 음력 9월 무렵 잘 익은 열매를 말려 약재로 썼다. 세종실록 지리지에 황해도 토산물로 올라 있고, 연산군 때는 서리 내린 뒤 가지째 종묘에 올리게 했으며, 임진왜란 때는 다래 정과로 명나라 장수를 대접한 기록이 있다."
+  },
+  "updatedAt": 1792357325694
+}

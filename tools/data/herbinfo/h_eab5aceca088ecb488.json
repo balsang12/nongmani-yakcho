@@ -1,0 +1,164 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "『동의보감』 탕액편 등 고서에서 구절초 항목을 원문으로 확인하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "꽃은 9~11월에 핍니다. 예로부터 음력 9월 무렵 꽃필 때 채취한 것을 좋게 여겼다고 전합니다.",
+      "q": "구절초는 언제 꽃이 피고 언제 채취하나요?"
+    },
+    {
+      "a": "잎을 보면 가장 쉽습니다. 구절초 잎은 깃 모양으로 깊게 갈라지고 꽃은 흰색·연분홍색이며, 쑥부쟁이는 잎이 길쭉하고 갈라지지 않으며 꽃이 보라색입니다.",
+      "q": "구절초와 쑥부쟁이는 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닙니다. 노란 꽃차는 보통 감국이나 산국이고, 구절초 꽃은 흰색이나 연분홍색이라 말린 뒤에도 꽃 색으로 구별할 수 있습니다.",
+      "q": "노란 국화차와 구절초차는 같은 건가요?"
+    },
+    {
+      "a": "주로 말린 줄기·잎이나 꽃을 달이거나 우려서 차로 마십니다.",
+      "q": "구절초는 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 줄기·잎이나 꽃을 달이거나 우려 차로 마신다.",
+    "eng": "",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "전국의 산과 들에 자라며, 볕이 잘 드는 숲 가장자리나 물빠짐이 좋은 바위 능선에 무리 지어 자란다. 일본·중국·만주 등에도 분포한다.",
+    "look": {
+      "flower": "가지 끝에 흰색 또는 연분홍색 두상화가 핀다. 가장자리는 혀꽃, 가운데는 노란 대롱꽃이며, 필 때 분홍빛을 띠다가 활짝 피면 하얘지기도 한다.",
+      "fruit": "익어도 터지지 않는 작은 수과가 달린다.",
+      "leaf": "달걀 모양 또는 넓은 달걀 모양이며 가장자리가 깃 모양으로 깊게 한 번 갈라진다.",
+      "smell": "잎과 꽃을 비비면 국화 향이 강하게 난다.",
+      "stem": "높이 50cm 안팎으로 자라고, 땅속줄기가 옆으로 뻗어 퍼진다."
+    },
+    "parts": "꽃, 줄기와 잎(지상부)",
+    "prep": "줄기와 잎을 말려서 쓴다.",
+    "sci": "Chrysanthemum zawadskii var. latilobum (Maxim.) Kitam.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        9,
+        10,
+        11
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 구절초",
+        "url": "https://encykorea.aks.ac.kr/Article/E0006021"
+      },
+      {
+        "title": "제주도민일보 - 가을 토종 들꽃 '구절초'(제주향토자원이야기)",
+        "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=220186"
+      },
+      {
+        "title": "한국교육신문 - 노란 들국화 산국의 향기, 감국의 단맛",
+        "url": "https://www.hangyo.com/mobile/article.html?no=97482"
+      }
+    ],
+    "store": "",
+    "taste": "포기 전체에서 국화 향이 진하게 난다."
+  },
+  "lookSources": [
+    {
+      "title": "오마이뉴스 - 들꽃, '구절초'와 '쑥부쟁이' 구별법",
+      "url": "https://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0000733821"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 쑥부쟁이",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034193"
+    },
+    {
+      "title": "한국교육신문 - 노란 들국화 산국의 향기, 감국의 단맛",
+      "url": "https://www.hangyo.com/mobile/article.html?no=97482"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 구절초",
+      "url": "https://encykorea.aks.ac.kr/Article/E0006021"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "가을 산과 들에서 함께 피는 국화과 들꽃(Aster yomena)으로, 흔히 '들국화'로 함께 불려 헷갈린다.",
+      "name": "쑥부쟁이",
+      "points": [
+        "쑥부쟁이 꽃은 혀꽃이 보라색이고, 구절초는 흰색이나 연분홍색이다.",
+        "쑥부쟁이 잎은 길쭉한 피침형에 굵은 톱니가 있거나 밋밋할 뿐 깃 모양으로 갈라지지 않지만, 구절초 잎은 깊게 갈라진다.",
+        "쑥부쟁이는 한 포기에 작은 꽃이 여러 송이 촘촘히 달리고, 구절초는 꽃이 더 크고 꽃잎이 넓어 두툼해 보인다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "감국과 산국은 같은 시기에 피는 노란 들국화로, 말린 꽃차로 함께 유통되어 구절초 꽃차와 섞이기 쉽다.",
+      "name": "감국",
+      "points": [
+        "감국·산국 꽃은 노란색이고, 구절초 꽃은 흰색이나 연분홍색이다.",
+        "감국 꽃은 지름 약 2.5cm, 산국은 약 1.5cm로 작고 여러 송이가 우산 모양으로 모여 달린다.",
+        "산국은 향이 아주 진하고, 감국은 꽃잎에 단맛이 있으며 잎이 두껍고 둥근 편이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "PLOS ONE",
+        "note": "구절초 지상부 에탄올 추출물이 배양 세포에서 사람 코로나바이러스 증식을 줄였는지 살핀 실험실 연구다.",
+        "title": "Chrysanthemum zawadskii ethanol extract inhibits the replication of alpha-coronavirus and beta-coronavirus",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1371/journal.pone.0326225",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Medicinal Food",
+        "note": "구절초와 도라지 추출 혼합물을 동물에게 먹여 폐 염증과 면역 저하 모델에서 변화를 본 연구다.",
+        "title": "Chrysanthemum Zawadskii Var. and Platycodon Grandifloras Extract Mixture Protects Against Lipopolysaccharide-Induced Pulmonary Inflammation and Cyclophosphamide-Induced Immune Deficiency: In Vivo Evidence",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1089/jmf.2024.k.0245",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "구절초 꽃 정유가 실험실 배양 MRSA 균의 성장·바이오필름 형성과 병원성 유전자 발현을 줄였는지 본 시험관 연구다.",
+        "title": "Chrysanthemum zawadskii var. latilobum Flower Essential Oil Reduces MRSA Pathogenicity by Inhibiting Virulence Gene Expression",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules30030553",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 대부분 실험실 세포·세균 실험과 동물 실험으로, 구절초 추출물이나 꽃 정유의 항바이러스·항균·항염 가능성을 살펴본 수준이다. 사람을 대상으로 한 임상 연구는 이번 조사에서 찾지 못했으므로, 효과가 사람에게서 확인된 것은 아니다."
+  },
+  "name": "구절초",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 구절초",
+        "url": "https://encykorea.aks.ac.kr/Article/E0006021"
+      },
+      {
+        "title": "제주도민일보 - 가을 토종 들꽃 '구절초'(제주향토자원이야기)",
+        "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=220186"
+      }
+    ],
+    "text": "구절초는 예로부터 민간에서 월경이 고르지 않거나 아랫배가 찬 증상 같은 부인과 질환에 썼다고 백과사전에 적혀 있다. 줄기와 잎을 말려 달여 차처럼 마셨고, 속을 보하고 소화를 돕거나 배가 차고 아픈 데 쓴 것으로 소개된다. 산구절초·바위구절초 같은 가까운 종이 민간 약재로 구절초와 섞여 쓰였다고도 한다."
+  },
+  "updatedAt": 1792314395227
+}

@@ -1,0 +1,181 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "동의보감에서 보리수나무 열매 항목을 확인하지 못했다. 원문 데이터베이스에 접속하지 못해 항목이 없다고 단정하지는 못한다."
+  },
+  "faq": [
+    {
+      "a": "초여름(6~7월)에 나오는 큰 타원형 열매는 뜰보리수이고, 산에서 나는 보리수나무 열매는 7월 말~9월에 익습니다. 어느 쪽인지에 따라 제철이 다릅니다.",
+      "q": "보리수 열매 제철은 언제인가요?"
+    },
+    {
+      "a": "열매 모양과 익는 때를 보면 됩니다. 뜰보리수는 초여름에 익는 길쭉하고 큰 열매가 긴 자루에 매달리고, 보리수나무는 가을에 익는 팥알만 한 둥근 열매가 짧은 자루에 달립니다. 둘 다 붉고 은빛 점이 있습니다.",
+      "q": "보리수와 뜰보리수는 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닙니다. 부처가 깨달음을 얻은 보리수는 뽕나무과의 인도보리수(Ficus religiosa)로, 우리나라에서는 겨울을 나기 어려워 온실에서만 자랍니다. 절에서는 대신 피나무과의 보리자나무나 찰피나무를 심어 보리수라 부르는데, 열매를 먹는 보리수나무와는 다른 나무입니다.",
+      "q": "절에 있는 보리수와 같은 나무인가요?"
+    },
+    {
+      "a": "보리수나무 열매는 원래 단맛과 함께 약간 떫은맛이 있습니다. 떫은맛 정도는 나무와 익은 정도에 따라 다를 수 있습니다.",
+      "q": "보리수 열매는 왜 떫은가요?"
+    },
+    {
+      "a": "네, 씻어서 날로 먹을 수 있습니다. 씨는 뱉고, 많으면 잼이나 청으로 만들어 먹기도 합니다.",
+      "q": "보리수 열매는 날로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "생으로 먹거나 잼·청·주스 같은 가공품으로 만든다.",
+    "eng": "Autumn olive (뜰보리수: Cherry silverberry, Goumi)",
+    "family": "보리수나무과(Elaeagnaceae)",
+    "grade": "",
+    "habitat": "보리수나무는 한반도 전역(황해·강원·경기·충북·경상·전라·제주)의 산에 자라는 낙엽 떨기나무로, 등산로 주변에서 흔히 볼 수 있다. 뜰보리수는 일본 원산으로 화단이나 민가 주변에 심어 기른다.",
+    "look": {
+      "flower": "5월 초~6월 중순에 새 가지 잎겨드랑이에 1~7송이씩 모여 피며, 흰색으로 피었다가 연노란색으로 바뀌고 향기가 있다.",
+      "fruit": "보리수나무 열매는 지름 7~8mm의 둥근 열매로 7월 말~9월 말에 붉게 익고, 표면에 은빛 비늘점이 박혀 있다. 뜰보리수 열매는 길이 1cm 이상의 긴 타원형으로 6~7월에 익고 열매자루가 2cm 안팎으로 길게 늘어진다.",
+      "leaf": "어긋나는 타원형 잎으로 길이 3~7cm이며 가장자리에 톱니가 없다. 잎 뒷면이 은백색 비늘털로 빽빽하게 덮여 하얗게 반짝인다.",
+      "smell": "꽃에서 향기가 난다.",
+      "stem": "키 3~4m의 떨기나무로 가지에 가시가 있는 경우가 많고, 어린 가지는 은백색이나 갈색을 띤다."
+    },
+    "parts": "익은 열매. 시중의 '보리수 열매'에는 산에서 나는 보리수나무 열매(가을)와 집 주변에 심는 뜰보리수(Elaeagnus multiflora Thunb.) 열매(초여름)가 함께 쓰인다.",
+    "prep": "날로 먹을 수 있다. 흐르는 물에 가볍게 씻고 열매자루를 떼어 낸 뒤 먹으며, 씨는 뱉는다.",
+    "sci": "Elaeagnus umbellata Thunb.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        4,
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 보리수나무 Elaeagnus umbellata",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5200"
+      },
+      {
+        "title": "Flora of Korea - 보리수나무속(Elaeagnus) 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5196"
+      },
+      {
+        "title": "Variation in Fruit and Seed Morphology of Selected Biotypes and Cultivars of Elaeagnus multiflora Thunb. in North-Eastern Europe (Agriculture 2023)",
+        "url": "https://www.mdpi.com/2077-0472/13/2/495"
+      },
+      {
+        "title": "Trees and Shrubs Online - Elaeagnus multiflora",
+        "url": "https://treesandshrubsonline.org/articles/elaeagnus/elaeagnus-multiflora/"
+      },
+      {
+        "title": "한국교육신문 - 은빛 주근깨 박힌 보리수나무 열매 (2019)",
+        "url": "https://www.hangyo.com/mobile/article.html?no=90053"
+      }
+    ],
+    "store": "",
+    "taste": "보리수나무 열매는 약간 떫으면서 단맛이 난다. 뜰보리수 열매는 즙이 많고 새콤하며 떫은맛이 남는다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 보리수나무속(Elaeagnus) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5196"
+    },
+    {
+      "title": "Flora of Korea - 보리수나무 Elaeagnus umbellata",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5200"
+    },
+    {
+      "title": "Trees and Shrubs Online - Elaeagnus multiflora",
+      "url": "https://treesandshrubsonline.org/articles/elaeagnus/elaeagnus-multiflora/"
+    },
+    {
+      "title": "한국교육신문 - 은빛 주근깨 박힌 보리수나무 열매 (2019)",
+      "url": "https://www.hangyo.com/mobile/article.html?no=90053"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "뜰보리수(Elaeagnus multiflora)는 같은 속의 재배 나무로, 시중에서 '보리수 열매'로 함께 팔린다. 먹어도 되지만 익는 때와 모양이 달라 구별해 표시하는 것이 좋다.",
+      "name": "뜰보리수",
+      "points": [
+        "뜰보리수 열매는 6~7월에 익고, 보리수나무 열매는 7월 말~9월에 익는다.",
+        "뜰보리수 열매는 길쭉한 타원형으로 크고, 보리수나무 열매는 지름 7~8mm로 작고 둥글다.",
+        "뜰보리수는 열매자루가 2cm 안팎으로 길어 늘어지고, 보리수나무는 열매자루가 8~12mm로 짧다.",
+        "뜰보리수는 주로 집 주변에 심은 나무에서, 보리수나무는 산에서 딴다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "보리밥나무(Elaeagnus macrophylla)는 남부 지방에 자라는 늘푸른 같은 속 나무로, 가을에 꽃이 피고 이듬해 봄에 열매가 익는다.",
+      "name": "보리밥나무",
+      "points": [
+        "보리밥나무는 겨울에도 잎이 지지 않고, 보리수나무는 가을에 잎이 진다.",
+        "보리밥나무 잎은 너비 4~6cm로 둥그스름하고 넓다.",
+        "보리밥나무 열매는 봄에 익고 길이 10~18mm로 보리수나무 열매보다 크다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "보리장나무(Elaeagnus glabra)는 남부 지방에 자라는 늘푸른 같은 속 나무로, 봄에 열매가 익는다.",
+      "name": "보리장나무",
+      "points": [
+        "보리장나무 잎 뒷면은 붉은 갈색 비늘털로 덮이고, 보리수나무 잎 뒷면은 은백색이다.",
+        "보리장나무 잎은 너비 2.5~3.5cm로 좁고 길다.",
+        "보리장나무는 가을에 꽃이 피고 봄에 열매가 익는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Saudi Journal of Biological Sciences",
+        "note": "보리수나무 열매의 영양 성분과 폴리페놀, 실험에서 보고된 항산화·항염 작용 등을 정리한 문헌 리뷰다.",
+        "title": "Elaeagnus umbellata: A miraculous shrub with potent health-promoting benefits from Northwest Himalaya",
+        "type": "리뷰",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10196990/",
+        "year": "2023"
+      },
+      {
+        "journal": "Agriculture",
+        "note": "폴란드에서 뜰보리수 11개 계통의 열매 무게·모양·당도를 비교해 생식용과 가공용을 가르는 기준을 제안했다.",
+        "title": "Variation in Fruit and Seed Morphology of Selected Biotypes and Cultivars of Elaeagnus multiflora Thunb. in North-Eastern Europe",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2077-0472/13/2/495",
+        "year": "2023"
+      }
+    ],
+    "summary": "보리수나무 열매에는 안토시아닌 등 폴리페놀과 비타민 C가 들어 있고, 라이코펜 원료로도 연구된다. 다만 건강 관련 내용은 대부분 세포·동물 실험을 정리한 리뷰에 근거하며, 사람 대상 연구는 확인하지 못했다. 뜰보리수는 열매 크기·당도 같은 품종 특성 연구가 주를 이룬다."
+  },
+  "name": "보리수",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Pharmacognostical Studies on the Korean Folk Medicine 'BoRiSuNaMu' (생약학회지 2011)",
+        "url": "https://koreascience.kr/article/JAKO201112449427776.do"
+      },
+      {
+        "title": "Variation in Fruit and Seed Morphology of Selected Biotypes and Cultivars of Elaeagnus multiflora Thunb. in North-Eastern Europe (Agriculture 2023)",
+        "url": "https://www.mdpi.com/2077-0472/13/2/495"
+      }
+    ],
+    "text": "보리수나무는 우리나라 민간에서 소화불량과 기침에 써 온 민간약으로 알려져 있다. 생약학 연구에서는 이 민간약의 기원이 보리수나무(Elaeagnus umbellata)의 가지라고 밝혔으며, 열매가 아니라 가지를 쓴 것이라는 점에 주의해야 한다. 뜰보리수는 중국·한국·일본에서 오래 재배되며 전통 의약에 쓰였다고 보고된다."
+  },
+  "updatedAt": 1792357325694
+}

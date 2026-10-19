@@ -1,0 +1,210 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "속에서 올라오는 갈증을 가라앉히는 데 쓴다고 적었다.",
+      "오장을 이롭게 한다고 적었다.",
+      "오래 먹으면 배고픔을 덜 느낀다고 적었다."
+    ],
+    "han": "桑椹",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질은 차고 맛은 달며 독이 없다고 적었다(원문 대조는 못 했고 현대 인용문으로만 확인).",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감",
+        "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "주간경향 - 피를 맑게 하고 노폐물을 빼주는 오디 (한의사 칼럼)",
+        "url": "https://weekly.khan.co.kr/article/202006051648331"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 원문을 직접 읽어 대조하지 못했다. 한국한의학연구원 한의고전명저총서와 위키문헌 페이지를 열 수 없어 현대 칼럼의 인용으로만 내용을 확인했다."
+  },
+  "faq": [
+    {
+      "a": "노지 오디는 대체로 6월에 익기 시작해 7월 초중순까지 나옵니다. 산뽕나무 오디는 6월 말~7월 중순에 익고, 하우스 재배나 가문 해에는 더 일찍 나오기도 합니다.",
+      "q": "오디 제철은 언제인가요?"
+    },
+    {
+      "a": "회백색으로 굳은 오디는 균핵병에 걸린 것이니 골라 버리세요. 이 병은 오디 재배에서 가장 큰 피해를 주는 병으로, 병든 열매가 땅에 떨어져 검은 균핵이 되고 다음 해 다시 퍼집니다. 원래 흰색으로 익는 품종의 말랑한 오디와는 다릅니다.",
+      "q": "흰 오디가 섞여 있는데 먹어도 되나요?"
+    },
+    {
+      "a": "생오디는 무르고 수분이 많아 금방 상하니 받는 즉시 먹거나 얼리는 것이 좋습니다. 오래 두려면 살짝 씻어 물기를 뺀 뒤 냉동하세요.",
+      "q": "오디는 얼마나 보관할 수 있나요?"
+    },
+    {
+      "a": "검은 자주색으로 고르게 익고 알이 통통하며 즙이 새지 않은 것을 고르세요. 붉은 알이 많으면 덜 익어 시고, 상자 바닥이 젖어 있으면 무른 것이 섞여 있습니다.",
+      "q": "좋은 오디는 어떻게 고르나요?"
+    },
+    {
+      "a": "꾸지뽕 열매는 가을(9~10월)에 붉게 익는 지름 2~3cm의 둥근 열매이고, 오디는 초여름에 검게 익는 긴 타원형 열매입니다. 꾸지뽕나무에는 가시가 있고 뽕나무에는 없습니다.",
+      "q": "꾸지뽕 열매와 오디는 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "생으로 먹거나 얼려 두고 갈아 마시며, 잼·청·드레싱 등 가공식품 재료로 쓴다.",
+    "eng": "White mulberry (fruit: mulberry)",
+    "family": "뽕나무과(Moraceae)",
+    "grade": "검은 자주색으로 고르게 익고 알이 통통하며 즙이 새지 않은 것이 좋다. 오디 균핵병에 걸린 열매는 회백색으로 변하므로 흰 알이 섞인 상자는 피한다(흰색 품종 오디는 예외). 공공기관이 정한 등급 기준은 확인하지 못했다.",
+    "habitat": "뽕나무는 중국 원산으로 밭이나 집 근처에 심어 기르며, 오디를 따기 위한 과원과 비닐하우스 재배도 있다. 산뽕나무는 한반도 전역의 볕이 잘 드는 산길 주변 등에서 관목으로 흔히 자란다.",
+    "look": {
+      "flower": "봄에 연녹색의 작은 꽃이 짧은 이삭 모양으로 모여 피어 눈에 잘 띄지 않는다.",
+      "fruit": "작은 열매가 모인 긴 타원형 열매로 길이 1~2.5cm 정도이며, 초록에서 붉은색을 거쳐 검은 자주색으로 익는다(흰색으로 익는 품종도 있다). 산뽕나무 오디는 길이 5~13mm로 더 작고 짙은 보라색이며 암술대가 2~3mm로 길게 남는다.",
+      "leaf": "어긋나게 달리는 넓은 달걀꼴 잎으로, 갈라지지 않은 잎과 2~3갈래로 불규칙하게 갈라진 잎이 한 나무에 섞여 있고 가장자리에 톱니가 있다.",
+      "stem": "가지에 가시가 없다. 이 점으로 가시가 있는 꾸지뽕나무와 나뉜다."
+    },
+    "parts": "익은 열매(오디). 산에서 나는 산뽕나무(Morus australis Poir.) 열매도 오디로 부른다.",
+    "prep": "물러지기 쉬우니 먹기 직전에 찬물에 살살 흔들어 씻고 꼭지(작은 자루)를 떼어 낸다. 회백색으로 굳은 오디(균핵병 걸린 열매)는 골라 버린다.",
+    "sci": "Morus alba L.",
+    "season": {
+      "collect": [
+        6,
+        7
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 뽕나무속(Morus) 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5424"
+      },
+      {
+        "title": "Flora of Korea - 산뽕나무 Morus australis",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5425"
+      },
+      {
+        "title": "Oregon State University Landscape Plants - Morus alba",
+        "url": "https://landscapeplants.oregonstate.edu/plants/morus-alba"
+      },
+      {
+        "title": "Aspects of Popcorn Disease Occurrence on Mulberry Fruits in Korea (식물병연구 2007)",
+        "url": "https://koreascience.or.kr/article/JAKO200706717286168.page"
+      },
+      {
+        "title": "오디를 첨가한 샐러드드레싱의 이화학적 품질 특성 (농촌진흥청 국립원예특작과학원)",
+        "url": "https://koreascience.kr/article/CFKO201132164229488.pdf"
+      },
+      {
+        "title": "농촌진흥청 농촌지방소식 - '고품질 오디생산'… 균핵병, 뽕나무이 방제로 (2021)",
+        "url": "https://rda.go.kr/board/board.do?boardId=farmlcltinfo&currPage=826&dataNo=100000770979&mode=updateCnt&prgId=day_farmlcltinfoEntry&searchEDate=&searchKey=&searchSDate=&searchVal="
+      }
+    ],
+    "store": "수분이 많고 물러서 수확 뒤 품질이 빨리 떨어지므로 바로 먹거나, 씻어서 물기를 빼고 냉동 보관한다. 농촌진흥청 연구진도 씻은 오디를 영하 10℃ 안팎에 얼려 두고 사용했다.",
+    "taste": "새콤하면서 단맛이 나고, 덜 익은 것은 시다. 진하게 물든 즙이 많다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 꾸지뽕나무 Maclura tricuspidata",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5423"
+    },
+    {
+      "title": "Flora of Korea - 뽕나무과 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5414"
+    },
+    {
+      "title": "Flora of Korea - 닥나무속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5415/descriptions"
+    },
+    {
+      "title": "Flora of Korea - 산딸기 Rubus crataegifolius",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5597"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "꾸지뽕나무(Maclura tricuspidata) 열매로 먹을 수 있지만 모양과 제철이 다르다. 오디보다 훨씬 늦은 가을에 둥글고 붉게 익는다.",
+      "name": "꾸지뽕",
+      "points": [
+        "꾸지뽕 열매는 지름 2~3cm의 둥근 공 모양이고, 오디는 긴 타원형이다.",
+        "꾸지뽕은 붉은색으로 익고, 오디는 검은 자주색으로 익는다.",
+        "꾸지뽕은 9~10월에 익고, 오디는 6~7월에 익는다.",
+        "꾸지뽕나무 가지에는 가시가 있고, 뽕나무 가지에는 가시가 없다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "닥나무(Broussonetia kazinoki)는 같은 뽕나무과로 잎이 뽕잎처럼 톱니가 있고 갈라지기도 해 나무만 보면 헷갈린다. 열매 모양으로 구별한다.",
+      "name": "닥나무",
+      "points": [
+        "닥나무 열매는 둥근 공 모양이고, 뽕나무 열매는 긴 타원형이다.",
+        "닥나무 암꽃은 암술이 갈라지지 않고, 뽕나무 암꽃은 암술이 깊게 두 갈래로 갈라진다.",
+        "닥나무는 한 그루에 둥근 수꽃 뭉치와 암꽃 뭉치가 함께 달린다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "산딸기(Rubus crataegifolius)는 장미과 덤불로, 작은 알갱이가 모인 열매라는 점만 비슷하다.",
+      "name": "산딸기",
+      "points": [
+        "산딸기 줄기에는 갈퀴 같은 가시가 있고, 뽕나무에는 가시가 없다.",
+        "산딸기는 노란빛이 도는 붉은색 둥근 열매이고, 오디는 검은 자주색 긴 타원형이다.",
+        "산딸기는 흰 꽃이 6월에 피고 열매는 7~8월에 익는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Current Nutrition & Food Science",
+        "note": "오디의 폴리페놀·레스베라트롤·다당류와 가공 이용을 정리하고, 장기 사람 연구가 부족하다고 짚었다.",
+        "title": "Bioactive Compounds in Mulberry: Their Implications in Health, Disease Prevention, and Food Processing",
+        "type": "리뷰",
+        "url": "https://www.synapsesocial.com/papers/6975b2c8feba4585c2d6e4bb",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "비만 성인 12명에게 오디 농축 음료를 마시게 한 예비 시험으로, 혈압·중성지방이 위약보다 낮게 나왔지만 인원이 적어 일반화하기 어렵다.",
+        "title": "Nutraceutical Properties of Thai Mulberry (Morus alba L.) and Their Effects on Metabolic and Cardiovascular Risk Factors in Individuals with Obesity: A Randomized, Single-Blind Crossover Trial",
+        "type": "사람 대상",
+        "url": "https://www.mdpi.com/2072-6643/16/24/4336",
+        "year": "2024"
+      },
+      {
+        "journal": "Future Foods",
+        "note": "뽕나무 세 종의 영양 성분과 추출 방법, 기능성 식품으로서 가능성을 정리했다.",
+        "title": "Nutritional composition, phytochemical extraction, and pharmacological potential of mulberry: A comprehensive review",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/3b8bb6db9aaa49ff9fa9ba26118a6d6d",
+        "year": "2024"
+      },
+      {
+        "journal": "Chinese Medicine and Natural Products",
+        "note": "잎·열매·껍질·뿌리의 성분과 보고된 작용을 묶어 정리하고, 안전성과 임상 연구가 더 필요하다고 했다.",
+        "title": "An In-Depth Examination of Phytochemicals and Medicinal Uses on Morus alba",
+        "type": "리뷰",
+        "url": "https://www.thieme-connect.de/products/ejournals/html/10.1055/s-0044-1800895",
+        "year": "2024"
+      }
+    ],
+    "summary": "오디에는 안토시아닌 같은 폴리페놀이 많아 항산화·대사 관련 연구가 많지만, 대부분 세포·동물 실험이거나 문헌을 정리한 리뷰다. 사람 대상 연구는 비만 성인 12명이 오디 음료를 마신 소규모 예비 시험 정도라 효과를 단정할 수 없다. 리뷰들도 장기간 사람 대상 연구가 더 필요하다고 말한다."
+  },
+  "name": "오디",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Acute Toxicity Study on the Extract of Mori Fructus",
+        "url": "https://koreascience.kr/article/JAKO201222740952649.do"
+      },
+      {
+        "title": "주간경향 - 피를 맑게 하고 노폐물을 빼주는 오디 (한의사 칼럼)",
+        "url": "https://weekly.khan.co.kr/article/202006051648331"
+      }
+    ],
+    "text": "한의학에서는 뽕나무 열매를 말려 상심자(桑椹子, Mori Fructus)라는 약재로 쓴다. 진한 보라색으로 익었을 때 따서 말린 것을 쓰며, 같은 나무의 뿌리껍질(상백피)·잎과는 따로 다룬다."
+  },
+  "updatedAt": 1792357325694
+}

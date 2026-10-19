@@ -1,0 +1,203 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "草蒿(靑蒿)",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": "동의보감 탕액편 초부의 草蒿(靑蒿) 항목이 해당할 가능성이 있으나, 원문 사이트(한의학고전DB, 위키문헌)에 접속하지 못해 항목 존재와 내용을 확인하지 못했다. 또 옛 책의 '청호'는 개사철쑥을 가리키는 경우가 있어, 옛 기록을 개똥쑥 하나에 바로 대응시키기는 어렵다."
+  },
+  "faq": [
+    {
+      "a": "꽃과 줄기는 안 됩니다. 2013년 식약처가 개똥쑥 꽃·줄기를 식품 금지 원료로 보고 이를 쓴 액상차를 회수했습니다. 잎의 사용 가능 여부와 범위는 구매·판매 전 식품안전나라 식품원료목록에서 확인하세요.",
+      "q": "개똥쑥은 식품으로 먹어도 되나요?"
+    },
+    {
+      "a": "꼭 같지는 않습니다. 생약규격에서 '청호'는 개똥쑥 또는 개사철쑥의 지상부를 말하므로, 청호라고만 적힌 제품은 어느 식물인지 기원 표시를 따로 확인해야 합니다.",
+      "q": "개똥쑥과 청호는 같은 건가요?"
+    },
+    {
+      "a": "농촌진흥청 연구에서는 9월 초가 알맞은 수확 시기로 제시됐습니다. 아르테미시닌 함량이 꽃 피기 앞뒤에 가장 높았기 때문입니다.",
+      "q": "개똥쑥은 언제 거둔 것이 좋은가요?"
+    },
+    {
+      "a": "잎과 털을 보면 됩니다. 개똥쑥은 잎이 실처럼 잘게 갈라지고 풀 전체에 털이 거의 없으며, 비비면 개똥 같은 독특한 냄새가 납니다. 쑥은 잎이 넓게 갈라지고 줄기에 털이 많습니다.",
+      "q": "일반 쑥과 어떻게 구별하나요?"
+    },
+    {
+      "a": "눈으로는 어렵습니다. 말리거나 가루로 만들면 비슷한 쑥류와 구별이 힘들어 유전자 판별법이 쓰일 정도이므로, 원산지·기원 식물 표시와 검사 성적을 확인하세요.",
+      "q": "가루 제품도 진짜인지 알 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "주로 말린 잎을 차처럼 끓이거나 우려 마시는 방식으로 소개된다. 처음 마시면 약간 쓰게 느낄 수 있고, 몸이 찬 편이거나 소화가 약한 사람은 먼저 한의사와 상담하라는 안내가 있다.",
+    "eng": "sweet wormwood",
+    "family": "국화과(Asteraceae)",
+    "grade": "농촌진흥청 연구에서 국내 개똥쑥의 아르테미시닌 함량은 꽃 피기 앞뒤에 가장 높았고, 9월 초가 알맞은 수확 시기로 제시됐다. 한약재 규격(청호)은 중금속(납 5ppm 이하 등)과 잔류농약 기준을 두고 있으므로, 약재·차 원료는 이런 검사 성적이 있는 물건을 고른다. 말린 뒤 분말로 만들면 비슷한 쑥류와 눈으로 구별하기 어려우므로 원물 형태와 기원 표시를 확인한다.",
+    "habitat": "국내에 분포하는 한해살이풀로, 농촌진흥청이 국내 수집 개체로 재배 특성을 연구했을 만큼 밭 재배도 된다. 자생 환경의 세부(고도·토양 등)는 이번에 공공 자료로 확인하지 못했다.",
+    "look": {
+      "flower": "6~9월에 녹황색의 아주 작은 머리모양꽃이 많이 달린다.",
+      "leaf": "잎은 어긋나고 2~3회 깃꼴로 아주 가늘게 깊게 갈라져 레이스처럼 보인다. 말린 잎은 진한 녹색~녹갈색이고 잘 부서진다.",
+      "smell": "잎을 손으로 비비면 개똥 같은 독특한 냄새가 난다(이름의 유래).",
+      "stem": "줄기는 원기둥 모양이고 위쪽에서 가지가 많이 갈라진다. 풀 전체에 털이 거의 없다."
+    },
+    "parts": "잎(식품으로는 부위 제한 확인 필요: 꽃·줄기는 식품 사용 불가 원료로 적발된 사례가 있음). 한약재 '청호'로는 지상부를 쓴다.",
+    "prep": "식품으로 쓸 때 꽃과 줄기는 넣지 않는다(2013년 식약처가 '개똥쑥 꽃·줄기'를 식품 금지 원료로 보고 해당 액상차를 회수했다). 잎의 식품원료 인정 범위는 판매 전 식품안전나라 식품원료목록에서 다시 확인한다. 흙과 이물을 털어 내고 그늘에서 말린다.",
+    "sci": "Artemisia annua L.",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 생약규격 '청호(Artemisiae Annuae Herba)' (KHP327)",
+        "url": "https://mfds.go.kr/files/upload/herbmed/photo_data/KHP327.pdf"
+      },
+      {
+        "title": "식품의약품안전처 보도자료: 식품 사용 불가 원료로 제조된 액상차 등 회수·폐기 (2013.5.31)",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=155898737"
+      },
+      {
+        "title": "이정훈 외(농촌진흥청 국립원예특작과학원), 한국산 개똥쑥의 재배특성 및 수확시기에 따른 Artemisinin의 함량변이, 한국약용작물학회지 21(6), 2013",
+        "url": "https://koreascience.kr/article/JAKO201301671903120.pub?lang=ko&orgId=medcrop"
+      },
+      {
+        "title": "푸드투데이, 제대로 알고 먹는 약재 상식 - 개똥쑥 황화호 (2013.5.13)",
+        "url": "https://www.foodtoday.or.kr/news/article.html?no=103613"
+      },
+      {
+        "title": "병원신문, 노벨의학상 받은 개똥쑥! 오해와 진실 (2015.10.7)",
+        "url": "https://www.khanews.com/news/articleView.html?idxno=115309"
+      }
+    ],
+    "store": "잘 말려 밀폐용기에 담아 습기와 직사광선을 피해 보관한다.",
+    "taste": "말린 약재는 특유한 향기가 있고 맛은 약간 쓰다. 생풀은 비비면 개똥 같은 냄새가 난다는 데서 이름이 붙었다."
+  },
+  "lookSources": [
+    {
+      "title": "식품의약품안전처 생약규격 '청호(Artemisiae Annuae Herba)' (KHP327)",
+      "url": "https://mfds.go.kr/files/upload/herbmed/photo_data/KHP327.pdf"
+    },
+    {
+      "title": "병원신문, 노벨의학상 받은 개똥쑥! 오해와 진실 (2015.10.7)",
+      "url": "https://www.khanews.com/news/articleView.html?idxno=115309"
+    },
+    {
+      "title": "쿠키뉴스, 한의학연 '청호·한인진' 유전자 마커 감별기술 개발 (2026.4.14)",
+      "url": "https://www.kukinews.com/article/view/kuk202604140100"
+    },
+    {
+      "title": "푸드투데이, 제대로 알고 먹는 약재 상식 - 개똥쑥 황화호 (2013.5.13)",
+      "url": "https://www.foodtoday.or.kr/news/article.html?no=103613"
+    },
+    {
+      "title": "농사로(농촌진흥청) 쑥",
+      "url": "https://nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?cntntsNo=204944&detailSrch=&menuId=PS04103&pageIndex=20&pageSize=10&pageUnit=6&sDtlSrchText=&sText=&sType=sCntntsSj"
+    },
+    {
+      "title": "농사로(농촌진흥청) 사철쑥",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=16&pageSize=10&pageUnit=6&cntntsNo=204967&sType=sCntntsSj"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "개사철쑥(Artemisia apiacea)도 한약명 '청호(靑蒿)'로 불려 이름이 겹친다. 생약규격에서 청호의 기원은 개똥쑥 또는 개사철쑥의 지상부로 함께 올라 있어, '청호'라는 표시만으로는 어느 식물인지 알 수 없다.",
+      "name": "개사철쑥",
+      "points": [
+        "본초강목 설명을 따르면 가을에도 잎이 녹색을 유지하는 쪽이 청호(개사철쑥), 누렇게 변하는 쪽이 황화호(개똥쑥)로 나뉜다.",
+        "말린 약재에서 개사철쑥은 잎이 거의 없는 꽃대 줄기가 많고, 줄기 겉이 황갈색이며 꺾은 면이 섬유 모양이다.",
+        "맛을 보면 개사철쑥은 담담하고, 개똥쑥은 특유한 향기에 약간 쓴맛이 있다.",
+        "말리거나 가루로 만들면 눈으로 구별이 어려워 한국한의학연구원이 유전자 판별법을 따로 개발했을 정도이므로, 가루 제품은 기원 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "흔히 먹는 쑥(Artemisia princeps 등)은 여러해살이이고 잎이 넓게 갈라져, 잎이 실처럼 잘게 갈라지는 개똥쑥과 생김새가 다르다.",
+      "name": "쑥",
+      "points": [
+        "쑥은 여러해살이로 땅속줄기가 길게 뻗고, 개똥쑥은 한해살이다.",
+        "쑥은 줄기가 털로 덮여 있으나 개똥쑥은 풀 전체에 털이 거의 없다.",
+        "쑥 잎은 타원형 바탕에 깃꼴로 갈라지는 정도이고, 개똥쑥 잎은 2~3회 아주 가늘게 갈라진다.",
+        "비벼 보면 개똥쑥은 개똥 같은 독특한 냄새가 난다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "인진쑥(사철쑥, Artemisia capillaris)도 잎이 가늘게 갈라져 헷갈릴 수 있으나, 한약재로는 '인진호'라는 다른 약재다.",
+      "name": "인진쑥",
+      "points": [
+        "사철쑥은 여러해살이로 줄기 밑부분이 나무처럼 단단해지고, 개똥쑥은 한해살이풀이다.",
+        "사철쑥 잎의 갈래는 실처럼 가늘고 보통 비단 같은 털로 덮여 있으나, 개똥쑥은 털이 거의 없다.",
+        "사철쑥은 냇가 모래땅에서 흔히 자란다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "한국 쑥속 식물들의 엽록체 유전체 기반 판별, 전통 쓰임, 상업적 활용을 함께 정리했고, 대부분의 효능 근거가 실험실·동물 수준이라고 밝혔다.",
+        "title": "Korean Artemisia species: phylogenomic authentication, ethnopharmacology, and commercial applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1873437",
+        "year": "2026"
+      },
+      {
+        "journal": "Bulletin of the National Research Centre",
+        "note": "사람 대상 연구 4편(187명)을 묶어 본 결과, 표준화되지 않은 개똥쑥 차를 말라리아 단독 치료에 쓰는 것은 효과가 불충분하고 위험할 수 있다고 정리했다(연구 수가 적고 비뚤림 위험이 큼).",
+        "title": "Artemisia annua tea for malaria treatment in Africa: a systematic review of efficacy, safety and resistance concerns",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s42269-026-01456-1",
+        "year": "2026"
+      },
+      {
+        "journal": "Industrial Crops and Products",
+        "note": "한국한의학연구원이 청호(개똥쑥·개사철쑥)와 한인진(더위지기)을 쑥속 17종 가운데서 0.1% 섞임까지 가려내는 유전자 마커를 개발해 시판 약재 12건에 적용했다.",
+        "title": "Rapid and reliable authentication of Artemisiae Annuae Herba and Artemisiae Iwayomogii Herba using ITS-based SCAR markers",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0926669026003699",
+        "year": "2026"
+      },
+      {
+        "journal": "Theranostics",
+        "note": "아르테미시닌과 그 유도체의 항암 관련 작용 기전을 정리한 리뷰로, 근거 대부분이 세포·동물 실험이며 임상 연구 성과는 아직 부족하다고 밝혔다.",
+        "title": "Artemisiae Annuae Herba: from anti-malarial legacy to emerging anti-cancer potential",
+        "type": "리뷰",
+        "url": "https://doi.org/10.7150/thno.115414",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 주로 아르테미시닌을 비롯한 성분의 항암·항말라리아 가능성을 다루지만, 대부분 세포·동물 실험이고 사람 대상 근거는 적다. 2026년 체계적 문헌고찰은 표준화되지 않은 개똥쑥 차를 말라리아 단독 치료에 쓰면 효과가 불충분하고 위험할 수 있다고 정리했다. 국내에서는 청호(개똥쑥·개사철쑥)를 비슷한 쑥류와 유전자로 구별하는 방법이 보고됐다."
+  },
+  "name": "개똥쑥",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "식품의약품안전처 생약규격 '청호(Artemisiae Annuae Herba)' (KHP327)",
+        "url": "https://mfds.go.kr/files/upload/herbmed/photo_data/KHP327.pdf"
+      },
+      {
+        "title": "병원신문, 노벨의학상 받은 개똥쑥! 오해와 진실 (2015.10.7)",
+        "url": "https://www.khanews.com/news/articleView.html?idxno=115309"
+      }
+    ],
+    "text": "개똥쑥은 한약명으로 청호(靑蒿) 또는 황화호(黃花蒿)라 불리며, 식약처 생약규격에 '청호'의 기원 식물로 개사철쑥과 함께 올라 있다. 청호에 관한 가장 이른 기록으로는 진나라 갈홍의 『주후비급방』이 꼽히고, 이시진은 『본초강목』에서 가을 잎 색에 따라 청호와 황화호를 나누었다. 이 풀에서 얻은 아르테미시닌 연구가 2015년 노벨생리의학상으로 이어지면서 국내에서도 널리 알려졌다."
+  },
+  "updatedAt": 1792314395227
+}
