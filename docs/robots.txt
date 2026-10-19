@@ -41,4 +41,4 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
-Sitemap: https://balsang12.github.io/nongmani-yakcho/sitemap.xml
+Sitemap: https://nongmani.com/nongmani-yakcho/sitemap.xml
