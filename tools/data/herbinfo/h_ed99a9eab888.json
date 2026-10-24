@@ -1,0 +1,170 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "황금은 맛이 쓰고 성질이 차며 독이 없다고 적었고, 열독과 뼛속에서 달아오르는 열, 추웠다 더웠다 하는 증상에 쓴다고 소개된다.",
+      "『동의보감』의 습열(濕熱) 처방을 분석한 연구는 황금이 황련·황백과 함께 습열로 생긴 여러 증상에 두루 쓰였다고 정리했다."
+    ],
+    "han": "黃芩",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "주간경향 - 누런 풀 뿌리 황금 (2020)",
+        "url": "https://weekly.khan.co.kr/article/202002281407401"
+      },
+      {
+        "title": "한약정보연구회지 - 《東醫寶鑑》 中 濕熱 방제에서 黃芩·黃連·黃柏의 효능 고찰 (2014)",
+        "url": "https://www.earticle.net/Article/A230725"
+      },
+      {
+        "title": "홍콩이공대 중약재 정보 - 황금(baical skullcap root)",
+        "url": "https://herbaltcm.sn.polyu.edu.hk/tc/herbal/baical-skullcap-root"
+      }
+    ],
+    "verified": false,
+    "warn": "성질이 차고 써서 위장이 약하고 몸이 찬 사람에게는 맞지 않는다는 전통 주의 사항이 있다."
+  },
+  "faq": [
+    {
+      "a": "잎을 먼저 봅니다. 황금 잎은 폭 1cm 안팎으로 좁고 길며 톱니가 없고, 골무꽃은 잎 모양이 달라 구별됩니다. 뿌리를 캐면 황금은 굵고 속이 진한 노란색입니다.",
+      "q": "황금과 골무꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "단면 색과 속이 찬 정도를 봅니다. 단면이 노랗고 속이 차 있는지 확인하고, 오래된 뿌리일수록 가운데가 적갈색~흑갈색으로 변하거나 비어 있다는 점을 참고합니다.",
+      "q": "좋은 황금 뿌리는 어떻게 고르나요?"
+    },
+    {
+      "a": "뿌리는 봄이나 가을에 캡니다. 꽃은 7~8월에 자주색으로 피고 씨는 9월에 여뭅니다.",
+      "q": "황금은 언제 캐나요?"
+    },
+    {
+      "a": "판매 전에 확인이 필요합니다. 식품 원료로 쓸 수 있는지는 식품안전나라의 식품원료 검색에서 확인할 수 있으며, 확인되지 않으면 식품으로 팔지 않습니다.",
+      "q": "황금을 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "잔뿌리와 겉껍질을 벗기고 햇볕에 말립니다. 다 마른 뿌리는 단단하지만 잘 부러집니다.",
+      "q": "말린 황금 뿌리는 어떻게 손질하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순과 연한 잎을 나물로 먹는다고 소개된다. 뿌리는 주로 한약재로 쓰인다.",
+    "eng": "Baikal skullcap",
+    "family": "꿀풀과",
+    "grade": "말린 뿌리는 길이 8~25cm, 지름 0.5~2.5cm의 원뿔형이며 단단하고 잘 부러진다. 단면이 노란지 확인하는데, 2년생은 속이 차고 황금색이지만 3년생부터는 가운데가 적갈색으로 변하고 5년생은 중심부가 삭거나 비어 있었다는 연구가 있다.",
+    "habitat": "동시베리아·몽골·만주·중국에 분포하는 여러해살이풀이다. 국내에서는 주로 약용 작물로 밭에 재배하며, 재배하던 것이 퍼져 산지에서 야생으로 자라기도 한다.",
+    "look": {
+      "flower": "7~8월 줄기와 가지 끝에 자주색 입술 모양 꽃(길이 약 2.5cm)이 이삭처럼 달린다.",
+      "fruit": "9월에 씨가 여문다.",
+      "leaf": "잎은 마주나고 잎자루가 거의 없으며, 길이 4~5cm·폭 1cm 안팎으로 좁고 길쭉하다. 가장자리에 톱니가 없다.",
+      "root": "원뿔 모양으로 비틀린 굵은 뿌리로, 겉은 갈색 도는 노란색이다. 자르면 속이 노랗고 가운데가 적갈색을 띠며, 오래된 뿌리는 중심부가 흑갈색으로 삭거나 비어 있다.",
+      "stem": "키 60cm 안팎으로, 줄기가 여러 대 모여 나고 단면이 네모지며 전체에 털이 있고 가지를 많이 친다."
+    },
+    "parts": "뿌리(약재). 어린순과 연한 잎을 나물로 먹는다고 소개되지만, 식품 원료로 쓸 수 있는지는 확인이 필요하다.",
+    "prep": "약재용 뿌리는 봄이나 가을에 캐서 잔뿌리와 겉껍질을 벗기고 햇볕에 말린다.",
+    "sci": "Scutellaria baicalensis Georgi",
+    "season": {
+      "collect": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "서울식물원 - 황금 식물 소개",
+        "url": "https://botanicpark.seoul.go.kr/front/plants/plantsIntroView.do?plt_sn=388&page=1"
+      },
+      {
+        "title": "위키백과 - 황금 (식물)",
+        "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EA%B8%88_(%EC%8B%9D%EB%AC%BC)"
+      },
+      {
+        "title": "홍콩 중약재 표준(HKCMMS) 제3권 - Radix Scutellariae",
+        "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Radix_Scutellariae_v3_e.pdf"
+      },
+      {
+        "title": "대한본초학회지 - 황금(黃芩)의 형태에 관한 연구 (2008)",
+        "url": "https://www.koreascience.or.kr/article/JAKO200831049577508.page"
+      }
+    ],
+    "store": "",
+    "taste": "말린 뿌리는 냄새가 약하고 맛이 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "서울식물원 - 황금 식물 소개",
+      "url": "https://botanicpark.seoul.go.kr/front/plants/plantsIntroView.do?plt_sn=388&page=1"
+    },
+    {
+      "title": "위키백과 - 황금 (식물)",
+      "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EA%B8%88_(%EC%8B%9D%EB%AC%BC)"
+    },
+    {
+      "title": "홍콩 중약재 표준(HKCMMS) 제3권 - Radix Scutellariae",
+      "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Radix_Scutellariae_v3_e.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 골무꽃속(Scutellaria) 식물로 자주색 입술 모양 꽃이 비슷하지만, 잎 모양이 달라 구분된다.",
+      "name": "골무꽃",
+      "points": [
+        "황금 잎은 폭 1cm 안팎으로 좁고 길며 가장자리에 톱니가 없다.",
+        "잎 모양부터 비교한다. 골무꽃은 잎 생김새가 황금과 달라 잎으로 구별된다고 안내된다.",
+        "황금은 뿌리가 굵고 속이 진한 노란색이어서 뿌리를 캐 보면 확실히 알 수 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Nutrients",
+        "note": "가벼운 우울 증상이 있는 성인 180명에게 6주간 황금·사프란 보충제를 먹였으나 주요 우울 점수는 위약군과 차이가 없었다.",
+        "title": "The Effects of Combined Scutellaria and Saffron Supplementation on Mood Regulation in Participants with Mild-to-Moderate Depressive Symptoms: A Randomized, Double-Blind, Placebo-Controlled Study",
+        "type": "사람 대상",
+        "url": "https://www.mdpi.com/2072-6643/17/5/809",
+        "year": "2025"
+      },
+      {
+        "journal": "Asian Journal of Traditional Medicines",
+        "note": "황금의 화학 성분과 약리 작용 연구를 정리한 리뷰다.",
+        "title": "Research progress on chemical constituents and pharmacological effects of medicinal plant Scutellaria baicalensis",
+        "type": "리뷰",
+        "url": "https://journal.hep.com.cn/ajtm/EN/Y2025/V20/I2/65",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "황금과 그 플라보노이드가 소화기 종양에 미치는 영향을 다룬 실험 연구들을 정리했다.",
+        "title": "Scutellaria baicalensis and its flavonoids in the treatment of digestive system tumors",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1483785/epub",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "우울 모델 동물 실험 결과를 모아 분석한 체계적 문헌고찰로, 사람 대상 근거는 아니다.",
+        "title": "The effect of scutellaria baicalensis and its active ingredients on major depressive disorder: a systematic review and meta-analysis of literature in pre-clinical research",
+        "type": "리뷰",
+        "url": "https://frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1313871/full",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 대부분 성분(바이칼린 등 플라보노이드)과 동물·세포 실험을 정리한 리뷰다. 사람 대상 무작위 대조 시험은 사프란과 함께 쓴 기분 개선 연구가 있으나 주요 지표에서 위약과 차이가 없어, 사람에서의 근거는 아직 제한적이다."
+  },
+  "name": "황금",
+  "st": "check",
+  "updatedAt": 1792745954823
+}

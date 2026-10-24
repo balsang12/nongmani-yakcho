@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "함부로 드시지 않는 것이 좋습니다. 어린잎을 무쳐 먹었다는 기록은 있지만 식품 원료로 쓸 수 있는지 확인이 필요한 품목이고, 열매에는 약한 독성 성분이 있다는 주의가 있습니다.",
+      "q": "노박덩굴 잎을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "먹지 마세요. 열매에 약한 독성 성분이 있어 많이 먹지 말라는 기록이 있고, 해외 자료에는 식물 전체를 유독하다고 적은 것도 있습니다. 새들은 열매를 먹지만 사람에게 안전하다는 뜻은 아닙니다.",
+      "q": "노박덩굴 열매는 먹을 수 있나요?"
+    },
+    {
+      "a": "잎자루 밑에 가시가 있는지 보세요. 푼지나무는 턱잎이 변한 가시가 있고 잎 톱니가 날카로우며, 노박덩굴은 가시가 없고 톱니가 둔합니다.",
+      "q": "노박덩굴과 푼지나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "꽃은 5~6월, 열매는 9~10월입니다. 노란 열매 껍질이 세 갈래로 벌어지며 주홍색 씨가 드러나고, 암수딴그루라 열매는 암그루에만 달립니다.",
+      "q": "노박덩굴 꽃과 열매는 언제 볼 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Oriental bittersweet",
+    "family": "노박덩굴과",
+    "grade": "",
+    "habitat": "전국에 아주 흔한 갈잎덩굴나무로, 햇빛을 좋아해 숲 깊은 곳보다 숲 가장자리·숲길 주변에서 다른 나무나 바위를 타고 오른다. 줄기가 다치면 뿌리와 줄기에서 새순이 왕성하게 돋는다. 중국·일본에도 분포한다.",
+    "look": {
+      "flower": "암수딴그루로, 5~6월 잎겨드랑이에 작은 황록색 꽃이 몇 송이씩 모여 핀다. 꽃잎과 꽃받침은 각각 5장이다.",
+      "fruit": "지름 8mm쯤의 둥근 노란 열매가 9~10월에 익어 세 갈래로 갈라지며, 안에서 주홍빛 껍질(헛씨껍질)에 싸인 씨가 드러난다. 열매는 암그루에만 달린다.",
+      "leaf": "잎은 어긋나고 둥근 타원형으로 길이 5~10cm쯤이며, 끝이 갑자기 짧게 뾰족하고 가장자리에 둔한 톱니가 있다. 잎자루는 1~2.5cm이고 잎 뒷면에 털이 거의 없다.",
+      "stem": "다른 물체를 감고 10m 안팎까지 오르는 덩굴이다. 가지는 갈색~회갈색이고 털이 없으며, 푼지나무와 달리 가시가 없다."
+    },
+    "parts": "어린잎(나물로 무쳐 먹었다는 기록이 있음), 열매·뿌리(민간약으로 쓰인 기록). 식품 원료로 쓸 수 있는지는 확인이 필요하다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이라 함부로 먹기를 권하지 않는다. 어린잎을 나물로 무쳐 먹었다는 기록은 있으나, 열매에는 약한 독성 성분이 있어 많이 먹지 말라는 주의가 있고, 해외 자료에는 식물 전체를 유독하다고 적은 것도 있다. 열매·씨는 먹지 않는다.",
+    "sci": "Celastrus orbiculatus Thunb.",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 노박덩굴",
+        "url": "https://encykorea.aks.ac.kr/Article/E0075174"
+      },
+      {
+        "title": "Flora of Korea - Celastrus orbiculatus (형태 기재)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5151/descriptions"
+      },
+      {
+        "title": "Flora of Korea - 노박덩굴속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5149/descriptions"
+      },
+      {
+        "title": "Wikipedia - Celastrus orbiculatus (독성 언급, Uva·Neal·DiTomaso 1997 인용)",
+        "url": "https://en.wikipedia.org/wiki/Celastrus_orbiculatus"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 노박덩굴속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5149/descriptions"
+    },
+    {
+      "title": "Flora of Korea - 노박덩굴과 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5148"
+    },
+    {
+      "title": "Flora of Korea - 푼지나무(Celastrus flagellaris)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5150"
+    },
+    {
+      "title": "Flora of Korea - 미역줄나무(Tripterygium regelii)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5166"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 화살나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064652"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 노박덩굴속 덩굴(Celastrus flagellaris)로 열매 모양이 거의 같다. 식용 여부는 확인되지 않았으니 함께 따지 않는다.",
+      "name": "푼지나무",
+      "points": [
+        "푼지나무는 턱잎이 변한 단단한 가시가 잎자루 밑에 붙어 있고, 노박덩굴은 가시가 없다.",
+        "푼지나무 잎 가장자리는 털 같은 뾰족한 톱니이고, 노박덩굴은 둔하고 얕은 톱니이다.",
+        "푼지나무는 꽃자루마다 꽃이 1송이씩 달리고, 노박덩굴은 3~4송이씩 모여 달린다.",
+        "푼지나무는 공기뿌리로 바위나 고목 줄기에 붙어 오르고 잎 뒷면에 털이 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "노박덩굴과 아주 가까운 종(Celastrus stephanotifolius)으로 잎과 열매가 비슷하다. 식용 여부는 확인되지 않았다.",
+      "name": "털노박덩굴",
+      "points": [
+        "털노박덩굴은 잎 뒷면 가운데 맥을 따라 털이 빽빽하고, 노박덩굴은 뒷면에 털이 없다.",
+        "털노박덩굴 잎은 더 넓은 타원형이고 잎자루가 2~3cm로 길며, 노박덩굴은 1~2.5cm이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "같은 노박덩굴과 덩굴나무(Tripterygium regelii)로 잎이 넓고 어긋나 어린 덩굴일 때 헷갈릴 수 있다. 꽃과 열매로 쉽게 갈린다.",
+      "name": "미역줄나무",
+      "points": [
+        "미역줄나무 꽃은 6~7월 가지 끝의 긴 원추꽃차례(10~25cm)에 흰색으로 피고, 노박덩굴 꽃은 5~6월 잎겨드랑이에 황록색으로 몇 송이씩 핀다.",
+        "미역줄나무 열매는 날개가 세 장 달린 연녹색~붉은빛 날개열매이고, 노박덩굴 열매는 노란 껍질이 세 갈래로 갈라져 주홍색 씨가 드러난다.",
+        "미역줄나무 가지는 붉은 갈색에 사마귀 같은 돌기가 많고 모가 5개 진다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 노박덩굴과로 가을 열매가 갈라져 주황빛 씨가 드러나는 모습이 닮았다. 화살나무는 잎만 식품 원료로 확인되어 있다(화살나무 문서 참고).",
+      "name": "화살나무",
+      "points": [
+        "화살나무는 3m 안팎의 곧은 떨기나무이고, 노박덩굴은 다른 나무를 감고 오르는 덩굴이다.",
+        "화살나무 잎은 마주나고, 노박덩굴 잎은 어긋난다.",
+        "화살나무 가지에는 화살 깃 같은 날개가 2~4줄 붙는다.",
+        "화살나무 열매는 붉게 익고, 노박덩굴 열매 껍질은 노랗다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Phytomedicine",
+        "note": "노박덩굴 추출물 성분인 베툴론산이 위암 세포의 항암제 내성에 미치는 영향을 세포·쥐 이식종양 모델과 환자 조직으로 살펴본 연구다.",
+        "title": "Betulonic acid, a bioactive triterpenoid from Celastrus orbiculatus extract, reverses chemoresistance in gastric cancer via CD44v6-mediated actin cytoskeleton remodeling",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.phymed.2026.158796",
+        "year": "2026"
+      },
+      {
+        "journal": "Ultrasonics Sonochemistry",
+        "note": "노박덩굴 뿌리에서 트리테르페노이드를 뽑아내는 추출법을 최적화하고, 추출물의 MRSA 대상 항균 활성을 실험실에서 확인했다.",
+        "title": "Ultrasound-assisted supramolecular solvent extraction with enzymatic pretreatment of Celastrus orbiculatus roots: Process optimization, enrichment, and antibacterial activity",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.ultsonch.2026.107858",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "줄기 에틸아세테이트 추출물이 버킷림프종 세포의 증식을 줄이고 세포자멸을 늘렸으며, 누드마우스 모델에서 종양 크기 감소가 관찰되었다고 보고했다.",
+        "title": "Effect of Celastrus Orbiculatus Extract on proliferation and apoptosis of human Burkitt lymphoma cells",
+        "type": "동물 실험",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1361371/full",
+        "year": "2024"
+      },
+      {
+        "journal": "International Journal of Pharmacology",
+        "note": "줄기 추출물이 교모세포종 세포 생존율을 낮추고 쥐 이식종양 성장을 늦췄다고 보고한 세포·동물 연구다.",
+        "title": "Inhibitory Effect of Antitumor Activity Extract from the Celastrus orbiculatus Thunb on Human Glioblastoma",
+        "type": "동물 실험",
+        "url": "https://www.imrpress.com/journal/IJP/19/6/10.3923/ijp.2023.758.768",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 대부분 줄기·뿌리 추출물이나 그 성분(베툴론산 등)을 암세포와 쥐 이식종양 모델에 적용한 세포·동물 실험이며, 사람을 대상으로 효과를 확인한 임상시험은 찾지 못했다. 추출 공정과 항균 활성을 본 화학·실험실 연구도 있다. 식용 섭취의 안전성을 따로 평가한 연구는 확인되지 않았다."
+  },
+  "name": "노박덩굴",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 노박덩굴",
+        "url": "https://encykorea.aks.ac.kr/Article/E0075174"
+      },
+      {
+        "title": "Zhu et al. (2024) Frontiers in Pharmacology - 서론의 전통 용도 설명",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1361371/full"
+      }
+    ],
+    "text": "민간에서는 열매를 말려 볶아 가루 내어 생리통·관절통 등에 썼고, 다 자란 잎은 뱀에 물린 데, 뿌리는 달여 복통·타박상에 썼다고 전한다. 중국 전통 의학에서는 줄기를 습기를 없애고 통증을 줄이는 약으로 류머티즘성 관절염·팔다리 저림 등에 써 왔다고 소개된다. 나무껍질의 질긴 섬유는 노끈을 꼬는 데 쓰였다."
+  },
+  "updatedAt": 1792789248962
+}

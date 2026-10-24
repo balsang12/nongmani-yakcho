@@ -1,0 +1,192 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감 탕액편 草部에 升麻 항목이 있고, 한글 향명(우리말 이름)을 함께 적었다.",
+      "동의보감은 승마를 꿀을 발라 볶아 쓰면 땀을 멎게 하는 데 쓴다고 적었다고 소개된다.",
+      "향약집성방에는 승마 달인 물로 피부 질환·종기 부위를 닦는 법이 실려 있다고 전한다."
+    ],
+    "han": "升麻",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메 - 동의보감 탕액편 향명 전사본 (升麻)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      },
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 승마(升麻)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EC%8A%B9%EB%A7%88(%E5%8D%87%E9%BA%BB)"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 승마(升麻)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0032179"
+      }
+    ],
+    "verified": false,
+    "warn": "자극성이 강해 한 번에 많이 먹으면 구토와 어지럼증이 생길 수 있다는 설명이 있다."
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 눈개승마는 장미과 산나물로 어린순을 삼나물로 먹고, 승마는 미나리아재비과 약초로 뿌리줄기를 말려 한약재로 씁니다.",
+      "q": "승마와 눈개승마(삼나물)는 같은 식물인가요?"
+    },
+    {
+      "a": "옛 기록에는 음력 2월과 8월에 뿌리줄기를 캐서 껍질을 벗기고 말렸다고 나옵니다. 꽃은 8~9월에 핍니다.",
+      "q": "승마 약재는 언제 캐나요?"
+    },
+    {
+      "a": "회갈색~짙은 갈색의 울퉁불퉁한 덩어리이고 가볍고 단단하며, 단면에 섬유질과 그물 모양 틈이 보이는 것이 승마입니다. 비슷한 대용품이 유통된 사례가 있으니 기원식물과 원산지 표시를 확인하세요.",
+      "q": "승마 약재의 진품은 어떻게 확인하나요?"
+    },
+    {
+      "a": "권하지 않습니다. 자극성이 강해 한 번에 많이 먹으면 구토와 어지럼증이 생길 수 있다는 설명이 있으므로 한의사 등 전문가 안내에 따라 씁니다.",
+      "q": "승마를 많이 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹는 법은 확인되지 않았다. 말린 뿌리줄기를 한약재로 쓴다.",
+    "eng": "",
+    "family": "미나리아재비과",
+    "grade": "정품 승마는 미나리아재비과 승마속 식물의 뿌리줄기로, 단면의 나무질 부분이 황백색~연한 황갈색이고 그물·방사상 틈이 보이며 가볍고 잘 부러지지 않는다. 중국 일부 지역에서는 국화과 식물 뿌리가 승마 대신 쓰여 왔고, 이밖에도 비슷하게 생긴 여러 종이 섞여 유통돼 품질이 고르지 않다는 지적이 있으므로 원산지와 기원식물 표시를 확인한다.",
+    "habitat": "깊은 산의 숲속에 자라는 여러해살이풀로, 한국·중국 동북부·러시아 극동에 분포한다. 약재 승마의 기원식물로는 승마 외에 촛대승마·눈빛승마·황새승마도 함께 꼽힌다.",
+    "look": {
+      "flower": "8~9월에 원줄기 윗부분에서 흰 꽃이 큰 겹총상꽃차례로 모여 핀다.",
+      "leaf": "잎자루가 길고, 작은잎은 달걀 모양에 가장자리에 불규칙한 톱니가 있으며 털이 없다.",
+      "root": "뿌리줄기가 굵고 검은빛이 도는 자주색이다. 말린 약재는 회갈색~짙은 갈색의 울퉁불퉁한 덩어리로, 가볍고 단단하며 줄기가 붙었던 자국이 남아 있다.",
+      "stem": "키가 1m 안팎까지 곧게 자란다."
+    },
+    "parts": "뿌리줄기(말려서 한약재 '승마'로 유통). 식품 원료로 쓸 수 있는지는 확인이 필요하다.",
+    "prep": "옛 기록에서는 음력 2월과 8월에 뿌리줄기를 캐서 껍질을 벗기고 말려 썼다고 소개된다. 자극성이 강해 한꺼번에 많이 먹으면 구토·어지럼증이 생길 수 있다고 하므로, 약재는 전문가 안내에 따라 쓴다.",
+    "sci": "Cimicifuga heracleifolia Kom.",
+    "season": {
+      "collect": [
+        3,
+        9
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 승마(升麻)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0032179"
+      },
+      {
+        "title": "Wikipedia - Actaea heracleifolia",
+        "url": "https://en.wikipedia.org/wiki/Actaea_heracleifolia"
+      },
+      {
+        "title": "홍콩 정부 중약규관처 - Rhizoma Cimicifugae vs Serratulae Chinensis Radix 감별 자료",
+        "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/083_RC_vs_SCR_en.pdf"
+      },
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 승마(升麻)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EC%8A%B9%EB%A7%88(%E5%8D%87%E9%BA%BB)"
+      },
+      {
+        "title": "Chinese Medicine (2024) - Cimicifugae Rhizoma comprehensive review",
+        "url": "https://doi.org/10.1186/s13020-024-00937-7"
+      }
+    ],
+    "store": "바싹 말린 약재를 습기와 직사광선을 피해 밀봉해 둔다.",
+    "taste": "말린 뿌리줄기는 냄새가 약하고 맛이 약간 쓰고 떫다고 기재된다. 국내 백과사전에는 맛이 달고 맵다고 적혀 있다."
+  },
+  "lookSources": [
+    {
+      "title": "홍콩 정부 중약규관처 - Rhizoma Cimicifugae vs Serratulae Chinensis Radix 감별 자료",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/083_RC_vs_SCR_en.pdf"
+    },
+    {
+      "title": "Chinese Medicine (2024) - Cimicifugae Rhizoma comprehensive review",
+      "url": "https://doi.org/10.1186/s13020-024-00937-7"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 승마(升麻)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0032179"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름에 '승마'가 들어가 헷갈리지만, 눈개승마는 장미과 산나물이고 승마는 미나리아재비과 약초로 서로 다른 식물이다.",
+      "name": "눈개승마",
+      "points": [
+        "눈개승마는 장미과, 승마는 미나리아재비과로 과가 다르다.",
+        "눈개승마는 봄에 어린순을 '삼나물'로 팔고, 승마는 뿌리줄기를 말린 한약재로 유통된다.",
+        "눈개승마는 5~6월에 꽃이 피고, 승마는 8~9월에 흰 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "중국 광둥 지역에서는 국화과 Serratula chinensis의 뿌리를 승마 대신 써 왔으나, 과·성분·작용이 달라 서로 대신 쓸 수 없다고 홍콩 정부 자료는 밝힌다.",
+      "name": "산비장이속 식물",
+      "points": [
+        "승마는 회갈색~짙은 갈색에 겉이 거칠고 가지가 갈라진 덩어리 모양이고, 대용품은 황갈색~연갈색의 길쭉한 방추형 조각이다.",
+        "승마는 가볍고 단단해 잘 부러지지 않고, 대용품은 단단하지만 쉽게 부러진다.",
+        "승마 단면은 섬유질이 보이고 그물·방사상 틈이 있으며, 대용품 단면은 약간 각질처럼 보인다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "북미산 같은 승마속(Actaea racemosa) 식물로, 생김새가 비슷하고 효과가 비슷하다고 여겨져 일부 지역에서 승마 대신 쓰이는 사례가 보고됐다.",
+      "name": "블랙코호시",
+      "points": [
+        "국내 한약재 승마와 기원식물이 다르므로 수입 원료는 학명 표시를 확인한다.",
+        "리뷰 논문은 이런 대용종 혼입이 품질과 안전성에 영향을 줄 수 있다고 지적했다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "승마 뿌리줄기에서 알칼로이드·아마이드 성분을 분리하고 시험관에서 특정 효소(sEH) 억제 활성을 측정했다.",
+        "title": "Indole Alkaloids and Phenolic Amides from the Rhizomes of Cimicifuga heracleifolia and Their In Vitro Soluble Epoxide Hydrolase (sEH) Inhibitory Activity",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2223-7747/14/12/1742",
+        "year": "2025"
+      },
+      {
+        "journal": "Chinese Medicine",
+        "note": "승마 약재의 전통 쓰임, 성분, 약리, 품질 관리, 임상 연구를 정리하고 대용종이 섞여 유통되는 문제를 짚었다.",
+        "title": "Traditional uses, phytochemistry, pharmacology, quality control and clinical studies of Cimicifugae Rhizoma: a comprehensive review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s13020-024-00937-7",
+        "year": "2024"
+      },
+      {
+        "journal": "Separations",
+        "note": "승마 추출물과 주성분 이소페룰산이 손상된 신장 세포의 산화 스트레스 지표를 줄였는지 세포 실험으로 살폈다.",
+        "title": "Phytochemical Identification and Anti-Oxidative Stress Effects Study of Cimicifugae Rhizoma Extract and Its Major Component Isoferulic Acid",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/separations11060175",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 승마 뿌리줄기의 성분 분석과 세포·효소 실험이 대부분이다. 2024년 종합 리뷰는 전통 쓰임·성분·품질 관리와 함께 대용종 혼입 문제를 정리했다. 사람에게서 효과를 확인한 근거는 아직 제한적이다."
+  },
+  "name": "승마",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 승마(升麻)",
+        "url": "https://dh.aks.ac.kr/sillokwiki/index.php/%EC%8A%B9%EB%A7%88(%E5%8D%87%E9%BA%BB)"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 승마(升麻)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0032179"
+      }
+    ],
+    "text": "승마라는 이름은 기운을 끌어올린다는 뜻(升)과 잎이 삼(麻)을 닮았다는 데서 왔다고 풀이된다. 한의학에서는 열을 내리고 독을 풀며 발진을 돋우는 약재로 써 왔고, 세종실록지리지에는 여러 도의 토산물로 올라 있다."
+  },
+  "updatedAt": 1792745954823
+}

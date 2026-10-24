@@ -1,0 +1,137 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [],
+    "han": "辛夷",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "동의보감 서적정보 - 한국한의학연구원 한의고전명저총서",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": "탕액편 권3 木部의 辛夷 항목 원문 페이지를 이번에 읽지 못해 원문·성미·옛 이름을 비워 두었다. 옛 기록의 신이와 오늘날 시중 신이의 기원 종이 다를 수 있다."
+  },
+  "faq": [
+    {
+      "a": "피기 전의 꽃봉오리입니다. 봄에 따서 그늘에 말려 씁니다.",
+      "q": "신이는 목련의 어느 부분인가요?"
+    },
+    {
+      "a": "봄, 꽃이 피기 전에 땁니다. 백목련은 3월, 자생 목련은 4월 중순쯤 꽃이 피므로 그 전이 채취 때입니다.",
+      "q": "목련 꽃봉오리는 언제 따나요?"
+    },
+    {
+      "a": "네, 백목련 꽃봉오리도 신이로 씁니다. 제품을 살 때는 기원 식물 표시를 확인하세요.",
+      "q": "백목련 꽃봉오리도 신이인가요?"
+    },
+    {
+      "a": "제주도 한라산에 자생합니다. 전국에서 겨울을 날 수 있어 정원수로 널리 심습니다.",
+      "q": "목련은 어디에 자생하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Kobus magnolia",
+    "family": "목련과",
+    "grade": "중국 후베이산 신이를 비교한 연구에서 정유(휘발성 기름)와 1,8-시네올 함량은 기원 종과 채취 시기에 따라 달랐으며, M. biondii와 백목련(M. denudata) 꽃봉오리는 중국약전 기준을 넘었지만 다른 한 종(M. sprengeri)은 미달이었다. 국내 공공기관의 등급 기준은 확인하지 못했다.",
+    "habitat": "제주도 한라산 해발 1,800m 부근 개미목 일대에 자생하며, 전국 어디서나 겨울을 날 수 있어 정원수로 많이 심는다. 물기 있는 땅을 좋아하고, 그늘에서는 꽃이 잘 피지 않아 햇볕이 충분해야 한다.",
+    "look": {
+      "flower": "4월 중순 잎이 나기 전에 흰 꽃이 피고, 꽃잎 밑부분은 연한 붉은빛을 띤다. 꽃눈이 붓을 닮아 목필(木筆)이라고도 한다.",
+      "fruit": "열매는 원통형으로 길이 5~7cm이고, 씨는 타원형이며 겉껍질이 붉다.",
+      "leaf": "잎은 어긋나며 넓은 달걀꼴~거꿀달걀꼴로 길이 5~15cm이다.",
+      "smell": "꽃에 향기가 있다.",
+      "stem": "낙엽 큰키나무로 가지가 굵고 털이 없으며 많이 갈라진다."
+    },
+    "parts": "꽃봉오리(생약명 신이, 辛夷). 백목련(Magnolia denudata)의 꽃봉오리도 신이로 쓴다.",
+    "prep": "신이로 쓸 때는 봄에 피기 전 꽃봉오리를 따서 그늘에 말린다.",
+    "sci": "Magnolia kobus DC.",
+    "season": {
+      "collect": [
+        3
+      ],
+      "flower": [
+        3,
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "목련(木蓮) - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018615"
+      },
+      {
+        "title": "백목련 - 농사로(농촌진흥청)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=1&pageSize=10&pageUnit=6&cntntsNo=204986&sType=sCntntsSj"
+      },
+      {
+        "title": "Assessment of quality in volatile oil from three basic sources of Xinyi from Hubei by anatomy, GC-MS, and chemometric methods (Scientific Reports, 2025)",
+        "url": "https://doi.org/10.1038/s41598-025-91477-z"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "백목련 - 농사로(농촌진흥청)",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=1&pageSize=10&pageUnit=6&cntntsNo=204986&sType=sCntntsSj"
+    },
+    {
+      "title": "목련(木蓮) - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018615"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "정원에 흔히 심는 목련류로 꽃이 희고 밑부분이 연한 붉은빛이라 목련과 매우 비슷하다. 백목련 꽃봉오리도 신이로 쓰이므로 독성 문제보다는 원료 종 표시를 확인하는 것이 중요하다.",
+      "name": "백목련",
+      "points": [
+        "백목련은 3월에 지름 10cm 안팎의 흰 꽃이 잎보다 먼저 피고, 자생 목련은 4월 중순에 핀다는 기록이 있다.",
+        "제품에 적힌 기원 식물이 목련(Magnolia kobus)인지 백목련(Magnolia denudata)인지 확인한다.",
+        "두 나무 모두 꽃에 향이 있어 냄새만으로는 가리기 어렵다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Scientific Reports",
+        "note": "세 가지 목련류 꽃봉오리의 정유 성분을 비교해, 종과 채취 시기에 따라 품질 지표가 달라진다고 보고했다.",
+        "title": "Assessment of quality in volatile oil from three basic sources of Xinyi from Hubei by anatomy, GC-MS, and chemometric methods",
+        "type": "기타",
+        "url": "https://doi.org/10.1038/s41598-025-91477-z",
+        "year": "2025"
+      },
+      {
+        "journal": "Chemical and Biological Technologies in Agriculture",
+        "note": "목련 꽃을 피는 단계별로 분석해, 꽃봉오리 단계에서 페놀·플라보노이드 등이 가장 많고 시험관 항산화·항균 활성도 높았다고 보고했다.",
+        "title": "Identification of metabolite changes and evaluation of biological activities in edible flowers of Magnolia kobus at different developmental stages",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s40538-024-00625-6",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 목련류 꽃봉오리의 성분 분석과 시험관 실험이 중심이다. 이번 조사에서 확인한 논문은 성분·품질 비교와 시험관 항산화·항균 실험 수준이며, 사람 대상 연구는 확인하지 못했다."
+  },
+  "name": "목련꽃",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "백목련 - 농사로(농촌진흥청)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=1&pageSize=10&pageUnit=6&cntntsNo=204986&sType=sCntntsSj"
+      }
+    ],
+    "text": "백목련 등 목련류의 꽃봉오리를 봄에 따서 그늘에 말린 것을 신이(辛夷)라는 생약으로 써 왔다."
+  },
+  "updatedAt": 1792487178149
+}

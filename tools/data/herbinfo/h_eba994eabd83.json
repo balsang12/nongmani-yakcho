@@ -1,0 +1,148 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "잎과 꽃 피는 시간을 보면 됩니다. 메꽃은 잎이 길쭉하고 밑이 귓불 모양이며 연분홍 꽃이 한낮에도 피어 있고, 나팔꽃은 잎이 둥근 하트형에 털이 많고 꽃이 아침에 피었다 오후에 시듭니다. 나팔꽃은 씨앗에 독성이 있어 먹으면 안 됩니다.",
+      "q": "메꽃과 나팔꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "봄(4~5월)에 올라오는 어린순과 흰 땅속줄기를 먹습니다. 어린순은 데쳐 나물로 무치거나 볶고, 땅속줄기는 삶아 먹거나 밥·떡에 넣습니다.",
+      "q": "메꽃은 어느 부위를 언제 먹나요?"
+    },
+    {
+      "a": "6~8월에 연분홍 깔때기 모양 꽃이 핍니다. 열매와 씨는 거의 맺지 않고 땅속줄기로 퍼집니다.",
+      "q": "메꽃 꽃은 언제 피나요?"
+    },
+    {
+      "a": "생순은 냉장해 빨리 드시고, 오래 두려면 데쳐서 물기를 짠 뒤 한 번 먹을 만큼씩 나눠 냉동하세요.",
+      "q": "메꽃 순은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순은 데쳐 나물무침이나 볶음으로 먹고, 땅속줄기는 삶아 먹거나 밥·떡에 넣는다. 예전에는 녹말이 많은 땅속줄기를 봄철 끼니가 모자랄 때 먹었다.",
+    "eng": "",
+    "family": "메꽃과(Convolvulaceae)",
+    "grade": "",
+    "habitat": "전국의 들, 밭둑, 길가처럼 볕이 드는 곳에서 흔히 자란다. 흰 땅속줄기가 사방으로 뻗어 무리를 이루며, 끊어진 마디에서도 새순이 나와 밭에서는 잡초로 여겨진다.",
+    "look": {
+      "flower": "6~8월에 잎겨드랑이에서 나온 긴 꽃자루 끝에 지름 5cm 안팎의 연분홍 깔때기 모양 꽃이 한 송이씩 달리며, 한낮에도 피어 있다. 녹색 포 2장이 꽃받침을 감싼다.",
+      "fruit": "열매와 씨를 거의 맺지 않고 주로 땅속줄기로 번식한다.",
+      "leaf": "잎은 어긋나고 잎자루가 길며, 길쭉한 타원형 바소꼴이고 잎 밑부분이 귓불처럼 양쪽으로 튀어나온다.",
+      "root": "흰색 땅속줄기가 옆으로 길게 뻗고 여러 곳에서 새순이 올라온다.",
+      "stem": "덩굴줄기가 다른 물체를 감으며 50~200cm까지 뻗는다."
+    },
+    "parts": "어린 순과 잎, 흰 땅속줄기(뿌리줄기)",
+    "prep": "어린순은 누런 잎과 이물질을 떼고 씻어 끓는 물에 데친 뒤 찬물에 헹궈 무치거나 볶는다. 땅속줄기는 흙을 깨끗이 씻어 삶아 먹는다.",
+    "sci": "Calystegia pubescens Lindl.",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 — 메꽃",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018121"
+      },
+      {
+        "title": "위키트리 — 메꽃과 나팔꽃 구별(국립수목원 등 사진)",
+        "url": "https://www.wikitree.co.kr/articles/1071162"
+      },
+      {
+        "title": "다음뉴스(폼나는식탁) — 메꽃 생김새·식용(국립생물자원관 사진)",
+        "url": "https://v.daum.net/v/6BHXUA41z3"
+      }
+    ],
+    "store": "어린순은 물기를 닦아 냉장하고 빨리 쓴다. 오래 두려면 데쳐서 물기를 짠 뒤 한 번 먹을 만큼씩 나눠 냉동한다.",
+    "taste": "땅속줄기는 녹말이 많아 담백하며, 한방에서는 성질이 따뜻하고 맛이 달다고 본다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 — 메꽃",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018121"
+    },
+    {
+      "title": "Hospital Authority(홍콩) 독성 식물 정보 — Ipomoea nil",
+      "url": "https://www3.ha.org.hk/toxicplant/en/ipomoea_nil.html"
+    },
+    {
+      "title": "위키트리 — 메꽃과 나팔꽃 구별",
+      "url": "https://www.wikitree.co.kr/articles/1071162"
+    },
+    {
+      "title": "다음뉴스(폼나는식탁) — 메꽃과 나팔꽃 차이",
+      "url": "https://v.daum.net/v/6BHXUA41z3"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "나팔꽃(Ipomoea nil, 메꽃과 한해살이 덩굴)은 꽃 모양이 메꽃과 비슷해 혼동되지만, 식물 전체 특히 씨앗(견우자)에 파르비틴(수지 배당체)과 맥각 알칼로이드가 있어 먹으면 구토·설사·복통, 많이 먹으면 환각이 생길 수 있다고 보고된 독초다.",
+      "name": "나팔꽃",
+      "points": [
+        "잎: 메꽃 잎은 길쭉한 타원형에 밑이 귓불 모양이고 매끈하지만, 나팔꽃 잎은 둥근 하트형(흔히 3갈래)이고 잔털이 많다.",
+        "꽃 피는 때: 나팔꽃은 이른 아침에 피어 오후에 시들고, 메꽃은 한낮에도 피어 있다.",
+        "꽃 색: 메꽃은 연분홍 한 가지이고, 나팔꽃은 파랑·보라·분홍·흰색 등 여러 색이다.",
+        "한해살이와 여러해살이: 나팔꽃은 씨로 나는 한해살이라 땅속줄기가 없고, 메꽃은 흰 땅속줄기로 해마다 다시 올라오며 씨를 거의 맺지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Natural Medicines",
+        "note": "애기메꽃 수지 배당체 분획과 화합물 3종이 시험관에서 돼지 췌장 지방분해효소를 억제하는지 보고, 컴퓨터 결합 모의실험을 함께 했다.",
+        "title": "Inhibitory effects of three genuine resin glycosides from Calystegia hederacea on in vitro porcine lipase assay and in silico docking simulation analysis",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s11418-026-02017-6",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Natural Medicines",
+        "note": "애기메꽃 땅속줄기에서 새 수지 배당체 8종을 분리해 구조를 밝히고, 백혈병 세포주 독성과 헤르페스바이러스 억제 활성을 살폈다.",
+        "title": "Eight new resin glycosides, calyhedins XXIV–XXXI, from the rhizomes of Calystegia hederacea",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1007/s11418-025-01919-1",
+        "year": "2025"
+      },
+      {
+        "journal": "Mitochondrial DNA Part B",
+        "note": "중국 후베이성 애기메꽃의 엽록체 유전체 전체를 해독해 메꽃과 안에서의 계통 관계를 살폈다.",
+        "title": "The complete chloroplast genome sequence of Calystegia hederacea Wall. in Roxb. 1824 (Convolvulaceae) in Enshi, Hubei",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38800623",
+        "year": "2024"
+      },
+      {
+        "journal": "Carbohydrate Research",
+        "note": "애기메꽃 땅속줄기에서 새 수지 배당체 8종을 분리하고 화학 구조를 밝힌 성분 연구다.",
+        "title": "Isolation and structural characterization of eight new resin glycosides, calyhedins XVI-XXIII, from the rhizomes of Calystegia hederacea",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.carres.2023.108993",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년(2023~2026) 사이 메꽃(C. pubescens) 자체를 다룬 논문은 찾지 못했고, 같은 속 애기메꽃(Calystegia hederacea)의 땅속줄기에서 수지 배당체 성분을 분리해 구조를 밝히고 시험관에서 지방분해효소 억제나 세포 독성을 살핀 연구가 중심이다. 사람 대상 연구는 확인되지 않아, 근거는 실험실 수준에 머문다."
+  },
+  "name": "메꽃",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 — 메꽃",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018121"
+      }
+    ],
+    "text": "한국민족문화대백과사전에 따르면 한방에서는 메꽃의 전초를 말린 것을 선화(旋花)라는 약재로 써 왔고, 성질이 따뜻하고 맛이 달다고 보았다. 기운을 돕고 소변을 잘 나오게 한다고 하여 몸이 허약할 때나 소변이 잘 나오지 않을 때 달이거나 즙을 내어 썼다고 소개한다. 먹을거리로는 어린순을 나물로, 녹말이 많은 땅속줄기를 삶아 봄철 구황 식량으로 이용했다."
+  },
+  "updatedAt": 1792616180342
+}

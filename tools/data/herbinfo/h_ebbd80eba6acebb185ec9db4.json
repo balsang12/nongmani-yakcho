@@ -1,0 +1,167 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false,
+    "sources": [],
+    "verified": false
+  },
+  "faq": [
+    {
+      "a": "이른 봄, 꽃대가 올라오기 전 땅에 퍼진 어린순을 뜯습니다. 꽃은 5~6월에 핍니다.",
+      "q": "뽀리뱅이는 언제 뜯나요?"
+    },
+    {
+      "a": "꽃을 보면 됩니다. 민들레는 꽃대 하나에 큰 꽃이 한 송이 달리고, 뽀리뱅이는 한 줄기 끝에 1cm도 안 되는 작은 노란 꽃이 여러 개 모여 핍니다.",
+      "q": "뽀리뱅이와 민들레는 어떻게 구별하나요?"
+    },
+    {
+      "a": "고들빼기는 줄기잎 밑동이 줄기를 감싸고 주로 가을에 꽃이 피지만, 뽀리뱅이는 줄기잎이 거의 없고 늦봄에 꽃이 핍니다. 뽀리뱅이는 잎과 줄기에 부드러운 털도 있습니다.",
+      "q": "뽀리뱅이와 고들빼기는 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 나물로 먹었다고 전한다.",
+    "eng": "Oriental false hawksbeard",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "들, 밭둑, 길가 등 사람 사는 곳 가까이 어디서나 흔히 자라는 두해살이풀이다.",
+    "look": {
+      "flower": "늦봄에 지름 1cm가 안 되는 작은 노란 꽃이 원줄기와 가지 끝에 우산살처럼 여러 개 모여 핀다.",
+      "fruit": "납작한 열매에 흰 갓털이 붙어 민들레처럼 바람에 날린다.",
+      "leaf": "뿌리잎이 땅에 붙어 방석(로제트) 모양으로 퍼지고, 길이 8~25cm로 깃 모양으로 깊게 갈라지며 부드러운 흰 털이 있다. 줄기잎은 없거나 몇 장뿐이고 위로 갈수록 작아진다.",
+      "stem": "키는 15cm 남짓한 것부터 1m 가까이 자라는 것까지 다양하며, 식물 전체에 부드러운 털이 있다."
+    },
+    "parts": "이른 봄 어린순(뿌리잎)",
+    "prep": "이른 봄 꽃대가 서기 전 어린순을 뜯어 흙과 누런 잎을 다듬고 깨끗이 씻어 쓴다.",
+    "sci": "Youngia japonica (L.) DC.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "헬로디디 [한의학연 잡초e야기 16] 뽀리뱅이 (한국한의학연구원 추병길)",
+        "url": "https://www.hellodd.com/news/articleView.html?idxno=27288"
+      },
+      {
+        "title": "위키백과, 뽀리뱅이 (한국잡초학회 잡초DB 등 인용)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%BD%80%EB%A6%AC%EB%B1%85%EC%9D%B4"
+      },
+      {
+        "title": "Chromosome-level genome assembly of Youngia japonica (BMC Plant Biology, 2026)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13348548/"
+      }
+    ],
+    "store": "",
+    "taste": "맛은 달면서 조금 쓰다고 기록된다."
+  },
+  "lookSources": [
+    {
+      "title": "헬로디디 [한의학연 잡초e야기 16] 뽀리뱅이 (한국한의학연구원 추병길)",
+      "url": "https://www.hellodd.com/news/articleView.html?idxno=27288"
+    },
+    {
+      "title": "위키백과, 뽀리뱅이 (한국잡초학회 잡초DB 등 인용)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%BD%80%EB%A6%AC%EB%B1%85%EC%9D%B4"
+    },
+    {
+      "title": "한국민족문화대백과사전, 민들레",
+      "url": "https://encykorea.aks.ac.kr/Article/E0020094"
+    },
+    {
+      "title": "한국민족문화대백과사전, 고들빼기",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003397"
+    },
+    {
+      "title": "한국민족문화대백과사전, 씀바귀",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034197"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "뿌리잎이 땅에 퍼지는 모습과 흰 갓털 열매가 닮았지만, 민들레는 꽃대 하나에 큰 꽃이 한 송이씩 달린다.",
+      "name": "민들레",
+      "points": [
+        "민들레는 꽃대 끝에 꽃이 한 송이만 달리고, 뽀리뱅이는 한 줄기 끝에 작은 꽃이 여러 개 모여 핀다.",
+        "민들레는 잎이 달린 줄기가 없고, 뽀리뱅이는 꽃줄기가 높이 서서 가지를 친다.",
+        "뽀리뱅이 꽃은 지름 1cm가 안 될 만큼 작다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "노란 꽃과 갈라진 뿌리잎이 비슷하지만, 고들빼기는 줄기잎 밑동이 줄기를 넓게 감싸고 주로 가을에 꽃이 핀다.",
+      "name": "고들빼기",
+      "points": [
+        "줄기잎 밑동이 줄기를 감싸 안으면 고들빼기다.",
+        "뽀리뱅이는 잎과 줄기에 부드러운 털이 있다.",
+        "뽀리뱅이는 늦봄(5~6월)에, 고들빼기는 가을에 주로 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "노란 꽃이 비슷하지만 씀바귀 꽃은 지름 1.5cm 정도로 더 크고 줄기잎 밑이 줄기를 감싼다.",
+      "name": "씀바귀",
+      "points": [
+        "씀바귀 꽃은 지름 약 1.5cm로 뽀리뱅이보다 크다.",
+        "씀바귀 줄기잎은 피침형이고 밑이 줄기를 감싼다.",
+        "뽀리뱅이는 줄기잎이 거의 없고 뿌리잎이 깃 모양으로 깊게 갈라진다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "BMC Plant Biology",
+        "note": "뽀리뱅이의 염색체 수준 유전체를 해독해 사람 사는 곳 가까이에서 잘 퍼지는 적응력의 유전적 배경을 살폈다.",
+        "title": "Chromosome-level genome assembly of Youngia japonica reveals evolutionary dynamics underlying adaptation in a synanthropic Asteraceae species",
+        "type": "기타",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13348548/",
+        "year": "2026"
+      },
+      {
+        "journal": "Phytochemistry Letters",
+        "note": "뽀리뱅이에서 세스퀴테르펜 락톤 성분을 분리해 세포 독성 활성을 살폈다.",
+        "title": "Bioactive sesquiterpene lactones with cytotoxic activity from Youngia japonica",
+        "type": "세포 실험",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1874390025021561",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Asian Natural Products Research",
+        "note": "뽀리뱅이에서 세스퀴테르펜 락톤 성분을 찾아 염증 억제 활성을 살폈다.",
+        "title": "Discovery of sesquiterpene lactones with anti-inflammatory effect from Youngia japonica",
+        "type": "기타",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/10286020.2024.2370401",
+        "year": "2024"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "뽀리뱅이에서 분리한 세스퀴테르펜 성분의 항종양 활성을 살폈다.",
+        "title": "Discovery of sesquiterpene from Youngia japonica with antitumor effect",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0367326X24000522",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 뽀리뱅이에서 세스퀴테르펜 락톤 성분을 분리해 염증·종양 관련 활성을 살핀 실험 연구와, 전체 유전체·엽록체 유전체를 해독한 연구가 중심이다. 효능 관련 연구는 실험실 수준이며 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "뽀리뱅이",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "헬로디디 [한의학연 잡초e야기 16] 뽀리뱅이 (한국한의학연구원 추병길)",
+        "url": "https://www.hellodd.com/news/articleView.html?idxno=27288"
+      }
+    ],
+    "text": "한방에서는 뿌리나 전초를 황암채(黃鵪菜)라 하여, 봄에는 전초를, 가을에는 뿌리를 캐어 생으로 또는 말려 썼다고 소개된다. 성질이 서늘하다고 보아 열을 내리고 부기를 빼는 데 쓰고, 짓찧어 종기 등에 붙이기도 했다고 전한다. 이는 옛 쓰임에 대한 소개이며 효능이 확인된 것은 아니다."
+  },
+  "updatedAt": 1792573003679
+}

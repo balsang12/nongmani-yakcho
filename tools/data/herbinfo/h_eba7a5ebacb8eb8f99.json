@@ -1,0 +1,193 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "麥門冬",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "겨으사리불휘",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (麥門冬 겨으사리 불휘)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 권2 草部에 麥門冬 항목과 향명(겨으사리 불휘)이 있는 것은 향명 전사본으로 확인했으나, 원문(성미·효능)은 출처 페이지를 읽지 못해 옮기지 않았다. 이름이 비슷한 天門冬(천문동)과는 다른 약재다."
+  },
+  "faq": [
+    {
+      "a": "덩이뿌리는 새싹이 자라기 전인 3월 중순이 수확 적기로 알려져 있다. 그 뒤에는 새싹이 자라며 뿌리에 저장된 양분이 줄어 품질과 수량이 떨어진다.",
+      "q": "맥문동은 언제 캐나요?"
+    },
+    {
+      "a": "방추형으로 엷은 노란색~누런 갈색이고 세로주름이 있으며 단단하게 잘 마른 것을 고른다. 약전 규격상 가는 뿌리가 1% 넘게 섞이면 안 되고, 갈색으로 변했거나 눅눅한 것은 피한다.",
+      "q": "좋은 맥문동은 어떻게 고르나요?"
+    },
+    {
+      "a": "대한민국약전은 맥문동과 소엽맥문동 두 식물의 덩이뿌리를 모두 맥문동으로 인정한다. 국내에서는 주로 맥문동을 재배하고 중국·일본은 소엽맥문동을 쓰므로, 기원식물과 원산지 표시를 확인한다. 중국에서는 개맥문동 계통 뿌리(山麦冬)가 대용으로 쓰이기도 해 성분 차이가 보고돼 있다.",
+      "q": "소엽맥문동이나 중국산도 맥문동인가요?"
+    },
+    {
+      "a": "충분히 말려 통풍이 잘 되는 곳이나 지퍼 달린 PE 봉투에 보관한다. 습기를 먹으면 썩거나 벌레가 생기고 색이 갈색으로 변한다.",
+      "q": "맥문동은 어떻게 보관하나요?"
+    },
+    {
+      "a": "식품 원료로 어느 부위를 쓸 수 있는지는 식약처 식품원료 목록에서 확인하지 못했다. 먹을 용도로 사려면 판매처에 식품 원료 여부를 확인한다.",
+      "q": "맥문동을 식품으로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 덩이뿌리를 한약재로 쓰며, 맥문동탕 같은 처방에 들어간다.",
+    "eng": "Lilyturf (약재 영문명 Liriope Tuber)",
+    "family": "비짜루과(Asparagaceae, 예전 분류로는 백합과)",
+    "grade": "대한민국약전 규격의 맥문동은 방추형으로 길이 10~25mm, 지름 3~5mm이며 엷은 노란색~누런 갈색에 세로주름이 있고 약간 달며 끈적하다. 가는 뿌리가 1.0% 넘게 섞이지 않아야 하고 회분은 3.0% 이하여야 한다. 단단하게 잘 마르고 갈변하지 않은 것을 고른다.",
+    "habitat": "국내에서는 충남 청양·부여, 경남 밀양 등에서 약용으로 많이 재배한다. 햇빛이 잘 드는 곳에서 덩이뿌리가 잘 발달하고, 그늘에서는 덩이뿌리가 적게 달린다.",
+    "look": {
+      "flower": "자줏빛 작은 꽃이 꽃대 위쪽에 이삭처럼 달리며, 마디마다 3~5송이씩 모여 핀다.",
+      "fruit": "콩알만 한 둥근 열매가 가을에 검은 자주색으로 익는다. 열매껍질이 일찍 벗겨져 씨가 드러나 보인다.",
+      "leaf": "짙은 녹색의 가늘고 긴 잎(길이 30~50cm, 너비 8~12mm 안팎)이 뿌리 쪽에서 한 포기로 모여 난다. 잎맥은 나란하고 표면에 윤기가 있다.",
+      "root": "짧고 굵은 뿌리줄기에서 수염뿌리가 나고, 그 끝이 방추형으로 부풀어 덩이뿌리가 된다. 말린 것은 길이 10~25mm, 지름 3~5mm, 엷은 노란색~누런 갈색에 세로주름이 있다.",
+      "stem": "잎 사이에서 30~50cm쯤 되는 꽃대가 곧게 올라온다."
+    },
+    "parts": "덩이뿌리(수염뿌리 끝이 부푼 부분). 대한민국약전은 맥문동(Liriope platyphylla)과 소엽맥문동(Ophiopogon japonicus) 두 식물의 덩이뿌리를 모두 '맥문동'으로 인정한다. 식품 원료로 쓸 수 있는 부위는 식약처 식품원료 목록에서 확인하지 못했다.",
+    "prep": "캔 덩이뿌리를 골라 깨끗이 씻은 뒤 그늘에서 3~5일 말리고, 가운데 심(중심주)을 빼낸 다음 40℃ 정도에서 단단해질 때까지 충분히 말린다. 덜 마르면 곰팡이가 생기기 쉽다. 식품으로 날로 먹어도 되는지는 확인하지 못했다.",
+    "sci": "Liriope muscari (Decne.) L.H.Bailey",
+    "season": {
+      "collect": [
+        3
+      ],
+      "flower": [
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 한약재 GACP 자료 - 맥문동(Liriope Tuber)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3-02.pdf"
+      },
+      {
+        "title": "송정섭(농촌진흥청 국립원예특작과학원), 맥문동 재배기술, 조경수 97호",
+        "url": "https://koreascience.kr/article/JAKO200776357229030.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 맥문동(麥門冬)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018046"
+      },
+      {
+        "title": "농사로(농촌진흥청) 농업기술 현장 전문가 칼럼 - 맥문동 Liriope muscari (Decne.) L.H.Bailey",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psx/psxn/sptExpertDtl.ps?menuId=PS63117&infoNo=6&colmnNo=3&totalSearchYn=Y"
+      }
+    ],
+    "store": "충분히 말린 뒤 통풍이 잘 되는 곳에 두거나 지퍼 달린 PE 봉투에 넣어 습기와 벌레를 막는다. 습기를 먹었다 말랐다를 되풀이하면 색이 갈색으로 변하고 품질이 떨어진다.",
+    "taste": "말린 덩이뿌리는 약간 달고 씹으면 끈적한 느낌이 있다."
+  },
+  "lookSources": [
+    {
+      "title": "Clemson Cooperative Extension HGIC - Liriope (L. muscari와 L. spicata 비교)",
+      "url": "https://hgic.clemson.edu/factsheet/liriope/"
+    },
+    {
+      "title": "Geon & Park, Pharmacognostical Studies on the Chinese Crude Drug 'Maig Moon Dong', 생약학회지 34(1), 2003",
+      "url": "https://koreascience.or.kr/article/JAKO200303041303146.page"
+    },
+    {
+      "title": "Comparison of Ophiopogon japonicus and Liriope spicata var. prolifera from Different Origins..., Molecules 28(3):1045, 2023",
+      "url": "https://doaj.org/article/f3580ad17109418986696d273f1988c1"
+    },
+    {
+      "title": "식품의약품안전처 한약재 GACP 자료 - 맥문동(Liriope Tuber)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3-02.pdf"
+    },
+    {
+      "title": "식품의약품안전처 대한민국약전 생약 사진자료 - 천문동(Asparagus Tuber)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_145.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 맥문동속(Liriope spicata) 식물로 생김새가 닮았다. 국내 시중 맥문동 약재에서 개맥문동 뿌리가 함께 확인된 연구가 있고, 중국에서는 그 변종 뿌리(山麦冬)가 맥문동 대용으로 쓰이기도 한다.",
+      "name": "개맥문동",
+      "points": [
+        "맥문동은 한 자리에서 포기로 모여 자라지만, 개맥문동은 땅속줄기를 뻗어 넓게 번진다.",
+        "개맥문동 잎은 너비 6mm 안팎으로 맥문동(약 1~1.3cm)보다 좁다.",
+        "개맥문동 꽃은 맥문동보다 작고 색이 연하다.",
+        "약재로 살 때는 기원식물(맥문동 또는 소엽맥문동)과 원산지 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "이름이 비슷한 다른 식물(비짜루속)의 덩이뿌리로, 말린 약재끼리 이름을 혼동하기 쉽다.",
+      "name": "천문동",
+      "points": [
+        "맥문동 말린 뿌리는 길이 1~2.5cm, 지름 3~5mm로 작다.",
+        "천문동 말린 뿌리는 길이 5~15cm, 지름 5~20mm로 훨씬 크고 반투명하다.",
+        "천문동은 맛이 처음 달다가 나중에 약간 쓰고, 맥문동은 약간 달고 끈적하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "소엽맥문동 다당류의 추출·구조·생리활성과 장내 미생물과의 관계를 정리한 리뷰다.",
+        "title": "Advances in the study of Ophiopogon japonicus polysaccharides: structural characterization, bioactivity and gut microbiota modulation regulation",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1583711",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "고지방식 비만 생쥐와 근육세포에서 소엽맥문동 뿌리 추출물이 근육 감소 지표를 줄였다고 보고했다(세포 실험 병행).",
+        "title": "Ophiopogon japonicus Root Extract Attenuates Obesity-Induced Muscle Atrophy Through Regulation of the PI3K-AKT-mTOR/FoxO3a Signaling Pathway and Lipid Metabolism in Mice and C2C12 Myotubes",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu17243946",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "두 가지 변비 생쥐 모델에서 맥문동 추출물의 배변 관련 지표 변화를 비교한 연구다.",
+        "title": "Differences in the Effectiveness of Uridine and Liriope platyphylla L. Between Complement Component 3 Deficiency- and Loperamide-Induced Constipation May Be Associated with the Alternative Regulation of the Cyclic Adenosine Monophosphate Downstream Signaling Pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ph18091289",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "소엽맥문동 성분 ophiopogonin D에 대해 보고된 약리 연구를 정리한 리뷰다.",
+        "title": "Ophiopogonin D: review of pharmacological activity",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1401627",
+        "year": "2024"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "맥문동 씨앗 기름 성분 분획이 대식세포 실험에서 염증 관련 물질을 줄였다고 보고했다.",
+        "title": "Anti-Inflammatory and Antioxidant Activities of Lipophilic Fraction from Liriope platyphylla Seeds Using Network Pharmacology, Molecular Docking, and In Vitro Experiments",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms241914958",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 대부분 세포·동물 실험과 문헌 리뷰다. 소엽맥문동(Ophiopogon japonicus)의 다당류와 성분 ophiopogonin D를 정리한 리뷰, 맥문동 추출물을 생쥐 변비·비만 모델에 준 동물 실험, 씨앗 추출물의 세포 실험이 있다. 2023년 이후 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "맥문동",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 맥문동(麥門冬)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018046"
+      }
+    ],
+    "text": "한방에서는 맥문동 뿌리를 성질이 서늘하고 맛이 단 약재로 보고, 오래된 기침이나 열병 뒤의 갈증·변비 등에 써 왔다고 정리돼 있다. 민간에서는 갈증을 달래는 데 썼다고 한다. 성질이 차므로 몸이 허약하거나 묽은 변·설사가 있는 사람에게는 쓰지 않는다고 적고 있다."
+  },
+  "updatedAt": 1792703340527
+}

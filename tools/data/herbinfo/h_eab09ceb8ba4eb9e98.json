@@ -1,0 +1,168 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "나무(木部)",
+    "easy": [],
+    "han": "木天蓼",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "위키문헌 本草綱目 목차(木之三에 木天蓼 수록)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "충영은 혹파리가 꽃봉오리에 알을 낳아 생긴 벌레혹 열매로, 모양이 고르지 않고 울퉁불퉁합니다. 정상 열매는 길이 2~3cm로 길쭉하고 끝이 뾰족하게 좁아지며 겉이 매끈하고 가을에 노랗게 익습니다.",
+      "q": "충영과 개다래 정상 열매는 어떻게 다른가요?"
+    },
+    {
+      "a": "아니요, 같은 속의 다른 식물입니다. 다래는 잎이 두껍고 윤기가 나며 열매가 둥근 타원형인 반면, 개다래는 잎이 얇고 일부가 하얗게 변하며 열매가 길쭉하고 끝이 뾰족합니다.",
+      "q": "개다래와 다래는 같은 열매인가요?"
+    },
+    {
+      "a": "꽃은 늦은 5월부터 7월 중순 사이에 피고, 정상 열매는 9월 말~10월 초에 노랗게 익습니다.",
+      "q": "개다래 꽃과 열매는 언제 볼 수 있나요?"
+    },
+    {
+      "a": "확인이 필요합니다. 식약처 식품원료 목록에서 개다래의 등재 여부와 사용 가능 부위를 이번에 직접 확인하지 못했으므로, 식품으로 팔거나 가공하기 전에 식품안전나라의 식품원료 목록을 꼭 확인하세요.",
+      "q": "개다래 열매는 식품원료로 등록되어 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Silver vine",
+    "family": "다래나무과",
+    "grade": "",
+    "habitat": "잎 지는 덩굴나무로 한반도 전역(남북한)의 산에 자라며, 중국·러시아 극동·일본에도 분포한다.",
+    "look": {
+      "flower": "늦은 5월~7월 중순에 지름 1.5cm 안팎의 향기로운 흰 꽃이 잎겨드랑이에 1~3개씩 아래를 향해 핀다. 꽃밥은 연한 노란색이다.",
+      "fruit": "정상 열매는 길이 2~3cm의 길쭉한 달걀형으로 끝이 뾰족하게 좁아지며, 9월 말~10월 초에 노랗게 익는다. 혹파리가 꽃봉오리에 알을 낳으면 정상 열매 대신 모양이 고르지 않은 울퉁불퉁한 벌레혹 열매(충영)가 생긴다.",
+      "leaf": "얇고 광택 없는 넓은 달걀형 잎(8~14cm)으로 가장자리에 잔톱니가 있다. 꽃 필 무렵 가지 윗부분 잎 일부가 흰색(때로 연한 붉은빛)으로 변해 멀리서도 눈에 띈다.",
+      "stem": "다른 나무를 감고 오르는 덩굴(길이 5m 안팎)이다. 줄기를 잘라 보면 골속이 꽉 차 있고 흰색이다."
+    },
+    "parts": "열매(정상 열매, 벌레혹 열매인 충영)",
+    "prep": "",
+    "sci": "Actinidia polygama (Siebold & Zucc.) Planch. ex Maxim.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 - 개다래 Actinidia polygama",
+        "url": "https://florakorea.myspecies.info/en/node/4301"
+      },
+      {
+        "title": "한국의 수목 - 다래나무속(Actinidia) 종 검색표",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5012"
+      },
+      {
+        "title": "Asakura & Hoshino (2016) Distribution, Ploidy Levels, and Fruit Characteristics of Three Actinidia Species Native to Hokkaido, Japan. The Horticulture Journal 85(2)",
+        "url": "https://www.jstage.jst.go.jp/article/hortj/85/2/85_MI-082/_html/-char/ja"
+      },
+      {
+        "title": "Tokuda & Yukawa (2002) ESAKIA 42 - Pseudasphondylia matatabi가 개다래에 열매 벌레혹을 만든다는 기록",
+        "url": "https://catalog.lib.kyushu-u.ac.jp/opac_download_md/2657/11.pdf"
+      },
+      {
+        "title": "Watanabe (1940) Insecta matsumurana 14(4) - 개다래 꽃봉오리 벌레혹(마타타비) 혹파리 기생벌",
+        "url": "https://eprints.lib.hokudai.ac.jp/repo/huscap/all/9449/14(4)_p138-140.pdf"
+      },
+      {
+        "title": "식품의약품안전처 웹진(2025.08) - 식용 불가 농·임산물과 식품원료 확인 방법",
+        "url": "https://mfds.go.kr/webzine/202508/sub04.html"
+      }
+    ],
+    "store": "",
+    "taste": "정상 열매는 단맛과 함께 아리고 매운 맛이 섞여 있다는 조사가 있다(국내 도감에는 맛이 없다고 적힌 곳도 있다)."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 - 다래나무속(Actinidia) 종 검색표",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5012"
+    },
+    {
+      "title": "한국의 수목 - 개다래 Actinidia polygama",
+      "url": "https://florakorea.myspecies.info/en/node/4301"
+    },
+    {
+      "title": "Actinidia kolomikta leaf colour and optical characteristics. Biologia plantarum (2015)",
+      "url": "https://bp.ueb.cas.cz/artkey/bpl-201504-0020_Actinidia-kolomikta-leaf-colour-and-optical-characteristics.php"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 다래나무속의 다래(A. arguta)는 잎이 두껍고 윤기가 있으며 열매가 둥근 타원형이라 개다래와 구별된다.",
+      "name": "다래",
+      "points": [
+        "다래 잎은 두껍고 광택이 있으며 초록색 그대로이고, 개다래 잎은 얇고 광택이 없으며 일부가 하얗게 변한다.",
+        "다래 꽃의 꽃밥은 검은 자줏빛이고, 개다래 꽃밥은 연한 노란색이다.",
+        "다래 열매는 둥근 타원형이고, 개다래 열매는 길쭉하며 끝이 뾰족하게 좁아진다.",
+        "다래 잎자루는 3~4(6)cm로 짧은 편이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "쥐다래(A. kolomikta)도 잎 색이 변하는 다래류이지만, 잎에 흰빛과 함께 분홍빛이 돌고 줄기 속(골속) 모양이 달라 구별된다.",
+      "name": "쥐다래",
+      "points": [
+        "쥐다래 잎은 흰색과 분홍색으로 물드는 것이 특징이고, 개다래 잎은 주로 흰색(때로 연한 붉은빛)으로 변한다.",
+        "가지를 잘라 보면 쥐다래 골속은 계단처럼 칸이 지고 연한 갈색이며, 개다래 골속은 꽉 차 있고 흰색이다.",
+        "쥐다래 잎은 옆맥이 5~7쌍, 개다래는 4~5쌍 정도다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Chemistry & Biodiversity",
+        "note": "벌레혹 열매에서 새 이리도이드 배당체 5종을 분리했고, 대식세포 실험에서 독성도 염증 억제 효과도 뚜렷하지 않았다고 보고했다.",
+        "title": "Actinidiosides A–E: Five New Iridoid Glycosides From the Gall Fruits of Actinidia polygama",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1002/cbdv.71457",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
+        "note": "개다래를 포함한 추위에 강한 다래류 3종 열매의 페놀 성분과 항산화 활성을 비교하고 사람 장 세포주에서 영향을 살폈다.",
+        "title": "Biological and Health-Promoting Potential of Fruits from Three Cold-Hardy Actinidia Species",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/molecules30020246",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Molecular Structure",
+        "note": "줄기에서 분리한 화합물 11종 가운데 한 트리테르펜이 시험관에서 β-글루쿠로니다아제 효소를 억제했다는 효소·컴퓨터 모의 연구다.",
+        "title": "Investigation of the inhibitory activity of triterpenoids isolated from Actinidia polygama stems against β-glucuronidase via enzyme kinetics, molecular docking, and molecular dynamics analyses",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.molstruc.2024.139135",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 성분 분리와 시험관·세포 실험 수준이다. 열매 추출물의 항산화 활성과 장 세포 생존율, 줄기 트리테르펜의 효소 억제, 벌레혹 열매(충영)의 새 이리도이드 성분이 보고되었으나 동물·사람 대상 근거는 이 기간에 찾지 못했다."
+  },
+  "name": "개다래",
+  "st": "check",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792400388863
+}

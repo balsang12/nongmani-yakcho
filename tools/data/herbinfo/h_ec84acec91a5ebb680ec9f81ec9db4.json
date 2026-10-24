@@ -1,0 +1,171 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "네, 같은 나물입니다. 울릉도에서는 섬쑥부쟁이를 부지갱이(부지깽이) 나물이라고 부릅니다.",
+      "q": "섬쑥부쟁이와 부지갱이는 같은 나물인가요?"
+    },
+    {
+      "a": "봄, 특히 4월 전후입니다. 울릉도에서는 이른 봄 눈이 녹으면서 새순이 올라오고 4월에 주로 수확하며, 재배 밭에서는 봄부터 여름까지 1~3번 정도 거둡니다.",
+      "q": "제철은 언제인가요?"
+    },
+    {
+      "a": "어린순을 끓는 물에 데쳐 먹습니다. 데친 뒤 간장·참기름으로 가볍게 무치거나, 말려 두었다가 묵나물로 볶아 먹습니다.",
+      "q": "어떻게 손질하나요?"
+    },
+    {
+      "a": "데쳐서 냉동하거나 말려서 보관합니다. 데친 나물은 물기를 빼 한 번 먹을 만큼씩 얼리고, 말린 나물은 습기 없는 곳에 둡니다.",
+      "q": "오래 두고 먹으려면 어떻게 보관하나요?"
+    },
+    {
+      "a": "포장의 산지 표시를 확인하세요. 섬쑥부쟁이는 울릉도 말고도 제주 서부에서 넓게 재배하고, 제주산은 한때 '취나물'로 불렸기 때문에 이름만으로는 산지를 알 수 없습니다.",
+      "q": "울릉도산인지 어떻게 알 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 나물무침, 묵나물볶음, 만두소 같은 가공품으로 쓴다.",
+    "eng": "",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "우리나라에서는 울릉도에만 자생하며, 국외에서는 일본과 사할린에 분포한다. 울릉도 밭에서 산나물로 재배하고, 제주 서부에서도 약 110ha 규모로 잎채소 재배를 한다.",
+    "look": {
+      "flower": "가을(9~10월)에 가운데가 노랗고 흰 꽃잎을 단 작은 별 모양 꽃이 무리 지어 핀다.",
+      "leaf": "짙은 녹색의 작은 잎이 줄기에 촘촘히 달린다.",
+      "root": "굵고 단단한 뿌리줄기가 있어 포기를 이루며 잘 퍼진다.",
+      "stem": "짙은 색 줄기가 곧게 서며 1m 넘게 자라고, 재배지에서는 1.5m 이상 크기도 한다."
+    },
+    "parts": "어린순과 어린잎",
+    "prep": "봄에 올라온 어린순을 끓는 물에 데친 뒤 간장·참기름 정도로 가볍게 무쳐 먹는다. 날로 먹는 방법은 공공·학술 자료에서 확인하지 못했으니 데쳐서 먹는다.",
+    "sci": "Aster glehnii F.Schmidt",
+    "season": {
+      "collect": [
+        4
+      ],
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "Aster glehnii - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aster_glehnii"
+      },
+      {
+        "title": "A giant white Michaelmas daisy (Royal Botanic Garden Edinburgh)",
+        "url": "https://stories.rbge.org.uk/archives/9482"
+      },
+      {
+        "title": "울릉도 100만 시대…'섬쑥부쟁이'의 도전과 비상 (데일리안, 경북농업기술원 인터뷰)",
+        "url": "https://www.dailian.co.kr/news/view/1321142/"
+      },
+      {
+        "title": "Assessing Soil Fertility Status of Edible Wild Plants Fields in Ulleung Island (한국토양비료학회지, 2016)",
+        "url": "https://koreascience.or.kr/article/JAKO201627037746054.pdf"
+      },
+      {
+        "title": "제주 '섬쑥부쟁이' 농약 등록 확대 (뉴스서울, 제주특별자치도농업기술원 발표)",
+        "url": "https://newsseoul.co.kr/news/view/1065609655292395"
+      },
+      {
+        "title": "울릉도 봄 산나물 수확 기사 (경북매일, 2026)",
+        "url": "https://www.kbmaeil.com/article/20260401500307"
+      }
+    ],
+    "store": "데친 나물은 물기를 빼 냉동해 두고 쓰거나, 볕에 말려 묵나물로 보관한다. 경북농업기술원이 말린 뒤에도 초록빛이 남고 불리지 않고 조리하는 건조 기술을 개발했다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Aster glehnii - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aster_glehnii"
+    },
+    {
+      "title": "쑥부쟁이 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034193"
+    },
+    {
+      "title": "제주 '섬쑥부쟁이' 농약 등록 확대 (뉴스서울, 제주특별자치도농업기술원 발표)",
+      "url": "https://newsseoul.co.kr/news/view/1065609655292395"
+    },
+    {
+      "title": "참취 - 산림청 산나물류 재배 자료",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_03_08.pdf"
+    },
+    {
+      "title": "울릉도 100만 시대…'섬쑥부쟁이'의 도전과 비상 (데일리안, 경북농업기술원 인터뷰)",
+      "url": "https://www.dailian.co.kr/news/view/1321142/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름이 비슷하고 둘 다 어린순을 나물로 먹지만 다른 종이다. 섬쑥부쟁이는 우리나라에서 울릉도에만 자생하고, 쑥부쟁이는 전국에 흔하다.",
+      "name": "쑥부쟁이",
+      "points": [
+        "꽃 색: 섬쑥부쟁이는 흰 꽃잎, 쑥부쟁이는 자주색 꽃잎이다(둘 다 가운데는 노란색).",
+        "키: 섬쑥부쟁이는 1~1.5m까지 크고, 쑥부쟁이는 30~100cm이다.",
+        "꽃 시기: 섬쑥부쟁이는 9~10월, 쑥부쟁이는 7~10월에 핀다.",
+        "산지: 국내 자생 섬쑥부쟁이는 울릉도산이고, 쑥부쟁이는 전남 구례 등 내륙에서 재배·채취한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "제주에서 재배하는 섬쑥부쟁이가 한때 '취나물'로 불려 유통됐기 때문에, 시장에서 '취나물'이라는 이름만으로는 참취인지 섬쑥부쟁이인지 알 수 없다.",
+      "name": "참취",
+      "points": [
+        "참취의 아래쪽 잎은 심장 모양이고 날개 달린 긴 잎자루가 있다.",
+        "섬쑥부쟁이 잎은 작고 짙은 녹색으로 줄기에 촘촘히 붙는다.",
+        "참취 꽃은 8~9월, 섬쑥부쟁이 꽃은 9~10월에 핀다.",
+        "포장 표시의 품목명과 산지(울릉·제주 등)를 함께 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "연골세포주(SW1353)에서 섬쑥부쟁이 추출물이 염증·산화 스트레스 지표를 낮췄다고 보고한 세포 실험이다.",
+        "title": "Edible Herb Aster glehni Alleviates Inflammation and Oxidative Stress in Chondrocytes by Regulating p38 and NF-κB Signaling Pathways with Partial Involvement of Its Major Component, 3,5-Dicaffeoylqunic Acid",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms26199691",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Bioscience",
+        "note": "섬쑥부쟁이 추출물과 3,5-디카페오일퀸산이 잇몸병(치주염)에 미치는 영향을 살핀 연구로, 실험 설계는 확인하지 못했다.",
+        "title": "Antiperiodontitis impact of extract from edible herb Aster glehni and its bioactive compound, 3,5-dicaffeolyquinic acid",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.fbio.2024.104224",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 연구는 섬쑥부쟁이 추출물과 주성분 3,5-디카페오일퀸산을 다룬 세포 실험 등 기초 연구가 대부분이다. 사람 대상 연구는 찾지 못했으므로, 먹어서 나타나는 효과는 확인되지 않았다."
+  },
+  "name": "섬쑥부쟁이",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Edible Herb Aster glehni Alleviates Inflammation and Oxidative Stress in Chondrocytes (IJMS, 2025)",
+        "url": "https://doi.org/10.3390/ijms26199691"
+      }
+    ],
+    "text": "학술 논문에서는 섬쑥부쟁이를 먹을 수 있는 나물이면서 전통적으로 약초로도 쓰인 식물로 소개한다. 국내에서는 기침, 열, 통증, 불면을 누그러뜨리는 데 써 왔다고 적었다."
+  },
+  "updatedAt": 1792529979983
+}

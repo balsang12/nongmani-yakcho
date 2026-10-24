@@ -1,0 +1,189 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감 탕액편 草部에 威靈仙 항목이 있고, 우리말 이름(향명)을 함께 적었다."
+    ],
+    "han": "威靈仙",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "술위ᄂᆞᄆᆞᆯ 불휘",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메 - 동의보감 탕액편 향명 전사본 (威靈仙)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 으아리 같은 미나리아재비과 식물의 생즙에는 피부에 물집을 일으키는 자극 성분이 생기고, 생으로 먹으면 위장을 상할 수 있습니다.",
+      "q": "으아리 어린잎을 날로 먹어도 되나요?"
+    },
+    {
+      "a": "잎을 보면 됩니다. 으아리는 작은잎 5~7장에 톱니가 없고, 사위질빵은 작은잎 3장에 뾰족한 톱니가 있습니다. 사위질빵은 7~9월에 작은 흰 꽃이 원뿔 모양으로 빽빽이 핍니다.",
+      "q": "으아리와 사위질빵은 어떻게 구별하나요?"
+    },
+    {
+      "a": "가을에 뿌리와 뿌리줄기를 캐서 흙을 털고 햇볕에 말립니다.",
+      "q": "위령선 약재는 언제 캐나요?"
+    },
+    {
+      "a": "으아리 뿌리는 흑갈색에 가늘고(지름 1~3mm) 맛이 맵습니다. 흙과 잔줄기가 적고 잘 마른 것을 고르고, 기원식물과 원산지 표시를 확인하세요.",
+      "q": "위령선 약재를 고를 때 무엇을 보나요?"
+    },
+    {
+      "a": "생즙의 자극 성분 때문일 수 있으니 바로 물로 씻어 냅니다. 물집이 생기거나 증상이 심하면 진료를 받으세요.",
+      "q": "생 으아리를 만졌는데 피부가 붉어졌어요."
+    }
+  ],
+  "id": {
+    "eat": "말린 뿌리를 한약재로 쓴다. 식품으로 먹는 방법은 공공기관 자료로 확인되지 않았다.",
+    "eng": "",
+    "family": "미나리아재비과",
+    "grade": "홍콩 중약재 기준은 위령선 원료로 으아리(C. manshurica)와 C. chinensis 두 종을 인정하며, 으아리 뿌리는 흑갈색에 지름 1~3mm로 가늘고 맛이 맵고, C. chinensis 뿌리는 회갈색~갈색에 맛이 담담하다고 구분한다. 흙과 잔줄기가 적고 잘 마른 것을 고른다.",
+    "habitat": "전국의 산과 들, 산기슭에 흔히 자라는 덩굴식물로, 양지나 반그늘의 기름진 흙을 좋아한다. 한국·중국 동북부·러시아 극동에 분포한다.",
+    "look": {
+      "flower": "5월 말~9월에 지름 2~3cm의 흰 꽃이 가지 끝과 잎겨드랑이에 5~20송이씩 모여 핀다. 꽃잎처럼 보이는 것은 꽃받침조각(4~5장)이다.",
+      "fruit": "8월 말~11월에 납작한 씨열매가 익으며, 약 1cm의 깃털 같은 암술대가 꼬리처럼 붙어 바람에 날린다.",
+      "leaf": "잎은 마주나고 작은잎 5~7장으로 된 깃꼴겹잎이다. 작은잎은 달걀 모양으로 가장자리에 톱니가 없고 털이 거의 없으며, 잎자루가 휘감겨 덩굴손 구실을 한다.",
+      "root": "수염뿌리가 굵게 모여 난다. 말린 뿌리는 지름 1~3mm의 가는 원기둥꼴로 겉이 흑갈색이고 속 나무질은 희다.",
+      "stem": "길이 2m 안팎으로 뻗는 덩굴이며, 줄기는 겨울에 말라 죽는다."
+    },
+    "parts": "뿌리와 뿌리줄기(말려서 한약재 '위령선'으로 씀). 어린잎을 나물로 쓴다는 소개가 있으나 날것은 자극 성분이 있어 위험하다.",
+    "prep": "생잎·생줄기·생뿌리는 날로 먹지 않는다. 미나리아재비과 식물의 즙에는 피부에 물집을 일으키는 자극 성분(프로토아네모닌)이 생기며, 생으로 먹으면 위장을 상하게 할 수 있다. 이 성분은 말리거나 끓이면 대부분 없어진다고 알려져 있다. 맨손으로 생즙을 오래 만지지 않는다. 약재 뿌리는 가을에 캐서 흙을 털고 햇볕에 말린다.",
+    "sci": "Clematis terniflora var. mandshurica (Rupr.) Ohwi",
+    "season": {
+      "collect": [
+        9,
+        10,
+        11
+      ],
+      "flower": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - Clematis terniflora var. mandshurica",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5494"
+      },
+      {
+        "title": "위키백과 - 으아리 (국가생물종정보시스템·국립수목원 도감 인용)",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9C%BC%EC%95%84%EB%A6%AC"
+      },
+      {
+        "title": "홍콩 중약재표준 - Clematidis Radix et Rhizoma",
+        "url": "https://cmro.gov.hk/hkcmms/vol6/pdf_e/Clematidis_Radix_et_Rhizoma_v6_e.pdf"
+      },
+      {
+        "title": "Botanical Dermatology Database - Ranunculaceae (Clematis)",
+        "url": "https://www.botanical-dermatology-database.info/BotDermFolder/RANUNCULACEAE.html"
+      },
+      {
+        "title": "Cornell University - Ranunculosides (Plants Poisonous to Livestock)",
+        "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/ranunculoside.html"
+      }
+    ],
+    "store": "말린 뿌리를 습기와 직사광선을 피해 밀봉 보관한다.",
+    "taste": "으아리 뿌리 약재는 맛이 맵다고 기재된다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - Clematis terniflora var. mandshurica",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5494"
+    },
+    {
+      "title": "위키백과 - 으아리 (국가생물종정보시스템·국립수목원 도감 인용)",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9C%BC%EC%95%84%EB%A6%AC"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 사위질빵",
+      "url": "https://encykorea.aks.ac.kr/Article/E0075176"
+    },
+    {
+      "title": "Botanical Dermatology Database - Ranunculaceae (Clematis)",
+      "url": "https://www.botanical-dermatology-database.info/BotDermFolder/RANUNCULACEAE.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 으아리속 덩굴로 흰 꽃이 비슷하지만 잎 모양과 꽃 피는 때가 다르다. 같은 무리라 생잎에 자극 성분이 있을 수 있어 날로 먹지 않는다.",
+      "name": "사위질빵",
+      "points": [
+        "사위질빵은 작은잎 3장짜리 잎이고 가장자리에 뾰족한 톱니가 있으며, 으아리는 작은잎 5~7장에 톱니가 없다.",
+        "사위질빵은 7~9월에 작은 흰 꽃이 원뿔 모양으로 많이 모여 피고, 으아리는 5월 말부터 지름 2~3cm의 꽃이 핀다.",
+        "사위질빵은 덩굴이 8m까지 길게 뻗고 굵은 줄기가 겨울에도 남지만, 으아리 줄기는 겨울에 말라 죽는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "으아리와 매우 비슷한 근연종으로, 꽃 크기와 털 유무로 구별한다.",
+      "name": "참으아리",
+      "points": [
+        "참으아리 꽃은 지름 약 1.5cm로 작고, 으아리는 2~3cm로 크다.",
+        "참으아리는 한 꽃차례에 30~50송이로 많이 달리고, 으아리는 5~20송이다.",
+        "참으아리는 줄기·잎·꽃자루에 털이 있고, 으아리는 털이 거의 없다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Asian Journal of Traditional Medicines",
+        "note": "으아리를 포함한 위령선 기원식물 세 종의 공통 지표 성분을 찾고, 관절염 유발 쥐에서 추출물 효과를 비교했다.",
+        "title": "Discovery of quality marker and study on its pharmacodynamic differences in antirheumatoid arthritis in the three original plants of Clematidis Radix et Rhizoma",
+        "type": "동물 실험",
+        "url": "https://journal.hep.com.cn/ajtm/EN/Y2025/V20/I2/49",
+        "year": "2025"
+      },
+      {
+        "journal": "Evidence-Based Complementary and Alternative Medicine",
+        "note": "으아리속 C. terniflora 잎 추출물이 염증 물질로 유도한 급성 폐 손상 모델에서 염증 지표에 미치는 영향을 살폈다.",
+        "title": "Anti-Inflammatory Effects of Clematis terniflora Leaf on Lipopolysaccharide-Induced Acute Lung Injury",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1155/2024/6653893",
+        "year": "2024"
+      },
+      {
+        "journal": "Natural Product Research",
+        "note": "으아리 뿌리·뿌리줄기에서 새 화합물 두 가지를 분리하고 세포에서 염증 억제 활성을 시험했다.",
+        "title": "Two new anti-inflammatory compounds from the roots and rhizomes of Clematis terniflora var. manshurica (Rupr.) Ohwi",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/14786419.2023.2227912",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 위령선 기원식물의 성분 분리와 염증 관련 세포·동물 실험이 중심이다. 관절염 모델 쥐 실험에서 세 기원식물 추출물을 비교한 연구가 있으나, 사람 대상 근거는 확인되지 않았다."
+  },
+  "name": "위령선",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 사위질빵",
+        "url": "https://encykorea.aks.ac.kr/Article/E0075176"
+      },
+      {
+        "title": "홍콩 중약재표준 - Clematidis Radix et Rhizoma",
+        "url": "https://cmro.gov.hk/hkcmms/vol6/pdf_e/Clematidis_Radix_et_Rhizoma_v6_e.pdf"
+      },
+      {
+        "title": "Botanical Dermatology Database - Ranunculaceae (Clematis)",
+        "url": "https://www.botanical-dermatology-database.info/BotDermFolder/RANUNCULACEAE.html"
+      }
+    ],
+    "text": "으아리속 식물의 뿌리를 위령선이라 하여 바람과 습기로 생긴 관절·허리 통증 등에 써 왔다고 소개된다. 중국에서도 C. chinensis 등의 뿌리를 위령선으로 써 왔다."
+  },
+  "updatedAt": 1792745954823
+}

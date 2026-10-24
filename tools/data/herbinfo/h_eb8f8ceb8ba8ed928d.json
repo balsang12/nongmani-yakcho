@@ -1,0 +1,142 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네, 어린잎과 연한 잎자루를 데쳐 나물로 먹습니다. 다만 주로 관상용으로 많이 심는 식물이라 시중 유통은 드뭅니다.",
+      "q": "돌단풍은 먹을 수 있나요?"
+    },
+    {
+      "a": "중부 이북 산골짜기 계곡 물가의 바위틈에 붙어 자랍니다. 흙바닥이 아닌 바위 위에 뿌리줄기를 뻗는 것이 특징입니다.",
+      "q": "돌단풍은 어디서 자라나요?"
+    },
+    {
+      "a": "돌단풍은 바위틈에서 잎이 뿌리줄기에서 바로 올라오고 털 없이 반들거립니다. 단풍취는 숲 바닥에서 털 난 줄기를 세우고 그 중간에 잎이 돌려 달립니다.",
+      "q": "돌단풍과 단풍취는 어떻게 구별하나요?"
+    },
+    {
+      "a": "봄(대개 5월 무렵)에 꽃줄기 끝에 흰빛에 엷은 분홍이 도는 작은 꽃이 모여 핍니다.",
+      "q": "돌단풍 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 어린잎을 양념해 나물무침으로 먹는다.",
+    "eng": "",
+    "family": "범의귀과",
+    "grade": "",
+    "habitat": "우리나라 중부 이북과 중국 동북부(지린·랴오닝)에 자생하며, 산골짜기 계곡 물가의 바위틈이나 바위 비탈에 붙어 자란다. 정원·옥상녹화용으로도 많이 심는다.",
+    "look": {
+      "flower": "봄에 꽃줄기 끝에 흰색 바탕에 엷은 분홍빛이 도는 작은 꽃이 원뿔 모양으로 많이 모여 핀다.",
+      "fruit": "달걀 모양의 작은 열매(삭과)가 맺히고 익으면 두 갈래로 벌어진다.",
+      "leaf": "잎은 모두 뿌리줄기에서 모여 나고 잎자루가 길다(7~15cm). 잎몸은 단풍잎처럼 손바닥 모양으로 5~7갈래 갈라지며 가장자리에 톱니가 있고, 양면에 털이 없이 윤이 난다.",
+      "root": "굵고 짧은 갈색 뿌리줄기가 바위 위나 틈을 따라 옆으로 누워 뻗으며 비늘 조각에 싸여 있다.",
+      "stem": "땅 위로 서는 잎줄기가 없고, 꽃줄기만 20~35cm 높이로 곧게 올라온다."
+    },
+    "parts": "어린잎과 연한 잎자루",
+    "prep": "어린잎과 잎자루를 끓는 물에 데쳐 찬물에 헹군 뒤 나물로 무친다.",
+    "sci": "Mukdenia rossii (Oliv.) Koidz.",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of China - Mukdenia (槭叶草属) 기재문",
+        "url": "https://www.iplant.cn/foc/pdf/Mukdenia.pdf"
+      },
+      {
+        "title": "위키백과 - 돌단풍",
+        "url": "https://ko.wikipedia.org/wiki/돌단풍"
+      },
+      {
+        "title": "이성주 외(2026) 돌단풍의 건조 스트레스 평가를 위한 RGB 이미지 기반 DT 모델 구축, 한국환경과학회지 35(3)",
+        "url": "https://journal.kenss.or.kr/_PR/view/?aidx=48822&bidx=4386"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of China - Mukdenia (槭叶草属) 기재문",
+      "url": "https://www.iplant.cn/foc/pdf/Mukdenia.pdf"
+    },
+    {
+      "title": "위키백과 - 돌단풍",
+      "url": "https://ko.wikipedia.org/wiki/돌단풍"
+    },
+    {
+      "title": "단풍취 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%ED%92%8D%EC%B7%A8"
+    },
+    {
+      "title": "남부지역에 자생하는 단풍취의 생육환경 조사 (농업생명과학연구 59(1), 2025)",
+      "url": "https://doi.org/10.14397/jals.2025.59.1.19"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "잎이 단풍잎처럼 손바닥 모양으로 갈라져 이름과 생김새가 비슷하지만, 단풍취는 숲속 땅에 줄기를 세우고 그 중간에 잎이 돌려나는 국화과 산나물이다.",
+      "name": "단풍취",
+      "points": [
+        "돌단풍은 계곡 물가의 바위틈에서 자라고, 단풍취는 숲속 그늘진 흙바닥에서 자란다.",
+        "돌단풍은 잎이 모두 뿌리줄기에서 바로 올라오고, 단풍취는 털 난 줄기 가운데쯤에 잎 4~7장이 빙 둘러 달린다.",
+        "돌단풍 잎은 털 없이 반들거리고, 단풍취 줄기에는 긴 갈색 털이 있다.",
+        "꽃도 다르다. 돌단풍은 봄에 흰~연분홍 작은 꽃이 원뿔 모양으로 모이고, 단풍취는 7~9월에 흰 꽃이 이삭처럼 길게 달린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Environmental Science International (한국환경과학회지) 35(3)",
+        "note": "화분에 기른 돌단풍 사진의 색 지수로 물 부족 상태를 91% 정도 정확도로 구분하는 모델을 만들었다.",
+        "title": "돌단풍(Mukdenia rossii (Oliv.) Koidz)의 건조 스트레스 평가를 위한 RGB 이미지 기반 DT(Decision Tree) 모델 구축",
+        "type": "기타",
+        "url": "https://journal.kenss.or.kr/_PR/view/?aidx=48822&bidx=4386",
+        "year": "2026"
+      },
+      {
+        "journal": "American Journal of Botany",
+        "note": "바위에 붙어 사는 돌단풍속과 가까운 속이 동북아시아에서 피난처 고립과 서식 환경 차이로 유전적으로 갈라진 과정을 분석했다.",
+        "title": "Refugial isolation and ecological niche differentiation promote genetic divergence of Oresitrophe and Mukdenia in Northeast Asia",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40904271/",
+        "year": "2025"
+      },
+      {
+        "journal": "BMC Genomics",
+        "note": "돌단풍속과 자매 속의 엽록체 유전체를 해독해 종 구별·유전 연구용 표지를 마련했다.",
+        "title": "Chloroplast genome analyses and genomic resource development for epilithic sister genera Oresitrophe and Mukdenia (Saxifragaceae), using genome skimming data",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/29618324/",
+        "year": "2018"
+      }
+    ],
+    "summary": "돌단풍을 다룬 최근 논문은 많지 않으며, 동북아시아 집단의 유전적 분화를 밝힌 분류·진화 연구와 정원식물로서 건조 스트레스를 이미지로 진단하는 원예 연구가 대부분이다. 식품 성분이나 건강 효과를 다룬 사람 대상·동물 실험 연구는 찾지 못했다."
+  },
+  "name": "돌단풍",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "정혜란·최경·박광우(2012) 경기남부 내륙지역의 민속식물자원, 한국자원식물학회지 25(5) (국립수목원)",
+        "url": "https://koreascience.kr/article/JAKO201233356079415.pdf"
+      },
+      {
+        "title": "위키백과 - 돌단풍",
+        "url": "https://ko.wikipedia.org/wiki/돌단풍"
+      }
+    ],
+    "text": "돌단풍은 옛 본초서에 따로 항목이 확인되지 않는다. 국립수목원의 경기 남부 민속식물 조사에서는 주로 꽃을 보는 관상용으로 기록되었고(지역 이름 '돌난풍'), 야생화 도감류에는 어린잎을 나물로 먹는다고 적혀 있다."
+  },
+  "updatedAt": 1792573003677
+}

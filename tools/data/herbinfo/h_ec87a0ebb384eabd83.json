@@ -1,0 +1,156 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "꽃 가운데 암술대가 5개면 쇠별꽃, 3개면 별꽃입니다. 쇠별꽃이 키와 잎이 훨씬 크고, 위쪽 잎이 잎자루 없이 줄기를 감쌉니다.",
+      "q": "쇠별꽃과 별꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "봄(3~5월)에 줄기가 연할 때 어린순을 뜯습니다. 꽃은 4~6월에 핍니다.",
+      "q": "쇠별꽃은 언제 뜯나요?"
+    },
+    {
+      "a": "어린순을 살짝 데쳐 나물로 무치거나 국에 넣어 먹습니다.",
+      "q": "쇠별꽃은 어떻게 먹나요?"
+    },
+    {
+      "a": "전국의 조금 축축한 빈터, 밭둑, 길가에 흔합니다. 길가나 농약을 친 밭 주변에서 뜯은 것은 피하는 것이 좋습니다.",
+      "q": "쇠별꽃은 어디서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 나물로 무치거나 국에 넣어 먹는다.",
+    "eng": "Water chickweed",
+    "family": "석죽과 (Caryophyllaceae)",
+    "grade": "",
+    "habitat": "전국의 조금 축축한 빈터, 밭둑, 길가, 도랑가에 흔하다. 양분이 많은 농촌 밭 주변에 특히 많다.",
+    "look": {
+      "flower": "흰 꽃잎 5장이 밑까지 깊게 갈라져 10장처럼 보인다. 꽃 가운데 암술대가 5개 있다(별꽃은 3개).",
+      "fruit": "달걀 모양의 삭과가 익으면 끝이 5갈래로 벌어진다.",
+      "leaf": "잎은 마주나고 길이 1~6cm의 넓은 달걀 모양이며 가장자리는 밋밋하다. 아래쪽 잎은 잎자루가 있고, 위쪽 잎은 잎자루 없이 줄기를 감싼다.",
+      "stem": "줄기는 밑에서 여러 갈래로 뻗다가 비스듬히 서며 높이 20~50cm까지 자란다."
+    },
+    "parts": "어린 줄기와 잎(어린순)",
+    "prep": "봄에 연한 어린순을 뜯어 끓는 물에 살짝 데친 뒤 찬물에 헹궈 쓴다.",
+    "sci": "Stellaria aquatica (L.) Scop. (이명 Myosoton aquaticum (L.) Moench)",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        4,
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 쇠별꽃",
+        "url": "https://ko.wikipedia.org/wiki/%EC%87%A0%EB%B3%84%EA%BD%83"
+      },
+      {
+        "title": "인천투데이 - 별꽃·쇠별꽃 구별 (2023)",
+        "url": "https://www.incheontoday.com/news/articleView.html?idxno=302023"
+      },
+      {
+        "title": "국민일보 [풀·꽃·나무 친해지기] 별꽃 (최영선, 자연환경조사연구소)",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0922986506"
+      },
+      {
+        "title": "조현동 외(2019) 쇠별꽃 종자 추출물의 생리활성 효능 비교, 한국식품저장유통학회지 26(2)",
+        "url": "https://www.ekosfop.or.kr/archive/view_article?pid=kjfp-26-2-228"
+      }
+    ],
+    "store": "",
+    "taste": "맛이 순하고 풋풋한 풀 맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "인천투데이 - 별꽃·쇠별꽃 구별 (2023)",
+      "url": "https://www.incheontoday.com/news/articleView.html?idxno=302023"
+    },
+    {
+      "title": "국민일보 [풀·꽃·나무 친해지기] 별꽃 (최영선, 자연환경조사연구소)",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0922986506"
+    },
+    {
+      "title": "위키백과 - 쇠별꽃",
+      "url": "https://ko.wikipedia.org/wiki/%EC%87%A0%EB%B3%84%EA%BD%83"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "꽃 모양이 거의 같아 헷갈리지만 별꽃은 전체가 작고 암술대가 3개다. 별꽃도 나물로 먹는다.",
+      "name": "별꽃",
+      "points": [
+        "꽃 가운데를 보면 쇠별꽃은 암술대가 5개, 별꽃은 3개다.",
+        "쇠별꽃은 키 20~50cm·잎 길이 1~6cm로, 키 10~20cm·잎 길이 1~2cm인 별꽃보다 훨씬 크다.",
+        "쇠별꽃 윗잎은 잎자루 없이 줄기를 감싸고, 별꽃 잎은 끝이 뾰족한 달걀 모양이다.",
+        "수술은 쇠별꽃이 10개, 별꽃은 1~7개다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "별꽃속 여러 종의 엽록체 유전체를 비교해 종 사이의 계통 관계를 살폈다.",
+        "title": "Comparative plastome analyses and phylogenetic insights of Stellaria (Caryophyllaceae)",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fpls.2026.1902479",
+        "year": "2026"
+      },
+      {
+        "journal": "Archives of Virology",
+        "note": "국내 쇠별꽃에서 새로운 클로스테로바이러스를 찾아 유전체 특징을 밝혔다.",
+        "title": "Molecular characterization and identification of Stellaria aquatica virus C, a novel putative member of the genus Closterovirus infecting Stellaria aquatica in South Korea",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s00705-024-06070-y",
+        "year": "2024"
+      },
+      {
+        "journal": "Archives of Virology",
+        "note": "쇠별꽃을 감염하는 새로운 폴레로바이러스의 전체 유전체를 해독했다.",
+        "title": "Complete genome sequence of Stellaria aquatica virus B, a novel polerovirus that infects Stellaria aquatica",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s00705-022-05687-1",
+        "year": "2023"
+      },
+      {
+        "journal": "Archives of Virology",
+        "note": "쇠별꽃에서 발견한 새로운 알파카모바이러스의 유전체를 보고했다.",
+        "title": "The complete genome sequence of Stellaria aquatica virus A, a new member of the genus Alphacarmovirus, family Tombusviridae",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s00705-022-05651-z",
+        "year": "2023"
+      },
+      {
+        "journal": "Korean Journal of Food Preservation",
+        "note": "쇠별꽃 씨앗 추출물의 항산화 활성과 암세포·면역세포에 대한 반응을 실험실에서 비교했다.",
+        "title": "Comparison of biological activity between Stellaria aquatica seed extracts",
+        "type": "세포 실험",
+        "url": "https://www.ekosfop.or.kr/archive/view_article?pid=kjfp-26-2-228",
+        "year": "2019"
+      }
+    ],
+    "summary": "최근 쇠별꽃 연구는 국내에서 쇠별꽃을 감염하는 새 식물 바이러스를 찾은 연구와 별꽃속 식물의 엽록체 유전체로 계통을 밝히는 연구가 주를 이룬다. 효능 쪽으로는 2019년 국내 연구에서 씨앗 추출물의 항산화·암세포 억제 활성을 세포 실험으로 살핀 정도이며, 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "쇠별꽃",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "조현동 외(2019) 쇠별꽃 종자 추출물의 생리활성 효능 비교, 한국식품저장유통학회지 26(2)",
+        "url": "https://www.ekosfop.or.kr/archive/view_article?pid=kjfp-26-2-228"
+      }
+    ],
+    "text": "한방과 민간에서는 쇠별꽃의 줄기와 잎을 말려 피를 맑게 하거나 젖이 잘 돌게 하는 데 썼고, 폐렴·고혈압이나 부기를 빼는 이뇨제로도 썼다고 식물도감을 인용해 소개된다. 이는 옛 쓰임을 정리한 것으로 효과가 검증된 것은 아니다."
+  },
+  "updatedAt": 1792573003680
+}

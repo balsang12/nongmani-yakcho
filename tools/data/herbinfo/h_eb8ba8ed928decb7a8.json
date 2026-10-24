@@ -1,0 +1,143 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "잎을 보면 된다. 잎자루가 긴 단풍잎 모양의 잎이 줄기 가운데쯤에 4~7장 돌려나고, 줄기에 긴 갈색 털이 있다.",
+      "q": "단풍취는 어떻게 알아보나요?"
+    },
+    {
+      "a": "잎이 돌려나는 독초 삿갓나물과 비교해 봐야 한다. 삿갓나물 잎은 가장자리가 갈라지지 않고 톱니도 없지만, 단풍취 잎은 손바닥 모양으로 갈라진다.",
+      "q": "독초와 헷갈리지 않나요?"
+    },
+    {
+      "a": "어린순을 나물로 먹는다.",
+      "q": "어느 부위를 먹나요?"
+    },
+    {
+      "a": "7~9월에 줄기 끝에 흰 꽃이 이삭처럼 핀다. 나물은 꽃대가 올라오기 전 어린순을 쓴다.",
+      "q": "꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 나물로 먹는다.",
+    "eng": "",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "숲속 그늘에서 자라는 여러해살이풀이다. 남부 지역 자생지 조사에서는 pH 3.9~5.1의 산성 토양에서 자랐다.",
+    "look": {
+      "flower": "7~9월에 줄기 끝에 흰 꽃이 이삭처럼 길게 달린다.",
+      "fruit": "열매에 갈색 갓털이 있어 바람에 날려 퍼진다.",
+      "leaf": "잎자루가 긴 잎이 줄기 가운데쯤에 4~7장 돌려나며, 모양이 단풍나무 잎처럼 손바닥 모양으로 갈라진다.",
+      "root": "가는 뿌리가 여러 갈래(평균 20여 개)로 난다.",
+      "stem": "줄기는 35~80cm로 가지를 치지 않으며 긴 갈색 털이 있다."
+    },
+    "parts": "어린순(어린잎)",
+    "prep": "어린순을 나물로 쓴다.",
+    "sci": "Ainsliaea acerifolia",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "단풍취 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%ED%92%8D%EC%B7%A8"
+      },
+      {
+        "title": "남부지역에 자생하는 단풍취의 생육환경 조사 (농업생명과학연구 59(1), 2025)",
+        "url": "https://doi.org/10.14397/jals.2025.59.1.19"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "단풍취 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8B%A8%ED%92%8D%EC%B7%A8"
+    },
+    {
+      "title": "식품의약품안전처 열린마루 2025년 4월호 - 독초 vs 산나물, 올바른 구분법",
+      "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+    },
+    {
+      "title": "산나물, '알면 약초·모르면 독초' (국립수목원 독초 주의 안내 보도)",
+      "url": "https://m.go.seoul.co.kr/news/2020/03/31/20200331500064"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "단풍취도 잎이 줄기에 돌려나기 때문에, 잎이 돌려나는 독초 삿갓나물과 겉모습을 잘 비교해야 한다. 잎 가장자리가 갈라지는지 확인하면 가려낼 수 있다.",
+      "name": "삿갓나물",
+      "points": [
+        "단풍취 잎은 단풍잎처럼 손바닥 모양으로 갈라진다.",
+        "삿갓나물 잎은 가장자리에 톱니가 없고 갈라지지 않는다.",
+        "단풍취 줄기에는 긴 갈색 털이 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "우산나물도 잎이 갈라진 산나물이어서 어린 모습이 헷갈릴 수 있다. 둘 다 식용이지만 품목이 다르므로 이름을 바로 붙여 판다.",
+      "name": "우산나물",
+      "points": [
+        "우산나물 잎은 깊게 갈라진다(2열로 깊게 갈라짐).",
+        "단풍취 잎은 잎자루가 길고 줄기 가운데쯤에 4~7장 모여 돌려난다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "농업생명과학연구",
+        "note": "남부 7개 자생지에서 단풍취의 크기, 잎, 뿌리, 토양 조건을 조사한 생태 연구다.",
+        "title": "남부지역에 자생하는 단풍취의 생육환경 조사 (Investigation of the Growth Environment of Ainsliaea acerifolia that Grows Naturally in the Southern Region)",
+        "type": "기타",
+        "url": "https://doi.org/10.14397/jals.2025.59.1.19",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "단풍취속 식물의 세스퀴테르펜 성분을 정리한 리뷰로, 단풍취에서 분리한 성분이 효소 실험에서 리파아제를 억제했다는 보고를 소개한다.",
+        "title": "Research Progress on Sesquiterpenes from the Genus Ainsliaea",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules29225483",
+        "year": "2024"
+      },
+      {
+        "journal": "BioResources",
+        "note": "단풍취 줄기에서 페놀 성분을 뽑아내는 초음파 추출 조건을 최적화한 실험실 연구다.",
+        "title": "Optimization of Antioxidant Activity and Phenolic Extraction from Ainsliaea acerifolia Stem Using Ultrasound-Assisted Extraction Technology",
+        "type": "기타",
+        "url": "https://doi.org/10.15376/biores.19.3.6325-6338",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 사이 단풍취 연구는 성분 추출 조건과 항산화 측정, 자생지 생육 환경 조사, 속(屬) 단위 성분 리뷰 정도로 확인된다. 사람을 대상으로 한 연구는 확인되지 않았다."
+  },
+  "name": "단풍취",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792529979983
+}

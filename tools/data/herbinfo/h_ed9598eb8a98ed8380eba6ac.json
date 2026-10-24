@@ -1,0 +1,152 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감에는 하늘타리 뿌리가 '하ᄂᆞᆯ타리불휘'라는 우리말 이름으로 실려 있으며, 이 이름이 오늘날의 하늘타리로 이어졌다고 한다."
+    ],
+    "han": "栝樓根",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "하ᄂᆞᆯ타리불휘",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 하늘타리",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060559"
+      }
+    ],
+    "verified": false,
+    "warn": "같은 식물이라도 뿌리(괄루근·천화분), 씨(괄루인), 열매(괄루)가 각각 다른 약재 이름으로 불린다. 원문은 직접 대조하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "잎 갈라짐을 먼저 봅니다. 하늘타리는 보통 5갈래로 깊게 갈라지고, 노랑하늘타리는 보통 3갈래로 얕게 갈라지거나 거의 안 갈라집니다. 열매도 노랑하늘타리가 더 긴 타원형입니다.",
+      "q": "하늘타리와 노랑하늘타리는 어떻게 구별하나요?"
+    },
+    {
+      "a": "기원 확인이 필요합니다. 국내 시판 제품 15건을 유전자로 조사한 연구에서 정품 하늘타리는 4건뿐이고 9건이 노랑하늘타리였으며, 열매 제품은 모두 노랑하늘타리였습니다. 기원 식물이 표시된 한약재 규격품을 고르세요.",
+      "q": "시중 괄루근·괄루 제품은 믿을 만한가요?"
+    },
+    {
+      "a": "모두 하늘타리에서 나온 약재로 쓰는 부위가 다릅니다. 천화분(괄루근)은 겉껍질을 벗긴 뿌리, 괄루인은 씨, 괄루는 열매를 가리킵니다.",
+      "q": "천화분, 괄루인, 괄루는 무엇이 다른가요?"
+    },
+    {
+      "a": "10월 무렵에 노란색~주황색으로 익습니다. 꽃은 7~8월에 흰색으로 핍니다.",
+      "q": "하늘타리 열매는 언제 익나요?"
+    },
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인하지 못했으므로 권하지 않습니다. 한약재로 유통되는 품목이니 한의사·약사와 상의해 쓰세요.",
+      "q": "하늘타리 뿌리나 열매를 그냥 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "덩이뿌리는 겉껍질을 벗겨 말린 괄루근(천화분), 씨는 괄루인이라는 한약재로 쓰인다. 뿌리 녹말을 습진 등에 찜질약으로 썼다는 기록도 있다.",
+    "eng": "",
+    "family": "박과",
+    "grade": "대한민국약전은 괄루근을 하늘타리 또는 쌍변괄루의 겉껍질을 벗긴 뿌리로 정하고, 바깥면이 연한 황백색에 갈색 관다발 무늬가 있고 단면은 연한 노란색이며 약간 섬유질인 것으로 적는다. 냄새는 거의 없고 맛은 약간 쓰며, 회분은 4.0% 이하여야 한다.",
+    "habitat": "중부와 남부 지방의 산기슭, 풀밭, 밭둑, 집 담장 근처에서 다른 물체를 감고 자라는 여러해살이 덩굴이다. 몽골·중국·일본에도 분포한다.",
+    "look": {
+      "flower": "7~8월에 흰 꽃이 피며, 꽃잎 끝이 실처럼 잘게 갈라진다. 암꽃과 수꽃이 다른 그루에 핀다.",
+      "fruit": "열매는 둥글거나 약간 긴 둥근 모양이며 10월에 노란색~주황색으로 익고, 안에 씨가 많이 들어 있다.",
+      "leaf": "잎은 어긋나고 단풍잎처럼 5~7갈래로 깊게(잎 길이의 절반~3분의 2 정도) 갈라진다.",
+      "root": "땅속에 굵은 덩이뿌리가 있다. 약재(괄루근)는 겉껍질을 벗긴 연한 황백색 뿌리로, 길이 5~10cm, 지름 3~5cm쯤이다.",
+      "stem": "덩굴줄기가 잎과 마주 나는 덩굴손으로 다른 물체를 감으며 뻗는다."
+    },
+    "parts": "뿌리(괄루근·천화분), 씨(괄루인), 열매(괄루). 모두 한약재 이름이며 식품 원료로 쓸 수 있는 부위는 확인하지 못함",
+    "prep": "뿌리·씨·열매는 한약재로 유통되며 식품 원료로 쓸 수 있는지는 확인하지 못했으므로 날로 먹거나 임의로 달여 먹지 않는다. 한약재로 쓸 때는 한의사·약사와 상의한다.",
+    "sci": "Trichosanthes kirilowii Maxim.",
+    "season": {
+      "collect": [
+        10
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "대한민국약전 - 괄루근(栝樓根, 천화분)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_211.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 하늘타리",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060559"
+      },
+      {
+        "title": "위키백과 - 하늘타리",
+        "url": "https://ko.wikipedia.org/wiki/%ED%95%98%EB%8A%98%ED%83%80%EB%A6%AC"
+      },
+      {
+        "title": "하늘타리 추출물의 제초활성 (Weed & Turfgrass Science, 2013)",
+        "url": "https://koreascience.or.kr/article/JAKO201330258591169.pdf"
+      }
+    ],
+    "store": "",
+    "taste": "말린 뿌리(괄루근)는 냄새가 거의 없고 맛이 약간 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "Plastid Phylogenomic Data Offers Novel Insights Into the Taxonomic Status of the Trichosanthes kirilowii Complex in South Korea (Frontiers in Plant Science, 2021)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8353159/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "하늘타리와 겉모습이 아주 비슷한 근연 식물로, 약재 기원으로 인정되지 않는데도 국내 시판 괄루근·괄루 제품에서 많이 섞여 나왔다. 조사된 시판 제품 15건 가운데 9건이 노랑하늘타리였고 열매 제품은 모두 노랑하늘타리였다.",
+      "name": "노랑하늘타리",
+      "points": [
+        "잎: 하늘타리는 보통 5갈래로 잎의 절반~3분의 2까지 깊게 갈라지고, 노랑하늘타리는 보통 3갈래로 얕게 갈라지며 거의 안 갈라지기도 한다.",
+        "가운데 잎조각: 하늘타리는 다시 갈라진 마름모~긴 타원형, 노랑하늘타리는 갈라지지 않은 세모꼴이다.",
+        "열매: 하늘타리는 둥근~긴 둥근 모양, 노랑하늘타리는 긴 타원형 쪽이다.",
+        "자라는 곳: 노랑하늘타리는 주로 섬과 바닷가 쪽에 좁게 분포하고, 하늘타리는 내륙의 숲·풀밭에 널리 자란다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "하늘타리의 네 가지 조직과 열매 익는 단계별 대사 성분과 유전자 발현을 분석한 식물학 연구다.",
+        "title": "Integrated multiomics profiling elucidates the spatiotemporal metabolic dynamics and regulatory networks of the bioactive components of Trichosanthes kirilowii",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fpls.2026.1735703",
+        "year": "2026"
+      },
+      {
+        "journal": "Drug and Chemical Toxicology",
+        "note": "하늘타리 씨를 새 식품 원료 후보로 보고 독성 안전성을 평가한 연구다.",
+        "title": "Comprehensive toxicological safety assessment of Trichosanthes kirilowii seeds as a candidate for new food resource",
+        "type": "기타",
+        "url": "https://doi.org/10.1080/01480545.2025.2557393",
+        "year": "2025"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "괄루근(천화분)의 기원 식물, 전통 쓰임, 성분, 약리, 품질 관리, 독성 연구를 정리한 리뷰다.",
+        "title": "Trichosanthis Radix: A comprehensive review on botany, ethnomedicine, phytochemistry, pharmacology, quality control and toxicology",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.fitote.2025.106597",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 자료로는 약재 괄루근(천화분)에 대한 종합 리뷰와, 씨를 새 식품 원료 후보로 보고 독성 안전성을 평가한 연구, 열매·조직의 대사 성분을 분석한 식물학 연구가 있다. 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "하늘타리",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 하늘타리",
+        "url": "https://encykorea.aks.ac.kr/Article/E0060559"
+      }
+    ],
+    "text": "하늘타리는 고려 시대에는 천원을·천을근, 조선 시대에는 천질월이·천질타리 같은 이두 이름으로 적혔다. 덩이뿌리(괄루근, 천화분)와 씨(괄루인)를 약재로 써 왔으며, 갈증이 심한 증상이나 기침·가래, 변비에 썼다고 전한다."
+  },
+  "updatedAt": 1792703340527
+}

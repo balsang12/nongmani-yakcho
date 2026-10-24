@@ -1,0 +1,240 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "오디는 갈증을 그치게 하는 데 쓴다고 적었다.",
+      "오장을 이롭게 한다고 적었다.",
+      "오래 먹으면 배고픔을 덜 느낀다고 적었다."
+    ],
+    "han": "桑椹",
+    "has": true,
+    "ki": "",
+    "kiKo": "성질이 차고 맛이 달며 독이 없다(오디 항목, 한의사 칼럼에 소개된 번역 기준).",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "주간경향 - 피를 맑게 하고 노폐물을 빼주는 오디 (권혜진, 2020)",
+        "url": "https://weekly.khan.co.kr/article/202006051648331"
+      },
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
+        "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 뽕나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 원문(한문)을 직접 읽어 대조하지 못했다. 한의고전명저총서(mediclassics.kr)에서는 탕액편 권3에 목부가 있는 목차까지만 확인했고, 위키문헌 페이지는 열리지 않았다. 위 내용은 주간경향 칼럼(한의사 권혜진)이 동의보감 오디 기록을 번역해 소개한 문장을 바탕으로 했으며, 뿌리껍질(상백피)·가지(상지)·잎에 대한 동의보감 기록은 확인하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요합니다. 상백피와 상지는 한약재로 쓰이는 부위이고, 이번 조사에서 식약처 식품원료 목록상 사용 가능 여부를 확인하지 못했으므로 임의로 달여 드시지 말고 구입처나 식약처 식품원료 목록에서 먼저 확인하세요.",
+      "q": "상백피나 상지(뽕나무 가지)를 차로 달여 먹어도 되나요?"
+    },
+    {
+      "a": "꽃의 암술대 길이와 잎 톱니를 봅니다. 뽕나무는 암술대가 1mm 이하로 짧고 잎 톱니가 무디며, 산뽕나무는 암술대가 2~3mm로 길고 잎 톱니가 뾰족하며 잎끝이 갑자기 꼬리처럼 뾰족해집니다.",
+      "q": "뽕나무와 산뽕나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "겉껍질(주피)이 잘 벗겨져 바깥면이 흰색~황갈색이고 단면이 섬유질인 것을 고릅니다. 식약처 기준상 뿌리 속 목질부 같은 이물은 1% 넘게 섞이면 안 되므로, 나무 속심이 많이 섞인 것은 피합니다.",
+      "q": "좋은 상백피는 어떻게 고르나요?"
+    },
+    {
+      "a": "6월 무렵 검게 익습니다. 오디는 긴 타원형으로, 9~10월에 둥글고 붉게 익는 꾸지뽕 열매와는 다릅니다.",
+      "q": "오디는 언제 나오나요?"
+    },
+    {
+      "a": "열매와 잎 표면을 확인합니다. 닥나무·꾸지나무 열매는 둥글고 잎 표면이 털로 거칠며, 뽕나무 열매(오디)는 긴 타원형이고 잎 윗면이 매끈합니다. 꾸지나무는 잎자루가 2~10cm로 길고 털이 많습니다.",
+      "q": "닥나무나 꾸지나무를 뽕나무로 잘못 사는 경우를 어떻게 피하나요?"
+    }
+  ],
+  "id": {
+    "eat": "오디는 생과로 먹거나 술을 담그고, 뽕잎은 덖어 차로 우려 마신다.",
+    "eng": "White mulberry",
+    "family": "뽕나무과",
+    "grade": "공식 등급 기준은 찾지 못했다. 약재 상백피는 식약처 자료상 뿌리껍질에서 겉껍질(주피)을 벗긴 것으로, 바깥면이 흰색~황갈색이고 단면이 섬유질이며, 뿌리 속 목질부 같은 이물이 1% 넘게 섞이지 않아야 한다. 겉껍질이 많이 붙어 누렇게 보이거나 목질부가 섞인 것은 피한다.",
+    "habitat": "전국에서 자라며 대부분 마을 근처에 심어 기른다. 추위에 강하고 흙이 깊고 기름진 땅을 좋아한다.",
+    "look": {
+      "flower": "암꽃과 수꽃이 따로 피며, 암꽃의 암술대가 1mm 이하로 매우 짧다.",
+      "fruit": "오디는 긴 타원형으로 여러 작은 열매가 모인 모양이며 6월 무렵 검게 익는다.",
+      "leaf": "잎은 넓은 심장꼴~긴 달걀꼴로 갈라지지 않거나 몇 갈래로 갈라지며, 가장자리에 무딘 톱니가 있다. 잎이 두껍고 윗면이 매끈하며 뒷면 맥 위에 털이 있기도 하다.",
+      "root": "약재로 쓰는 뿌리껍질(상백피)은 겉껍질을 벗기면 흰색~황갈색이고, 단면은 섬유질이다.",
+      "stem": "높이 20m 가까이 자라는 낙엽 큰키나무로 가지에 가시가 없다. 어린 가지는 회갈색~회백색이며 처음에는 털이 있다."
+    },
+    "parts": "열매(오디)·잎(뽕잎, 상엽)·뿌리껍질(상백피)·가지(상지). 오디는 날로 먹거나 술을 담그는 데 쓰고 뽕잎은 차로 쓰는 것이 공공기관 자료로 확인되지만, 뿌리껍질(상백피)과 가지(상지)는 식품 원료로 쓸 수 있는지 확인이 필요하다(한약재로 쓰임).",
+    "prep": "오디는 씻어 날로 먹거나 술을 담그고, 뽕잎은 6월 중순 전에 딴 잎을 찌고 비벼 말린 뒤 덖어 차로 만든다(농업기술원 기술). 상백피(뿌리껍질의 겉껍질을 벗겨 말린 것)와 상지(가지)는 한약재로 쓰이며, 식품 원료로 쓸 수 있는지 확인이 필요하므로 임의로 달여 먹지 않는다.",
+    "sci": "Morus alba L.",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 뽕나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+      },
+      {
+        "title": "식품의약품안전처 한약재 감별 도감 - 상백피(桑白皮, Mori Cortex)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_77.pdf"
+      },
+      {
+        "title": "식품의약품안전처 한약재 감별 도감 - 상엽(桑葉, Mori Folium)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP171.pdf"
+      },
+      {
+        "title": "한국의 수목(Flora Korea) - 뽕나무속(Morus) 종 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5424"
+      },
+      {
+        "title": "농사로 영농활용기술 - 증제+덖음 기술을 이용한 뽕잎차 제조공정 (전라남도농업기술원, 2014)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psb/psbb/farmUseTechDtl.mo?menuId=PS00072&farmPrcuseSeqNo=17307"
+      }
+    ],
+    "store": "",
+    "taste": "익은 오디는 달다. 약재 상백피는 약간 특유한 냄새가 있고 맛은 거의 없다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora Korea) - 뽕나무속(Morus) 종 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5424"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 뽕나무과 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5414"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 닥나무속(Broussonetia) 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5415/descriptions"
+    },
+    {
+      "title": "식품의약품안전처 한약재 감별 도감 - 상엽(桑葉, Mori Folium)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP171.pdf"
+    },
+    {
+      "title": "식품의약품안전처 한약재 감별 도감 - 상백피(桑白皮, Mori Cortex)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_77.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 뽕나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 꾸지뽕나무(Maclura tricuspidata)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5423"
+    },
+    {
+      "title": "국립산림과학원 임산물 재배기술 - 꾸지뽕나무",
+      "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_05_15.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "산뽕나무(Morus australis)는 같은 뽕나무속으로 산에 저절로 자라 뽕나무와 함께 '뽕나무'로 불린다. 식약처 자료에서 뽕잎 약재(상엽)는 뽕나무·산뽕나무 잎을 모두 인정하지만, 상백피 약재의 기원은 뽕나무로 정리되어 있다.",
+      "name": "산뽕나무",
+      "points": [
+        "뽕나무는 암술대가 1mm 이하로 매우 짧고, 산뽕나무는 2~3mm로 길다.",
+        "뽕나무 잎 톱니는 무디고, 산뽕나무 잎 톱니는 뾰족하다.",
+        "산뽕나무 잎은 끝이 갑자기 꼬리처럼 뾰족해지고, 뽕나무 잎은 두껍고 윗면이 매끈하다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "꾸지뽕나무(Maclura tricuspidata)는 같은 뽕나무과지만 다른 속으로, 이름이 비슷하고 잎이 갈라지기도 해 헷갈린다. 가시와 잎 가장자리로 쉽게 가린다.",
+      "name": "꾸지뽕",
+      "points": [
+        "꾸지뽕나무는 가지에 가시가 있고 잎에 톱니가 없으며, 뽕나무는 가시가 없고 잎에 톱니가 있다.",
+        "오디는 긴 타원형으로 검게 익고, 꾸지뽕 열매는 둥근 공 모양으로 붉게 익는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "닥나무(Broussonetia kazinoki)는 뽕나무과 닥나무속으로 잎이 3~5갈래로 갈라지고 톱니가 있어 뽕나무 잎·가지와 비슷하다. 상백피·상엽의 기원 식물이 아니므로 뽕나무 약재 대신 쓰지 않는다.",
+      "name": "닥나무",
+      "points": [
+        "닥나무속 잎은 털 때문에 표면이 다소 거칠고, 뽕나무 잎은 윗면이 매끈하다.",
+        "닥나무 열매는 둥글고, 오디는 긴 타원형이다.",
+        "닥나무속 겨울눈의 눈비늘은 2~3개, 뽕나무속은 3~6개다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "꾸지나무(Broussonetia papyrifera)는 닥나무속 나무로 잎이 넓고 갈라지며 톱니가 있어 뽕나무와 비슷해 보인다. 뽕나무 약재의 기원 식물이 아니다.",
+      "name": "꾸지나무",
+      "points": [
+        "꾸지나무는 잎자루가 2~10cm로 길고, 어린 가지와 잎자루에 억센 털이 많다.",
+        "꾸지나무는 암수딴그루이며 수꽃차례가 2~9cm의 긴 원통형이다.",
+        "꾸지나무 열매는 지름 약 2cm의 둥근 모양으로, 긴 타원형인 오디와 다르다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomolecules",
+        "note": "뽕잎·오디 가공품이 장내 미생물에 미치는 영향을 정리한 리뷰로, 근거 대부분이 사람이 아닌 동물·실험실 연구라고 밝혔다.",
+        "title": "Mulberry, Gut Microbiota and Gut Functionality: Effects Shaped by Raw Material and Processing Methods",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/biom16070965",
+        "year": "2026"
+      },
+      {
+        "journal": "Cardiovascular Diabetology",
+        "note": "심대사 위험이 있는 359명에게 모나콜린 K 단독 또는 뽕나무 추출물을 더한 조합을 3개월 주고 비교한 무작위 시험으로, 초록에 뽕나무의 사용 부위는 나와 있지 않다.",
+        "title": "Dual modulation of lipid and glucose metabolism by a nutraceutical combination in patients at cardiometabolic risk: results from a multicenter randomized controlled trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1186/s12933-025-02920-4",
+        "year": "2025"
+      },
+      {
+        "journal": "Phytochemical Analysis",
+        "note": "뽕나무의 성분, 약리 작용, 제품 개발 현황을 다룬 리뷰로, 이번 조사에서는 제목과 서지만 확인했다.",
+        "title": "Recent Advances on the Chemical Composition, Pharmacological Properties, and Product Development of Morus alba",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1002/pca.3544",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "고지방 식이로 생긴 수컷 생식 기능 저하에 대한 오디 추출물 연구를 정리한 리뷰로, 이번 조사에서는 제목과 서지만 확인했다.",
+        "title": "Molecular Mechanisms and Therapeutic Potential of Mulberry Fruit Extract in High-Fat Diet-Induced Male Reproductive Dysfunction: A Comprehensive Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu17020273",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "뽕잎·가지(상지)·뿌리껍질(상백피)·오디 네 부위의 성분 약 198가지와 실험에서 보고된 작용을 부위별로 정리한 리뷰다.",
+        "title": "Comprehensive overview of different medicinal parts from Morus alba L.: chemical compositions and pharmacological activities",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1364948",
+        "year": "2024"
+      }
+    ],
+    "summary": "2024~2026년에는 뽕나무 잎·가지·뿌리껍질·열매의 성분과 작용을 정리한 리뷰가 여럿 나왔고, 대부분 세포·동물 실험 결과를 모은 것이다. 사람 대상으로는 홍국 성분(모나콜린 K)에 뽕나무 추출물을 더한 복합 제품을 3개월 먹게 한 무작위 시험이 있으나, 뽕나무만의 효과를 따로 본 연구는 아니다. 뿌리껍질(상백피)·가지(상지)만을 사람에게 시험한 최근 연구는 이번 조사에서 찾지 못했다."
+  },
+  "name": "뽕나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 뽕나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+      },
+      {
+        "title": "식품의약품안전처 한약재 감별 도감 - 상백피(桑白皮, Mori Cortex)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_77.pdf"
+      }
+    ],
+    "text": "한국민족문화대백과사전에 따르면 뿌리의 흰 속껍질을 벗겨 말린 상백피는 폐에 열이 있어 나는 기침, 기관지염, 소변이 잘 나오지 않는 증상, 부기, 각기 등에 쓰였고, 잎(상엽)은 열·두통·기침·갈증·눈병 등에 쓰였다. 민간에서는 뽕잎과 누에똥을 고혈압에 쓰거나, 껍질 달인 물로 곱슬머리를 감기도 했다. 식약처 자료에서 약재 상백피는 뽕나무 뿌리껍질에서 겉껍질을 벗긴 것으로 정리되어 있다."
+  },
+  "updatedAt": 1792789248964
+}

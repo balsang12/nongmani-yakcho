@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "줄기 끝의 연한 순과 어린잎이 통통하고 싱싱한 것을 고르세요. 줄기가 굵고 질기거나 잎이 크게 자란 묵은 것은 쓴맛이 돌 수 있습니다.",
+      "q": "좋은 번행초는 어떻게 고르나요?"
+    },
+    {
+      "a": "데쳐서 먹는 편이 좋습니다. 시금치처럼 옥살산(수산)이 들어 있어 끓는 물에 1분 남짓 데쳐 찬물에 헹구고 데친 물은 버리는 방법이 권장됩니다.",
+      "q": "번행초는 날로 먹어도 되나요?"
+    },
+    {
+      "a": "잎 모양과 표면을 보면 됩니다. 번행초는 잎자루가 있는 세모진 달걀 모양 잎에 작은 돌기가 빽빽하고, 쇠비름은 잎자루 없는 주걱 모양 잎이 매끈하게 반질거립니다.",
+      "q": "번행초와 쇠비름은 어떻게 구별하나요?"
+    },
+    {
+      "a": "물기를 털어 봉지에 담아 냉장하고 빨리 드세요. 오래 두려면 데쳐서 물기를 짠 뒤 한 번 먹을 만큼씩 나눠 냉동하면 됩니다.",
+      "q": "번행초는 어떻게 보관하나요?"
+    },
+    {
+      "a": "바닷가 모래땅과 해안 언덕처럼 볕이 잘 들고 소금기 있는 곳에서 자라는 염생식물입니다. 씨가 바닷물을 타고 퍼지며, 잎채소로 밭에서 재배하기도 합니다.",
+      "q": "번행초는 어디서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 무치는 나물로 먹고, 시금치 대신 국·볶음·나물밥 등에 넣어 익혀 먹는다.",
+    "eng": "New Zealand spinach",
+    "family": "번행초과(Aizoaceae)",
+    "grade": "줄기 끝의 연한 순과 어린잎이 통통하고 물기가 살아 있는 것이 좋다. 줄기가 굵고 질기거나 잎이 크게 자란 묵은 것은 쓴맛이 돌 수 있다.",
+    "habitat": "바닷가 모래땅과 해안 언덕, 염습지 가장자리처럼 햇볕이 잘 들고 소금기 있는 땅에서 자라는 염생식물이다. 씨가 바닷물을 타고 퍼져 해안에 뿌리를 내리며, 잎채소로 재배하기도 한다.",
+    "look": {
+      "flower": "여름부터 가을까지 잎겨드랑이에 꽃자루가 거의 없는 지름 7mm 안팎의 작은 꽃이 1~2개씩 붙는다. 꽃잎 대신 안쪽이 노르스름한 꽃덮이가 있다.",
+      "fruit": "거꿀달걀(팽이) 모양의 딱딱한 열매로, 윗부분에 뿔 같은 돌기가 2~5개 있고 익어도 벌어지지 않으며 속에 씨가 여러 개 들어 있다.",
+      "leaf": "잎은 어긋나고 1~2cm 잎자루가 있으며, 세모진 달걀 모양으로 두툼한 다육질이다. 털은 없고 표면에 작은 낱알 같은 돌기가 빽빽해 반짝거려 보인다.",
+      "stem": "밑동에서 여러 갈래로 갈라진 줄기가 땅 위로 비스듬히 뻗어 퍼지며 40~80cm쯤 자라고, 밑부분은 다소 단단해진다."
+    },
+    "parts": "어린순과 연한 잎(줄기 끝부분)",
+    "prep": "질긴 줄기와 누런 잎을 떼고 연한 순 끝과 잎만 골라 씻는다. 시금치처럼 옥살산(수산)이 들어 있어 날로 많이 먹기보다 끓는 물에 1분 남짓 데쳐 찬물에 헹군 뒤 쓰는 것이 권장되며, 데친 물은 버린다.",
+    "sci": "Tetragonia tetragonoides (Pall.) Kuntze (T. tetragonioides 로도 표기)",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 — 번행초",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B2%88%ED%96%89%EC%B4%88"
+      },
+      {
+        "title": "농촌진흥청 농사로 RDA인테러뱅 — 바다와 사랑에 빠진 식물: 염생식물의 농업적 가치",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psv/psvr/psvrc/rdaInterDtl.ps?menuId=PS00063&cntntsNo=34331"
+      },
+      {
+        "title": "Flora of New Zealand — Tetragonia tetragonoides 기재문(Allan 1961)",
+        "url": "https://nzflora.info/factsheet/Taxon/Tetragonia-tetragonoides.html"
+      },
+      {
+        "title": "PlantNET(eFlora NSW) — Tetragonia tetragonioides",
+        "url": "https://eflora.sydney.edu.au/taxon/tetragonia-tetragonioides"
+      },
+      {
+        "title": "World Flora Online — Tetragonia tetragonoides (Pall.) Kuntze",
+        "url": "https://www.worldfloraonline.org/taxon/wfo-0000414976"
+      },
+      {
+        "title": "Lincoln University Research Archive — Effect of cooking on the soluble and insoluble oxalate content of some New Zealand foods (2000)",
+        "url": "https://researcharchive.lincoln.ac.nz/entities/publication/7e47bede-9dc7-4b64-90f4-b70342c7af05"
+      },
+      {
+        "title": "Wikipedia — Tetragonia tetragonioides",
+        "url": "https://en.wikipedia.org/wiki/Tetragonia_tetragonioides"
+      }
+    ],
+    "store": "물기를 털어 봉지에 담아 냉장하고 되도록 빨리 먹는다. 오래 두려면 데쳐서 물기를 짠 뒤 한 번 먹을 만큼씩 나눠 냉동한다.",
+    "taste": "맛과 씹는 느낌이 시금치와 비슷하고, 다 자란 묵은 잎은 쓴맛이 돌 수 있다."
+  },
+  "lookSources": [
+    {
+      "title": "위키백과 — 번행초",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%88%ED%96%89%EC%B4%88"
+    },
+    {
+      "title": "위키백과 — 채송화",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B1%84%EC%86%A1%ED%99%94"
+    },
+    {
+      "title": "Mississippi State University Extension — Forgotten Foods: Common Purslane",
+      "url": "https://extension.msstate.edu/publications/forgotten-foods-common-purslane"
+    },
+    {
+      "title": "University of Arizona Extension, Yavapai plants — Portulaca oleracea",
+      "url": "https://yavapaiplants.extension.arizona.edu/portulaca-oleracea"
+    },
+    {
+      "title": "Flora of New Zealand — Tetragonia tetragonoides 기재문(Allan 1961)",
+      "url": "https://nzflora.info/factsheet/Taxon/Tetragonia-tetragonoides.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "쇠비름(Portulaca oleracea, 쇠비름과)도 두툼한 다육질 잎에 노란 꽃이 피고 땅에 깔려 자라 번행초와 헷갈리기 쉽다. 둘 다 나물로 먹지만 다른 식물이다.",
+      "name": "쇠비름",
+      "points": [
+        "잎 모양: 번행초는 잎자루가 있는 세모진 달걀 모양이고, 쇠비름은 잎자루 없이 붙는 끝이 둥근 주걱 모양이다.",
+        "잎 표면: 번행초 잎에는 작은 낱알 같은 돌기가 빽빽하고, 쇠비름 잎은 매끈하게 반질거린다.",
+        "꽃: 쇠비름은 꽃잎 5장짜리 노란 꽃이 아침에 피었다 한낮에 오므라들고, 번행초는 잎겨드랑이에 꽃잎 없는 작은 노르스름한 꽃이 붙는다.",
+        "열매: 번행초 열매는 뿔 돌기가 있는 딱딱한 열매로 벌어지지 않고, 쇠비름 열매는 윗부분이 뚜껑처럼 떨어지며 작은 검은 씨가 나온다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "채송화(Portulaca grandiflora, 쇠비름과)는 화단에 심는 다육성 한해살이 꽃으로, 나물로 먹는다는 근거를 확인하지 못했으므로 섞이지 않게 해야 한다.",
+      "name": "채송화",
+      "points": [
+        "잎: 채송화 잎은 가늘고 긴 막대(선형) 모양이고, 번행초 잎은 넓은 세모진 달걀 모양이다.",
+        "꽃: 채송화는 붉은색·흰색 등 화려한 꽃잎 5장짜리 꽃이 피고, 번행초 꽃은 작고 노르스름해 눈에 잘 띄지 않는다.",
+        "자라는 곳: 채송화는 주로 화단·마당에 심어 기르고, 번행초는 바닷가 모래땅이나 재배 밭에서 난다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "BMC Plant Biology",
+        "note": "번행초의 수분 통로 단백질(아쿠아포린) 유전자들을 분석하고 고염·알칼리·가뭄·고온이 겹친 스트레스에서의 역할을 살펴본 식물 생리 연구로 보인다.",
+        "title": "Molecular characterization of Tetragonia tetragonoides (Pall.) Aquaporin (AQP) members and their roles in the response to combined high salinity-alkalinity-drought and heat stress",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s12870-025-07410-z",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of the Science of Food and Agriculture",
+        "note": "온실에서 소금물 농도와 흙 종류를 달리해 키웠을 때 생육과 잎의 무기질 변화를 비교했으며, 중간 정도 염도에서는 생육이 크게 줄지 않았다고 보고했다.",
+        "title": "Effect of saline irrigation on Tetragonia tetragonioides (Pall.) Kuntze grown on different soil types under greenhouse conditions",
+        "type": "기타",
+        "url": "https://doi.org/10.1002/jsfa.70308",
+        "year": "2025"
+      },
+      {
+        "journal": "Bioscience, Biotechnology, and Biochemistry",
+        "note": "고지방 사료를 먹인 생쥐에게 8주간 번행초 에탄올 추출물을 주고 체중·지방량과 간·지방 조직의 유전자 발현 변화를 살폈다.",
+        "title": "Tetragonia tetragonioides extract prevented high-fat-diet-induced obesity and changed hepatic and adipose transcriptomic signatures in C57BL/6J male mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1093/bbb/zbaf001",
+        "year": "2025"
+      },
+      {
+        "journal": "Horticulturae",
+        "note": "번행초 캘러스(배양 세포 덩어리)를 만들어 페놀·플라보노이드 함량을 온실 재배 잎과 비교한 배양 기술 연구다.",
+        "title": "Exploring the Production of Secondary Metabolites from a Halophyte Tetragonia tetragonoides through Callus Culture",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/horticulturae10030244",
+        "year": "2024"
+      },
+      {
+        "journal": "Fermentation",
+        "note": "고초균으로 발효한 번행초 추출물을 생쥐 대식세포와 사람 피부세포에 처리해 염증·보습 관련 지표 변화를 살폈다.",
+        "title": "Bacillus subtilis Fermentation Augments the Anti-Inflammatory and Skin Moisture Improvement Activities of Tetragonia tetragonoides through the Upregulation of Antioxidant Components",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/fermentation9090800",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 번행초 추출물이 고지방 식이 생쥐의 체중 증가에 미치는 영향을 본 동물 실험, 발효 추출물의 항염·피부 보습 관련 세포 실험, 그리고 염생 채소로서의 재배(염수 관개)·염분 스트레스 반응·캘러스 배양 연구가 중심이다. 최근 3년 안에서 사람 대상 시험은 찾지 못했고, 건강 관련 근거는 동물·세포 실험 수준이다."
+  },
+  "name": "번행초",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "농촌진흥청 농사로 RDA인테러뱅 — 바다와 사랑에 빠진 식물: 염생식물의 농업적 가치",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psv/psvr/psvrc/rdaInterDtl.ps?menuId=PS00063&cntntsNo=34331"
+      }
+    ],
+    "text": "농촌진흥청 농사로 자료는 번행초를 나물로도 먹지만 그보다 약초로 더 자주 써 온 염생식물로 소개한다. 같은 자료는 『중약대사전』과 『한국본초도감』을 인용해 위장병, 빈혈, 허약 체질, 소화불량 등에 쓰였다고 적었다."
+  },
+  "updatedAt": 1792616180342
+}

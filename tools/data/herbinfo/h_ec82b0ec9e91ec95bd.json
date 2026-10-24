@@ -1,0 +1,198 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "(원문 미대조) 2차 자료에 따르면 『동의보감』은 작약(芍藥)의 성질을 평하면서 약간 차다고 보았고, 간을 돕고 속을 누그러뜨리는 데 쓴다고 적었다고 한다.",
+      "백작약과 감초를 함께 달이는 작약감초탕이 소개되어 있다고 전한다.",
+      "옛 본초서들은 흰 작약(백작)과 붉은 작약(적작)을 쓰임에 따라 나누었는데, 그 기준은 꽃 색이 아니라 뿌리를 잘랐을 때의 색이었다고 풀이된다."
+    ],
+    "han": "芍藥",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 작약 (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=65958"
+      }
+    ],
+    "verified": false,
+    "warn": "원문을 직접 대조하지 못했다. 고서의 작약 기록은 약재 전반에 대한 것이며, 산작약은 지금 멸종위기 야생생물이라 자생 개체를 약재로 캐면 안 된다."
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 산작약은 멸종위기 야생생물 Ⅱ급이라 허가 없이 채취·훼손·거래할 수 없으며, 이 마켓에서도 자생 산작약은 다루지 않는 것이 맞습니다.",
+      "q": "산작약을 캐거나 사고팔아도 되나요?"
+    },
+    {
+      "a": "꽃 색으로 구별합니다. 산작약은 연분홍~홍색, 백작약은 흰색 꽃이 피고, 둘 다 꽃이 활짝 벌어지지 않습니다.",
+      "q": "산작약과 백작약은 어떻게 구별하나요?"
+    },
+    {
+      "a": "5월 하순~6월 초에 피고, 한 송이가 3~4일 정도로 짧게 핍니다.",
+      "q": "산작약 꽃은 언제 피나요?"
+    },
+    {
+      "a": "사진만 찍고 그대로 둡니다. 채취와 무분별한 탐방이 가장 큰 위협이어서 캐거나 옮겨 심지 않습니다.",
+      "q": "산에서 산작약을 발견하면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Woodland peony",
+    "family": "작약과",
+    "grade": "",
+    "habitat": "강원도 석회암 지대 산지를 중심으로 경기·충북 일부에서 자라며, 2022년 경북 영양에서도 새 자생지가 확인되었다. 지리산·내장산 등 여러 국립공원에도 분포한다. 낙엽활엽수림이나 혼효림 아래 반그늘의 습한 땅에 사는 북방계 식물이다. 환경부 지정 멸종위기 야생생물 Ⅱ급(국가적색목록 위기 EN)이어서 허가 없이 채취·훼손할 수 없다.",
+    "look": {
+      "flower": "줄기 끝에 둥근 꽃이 한 송이씩 피며 꽃잎 5~7장이 연분홍~홍색이다. 꽃이 완전히 벌어지지 않고 살짝만 열리며 한 송이가 3~4일 정도 간다. 꽃 지름은 자료에 따라 5cm 안팎에서 7~10cm까지 다르게 적혀 있다.",
+      "fruit": "열매는 골돌로 끝에 갈고리처럼 굽은 암술대가 남고, 씨는 여름에 검게 익는다.",
+      "leaf": "줄기에 잎이 3~4장 어긋나게 달리고, 작은잎은 거꿀달걀꼴로 가장자리가 밋밋하다. 앞면은 녹색, 뒷면은 연한 녹색이며 뒷면에 털이 있는 것이 많고 털이 없는 것은 민산작약이라 부른다.",
+      "root": "뿌리는 길고 여러 갈래로 갈라진다.",
+      "stem": "높이 40~70cm로 곧게 선다."
+    },
+    "parts": "",
+    "prep": "멸종위기 야생생물이라 자생 개체를 캐거나 거래하면 안 되며, 먹는 용도로 손질하는 방법은 다루지 않는다.",
+    "sci": "Paeonia obovata Maxim.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "뉴스펭귄 [식물의 육하원칙] - 산작약 (2025, 국립생태원 자료 인용)",
+        "url": "https://www.newspenguin.com/news/curationView.html?idxno=20755"
+      },
+      {
+        "title": "브라보마이라이프 - 산작약",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/11880"
+      },
+      {
+        "title": "논객닷컴 [김인철의 들꽃여행] - 산작약",
+        "url": "http://www.nongaek.com/news/articleView.html?idxno=56716"
+      },
+      {
+        "title": "산림청 임산물 재배기술 자료 - 작약(국내 작약속 식물·희귀식물 지정 정보 포함)",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_07.pdf"
+      },
+      {
+        "title": "국립공원연구지 - 한국 국립공원의 멸종위기식물 분포에 관한 연구 (2012)",
+        "url": "https://www.earticle.net/Article/A190439"
+      },
+      {
+        "title": "비즈한국 [들꽃나들이] - 백작약 (2017)",
+        "url": "https://bizhankook.com/articles/13400.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "뉴스펭귄 [식물의 육하원칙] - 산작약 (2025, 국립생태원 자료 인용)",
+      "url": "https://www.newspenguin.com/news/curationView.html?idxno=20755"
+    },
+    {
+      "title": "브라보마이라이프 - 산작약",
+      "url": "https://bravo.etoday.co.kr/view/atc_view/11880"
+    },
+    {
+      "title": "논객닷컴 [김인철의 들꽃여행] - 산작약",
+      "url": "http://www.nongaek.com/news/articleView.html?idxno=56716"
+    },
+    {
+      "title": "비즈한국 [들꽃나들이] - 백작약 (2017)",
+      "url": "https://bizhankook.com/articles/13400.html"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 작약",
+      "url": "https://encykorea.aks.ac.kr/Article/E0048142"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 작약속 자생종으로 잎과 꽃 모양이 비슷하지만 꽃이 흰색이다. 희귀식물이라 역시 자생지에서 캐지 않는다.",
+      "name": "백작약",
+      "points": [
+        "산작약 꽃은 연분홍~홍색, 백작약 꽃은 흰색이다.",
+        "백작약은 산작약보다 꽃이 조금 일찍 피고 꽃자루가 짧은 편이라고 소개된다.",
+        "백작약 잎 뒷면은 흰빛이 돌고 털이 없는 것이 보통이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "밭·화단에서 기르는 재배 작약으로, 붉은 꽃 품종이 산작약과 헷갈릴 수 있다. 시중 작약 모종·약재는 재배품이다.",
+      "name": "작약",
+      "points": [
+        "재배 작약은 꽃이 활짝 벌어지고 겹꽃 품종도 있으나, 산작약은 홑꽃이 살짝만 벌어진다.",
+        "재배 작약은 작은잎이 피침형~타원형으로 갸름하고 잎자루·잎맥이 붉은빛을 띠며, 산작약 작은잎은 끝이 넓은 거꿀달걀꼴이다.",
+        "산에서 붉은 작약 같은 꽃을 보면 산작약일 수 있으니 캐거나 옮겨 심지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "작약속 식물로 대개 흰 꽃(아주 연한 분홍도 있음)이 피어 산작약과 꽃 색으로 구별된다.",
+      "name": "참작약",
+      "points": [
+        "참작약은 한 줄기에 꽃이 여러 송이 달리는 경우가 많고, 산작약은 줄기 끝에 한 송이다.",
+        "참작약 꽃은 향기가 있다고 소개된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Medicinal Plant Biology",
+        "note": "작약속 식물 전체의 전통적 쓰임과 주요 성분·약리 연구를 정리한 리뷰로, 이 종만 따로 다룬 연구는 아니다.",
+        "title": "From traditional materia medica to modern drugs: a review of the chemistry, pharmacology, and exploitation of the genus Paeonia",
+        "type": "리뷰",
+        "url": "https://doi.org/10.48130/mpb-0026-0004",
+        "year": "2026"
+      },
+      {
+        "journal": "Bangladesh Journal of Pharmacology",
+        "note": "산작약에서 분리한 트리터페노이드 성분이 높은 농도에서 대장암 세포의 증식을 억제하는지 세포 수준에서만 살폈다.",
+        "title": "Cytotoxicity of paeonenoide C isolated from Paeonia obovata on HT-29 human colon cancer cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3329/bjp.v20i1.78798",
+        "year": "2025"
+      },
+      {
+        "journal": "Horticulturae",
+        "note": "서시베리아에 옮겨 심은 산작약의 계절별 생육과 잎·뿌리줄기 성분 함량을 비교한 재배 연구다.",
+        "title": "Seasonal Development of Paeonia obovata and Paeonia oreogeton and Their Contents of Biologically Active and Reserve Substances in the Forest-Steppe Zone of Western Siberia",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/horticulturae9010102",
+        "year": "2023"
+      }
+    ],
+    "summary": "산작약을 다룬 최근 연구는 많지 않다. 추출물에서 분리한 성분을 대장암 세포에 처리한 세포 실험과, 재배지에서의 생육·성분 변화를 본 재배 연구가 있으며, 사람 대상 근거는 확인되지 않았다."
+  },
+  "name": "산작약",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "뉴스펭귄 [식물의 육하원칙] - 산작약 (2025, 국립생태원 자료 인용)",
+        "url": "https://www.newspenguin.com/news/curationView.html?idxno=20755"
+      },
+      {
+        "title": "푸드투데이 - 제대로 알고 먹는 약재 상식: 백작약",
+        "url": "https://foodtoday.or.kr/news/article.html?no=105882"
+      },
+      {
+        "title": "브라보마이라이프 - 산작약",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/11880"
+      }
+    ],
+    "text": "산작약 뿌리는 개삼·산백작약·야작약 같은 이름으로 불리며 약재로 쓰였고, 백작약·재배 작약 뿌리와 함께 작약 약재로 다뤄졌다고 소개된다. 다만 약초꾼들 사이에서는 백작약보다 약효가 덜하다고 여겨졌다는 이야기도 전한다."
+  },
+  "updatedAt": 1792745954823
+}

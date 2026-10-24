@@ -1,0 +1,172 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요합니다. 공공 자료에 어린잎을 먹는다는 기록과 열매를 한방 약재로 쓴다는 기록은 있지만, 식약처 식품원료 목록상 사용 가능 여부는 이번에 확인하지 못했으니 임의로 드시지 마세요.",
+      "q": "닥나무 열매나 잎을 먹어도 되나요?"
+    },
+    {
+      "a": "꽃과 잎자루를 봅니다. 닥나무는 암수한그루에 수꽃차례가 공 모양이고 잎자루가 1~2.5cm로 짧으며, 꾸지나무는 암수딴그루에 수꽃차례가 2~9cm의 긴 원통형이고 잎자루가 2~10cm로 깁니다. 다만 국내 닥나무는 꾸지나무와의 교잡종이 많아 중간 형태도 있습니다.",
+      "q": "닥나무와 꾸지나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "열매 모양과 잎 표면을 봅니다. 닥나무 열매는 둥글고 잎 표면이 털로 다소 거칠며, 뽕나무 열매(오디)는 긴 타원형이고 잎 윗면이 매끈합니다.",
+      "q": "닥나무와 뽕나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "5~6월에 잎과 함께 핍니다. 한 그루에 암꽃과 수꽃이 함께 달립니다.",
+      "q": "닥나무 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Paper mulberry",
+    "family": "뽕나무과",
+    "grade": "",
+    "habitat": "전국에 분포하며 특히 경상도·전라도에 많이 심는다. 산비탈, 밭둑, 길가 등 양지바른 곳에 심어 기르며 거름을 적게 줘도 잘 자란다.",
+    "look": {
+      "flower": "암수한그루로 잎과 함께 꽃이 핀다. 수꽃차례는 지름 약 1.5cm의 공 모양이고, 암꽃차례는 둥글다.",
+      "fruit": "열매는 지름 1cm 안팎의 둥근 모양으로, 붉게 익으며 딸기처럼 보인다.",
+      "leaf": "잎은 어긋나고 길이 5~20cm의 달걀꼴로, 가장자리에 날카로운 톱니가 있으며 3~5갈래로 갈라지기도 한다. 표면은 털 때문에 다소 거칠고, 잎자루는 1~2.5cm로 짧은 편이다.",
+      "root": "뿌리는 깊게 뻗는다.",
+      "stem": "높이 2~3m 정도의 낙엽 떨기나무다. 어린 가지는 갈색~자줏빛이고 짧은 털이 있다가 곧 떨어진다."
+    },
+    "parts": "나무껍질(한지 원료), 열매(한약재로 쓰임), 어린잎. 어떤 부위든 식품 원료로 쓸 수 있는지 확인이 필요하다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요하다. 공공 자료에 어린잎을 먹는다는 기록이 있으나 손질법은 확인하지 못했으므로 임의로 먹지 않는다. 열매는 한방에서 약재로 쓰인 기록이 있다.",
+    "sci": "Broussonetia kazinoki Siebold",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "생명연구자원정보센터(BRIS) 한국토종작물 도감 - 닥나무",
+        "url": "https://www.bris.go.kr/portal/book/nativeCropsDetailPopup.do?menuId=81&pMenuId=67&biorsrcMngNo=MANUIP3300300007"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 닥나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013501"
+      },
+      {
+        "title": "한국의 수목(Flora Korea) - 닥나무속(Broussonetia) 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5415/descriptions"
+      },
+      {
+        "title": "Trees and Shrubs Online - Broussonetia × kazinoki",
+        "url": "https://www.treesandshrubsonline.org/articles/broussonetia/broussonetia-x-kazinoki/"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora Korea) - 닥나무속(Broussonetia) 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5415/descriptions"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 뽕나무과 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5414"
+    },
+    {
+      "title": "고인희 외, 경상도지역 닥나무의 수목학 및 분자계통학적 연구 (2019 한국자원식물학회 춘계학술대회)",
+      "url": "https://koreascience.kr/article/CFKO201921956453517.pdf"
+    },
+    {
+      "title": "Trees and Shrubs Online - Broussonetia × kazinoki",
+      "url": "https://www.treesandshrubsonline.org/articles/broussonetia/broussonetia-x-kazinoki/"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 꾸지뽕나무(Maclura tricuspidata)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5423"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 닥나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013501"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "꾸지나무(Broussonetia papyrifera)는 같은 닥나무속으로 잎 모양이 비슷하고 둘 다 한지 원료로 쓰여 혼동이 잦다. 국내 연구에서는 경상도 닥나무 시료가 모두 닥나무와 꾸지나무의 교잡종으로 확인될 만큼 형태만으로는 구별이 어려울 때가 있다.",
+      "name": "꾸지나무",
+      "points": [
+        "닥나무는 암수한그루, 꾸지나무는 암수딴그루다.",
+        "닥나무 수꽃차례는 지름 약 1.5cm의 공 모양이고, 꾸지나무 수꽃차례는 2~9cm의 긴 원통형이다.",
+        "닥나무 잎자루는 1~2.5cm로 짧고, 꾸지나무 잎자루는 2~10cm로 길다.",
+        "꾸지나무는 어린 가지와 잎자루에 억센 털이 많고, 닥나무는 털이 점차 떨어진다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "뽕나무(Morus alba)는 같은 뽕나무과로 잎이 갈라지고 톱니가 있어 닥나무와 비슷하다. 뽕잎·오디로 팔리는 것에 닥나무가 섞이지 않았는지 열매와 잎 표면으로 확인한다.",
+      "name": "뽕나무",
+      "points": [
+        "닥나무 열매는 둥글고, 오디는 긴 타원형이다.",
+        "닥나무속 잎은 털 때문에 표면이 다소 거칠고, 뽕나무 잎은 윗면이 매끈하다.",
+        "닥나무속 겨울눈의 눈비늘은 2~3개, 뽕나무속은 3~6개다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "꾸지뽕나무(Maclura tricuspidata)는 같은 뽕나무과로 둥글고 붉은 열매가 달려 닥나무와 헷갈릴 수 있다. 가시와 잎 가장자리로 구별한다.",
+      "name": "꾸지뽕",
+      "points": [
+        "꾸지뽕나무는 가지에 가시가 있고, 닥나무는 가시가 없다.",
+        "꾸지뽕나무 잎은 가장자리에 톱니가 없고, 닥나무 잎은 톱니가 있다.",
+        "꾸지뽕 열매는 지름 2~3cm로 닥나무 열매(약 1cm)보다 크다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomaterials Research",
+        "note": "닥나무를 가루로 만들어 실크 단백질과 섞은 뼈 재생용 지지체를 쥐의 머리뼈 결손에 넣어 본 연구로, 닥나무는 칼슘 공급원 재료로 쓰였으며 먹는 것과는 관계없다.",
+        "title": "A Novel Strategy to Enhance the Bone Healing Efficacy of Composite Scaffolds via Induction of Cell Recruitment and Vascularization",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.34133/bmr.0185",
+        "year": "2025"
+      },
+      {
+        "journal": "Ecology and Evolution",
+        "note": "일본에서 재배하는 닥나무(Broussonetia × kazinoki)를 교잡종으로 보고 품종·지역별 유전 다양성과 기원을 분석한 연구다.",
+        "title": "Genetic Diversity on Farm in Japanese Paper Mulberry",
+        "type": "기타",
+        "url": "https://doi.org/10.1002/ece3.70828",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceutical Biology",
+        "note": "닥나무 뿌리에서 얻은 성분 카지놀 B가 산소 부족 후 재공급 손상을 준 쥐 심근세포에서 세포 손상 지표를 줄였다는 세포 실험이다.",
+        "title": "Kazinol B protects H9c2 cardiomyocytes from hypoxia/reoxygenation-induced cardiac injury by modulating the AKT/AMPK/Nrf2 signalling pathway",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/13880209.2023.2173247",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2026년 닥나무 연구는 뿌리 성분(카지놀 B)을 이용한 세포 실험, 닥나무 가루를 뼈 재생 지지체 재료로 쓴 동물 실험, 일본 닥나무(교잡종)의 유전 다양성 분석 정도이며, 먹는 것과 관련된 사람 대상 연구는 찾지 못했다. 최근 분자 연구에서는 재배 닥나무가 꾸지나무 계통과의 교잡종으로 보고되고 있다."
+  },
+  "name": "닥나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 닥나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013501"
+      },
+      {
+        "title": "생명연구자원정보센터(BRIS) 한국토종작물 도감 - 닥나무",
+        "url": "https://www.bris.go.kr/portal/book/nativeCropsDetailPopup.do?menuId=81&pMenuId=67&biorsrcMngNo=MANUIP3300300007"
+      }
+    ],
+    "text": "닥나무 속껍질 섬유는 고려 때부터 한지의 주원료로 쓰였고, 조선 시대에는 나라에서 집집마다 닥나무를 심도록 하고 『경국대전』에 닥나무밭 관리 규정을 두었다. 옛날에는 껍질로 저포라는 천을 짜기도 했다. 열매는 한방에서 기력이 떨어지거나 몸이 붓는 데 약재로 쓰였다고 기록되어 있다."
+  },
+  "updatedAt": 1792789248966
+}

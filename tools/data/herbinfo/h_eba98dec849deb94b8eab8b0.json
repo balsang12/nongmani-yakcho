@@ -1,0 +1,190 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "열매는 7~8월에 붉게 익습니다. 꽃은 5~6월에 핍니다.",
+      "q": "멍석딸기는 언제 따나요?"
+    },
+    {
+      "a": "작은잎이 3~5장으로 둥글고 잎 뒷면이 흰 털로 희게 보이는 것이 특징입니다. 줄기가 땅을 따라 멍석처럼 퍼지고, 붉은 꽃잎이 꽃받침보다 짧아 오므린 듯 핍니다.",
+      "q": "멍석딸기는 어떻게 알아보나요?"
+    },
+    {
+      "a": "아닙니다. 약재 '복분자'는 복분자딸기의 덜 익은 열매를 말하고, 멍석딸기 열매는 여기에 쓰이지 않습니다. 복분자딸기 열매는 검게 익고 멍석딸기 열매는 붉게 익습니다.",
+      "q": "멍석딸기 열매가 복분자인가요?"
+    },
+    {
+      "a": "뱀딸기는 노란 꽃이 피는 키 작은 풀이고, 멍석딸기는 가시가 있는 떨기나무로 붉은 꽃이 핍니다. 뱀딸기 열매는 겉에 씨가 박힌 딸기 모양이고 맛이 싱겁습니다.",
+      "q": "뱀딸기와 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "한반도 전역의 산기슭 이하 낮은 곳에 자란다. 중국·일본에도 널리 분포한다.",
+    "look": {
+      "flower": "5~6월에 붉은 꽃이 위를 향해 피며, 꽃잎이 꽃받침보다 짧다.",
+      "fruit": "둥근 열매가 7~8월에 붉게 익는다.",
+      "leaf": "작은잎 3~5장으로 된 겹잎이며 작은잎은 둥근 편이다. 잎 앞면에 잔털이 있고 뒷면은 흰 털이 빽빽하다.",
+      "stem": "처음엔 곧게 서는 듯하다가 옆으로 뻗고, 가지 끝이 땅에 닿아 뿌리를 내리며 멍석처럼 퍼진다. 어린 가지에 짧은 바늘 같은 가시와 털이 있다."
+    },
+    "parts": "익은 열매",
+    "prep": "열매가 무르기 쉬우므로 먹기 직전에 흐르는 물에 살살 헹군다.",
+    "sci": "Rubus parvifolius L.",
+    "season": {
+      "collect": [
+        7,
+        8
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 멍석딸기",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5604"
+      },
+      {
+        "title": "Flora of Korea(국립생물자원관 한반도 식물지) - 산딸기속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea(국립생물자원관 한반도 식물지) - 산딸기속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+    },
+    {
+      "title": "Flora of Korea - 줄딸기 기재문",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5602/descriptions"
+    },
+    {
+      "title": "Flora of Korea - 복분자딸기",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5596"
+    },
+    {
+      "title": "Flora of Korea - 산딸기",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5597"
+    },
+    {
+      "title": "NC State Extension Plant Toolbox - Potentilla indica(뱀딸기)",
+      "url": "https://plants.ces.ncsu.edu/plants/potentilla-indica"
+    },
+    {
+      "title": "Quantification of Antidepressant Miquelianin in Mature and Immature Fruits of Korean Rubus Species (Natural Product Sciences, 2014)",
+      "url": "https://koreascience.kr/article/JAKO201402852974818.do"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "줄딸기(Rubus pungens var. oldhamii)는 작은잎이 5~9장(흔히 7장)인 깃꼴겹잎이고 4~5월에 꽃이 핀다.",
+      "name": "줄딸기",
+      "points": [
+        "줄딸기 작은잎은 5~9장으로 멍석딸기(3~5장)보다 많다.",
+        "줄딸기는 덩굴처럼 옆으로 2m 넘게 뻗고 줄기에 흰 가루가 덮이기도 한다.",
+        "줄딸기 꽃은 연한 붉은색(가끔 흰색)이며 꽃자루와 꽃받침에 가시가 있다.",
+        "줄딸기는 4~5월, 멍석딸기는 5~6월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "복분자딸기(Rubus coreanus)는 줄기가 곧게 자라다 휘고 흰 가루가 덮이며, 열매가 붉었다가 검게 익는다. 생약 '복분자'는 복분자딸기의 덜 익은 열매를 말한다.",
+      "name": "복분자",
+      "points": [
+        "복분자딸기의 어린 줄기는 자줏빛 붉은색에 흰 가루가 덮여 있다.",
+        "복분자딸기 작은잎은 보통 5장(가끔 7장)이고 가시는 갈고리 모양이다.",
+        "복분자딸기 열매는 붉다가 다 익으면 검은색이 되고, 줄딸기·멍석딸기 열매는 붉은색으로 익는다.",
+        "복분자딸기는 5~6월에 연한 붉은 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "산딸기(Rubus crataegifolius)는 잎이 겹잎이 아닌 홑잎(3~5갈래로 갈라짐)이고 흰 꽃이 피는 곧선 떨기나무다.",
+      "name": "산딸기",
+      "points": [
+        "산딸기 잎은 한 장짜리 잎이 손바닥처럼 3~5갈래로 갈라지고, 줄딸기·멍석딸기는 작은잎 여러 장으로 된 겹잎이다.",
+        "산딸기 꽃은 흰색이고 6월경 핀다.",
+        "산딸기는 줄기가 곧게 서서 2m 정도 자라고 뿌리에서 새순을 내어 무리를 이룬다.",
+        "산딸기 열매는 약간 노란빛이 도는 붉은색이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "뱀딸기(Potentilla indica, 이전 학명 Duchesnea indica)는 나무가 아닌 키 작은 풀로, 노란 꽃이 피고 딸기 모양 붉은 열매를 맺지만 맛이 싱겁고 퍼석하다.",
+      "name": "뱀딸기",
+      "points": [
+        "뱀딸기는 땅을 기는 풀이라 가시 있는 나무줄기가 없다.",
+        "뱀딸기 꽃은 노란색 다섯잎 꽃이고, 산딸기속 식물 꽃은 붉거나 흰색이다.",
+        "뱀딸기 열매는 겉에 작은 씨가 박힌 딸기 모양이고, 산딸기속 열매는 작은 알갱이가 모인 모양이다.",
+        "뱀딸기 잎은 작은잎 3장짜리 겹잎이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Life",
+        "note": "멍석딸기 잎 추출물이 염증을 일으킨 피부각질세포(HaCaT)에서 염증성 사이토카인·케모카인 분비를 줄였다고 보고했으며, 동물·사람에서는 확인되지 않았다.",
+        "title": "Phytochemical Profiling and Anti-Inflammatory Activity of Rubus parvifolius Leaf Extract in an Atopic Dermatitis Model",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/2075-1729/15/9/1383",
+        "year": "2025"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "국내 산딸기속 15개 자원의 열매를 비교한 시험관 분석으로, 멍석딸기 열매는 페놀·플라보노이드 함량은 낮았으나 슈퍼옥사이드 소거능은 가장 높게 나타났다.",
+        "title": "Evaluation of Anthocyanin Profiling, Total Phenolic and Flavonoid Content, and Antioxidant Activity of Korean Rubus Accessions for Functional Food Applications and Breeding",
+        "type": "기타",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12382936",
+        "year": "2025"
+      },
+      {
+        "journal": "药物评价研究 (Drug Evaluation Research)",
+        "note": "멍석딸기 추출물의 약리 연구(주로 항종양, 그 밖에 항산화·간 보호·항염 등)를 정리한 중국어 총설로, 대부분 실험실·동물 연구다.",
+        "title": "茅莓提取物及有效部位的药理作用研究进展 (Research progress on pharmacological effects of extracts and effective parts of Rubus parvifolius)",
+        "type": "리뷰",
+        "url": "https://www.tiprpress.com/ywpjyj/article/abstract/20240425",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 세포 실험과 시험관 분석 수준이며, 사람 대상 연구는 찾지 못함. 잎 추출물의 항염 반응(세포), 열매의 항산화능 비교(시험관), 추출물 약리 연구 총설이 있다."
+  },
+  "name": "멍석딸기",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Life 2025 - Phytochemical Profiling and Anti-Inflammatory Activity of Rubus parvifolius Leaf Extract",
+        "url": "https://www.mdpi.com/2075-1729/15/9/1383"
+      },
+      {
+        "title": "药物评价研究 2024 - 茅莓提取物及有效部位的药理作用研究进展",
+        "url": "https://www.tiprpress.com/ywpjyj/article/abstract/20240425"
+      }
+    ],
+    "text": "2025년 논문 서론에 따르면 멍석딸기는 동아시아에서 전통적으로 염증 관련 증상에 쓰였다고 한다. 중국에서는 '茅莓(모매)'라는 이름으로 추출물의 약리 연구가 이어지고 있다."
+  },
+  "updatedAt": 1792832316687
+}

@@ -1,0 +1,164 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "營實",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "찔레 열매는 10월에 붉게 익습니다. 꽃은 5월에 피고, 지름 8mm 정도의 둥근 열매가 가을에 달립니다.",
+      "q": "찔레 열매는 언제 따나요?"
+    },
+    {
+      "a": "꽃과 열매 크기로 쉽게 구별됩니다. 찔레는 흰색·연분홍의 2cm 남짓한 꽃이 여러 송이 모여 피고 열매가 8mm 정도로 작지만, 해당화는 6cm가 넘는 붉은 자주색 꽃에 2cm가 넘는 큰 열매가 달리고 잎에 주름이 많습니다.",
+      "q": "찔레와 해당화는 어떻게 구별하나요?"
+    },
+    {
+      "a": "새로 올라온 굵은 순의 껍질을 벗겨 날로 먹었다는 기록이 있습니다. 다만 찔레의 식품원료 허용 부위는 확인되지 않았으므로 판매용으로 쓰려면 식약처 식품원료목록을 먼저 확인하세요.",
+      "q": "찔레순은 어떻게 먹나요?"
+    },
+    {
+      "a": "영실은 찔레 열매를 약재로 부르는 이름입니다. 한방에서 약재로 써 왔습니다.",
+      "q": "영실은 무엇인가요?"
+    }
+  ],
+  "id": {
+    "eat": "봄에 올라온 연한 순의 껍질을 벗겨 날로 먹었다고 전한다. 열매는 한방에서 약재(영실)로 쓰인다.",
+    "eng": "Multiflora rose",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "햇볕이 잘 드는 곳이나 물가에 자라며, 함경북도를 뺀 전국에 분포한다.",
+    "look": {
+      "flower": "5월에 새 가지 끝에 지름 2cm 정도의 흰색 또는 연분홍 꽃이 원뿔 모양으로 여러 송이 모여 핀다.",
+      "fruit": "지름 8mm 정도의 둥근 열매가 10월에 붉게 익으며, 열매 끝에 꽃받침이 남지 않는다.",
+      "leaf": "깃꼴겹잎이 어긋나며 작은잎은 5~9장, 길이 2~5cm의 타원형이고 가장자리에 잔톱니가 있다. 잎자루 밑의 턱잎이 빗살처럼 잘게 갈라지는 것이 특징이다.",
+      "smell": "꽃에 향기가 있다.",
+      "stem": "높이 2m 안팎의 낙엽 떨기나무로 가지 끝이 아래로 처지고, 줄기에 2~7mm 길이의 가시가 있다."
+    },
+    "parts": "열매(약재명 영실), 꽃, 새로 올라온 연한 순. 식약처 식품원료목록·식품공전에서 찔레(찔레나무)의 식품원료 등재 여부와 허용 부위는 이번 조사에서 확인하지 못했음(미확인).",
+    "prep": "식품원료 사용 가능 여부가 확인되지 않았으므로 판매·가공 전 식약처 식품원료목록에서 허용 부위를 확인해야 한다. 새로 나온 굵은 순은 껍질을 벗겨 먹었다는 기록이 있다.",
+    "sci": "Rosa multiflora Thunb.",
+    "season": {
+      "collect": [
+        10
+      ],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한반도의 식물 - 찔레꽃(Rosa multiflora)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5586"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 찔레나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055113"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한반도의 식물 - 장미속 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5581"
+    },
+    {
+      "title": "한반도의 식물 - 해당화(Rosa rugosa)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5587"
+    },
+    {
+      "title": "한반도의 식물 - Rosa lucieae",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5589"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 찔레나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055113"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "해당화(Rosa rugosa)는 바닷가에 자라며 꽃과 열매가 훨씬 크고 잎에 주름이 많다.",
+      "name": "해당화",
+      "points": [
+        "해당화 꽃은 지름 6~9cm의 붉은 자주색이고, 찔레 꽃은 지름 2cm 정도의 흰색·연분홍이다.",
+        "해당화 잎은 두껍고 겉면에 주름이 많지만 찔레 잎은 주름이 없다.",
+        "해당화 열매는 지름 2~2.5cm로 크고 끝에 꽃받침이 남지만, 찔레 열매는 지름 8mm 정도로 작고 꽃받침이 없다.",
+        "해당화는 주로 바닷가에, 찔레는 내륙 양지와 물가에 흔하다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "Rosa lucieae. 남해안 바닷가에 자라며 줄기가 땅을 기고 잎에 윤기가 난다(한반도의 식물 자료에는 '제주찔레'로 실림).",
+      "name": "돌가시나무",
+      "points": [
+        "돌가시나무는 줄기가 땅 위를 기며 뻗고, 찔레는 곧추서거나 비스듬히 서고 가지 끝이 처진다.",
+        "돌가시나무 잎은 양면에 털이 없고 반질반질 윤이 나며 작은잎이 1~2.5cm로 작다.",
+        "돌가시나무 턱잎에는 톱니가 거의 없고, 찔레 턱잎은 빗살처럼 갈라진다.",
+        "돌가시나무 꽃은 지름 3cm 안팎으로 찔레(2cm)보다 크다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "찔레와 섞여 자라는 일이 있으며 줄기가 옆으로 기고 가시와 샘털이 있다.",
+      "name": "왕가시나무",
+      "points": [
+        "줄기가 옆으로 기어 자라면 왕가시나무를 의심한다.",
+        "줄기에 가시와 함께 샘털이 있는지 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomedicine & Pharmacotherapy",
+        "note": "찔레 열매 추출물이 스트레스 호르몬을 투여한 생쥐의 우울 유사 행동을 줄였다고 보고했다.",
+        "title": "Rosa multiflora fructus and its active compound ellagic acid improve depressive-like behaviors in mice via monoamine oxidase inhibition",
+        "type": "동물 실험",
+        "url": "https://www.em-consulte.com/article/1747184/rosa-multiflora-fructus-and-its-active-compound-el",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Veterinary Science",
+        "note": "아토피 피부염을 유발한 비글 8마리에서 열매 추출물 경구 투여 후 피부 병변 점수 등이 낮아졌다고 보고했다.",
+        "title": "Oral treatment with Rosa multiflora fructus extract modulates mast cells in canine atopic dermatitis",
+        "type": "동물 실험",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016883",
+        "year": "2025"
+      },
+      {
+        "journal": "BMC Complementary Medicine and Therapies",
+        "note": "찔레의 변종(var. platyphylla) 꽃잎 추출물을 과체중 성인 70명에게 12주간 주었을 때 위약군보다 체지방이 줄었다고 보고했다(야생 찔레 열매가 아닌 변종 꽃잎 추출물 연구).",
+        "title": "A polyphenol fraction from Rosa multiflora var. platyphylala reduces body fat in overweight humans through appetite suppression – a randomized, double-blind, placebo-controlled trial",
+        "type": "사람 대상",
+        "url": "https://bmccomplementmedtherapies.biomedcentral.com/articles/10.1186/s12906-024-04487-1",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 대부분 동물 실험 단계이며, 사람 대상 연구는 찔레의 변종 꽃잎 추출물로 한 임상시험 1건을 찾았다. 열매 추출물은 개·생쥐 실험에서 피부염·우울 유사 행동 지표 변화가 보고되었으나 사람에게서 확인된 것은 아니다."
+  },
+  "name": "찔레",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 찔레나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055113"
+      }
+    ],
+    "text": "찔레 열매는 한방에서 약재로 써 왔으며, 성질은 서늘하고 맛은 시고 달다고 정리되어 있다. 소변이 잘 나오지 않을 때, 붓기, 월경 관련 증상, 변비, 종기 등에 썼다고 적혀 있다. 봄의 굵은 새순은 껍질을 벗겨 날로 먹기도 했다."
+  },
+  "updatedAt": 1792832316687
+}

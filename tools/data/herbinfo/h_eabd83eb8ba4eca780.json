@@ -1,0 +1,123 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "꽃 색과 잎 모양으로 구별합니다. 꽃다지는 노란 꽃에 갈라지지 않은 주걱 모양 털 많은 잎이고, 냉이는 흰 꽃에 새털처럼 갈라진 잎이며 희고 곧은 뿌리가 깁니다.",
+      "q": "꽃다지와 냉이는 어떻게 구별하나요?"
+    },
+    {
+      "a": "어린순을 나물로 먹습니다. 씨는 정력자라는 생약명으로 따로 쓰이던 부위입니다.",
+      "q": "꽃다지는 어느 부위를 먹나요?"
+    },
+    {
+      "a": "4~6월에 노란 꽃이 핍니다. 열매는 여름에 익습니다.",
+      "q": "꽃다지는 언제 꽃이 피나요?"
+    },
+    {
+      "a": "줄기를 잘라 보면 됩니다. 애기똥풀은 주황빛 노란 즙이 나오고 잎이 깃 모양으로 깊게 갈라지며 키도 30~80cm로 큽니다. 애기똥풀은 식품으로 쓸 수 없습니다.",
+      "q": "노란 꽃이 비슷한 애기똥풀과는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 나물로 먹는다.",
+    "eng": "",
+    "family": "십자화과(Brassicaceae)",
+    "grade": "",
+    "habitat": "밭, 마른 논, 습한 곳 등 들에서 자라는 두해살이풀이며, 봄부터 초여름까지 자란다.",
+    "look": {
+      "flower": "4~6월에 노란 꽃이 많이 달린다.",
+      "fruit": "납작한 긴 타원형 열매로 길이 5~8mm이다. 여름에 익는다.",
+      "leaf": "뿌리에서 나온 잎이 많이 모여 땅바닥에 방석처럼 퍼진다. 잎은 길이 2~4cm의 주걱 모양 긴 타원형이고 가장자리에 자잘한 톱니가 조금 있다.",
+      "stem": "키는 20cm 안팎이고 가지가 잘 갈라지며, 줄기와 잎에 잔털이 빽빽하다."
+    },
+    "parts": "어린순",
+    "prep": "",
+    "sci": "Draba nemorosa L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        4,
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "농사로 - 꽃다지(약용식물)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?menuId=PS04103&cntntsNo=205031"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Draba nemoralis Ehrh. (Draba nemorosa의 이명)",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:282856-1"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "농사로 - 꽃다지(약용식물)",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?menuId=PS04103&cntntsNo=205031"
+    },
+    {
+      "title": "농사로 - 냉이 농작업일정",
+      "url": "https://nongsaro.go.kr/portal/ps/psb/psbl/workScheduleDtl.ps?menuId=PS00087&cntntsNo=30604&sKidofcomdtySeCode=210001&totalSearchYn=Y"
+    },
+    {
+      "title": "농사로 - 애기똥풀(약용식물)",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&cntntsNo=204942"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이른 봄 같은 밭과 들에서 잎을 바닥에 펼치고 자라 함께 섞여 캐지기 쉽다. 냉이는 하우스에서도 키워 출하하므로 재배 냉이 묶음에 섞여 들어오기도 한다.",
+      "name": "냉이",
+      "points": [
+        "꽃이 피면 꽃다지는 노란색, 냉이는 흰색이다.",
+        "꽃다지 잎은 갈라지지 않은 주걱 모양에 잔털이 빽빽하고, 냉이 잎은 새털처럼 갈라져 퍼진다.",
+        "냉이는 희고 곧은 뿌리가 10~50cm까지 길게 내려가니 뿌리째 캔 묶음이면 뿌리 모양을 본다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "봄~여름 들에서 노란 꽃잎 4장짜리 꽃이 피어 꽃만 보면 헷갈릴 수 있다. 애기똥풀은 식품으로 쓸 수 없는 식물이므로 섞이지 않게 한다.",
+      "name": "애기똥풀",
+      "points": [
+        "애기똥풀은 줄기를 자르면 주황빛 노란 즙이 나오고, 꽃다지는 그런 즙이 없다.",
+        "애기똥풀 잎은 길이 7~15cm로 깃 모양으로 깊게 갈라지고, 꽃다지 잎은 2~4cm 주걱 모양이다.",
+        "애기똥풀은 키가 30~80cm로 크고 줄기에 흰 가루가 덮여 있으며, 꽃다지는 20cm 안팎이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "2023~2026년 꽃다지(Draba nemorosa)를 직접 다룬 논문은 확인하지 못했다(Crossref 검색에서 해당 없음, Europe PMC·PubMed·OpenAlex는 접속 제한으로 조회 실패). 이전에는 씨 추출물에서 항산화 성분을 분리한 시험관 수준 연구(2007년)가 있을 뿐, 사람 대상 근거는 없다."
+  },
+  "name": "꽃다지",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "농사로 - 꽃다지(약용식물)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.mo?menuId=PS04103&cntntsNo=205031"
+      }
+    ],
+    "text": "농촌진흥청 농사로 약용식물 자료는 꽃다지의 생약명을 '정력자'로 적고, 약으로 쓰는 부위는 씨라고 소개한다. 여름에 익은 열매를 따서 햇볕에 말려 쓴다고 했고, 민간에서 씨를 볶아 쓰던 사례도 함께 실었다."
+  },
+  "updatedAt": 1792529979983
+}

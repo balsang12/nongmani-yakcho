@@ -1,0 +1,171 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "",
+    "easy": [
+      "여러 가지 배뇨 장애(오림)에 쓴다고 적었다.",
+      "물 같은 설사를 멎게 하고 학질(말라리아 같은 열병)을 다스리는 데 쓴다고 적었다.",
+      "나창(문둥병처럼 헐어 터지는 피부병)에 쓴다고 적었다."
+    ],
+    "han": "葎草",
+    "has": true,
+    "ki": "性寒味甘無毒",
+    "kiKo": "성질이 차고 맛이 달며 독이 없다",
+    "old": "",
+    "orig": "性寒, 味甘, 無毒. 主五淋, 止水痢, 除瘧, 主癩瘡.",
+    "sources": [
+      {
+        "title": "대한한방소아과학회지(2024) - 한삼덩굴에 대한 최근 국내외 연구 동향 분석",
+        "url": "https://www.akop.or.kr/file/202408/1725237530.pdf"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "허가 없이는 안 됩니다. 환삼덩굴은 2019년 환경부가 생태계교란 생물로 지정해 재배·운반·보관·양도·유통 등이 허가 없이 금지되어 있습니다.",
+      "q": "환삼덩굴을 키우거나 팔아도 되나요?"
+    },
+    {
+      "a": "빨리 자라 주변 식물을 덮어 다른 종을 밀어내고, 꽃가루를 많이 날려 알레르기를 일으키기 때문입니다. 그래서 꽃 피기 전에 제거하라고 권합니다.",
+      "q": "왜 생태계교란 생물로 지정됐나요?"
+    },
+    {
+      "a": "환삼덩굴 잎은 대개 5~7갈래로 깊게 갈라지고 줄기 가시가 훨씬 거칩니다. 호프 잎은 주로 3갈래이고 잎자루가 잎몸보다 짧습니다.",
+      "q": "호프와 어떻게 구별하나요?"
+    },
+    {
+      "a": "장갑을 끼는 것이 좋습니다. 줄기와 잎자루에 아래로 향한 잔가시가 빽빽해 피부가 긁히기 쉽고, 꽃가루는 알레르기나 피부염을 일으킬 수 있습니다.",
+      "q": "맨손으로 만져도 되나요?"
+    },
+    {
+      "a": "7~8월에 연한 황록색 꽃이 핍니다. 수꽃과 암꽃이 다른 그루에 달립니다.",
+      "q": "꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Japanese hop",
+    "family": "삼과(Cannabaceae)",
+    "grade": "",
+    "habitat": "전국의 길가, 강변, 밭가, 빈터 등 볕이 잘 드는 곳에 흔하며 일본·대만·중국에도 분포한다. 2019년 환경부가 생태계교란 생물로 지정해, 허가 없이 재배·운반·보관·양도·유통 등을 하는 것이 금지되어 있다.",
+    "look": {
+      "flower": "암수딴그루로 7~8월 연한 황록색 꽃이 핀다. 수꽃은 15~25cm의 원뿔꽃차례로 늘어지고, 암꽃은 짧은 이삭 모양으로 모여 달린다.",
+      "fruit": "열매는 4~5mm 정도의 둥근 달걀꼴로 누런 갈색이며 가운데가 렌즈처럼 볼록하다.",
+      "leaf": "잎은 마주나고 잎자루가 길며, 손바닥처럼 5~7갈래로 깊게 갈라진다. 크기는 5~12cm, 밑은 심장 모양이고 갈래 끝이 뾰족하며 잎맥에 뻣뻣한 털이 있다.",
+      "stem": "한해살이 덩굴로 다른 식물을 감고 올라간다. 줄기와 잎자루에 아래쪽을 향한 잔가시가 빽빽해 만지면 까끌까끌하다."
+    },
+    "parts": "한방에서는 땅 위 부분 전체를 율초(葎草)라 하여 약재로 쓰고, 열매도 약으로 쓴다. 줄기 껍질은 섬유로 쓰였다.",
+    "prep": "줄기와 잎자루의 갈고리 같은 잔가시에 피부가 긁히기 쉬우므로 장갑을 끼고 다룬다. 꽃가루가 알레르기를 일으키므로 꽃 피는 시기에는 주의한다. 생태계교란 생물이라 허가 없는 재배·운반·유통이 금지되어 있다.",
+    "sci": "Humulus japonicus Siebold & Zucc.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 환삼덩굴",
+        "url": "https://encykorea.aks.ac.kr/Article/E0064986"
+      },
+      {
+        "title": "워터저널 - 환경부, 등검은말벌과 환삼덩굴 생태계교란 생물로 지정(2019)",
+        "url": "https://www.waterjournal.co.kr/news/articleView.html?idxno=46083"
+      },
+      {
+        "title": "Michigan Climbers (University of Michigan) - Humulus japonicus",
+        "url": "https://climbers.lsa.umich.edu/humulus-japonicus"
+      },
+      {
+        "title": "대한한방소아과학회지(2024) - 한삼덩굴에 대한 최근 국내외 연구 동향 분석",
+        "url": "https://www.akop.or.kr/file/202408/1725237530.pdf"
+      }
+    ],
+    "store": "약재(율초)로는 잎이 무성한 여름~가을에 거두어 그늘에서 말린 뒤 잘라 쓴다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Michigan Climbers (University of Michigan) - Humulus japonicus",
+      "url": "https://climbers.lsa.umich.edu/humulus-japonicus"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 환삼덩굴",
+      "url": "https://encykorea.aks.ac.kr/Article/E0064986"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 환삼덩굴속(Humulus)의 덩굴식물인 호프(Humulus lupulus)와 잎이 닮았다. 환삼덩굴에는 호프에 있는 샘(선점)이 없어 맥주 원료로 쓸 수 없다.",
+      "name": "호프",
+      "points": [
+        "환삼덩굴 잎은 대개 5~7갈래, 호프 잎은 주로 3갈래(드물게 5갈래)로 갈라진다.",
+        "환삼덩굴은 잎자루가 잎몸과 같거나 더 길고, 호프는 잎자루가 잎몸보다 짧다.",
+        "환삼덩굴 줄기는 아래로 향한 가시가 훨씬 거칠게 나 있다.",
+        "환삼덩굴은 잎맥에 뻣뻣한 털이 있고, 호프는 잎 뒷면에 부드러운 털만 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "대한한방소아과학회지",
+        "note": "10년간 연구 28편을 분석해 대부분이 실험 연구이며 잘 설계된 임상 연구가 더 필요하다고 정리했다.",
+        "title": "한삼덩굴에 대한 최근 국내외 연구 동향 분석 - 의약학 연구를 중심으로 -",
+        "type": "리뷰",
+        "url": "https://www.akop.or.kr/file/202408/1725237530.pdf",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Immunology",
+        "note": "환삼덩굴 꽃가루 알레르기 환자 93명의 혈청 가운데 69명이 Hum j 1 단백질에 반응했다고 보고한 실험실 연구다.",
+        "title": "Characterization of the clinical relevance and hypoallergenic peptides of the newly evidenced major allergen Hum j 1.",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fimmu.2025.1588870",
+        "year": "2025"
+      },
+      {
+        "journal": "Allergy, Asthma & Immunology Research",
+        "note": "환자 22명의 혈청으로 꽃가루 주요 알레르기 단백질 Hum j 6을 확인했으며, 환삼덩굴을 동아시아 잡초 꽃가루병의 주요 원인으로 다뤘다.",
+        "title": "Characterization of Hum j 6, a Major Allergen From Humulus japonicus Pollen, the Primary Cause of Weed Pollinosis in East Asia.",
+        "type": "기타",
+        "url": "https://doi.org/10.4168/aair.2023.15.6.767",
+        "year": "2023"
+      },
+      {
+        "journal": "Journal of Medicinal Food",
+        "note": "생쥐와 미세아교세포에서 물 추출물이 염증 반응 신호를 줄이는지 살폈다.",
+        "title": "Humulus japonicus Water Extract Inhibits Neuroinflammation Through the p38 MAPK Signaling Pathway in a Systemic LPS-Injection Mouse Model.",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1177/1096620X251369829",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecular Medicine Reports",
+        "note": "늙은 생쥐 등에서 물 추출물이 인지 기능 지표에 주는 영향을 본 동물 실험이다.",
+        "title": "Water extract of Humulus japonicus improves age-related cognitive decline by inhibiting acetylcholinesterase activity and the acetylcholine signaling pathway.",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3892/mmr.2025.13496",
+        "year": "2025"
+      }
+    ],
+    "summary": "2014~2023년 국내외 연구 28편을 정리한 종설에 따르면 27편이 세포·동물 실험이고 사람 대상 임상은 1편뿐이어서 근거는 대부분 전임상 단계다. 최근에는 꽃가루 알레르기 원인 단백질(Hum j 1, Hum j 6)을 환자 혈청으로 확인한 연구와, 생쥐에서 신경염증·인지 기능을 살핀 연구가 나왔다."
+  },
+  "name": "환삼덩굴",
+  "st": "check",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792660004727
+}

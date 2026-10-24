@@ -1,0 +1,154 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네, 같은 식물입니다. 전라도·경상도 등에서 풀솜대를 지장보살이라고도 부릅니다.",
+      "q": "풀솜대와 지장보살은 같은 나물인가요?"
+    },
+    {
+      "a": "이른 봄 잎이 다 펴지기 전 어린순이 가장 부드러워 이때 땁니다. 꽃은 5~6월에 피고 열매는 8~9월에 붉게 익습니다.",
+      "q": "풀솜대는 언제 채취하나요?"
+    },
+    {
+      "a": "끓는 물에 살짝 데쳐 찬물에 헹구고 물기를 짠 뒤 소금과 들기름·참기름으로 무칩니다. 말려 두었다가 삶아 묵나물로도 씁니다.",
+      "q": "풀솜대는 어떻게 손질해 먹나요?"
+    },
+    {
+      "a": "풀솜대는 줄기를 따라 털 있는 잎 5~7장이 어긋나게 달리고, 은방울꽃은 줄기 없이 땅에서 매끈한 잎 2~3장만 나옵니다. 은방울꽃은 독초이니 확신이 없으면 먹지 마세요.",
+      "q": "풀솜대와 은방울꽃은 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 어린순을 소금으로 간하고 들기름·참기름을 조금 더해 나물무침으로 먹는다. 국거리나 묵나물로도 쓴다.",
+    "eng": "Japanese false Solomon's seal",
+    "family": "백합과 (최근 분류체계에서는 비짜루과)",
+    "grade": "",
+    "habitat": "전국의 산지 숲속에 자라며, 북쪽 비탈처럼 그늘지고 습하며 부엽토가 두꺼운 곳을 좋아한다. 일본·중국·러시아 극동에도 분포한다.",
+    "look": {
+      "flower": "5~6월에 줄기 끝에 작은 흰 꽃 10~25송이가 가지 친 원뿔 모양으로 모여 핀다.",
+      "fruit": "8~9월에 지름 5~6mm 둥근 열매가 붉게 익는다.",
+      "leaf": "잎은 줄기에 5~7장(4~9장)이 두 줄로 어긋나게 달리고 잎자루가 짧다. 달걀 모양~긴 타원형으로 길이 6~15cm이며 양면, 특히 뒷면에 거친 털이 있다.",
+      "root": "굵기 7~10mm의 뿌리줄기가 옆으로 기며 군데군데 염주처럼 마디가 굵다.",
+      "stem": "줄기는 30~60cm로 비스듬히 기울어 자라며 위쪽으로 갈수록 털이 많다."
+    },
+    "parts": "어린순(어린 잎과 줄기)",
+    "prep": "어린순을 끓는 물에 살짝 데쳐 찬물에 헹구고 물기를 꼭 짠 뒤 조리한다. 쓴맛이 있으면 물에 우려 낸다.",
+    "sci": "Maianthemum japonicum (A.Gray) LaFrankie (이명 Smilacina japonica A.Gray)",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of China - Maianthemum (鹿药属) 기재문",
+        "url": "https://www.iplant.cn/foc/pdf/Maianthemum.pdf"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Maianthemum japonicum (A.Gray) LaFrankie",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:943006-1"
+      },
+      {
+        "title": "환경미디어 - 서정수 박사의 약용식물 시리즈 <33> 풀솜대 (2019)",
+        "url": "https://m.ecomedia.co.kr/news/newsview.php?ncode=1065574584144072"
+      },
+      {
+        "title": "위키트리 - 풀솜대 소개 기사 (사진: 국립생물자원관)",
+        "url": "https://www.wikitree.co.kr/articles/1046966"
+      }
+    ],
+    "store": "데친 뒤 말려 두었다가 삶아 묵나물로 쓸 수 있다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of China - Maianthemum (鹿药属) 기재문",
+      "url": "https://www.iplant.cn/foc/pdf/Maianthemum.pdf"
+    },
+    {
+      "title": "국립수목원 보도자료 - 산에서 채취한 나물, 정말 먹어도 괜찮을까? 독초와 구별하는 법(2025)",
+      "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?nttId=3206489&bbsId=BBSMSTR_1036&mn=UKNA_05_02"
+    },
+    {
+      "title": "식품의약품안전처 웹진 2025년 4월(산나물과 독초 구별)",
+      "url": "https://mfds.go.kr/webzine/202504/sub02.html"
+    },
+    {
+      "title": "한국자원식물학회지 - 한국산 둥굴레속 수집종의 생육 및 형태적 특성 (윤종선 외, 2002)",
+      "url": "https://db.koreascholar.com/Article/Detail/258461"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "넓은 잎과 붉은 열매가 닮아 보이지만, 은방울꽃은 땅에서 잎 2~3장만 감싸듯 올라오고 종 모양 꽃이 따로 난 꽃줄기에 매달린다.",
+      "name": "은방울꽃",
+      "points": [
+        "풀솜대는 비스듬한 줄기를 따라 잎 5~7장이 두 줄로 어긋나게 달리고, 은방울꽃은 줄기 없이 땅에서 잎 2~3장만 나온다.",
+        "풀솜대 잎에는 거친 털이 있고, 은방울꽃 잎은 털 없이 뻣뻣하며 당기면 질기게 세로로 찢어진다.",
+        "풀솜대 꽃은 줄기 끝에 작은 흰 꽃이 원뿔 모양으로 위로 모이고, 은방울꽃 꽃은 잎과 따로 난 꽃줄기에 종 모양으로 아래를 향해 매달린다.",
+        "두 식물 모두 열매가 붉게 익으므로 열매 색으로는 구별하지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "비스듬히 휜 줄기에 잎이 어긋나게 달리는 모습이 비슷하지만 꽃이 달리는 자리와 열매 색이 다르다.",
+      "name": "둥굴레",
+      "points": [
+        "풀솜대 꽃은 줄기 끝에 모여 피고, 둥굴레 꽃은 잎겨드랑이마다 1~2개씩 통 모양으로 아래로 매달린다.",
+        "풀솜대 열매는 붉게, 둥굴레 열매는 검게 익는다.",
+        "풀솜대 잎과 줄기 윗부분에는 털이 있고, 둥굴레 잎은 털이 없으며 뒷면이 분을 바른 듯 희다.",
+        "둥굴레 줄기에는 모가 져 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "풀솜대에서 다당류를 추출해 구조를 분석하고 실험실에서 항산화 활성을 평가했다.",
+        "title": "Extraction, characterization and antioxidant activity evaluation of polysaccharides from Smilacina japonica",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32061692/",
+        "year": "2020"
+      },
+      {
+        "journal": "Evidence-Based Complementary and Alternative Medicine",
+        "note": "뿌리줄기와 뿌리 추출물이 곰팡이 생장을 억제하는지 실험실에서 살폈다.",
+        "title": "Antifungal Activity of Crude Extract from the Rhizome and Root of Smilacina japonica A. Gray",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31379963/",
+        "year": "2019"
+      },
+      {
+        "journal": "Molecules",
+        "note": "뿌리와 뿌리줄기에서 스테로이드 계열 성분들을 분리해 구조를 밝혔다.",
+        "title": "Steroidal Constituents from Roots and Rhizomes of Smilacina japonica",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules23040798",
+        "year": "2018"
+      }
+    ],
+    "summary": "최근 3년 사이 풀솜대(Maianthemum japonicum, 이명 Smilacina japonica)를 직접 다룬 논문은 찾지 못했고, 아래는 그 이전 연구들이다. 주로 뿌리·뿌리줄기의 스테로이드 성분 분리, 다당류의 항산화 활성, 추출물의 항곰팡이 활성을 본 성분·세포·실험실 수준 연구이며, 사람 대상 연구는 없다."
+  },
+  "name": "풀솜대",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "환경미디어 - 서정수 박사의 약용식물 시리즈 <33> 풀솜대 (2019)",
+        "url": "https://m.ecomedia.co.kr/news/newsview.php?ncode=1065574584144072"
+      }
+    ],
+    "text": "풀솜대는 이른 봄 어린순을 데쳐 먹는 산나물로 쓰였다. 조선 후기 『임원경제지』 인제지 구황방에 삶은 나물을 물에 우리거나 여러 번 헹궈 쓴맛을 뺀 뒤 소금과 기름으로 조리하는 법이 실렸다고 소개된다. 가을에 캔 뿌리와 뿌리줄기는 한방에서 '녹약(鹿藥)'이라는 이름의 약재로 썼다고 전한다."
+  },
+  "updatedAt": 1792573003682
+}

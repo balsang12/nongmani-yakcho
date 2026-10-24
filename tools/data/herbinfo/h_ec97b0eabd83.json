@@ -1,0 +1,223 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "",
+    "easy": [
+      "『동의보감』은 연밥(藕實)을 과일 부(果部) 맨 앞에 싣고 연의 여러 부위를 함께 다룬다고 소개된다.",
+      "연꽃(蓮花)은 마음을 안정시키고 몸을 가볍게 하며 얼굴이 늙지 않게 한다고 적었다고 인용된다."
+    ],
+    "han": "蓮花",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "헬스경향 [한동하의 식의보감] 연(蓮)을 끊지 않고 먹으면 수명이 늘어난다 (2021)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=54830"
+      },
+      {
+        "title": "위클리서울 [허철희의 자연에 살어리랏다] 물건너 임을 만나 연밥 따서 던지고는 (2015)",
+        "url": "https://www.weeklyseoul.net/news/articleView.html?idxno=31388"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "꽃이 피는 7~8월에 땁니다. 딴 꽃은 얼려 두었다가 차로 씁니다.",
+      "q": "연꽃차용 꽃은 언제 따나요?"
+    },
+    {
+      "a": "꽃 한 송이를 큰 그릇에 담고 뜨거운 물을 부으면 꽃이 벌어지며 우러납니다. 한 송이로 7~8잔 정도 마실 수 있다고 합니다.",
+      "q": "연꽃차는 어떻게 우리나요?"
+    },
+    {
+      "a": "연꽃은 긴 꽃대 끝에 물 위로 높이 솟아 피고, 수련은 물 위에 뜬 잎 사이에서 수면에 붙어 핍니다. 수련 잎은 밑부분이 V자로 갈라져 있습니다.",
+      "q": "연꽃과 수련은 어떻게 다른가요?"
+    },
+    {
+      "a": "아니요, 어리연꽃은 연과 다른 조름나물과 식물입니다. 꽃이 지름 2cm 정도로 작고 꽃잎 가장자리에 털이 있어 연꽃과 쉽게 구별됩니다.",
+      "q": "어리연꽃도 연꽃차로 쓰나요?"
+    },
+    {
+      "a": "포장의 원산지 표시를 확인하는 것이 가장 확실합니다. 겉모양만으로 국산과 수입산을 가리는 공공기관 기준은 찾지 못했습니다.",
+      "q": "수입 연꽃차는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "꽃 한 송이를 큰 그릇에 담고 뜨거운 물을 부어 연꽃차로 마시며, 한 송이로 7~8잔 정도 우릴 수 있다고 한다. 말린 수술을 차로 우리기도 한다.",
+    "eng": "lotus flower (sacred lotus)",
+    "family": "연꽃과",
+    "grade": "",
+    "habitat": "인도 원산으로 오래전부터 재배해 왔으며, 연못에서 자라고 논밭에서도 재배한다. 물이 얕고 바닥이 진흙인 곳에서 자란다.",
+    "look": {
+      "flower": "7~8월에 긴 꽃자루 끝에 한 송이씩 물 위로 높이 솟아 핀다. 지름 15~20cm, 연분홍 또는 흰색이며 꽃잎은 길이 8~12cm의 달걀을 거꾸로 세운 모양이다. 꽃받침은 초록색이고 일찍 떨어지며, 대개 이른 아침에 피고 해가 지면 오므라든다.",
+      "fruit": "꽃이 지면 지름 10cm 안팎의 스펀지 같은 꽃턱(연밥송이)이 남고, 구멍마다 길이 2cm 정도의 타원형 열매가 하나씩 박힌다.",
+      "leaf": "잎자루가 잎 한가운데 붙은 둥근 방패 모양 잎으로 지름 40cm 안팎까지 자라고, 물 위로 높이 솟는다. 잎맥이 가운데서 사방으로 퍼지며, 표면이 물에 젖지 않아 물방울이 구슬처럼 굴러 떨어진다.",
+      "root": "진흙 속 뿌리줄기가 옆으로 길게 뻗고 마디가 많으며, 자른 면에 구멍이 뚫려 있다(이것이 연근).",
+      "smell": "꽃에서 향기가 난다.",
+      "stem": "잎자루와 꽃자루는 둥근 기둥 모양이고 겉에 짧은 가시 같은 돌기가 있어 만지면 꺼끌꺼끌하다."
+    },
+    "parts": "꽃(봉오리·핀 꽃)과 수술. 꽃을 통째로 뜨거운 물에 우려 차로 마시고, 말린 수술을 차로 우리기도 한다.",
+    "prep": "7~8월에 딴 꽃을 쓴다. 차로 마실 때는 꽃 한 송이에 뜨거운 물을 부으면 꽃이 벌어지며 우러난다.",
+    "sci": "Nelumbo nucifera Gaertn.",
+    "season": {
+      "collect": [
+        7,
+        8
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 연꽃",
+        "url": "https://encykorea.aks.ac.kr/Article/E0036723"
+      },
+      {
+        "title": "NParks Flora & Fauna Web - Nelumbo nucifera",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2257"
+      },
+      {
+        "title": "TWIG24 - 연꽃 필 무렵… 연잎, 찹쌀과 연인 되다 (2020, 사진 시흥시)",
+        "url": "https://twig24.com/news/lifestyle/trip/2020/08/10/20200810018004"
+      },
+      {
+        "title": "소년한국일보 - 같은 듯 다른 연꽃·수련... '잎'만 보면 알 수 있어요 (2021)",
+        "url": "https://www.kidshankook.kr/news/articleView.html?idxno=49"
+      },
+      {
+        "title": "한국교육신문 - 시흥 관곡지 연꽃테마파크, 수생식물 다 모였다 (2022)",
+        "url": "https://www.hangyo.com/mobile/article.html?no=96581"
+      }
+    ],
+    "store": "7~8월에 딴 꽃을 얼려 두었다가 차로 쓴다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "서울신문 [이소영의 도시식물 탐색] 수련의 계절이 시작됐다 (2023)",
+      "url": "https://m.seoul.co.kr/news/2023/05/17/20230517025002"
+    },
+    {
+      "title": "한국교육신문 - 시흥 관곡지 연꽃테마파크, 수생식물 다 모였다 (2022)",
+      "url": "https://www.hangyo.com/mobile/article.html?no=96581"
+    },
+    {
+      "title": "소년한국일보 - 같은 듯 다른 연꽃·수련... '잎'만 보면 알 수 있어요 (2021)",
+      "url": "https://www.kidshankook.kr/news/articleView.html?idxno=49"
+    },
+    {
+      "title": "BC Species & Ecosystems Explorer - Nymphaea tetragona",
+      "url": "https://a100.gov.bc.ca/pub/eswp/speciesSummary.do?id=15970"
+    },
+    {
+      "title": "서울신문 - 가시연꽃부터 빅토리아수련까지 서울식물원 물속식물 (2026)",
+      "url": "https://m.go.seoul.co.kr/news/2026/08/13/20260813500225"
+    },
+    {
+      "title": "브라보마이라이프 [김인철의 야생화] 불과 물의 틈새에서 피는 가시연꽃 (2017)",
+      "url": "https://bravo.etoday.co.kr/view/atc_view/7373"
+    },
+    {
+      "title": "NParks Flora & Fauna Web - Nymphoides indica",
+      "url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2272"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 연꽃",
+      "url": "https://encykorea.aks.ac.kr/Article/E0036723"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "수련(Nymphaea속, 수련과)은 연못에 함께 심는 경우가 많아 연과 혼동된다. 연잎·연꽃으로 팔리는 것이 아니라는 점을 잎과 꽃의 위치로 가린다.",
+      "name": "수련",
+      "points": [
+        "연잎은 잎자루가 잎 한가운데 붙은 둥근 방패 모양이고, 수련 잎은 밑부분이 V자로 깊게 갈라져 있다.",
+        "연잎은 물 위로 높이 솟고 물에 젖지 않지만, 수련 잎은 물 위에 납작하게 떠 있다.",
+        "연꽃은 긴 꽃대 끝에 물 위 높이 피고, 수련 꽃은 수면에 붙어 핀다.",
+        "연의 뿌리줄기는 단면에 구멍이 있지만(연근), 수련 뿌리줄기는 속이 꽉 차 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "가시연(Euryale ferox, 수련과)은 멸종위기 야생생물 Ⅱ급인 토종 수생식물로, 잎이 크게 물 위에 떠서 연잎과 헷갈릴 수 있다. 자생지에서 채취하면 안 된다.",
+      "name": "가시연",
+      "points": [
+        "가시연은 잎 뒷면·줄기·꽃받침 등 식물 전체에 날카로운 가시가 빽빽하다. 연은 잎자루와 꽃자루에 짧은 돌기만 있다.",
+        "가시연 잎은 물 위에 넓게 떠서 지름이 2m 가까이 자라기도 하지만, 연잎은 물 위로 솟아 있다.",
+        "가시연 꽃은 지름 4cm 정도의 자주색으로 연꽃보다 훨씬 작다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "어리연꽃(Nymphoides indica)은 조름나물과의 수생식물로 이름에 '연꽃'이 들어가 헷갈리지만 연과 전혀 다른 식물이다.",
+      "name": "어리연꽃",
+      "points": [
+        "어리연꽃은 지름 2cm 정도의 작은 흰 꽃이 피고 꽃잎 가장자리에 가는 털이 많다. 연꽃은 지름 15~20cm로 훨씬 크다.",
+        "어리연꽃 잎은 한쪽이 깊게 갈라진 둥근 심장 모양으로 물 위에 뜨고, 연잎은 물 위로 솟은 방패 모양이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "말린 연꽃·연꽃차는 수입 원료로 만든 제품도 있을 수 있다. 겉모양만으로 국산과 수입산을 가르는 공공기관 기준은 확인하지 못했으므로 원산지 표시를 확인하는 것이 가장 확실하다.",
+      "name": "수입 연꽃",
+      "points": [
+        "포장의 원산지 표시를 확인한다. 상품명에 들어간 지역명은 원산지 표시와 별개다.",
+        "국내에서 가공했더라도 원료가 수입산이면 원료 원산지를 따로 확인한다.",
+        "색이나 모양만으로 원산지를 판단하는 공인된 방법은 찾지 못했다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomedical Reports",
+        "note": "분홍 연꽃 전체에서 얻은 추출 오일을 건선 유사 피부염 모델 생쥐에게 먹여 염증 관련 지표 변화를 살폈다.",
+        "title": "Pink lotus flower (Nelumbo nucifera) oil extract alleviates imiquimod-induced psoriasis-like dermatitis",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3892/br.2026.2163",
+        "year": "2026"
+      },
+      {
+        "journal": "Plant Science Today",
+        "note": "2000~2025년 연 관련 연구를 모아 성분과 전통적 쓰임, 실험 연구 결과를 정리하고 더 많은 연구가 필요하다고 보았다.",
+        "title": "Nelumbo nucifera Gaertn.: A comprehensive review of its pharmacological potency, ethnomedicinal applications and bioactive compounds",
+        "type": "리뷰",
+        "url": "https://doi.org/10.14719/pst.13004",
+        "year": "2026"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "연꽃 추출물 분획의 성분을 분석하고 시험관·세포 모델에서 항산화와 염증 관련 지표를 살폈다.",
+        "title": "Chemical Composition and Bioactivity of Nelumbo nucifera Gaertn. Flower Extract Fractions: In Vitro Antioxidant and Anti-Inflammatory Properties",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/cimb47121065",
+        "year": "2025"
+      },
+      {
+        "journal": "Polymers",
+        "note": "연꽃과 연밥송이에서 얻은 다당류의 구조를 분석하고, 시험관 항산화 실험과 대식세포 실험으로 활성을 살폈다.",
+        "title": "Lotus-Flower- and Lotus-Seedpod-Derived Polysaccharide: Structural Characterization and Biological Activity",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/polym15183828",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 사이 연꽃 연구는 꽃 추출물·다당류의 항산화·염증 관련 지표를 살핀 시험관·세포 실험과, 꽃 추출 오일을 생쥐에게 먹인 동물 실험, 연 전체를 다룬 리뷰 정도다. 연꽃이나 연꽃차를 사람에게 먹인 연구는 찾지 못해, 근거는 실험실·동물 수준에 머문다."
+  },
+  "name": "연꽃",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792443723000
+}

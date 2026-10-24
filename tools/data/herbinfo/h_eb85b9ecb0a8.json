@@ -1,0 +1,196 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "기운을 아래로 내리고 묵은 음식을 삭이며, 머리와 눈을 맑게 하고 소변을 잘 나오게 한다고 적었다.",
+      "갈증이 심한 소갈을 멎게 하고 잠을 줄이며, 굽거나 볶은 음식의 독을 푼다고 적었다.",
+      "나무는 작고 치자나무를 닮았으며, 일찍 딴 것을 차(茶), 늦게 딴 것을 명(茗)이라 하고, 아주 여린 싹을 참새 혀에 빗대 작설(雀舌)이라 불렀다고 적었다."
+    ],
+    "han": "苦茶",
+    "has": true,
+    "ki": "性微寒（一云冷）味甘苦無毒",
+    "kiKo": "성질은 약간 차고(차다고 한 기록도 있다) 맛은 달고 쓰며 독이 없다.",
+    "old": "쟉셜차",
+    "orig": "性微寒（一云冷）味甘苦無毒 下氣消宿食 淸頭目 利小便 止消渴 令人少睡 又解炙炒毒. 樹小似梔子冬生葉早採爲茶晩採爲茗 其名有五 一曰茶 二曰檟 三曰蔎 四曰茗 五曰荈 古人謂其芽爲雀舌 麥顆言 其至嫩卽臘茶是也 採嫩芽搗作餠並得火良. 茗或曰荈葉老者也.<本草> 入手足厥陰經飮之宜熱冷則聚痰久服去人脂令人瘦.<入門>",
+    "sources": [
+      {
+        "title": "김종오·차웅석·김남일, 『東醫寶鑑』에 나타난 茶의 醫學的 運用, 한국의사학회지 18(2) (2005)",
+        "url": "https://koreascience.kr/article/JAKO200524578160583.pdf"
+      },
+      {
+        "title": "민족의학신문 [茶와 茶文化] 3. 茶의 효능",
+        "url": "https://www.mjmedi.com/news/articleView.html?idxno=5745"
+      }
+    ],
+    "verified": true,
+    "warn": "뜨겁게 마셔야 하고 차게 마시면 담이 뭉치며, 오래 마시면 몸의 기름기를 빼서 사람을 마르게 한다고 적었다."
+  },
+  "faq": [
+    {
+      "a": "찻잎을 딴 시기에 따른 구분입니다. 곡우(4월 20일 무렵) 전에 딴 우전이 가장 어리고 고급이며, 세작(곡우~5월 초), 중작(5월 초~6월 중순), 대작(6월 하순 이후)으로 갈수록 잎이 크고 값이 낮아집니다.",
+      "q": "우전, 세작, 중작, 대작은 무엇이 다른가요?"
+    },
+    {
+      "a": "고급 잎차용 첫물차는 4~5월에 땁니다. 보성은 대체로 4월, 하동은 4월 초~5월 하순 무렵이 첫물차 수확기로 조사되었고, 6월 이후 딴 잎은 대작 등 낮은 등급이 됩니다.",
+      "q": "녹차 제철은 언제인가요?"
+    },
+    {
+      "a": "먼저 수확 시기(등급)와 원산지 표시를 확인합니다. 업계 연구팀 설명으로는 잎이 단단하게 말려 있고 윤기 있는 짙은 녹색이 좋고, 누렇게 바래고 묵은 냄새가 나는 것은 품질이 떨어진 것입니다.",
+      "q": "좋은 녹차는 어떻게 고르나요?"
+    },
+    {
+      "a": "조금씩 나누어 밀폐 용기에 담아 빛과 습기를 피해 서늘한 곳에 둡니다. 냉장 보관할 때는 냄새가 배지 않게 꼭 밀봉하고, 꺼낸 뒤 실온에 맞춘 다음 엽니다.",
+      "q": "녹차는 어떻게 보관하나요?"
+    },
+    {
+      "a": "포장의 원산지 표시를 확인하는 것이 가장 확실합니다. 겉모양으로 가리는 공공기관 기준은 찾지 못했으며, 현미녹차 같은 대중용 제품에는 중국산 원료가 많이 쓰인다는 분석이 있습니다.",
+      "q": "수입 녹차와 국산 녹차는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 찻잎을 따뜻한 물에 우려 마시는 잎차가 대표적이다.",
+    "eng": "tea plant (green tea)",
+    "family": "차나무과",
+    "grade": "찻잎은 일찍 딸수록 고급으로 친다. 곡우(4월 20일 무렵) 전에 딴 우전을 최상품으로 보고, 이어서 세작(곡우~5월 초), 중작(5월 초~6월 중순), 대작(6월 하순 이후) 순으로 나뉜다. 2006년 산지 생엽 가격 조사에서 우전은 kg당 약 3만 9천 원, 대작은 약 8천 5백 원으로 큰 차이가 났다.",
+    "habitat": "원산지는 중국 남서부(쓰촨·윈난·구이저우)에서 미얀마, 인도 아삼으로 이어지는 산악지대로 추정된다. 국내에서는 경남 하동·사천, 전남 보성·장흥·영암·구례·순천 등 남부 지방에서 주로 재배하며, 연평균 기온 13℃ 이상, 해발 200m 이하, 약산성(pH 4.5~6) 모래참흙이 알맞다.",
+    "look": {
+      "flower": "10~11월에 지름 3~5cm의 흰 꽃이 잎겨드랑이나 가지 끝에 1~3개씩 피며 향기가 있다. 가운데 노란 꽃밥의 수술이 아주 많다.",
+      "fruit": "꽃이 핀 다음 해 가을에 열매가 익으며, 씨는 둥글고 단단하다.",
+      "leaf": "늘푸른 잎이 어긋나게 달리며 길쭉한 피침 모양이고 가장자리에 얕은 톱니가 있다. 앞면은 광택이 적은 녹색에 잎맥이 들어가 있고, 뒷면은 회녹색으로 잎맥이 도드라지며 양면에 털이 없다.",
+      "stem": "가지가 많이 갈라지는 늘푸른 떨기나무다. 1년생 가지는 흰빛에 잔털이 있고, 2년생 가지는 회갈색에 털이 없다. 차밭에서는 1m 안팎 높이로 다듬어 기른다."
+    },
+    "parts": "어린 잎과 싹(찻잎)을 덖거나 쪄서 말린 것",
+    "prep": "잎차는 끓는 물을 조금 식혀 60~70℃ 정도에서 2~3분 우리고, 티백은 70℃ 안팎에서 짧게 우리는 것이 권장된다. 너무 뜨거운 물로 우리거나 끓이면 떫고 쓴맛이 강해진다.",
+    "sci": "Camellia sinensis (L.) Kuntze",
+    "season": {
+      "collect": [
+        4,
+        5,
+        6
+      ],
+      "flower": [
+        10,
+        11
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 차나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055128"
+      },
+      {
+        "title": "Trees and Shrubs Online - Camellia sinensis",
+        "url": "https://www.treesandshrubsonline.org/articles/camellia/camellia-sinensis/"
+      },
+      {
+        "title": "내 손안에 서울 - 마시기만 하나요? 알아두면 요긴한 '녹차 건강법'",
+        "url": "https://mediahub.seoul.go.kr/archives/1151413"
+      },
+      {
+        "title": "안병일·김성용·박문호, 관세감축이 녹차 수급에 미치는 영향, 농촌경제 31(4) (2008), 한국농촌경제연구원 저장소",
+        "url": "https://repository.krei.re.kr/bitstream/2018.oak/18906/1/251619p.pdf"
+      },
+      {
+        "title": "푸드투데이 - 녹차, 제대로 마시는 법 (아모레퍼시픽 녹차연구팀 설명 인용, 2008)",
+        "url": "https://www.foodtoday.or.kr/news/article.html?no=44534"
+      }
+    ],
+    "store": "빛·열·습기를 피해 조금씩 나누어 밀폐 용기에 담아 서늘하고 마른 곳에 둔다. 냄새를 잘 빨아들이므로 냉장고에 둘 때는 꼭 밀봉하고, 꺼낸 뒤에는 실온에 맞춘 다음 열어야 물기가 생기지 않는다.",
+    "taste": "처음 딴 잎은 작고 부드러워 맛이 좋고, 늦게 딸수록 잎이 커지고 떫은맛이 강해진다고 설명된다. 일찍 딴 어린잎에는 감칠맛을 내는 아미노산이 더 많다고 한다."
+  },
+  "lookSources": [
+    {
+      "title": "안병일·김성용·박문호, 관세감축이 녹차 수급에 미치는 영향, 농촌경제 31(4) (2008), 한국농촌경제연구원 저장소",
+      "url": "https://repository.krei.re.kr/bitstream/2018.oak/18906/1/251619p.pdf"
+    },
+    {
+      "title": "Flora of Korea (florakorea.myspecies.info) - Camellia japonica 동백나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5708"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 차나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055128"
+    },
+    {
+      "title": "Trees and Shrubs Online - Camellia sinensis",
+      "url": "https://www.treesandshrubsonline.org/articles/camellia/camellia-sinensis/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "중국산 등 수입 녹차는 주로 현미녹차 같은 대중용 차의 원료로 들어온다. 겉모양만으로 국산과 수입산을 가리는 공공기관 기준은 확인하지 못했으므로 원산지 표시를 확인하는 것이 가장 확실하다.",
+      "name": "수입 녹차",
+      "points": [
+        "포장의 원산지 표시를 확인한다. 상품명에 들어간 지역명은 원산지 표시와 별개다.",
+        "2008년 연구에서는 현미녹차에 들어간 녹차의 75% 이상이 중국산이라고 분석했다.",
+        "같은 연구에 따르면 녹차 자체에는 매우 높은 관세(약 513.6%)가 매겨져 고급 수입 녹차는 많이 들어오지 않았다.",
+        "우전·세작 같은 등급 이름은 수확 시기에 따른 구분일 뿐 원산지를 보증하지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "동백나무(Camellia japonica)는 차나무와 같은 동백나무속의 늘푸른나무로 남부 지방에 함께 자라 잎이 비슷해 보인다. 동백나무 잎을 찻잎으로 쓰는 근거는 찾지 못했으므로 차나무인지 확인하고 딴다.",
+      "name": "동백나무",
+      "points": [
+        "동백나무 잎은 타원형이고 앞면이 짙은 녹색으로 반들반들 윤이 나며, 차나무 잎은 길쭉하고 광택이 적다.",
+        "동백나무는 1~3월에 붉은 꽃이 피고, 차나무는 10~11월에 흰 꽃이 핀다.",
+        "동백나무 열매는 지름 3~4cm의 둥근 열매로 9~10월에 익는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Eur J Nutr",
+        "note": "폐경 후 여성에서 녹차 섭취가 혈당·지질 같은 대사 지표와 어떤 관련이 있는지 여러 연구를 모아 분석했다.",
+        "title": "Effects of green tea use on the metabolic profile of postmenopausal women: systematic review and meta-analysis.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s00394-026-04005-8",
+        "year": "2026"
+      },
+      {
+        "journal": "Neuroepidemiology",
+        "note": "녹차를 마시는 습관과 인지 기능 사이의 관련성을 기존 연구들로 메타분석했다.",
+        "title": "The Association between Green Tea Consumption and Cognitive Function: A Meta-Analysis of Current Evidence.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1159/000543784",
+        "year": "2026"
+      },
+      {
+        "journal": "Blood Press",
+        "note": "성인 대상 무작위 대조시험을 모아 녹차 보충과 혈압의 관계를 용량별로 분석하고 근거 수준을 평가했다.",
+        "title": "Effect of green tea supplementation on blood pressure in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1080/08037051.2025.2517122",
+        "year": "2025"
+      },
+      {
+        "journal": "Clin Ther",
+        "note": "무작위 대조시험을 모아 녹차 섭취와 대사증후군 지표의 관련성을 정리했다.",
+        "title": "The Association Between Green Tea Intake and Metabolic Syndrome: A Systematic Review and Meta-analysis of Randomized Controlled Trials.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.clinthera.2025.09.011",
+        "year": "2025"
+      },
+      {
+        "journal": "Am J Chin Med",
+        "note": "녹차와 주요 카테킨 성분(EGCG)이 암 예방과 관련이 있는지 기존 연구를 체계적으로 검토했다.",
+        "title": "Green Tea and Epigallocatechin Gallate (EGCG) for Cancer Prevention: A Systematic Review and Meta-Analysis.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1142/s0192415x2550065x",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 녹차(Camellia sinensis) 연구는 사람 대상 무작위 대조시험을 모은 메타분석이 많으며 혈압, 대사증후군, 인지 기능, 암 예방 등과의 관련성을 살폈다. 연구마다 대상·용량·제품(차 또는 추출물)이 달라 결과를 일반화하기 어렵고, 근거는 관련성 또는 보조적 수준에 머문다."
+  },
+  "name": "녹차",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792443723000
+}

@@ -1,0 +1,184 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "이른 봄입니다. 봄 들에서 가장 먼저 올라오는 나물 가운데 하나로, 이때 연한 어린순을 뜯습니다. 재배 쑥부쟁이는 한 달 정도면 다시 자라 1년에 여러 번 수확합니다.",
+      "q": "쑥부쟁이 제철은 언제인가요?"
+    },
+    {
+      "a": "어린순을 데쳐서 무쳐 먹습니다. 참기름·소금·깨로 간단히 무치거나 기름에 볶아 먹습니다.",
+      "q": "어떻게 손질해서 먹나요?"
+    },
+    {
+      "a": "잎을 먼저 보세요. 쑥부쟁이 잎은 갈라지지 않은 피침형에 굵은 톱니가 있습니다. 구절초는 잎이 쑥처럼 갈라지고, 벌개미취는 잎 가장자리가 거의 매끈해 보입니다.",
+      "q": "들에서 비슷한 꽃과 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닙니다. 둘은 다른 종입니다. 쑥부쟁이는 자주색 꽃이 피고 전국에 흔하며, 섬쑥부쟁이는 흰 꽃이 피고 우리나라에서는 울릉도에 자생합니다.",
+      "q": "섬쑥부쟁이(부지갱이)와 같은 건가요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 나물무침, 볶음나물로 먹고 차나 과자 재료로도 쓴다.",
+    "eng": "Japanese aster",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "우리나라와 일본에 자생하며 다소 습한 곳이나 볕이 잘 드는 산자락에서 자란다. 전남 구례 등에서 비가림하우스와 노지에 재배한다.",
+    "look": {
+      "flower": "7~10월에 지름 약 2.5cm 꽃이 가지 끝에 하나씩 피는데, 가장자리 꽃잎은 자주색이고 가운데는 노란색이다.",
+      "fruit": "열매(수과)는 길이 약 2.5mm이고 갓털(관모)은 약 0.5mm로 매우 짧다.",
+      "leaf": "잎은 어긋나게 달리고 피침형이며, 가장자리에 굵은 톱니가 있다.",
+      "root": "뿌리줄기가 옆으로 길게 뻗으며 퍼진다.",
+      "stem": "30~100cm 높이로 자라며, 갓 나온 싹은 붉은빛이 강하고 자라면서 녹색 바탕에 자줏빛이 돈다."
+    },
+    "parts": "어린순과 어린잎",
+    "prep": "이른 봄 어린순을 데쳐서 참기름·소금·깨로 무치거나 기름에 볶아 먹는다. 날로 먹는 방법은 공공·학술 자료에서 확인하지 못했으니 데쳐서 먹는다.",
+    "sci": "Aster yomena (Kitam.) Honda",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "쑥부쟁이 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034193"
+      },
+      {
+        "title": "Aster yomena - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Aster_yomena"
+      },
+      {
+        "title": "코 건강을 지키다 쑥부쟁이 (농촌진흥청 그린매거진, 2023.10)",
+        "url": "https://rda.go.kr/webzine/2023/10/sub3-4.html"
+      },
+      {
+        "title": "쑥부쟁이 재배·연구 보도 (YTN, 2018)",
+        "url": "https://www.ytn.co.kr/_ln/0115_201809121731446291"
+      },
+      {
+        "title": "쑥부쟁이 - 산림청 임산물 자료",
+        "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/쑥부쟁이.pdf"
+      }
+    ],
+    "store": "",
+    "taste": "부드럽고 겨자와 나무를 닮은 향이 나며, 쌉싸름한 맛이 살짝 있다."
+  },
+  "lookSources": [
+    {
+      "title": "쑥부쟁이 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034193"
+    },
+    {
+      "title": "그냥 들국화라 부르기엔… (김민철, 한국교육신문)",
+      "url": "https://www.hangyo.com/mobile/article.html?no=82416"
+    },
+    {
+      "title": "Aster glehnii - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aster_glehnii"
+    },
+    {
+      "title": "제주 '섬쑥부쟁이' 농약 등록 확대 (뉴스서울, 제주특별자치도농업기술원 발표)",
+      "url": "https://newsseoul.co.kr/news/view/1065609655292395"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "들에서 흔히 '쑥부쟁이'라고 부르는 것은 대부분 개쑥부쟁이일 만큼 둘이 닮았다. 개쑥부쟁이를 나물로 먹어도 되는지는 공공 자료에서 확인하지 못했다.",
+      "name": "개쑥부쟁이",
+      "points": [
+        "자라는 곳: 쑥부쟁이는 다소 습한 곳, 개쑥부쟁이는 건조한 곳에서 자란다.",
+        "키: 쑥부쟁이는 30~100cm, 개쑥부쟁이는 35~50cm이다.",
+        "꽃 시기: 쑥부쟁이는 7~10월, 개쑥부쟁이는 7~8월에 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "가을에 꽃 피는 '들국화'로 함께 불리지만, 구절초는 잎이 깊게 갈라져 쑥부쟁이와 다르다. 나물로 파는 품목이 아니다.",
+      "name": "구절초",
+      "points": [
+        "잎: 구절초는 쑥처럼 갈라지고, 쑥부쟁이는 갈라지지 않은 피침형에 굵은 톱니가 있다.",
+        "꽃 색: 구절초는 대부분 흰색(가끔 연분홍), 쑥부쟁이는 자주색이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "연보라 꽃이 쑥부쟁이와 매우 닮았지만, 잎 가장자리를 보면 구별된다. 나물로 먹어도 되는지는 공공 자료에서 확인하지 못했다.",
+      "name": "벌개미취",
+      "points": [
+        "잎: 벌개미취는 길고 톱니가 잘아서 거의 매끈해 보이고, 쑥부쟁이는 톱니가 굵다.",
+        "키: 벌개미취는 50~80cm이다.",
+        "꽃 시기: 벌개미취는 7월 말~10월에 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "이름이 비슷하고 둘 다 나물로 먹지만 다른 종이다. 섬쑥부쟁이는 흰 꽃이 피고, 우리나라에서는 울릉도에 자생하며 제주에서도 재배한다.",
+      "name": "섬쑥부쟁이",
+      "points": [
+        "꽃 색: 쑥부쟁이는 자주색, 섬쑥부쟁이는 흰색이다.",
+        "키: 섬쑥부쟁이는 1~1.5m까지 커서 쑥부쟁이(30~100cm)보다 크다.",
+        "포장의 품목명과 산지(구례 등 내륙 / 울릉·제주)를 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Animals",
+        "note": "생쥐 아토피 피부염 유사 모델에서 쑥부쟁이 분획물을 먹였더니 피부 염증이 줄었다고 보고했고, 가장 높은 용량에서는 체중 감소와 간 부담 가능성도 관찰했다.",
+        "title": "Oral Administration of Aster yomena Butanol Fraction Attenuates DNCB-Induced Atopic Dermatitis-like Skin Inflammation in Mice: Implications as a Dietary Supplement Candidate for Companion Animals",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ani16132003",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Microbiology and Biotechnology",
+        "note": "만성 스트레스 동물 모델에서 쑥부쟁이 에탄올 추출물이 우울 유사 행동과 인지 저하 지표를 줄였다고 보고했다.",
+        "title": "Aster yomena Alleviates Chronic Unpredictable Mild Stress (CUMS)-Induced Depressive Cognitive Dysfunction by Regulating the HPA Axis and TLR4/NF-κB Pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.4014/jmb.2510.10048",
+        "year": "2026"
+      }
+    ],
+    "summary": "최근 3년 연구로는 쑥부쟁이 추출물을 쓴 동물 실험(아토피 피부염 유사 모델, 만성 스트레스 모델)을 확인했고, 사람 대상 연구는 찾지 못했다. 이전에 농촌진흥청이 진행한 연구를 바탕으로 쑥부쟁이 추출물이 코 알레르기 관련 기능성원료로 개별 인정을 받았지만, 이는 추출물에 대한 것이며 나물로 먹었을 때의 효과는 아니다."
+  },
+  "name": "쑥부쟁이",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "쑥부쟁이 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034193"
+      },
+      {
+        "title": "쑥부쟁이 - 산림청 임산물 자료",
+        "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/쑥부쟁이.pdf"
+      }
+    ],
+    "text": "민간과 한방에서는 쑥부쟁이가 열을 내리고 기침과 가래를 가라앉히며 염증을 누그러뜨린다고 보았다. 그래서 감기로 인한 열, 기침, 기관지염, 편도선염 등에 써 왔다고 백과사전과 산림청 자료에 적혀 있다."
+  },
+  "updatedAt": 1792529979983
+}

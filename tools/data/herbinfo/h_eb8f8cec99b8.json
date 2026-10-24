@@ -1,0 +1,162 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "絞股藍",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "판매 전 식품원료목록 확인이 필요합니다. 식약처 식품원료목록에서 돌외의 사용 가능 여부와 사용부위를 확인한 뒤 판매하세요.",
+      "q": "돌외는 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "꽃을 보면 가장 확실합니다. 돌외는 황록색 꽃의 꽃부리가 5갈래로 갈라지고, 거지덩굴은 꽃잎이 4장이며 꽃 가운데가 붉은색입니다. 두 식물은 과가 다릅니다(돌외는 박과, 거지덩굴은 포도과).",
+      "q": "돌외와 거지덩굴은 어떻게 구별하나요?"
+    },
+    {
+      "a": "보통 1년에 두 번, 7월과 10월 무렵에 거둡니다. 꽃은 8~9월에 핍니다.",
+      "q": "돌외는 언제 거두나요?"
+    },
+    {
+      "a": "땅 위 부분을 거두어 이물질을 골라낸 뒤 햇볕에 말립니다. 잎과 덩굴이 푸른색을 유지하게 말리는 것이 좋습니다.",
+      "q": "돌외는 어떻게 말리나요?"
+    },
+    {
+      "a": "약간 단맛이 나고 풀 냄새가 납니다. 잎을 씹으면 단맛이 나서 '덩굴차'라는 이름이 붙었습니다.",
+      "q": "돌외차는 어떤 맛인가요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 잎과 덩굴을 차로 우려 마신다. 티백·가루 등으로도 가공된다.",
+    "eng": "Jiaogulan",
+    "family": "박과",
+    "grade": "",
+    "habitat": "우리나라에서는 주로 남부 지방과 제주도, 울릉도의 산과 들에 자란다. 습한 곳을 좋아해 바닷가, 강가, 숲 가장자리에 많다.",
+    "look": {
+      "flower": "8~9월에 작은 황록색 꽃이 원뿔 모양 꽃차례에 달린다. 꽃부리는 5갈래로 갈라지고 갈래 끝이 길게 뾰족하다. 암그루와 수그루가 따로 있다.",
+      "fruit": "작고 둥근 열매가 달리며, 익으면 검은빛을 띤다.",
+      "leaf": "잎은 어긋나고, 보통 작은잎 5장(3~7장)이 손바닥처럼 모여 한 잎을 이룬다. 작은잎은 좁은 달걀 모양 타원형으로 끝이 뾰족하고 가장자리에 톱니가 있다.",
+      "smell": "말린 잎과 줄기는 풀 냄새가 나고 맛이 약간 달다.",
+      "stem": "가는 덩굴줄기가 덩굴손으로 다른 물체를 감고 올라가며 사방으로 엉킨다. 마디에 흰 털이 있다."
+    },
+    "parts": "잎과 덩굴(땅 위 부분)을 말려 차로 쓴다. 식품원료로 쓸 수 있는지와 사용부위는 판매 전 식품원료목록 확인 필요.",
+    "prep": "여름~가을에 땅 위 부분을 거두어 이물질을 골라낸 뒤 햇볕에 말린다. 잎과 덩굴이 푸른색을 유지하도록 말리는 것이 좋다.",
+    "sci": "Gynostemma pentaphyllum (Thunb.) Makino",
+    "season": {
+      "collect": [
+        7,
+        10
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과, 돌외",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%99%B8"
+      },
+      {
+        "title": "홍콩 중약재표준(HKCMMS) 제5권, Gynostemmatis Herba(교고람)",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol5/pdf_e/Gynostemmatis_Herba_v5_e.pdf"
+      },
+      {
+        "title": "Wikipedia, Gynostemma pentaphyllum",
+        "url": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
+      }
+    ],
+    "store": "",
+    "taste": "잎을 씹으면 은은한 단맛이 나고, 말린 것은 풀 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "위키백과, 돌외",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%99%B8"
+    },
+    {
+      "title": "한국의 수목(florakorea), 거지덩굴 Cayratia japonica",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5783"
+    },
+    {
+      "title": "Wikipedia, Gynostemma pentaphyllum",
+      "url": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "거지덩굴(Cayratia japonica, 포도과)도 남쪽 지방에서 자라는 덩굴풀로 작은잎 5장이 손바닥처럼 모인 잎을 가져 돌외와 헷갈린다. 중국에서도 이시진이 교고람을 비슷한 약초 오렴매(烏蘞莓)와 혼동했다가 후대에 바로잡혔다는 기록이 있다.",
+      "name": "거지덩굴",
+      "points": [
+        "꽃을 보면 가장 확실하다. 돌외 꽃은 황록색이고 꽃부리가 5갈래로 갈라지며, 거지덩굴 꽃은 연한 녹색에 꽃잎과 수술이 4개씩이고 가운데 화반이 붉은색이다.",
+        "돌외는 원뿔 모양 꽃차례로 꽃이 달리고, 거지덩굴은 잎과 마주나는 산방상 취산꽃차례로 달린다.",
+        "돌외는 8~9월, 거지덩굴은 7~8월에 꽃이 핀다.",
+        "돌외 잎은 씹으면 단맛이 난다. 차 원료로 살 때는 원료 식물 이름과 학명(Gynostemma pentaphyllum)을 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "8편의 임상연구를 모은 메타분석으로 혈당 지표가 낮아지는 경향을 보고했으나, 연구가 작고 결과 편차가 커서 해석에 주의가 필요하다.",
+        "title": "Efficacy and mechanisms of Gynostemma pentaphyllum as a medicine food homology herb in glycemic control: a meta-analysis with review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1731723",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "돌외의 주성분 지페노사이드 연구를 정리한 리뷰로, 근거 대부분이 세포·동물 실험이고 흡수율 문제와 임상 자료 부족이 한계라고 했다.",
+        "title": "Gypenosides, a promising phytochemical triterpenoid: research progress on its pharmacological activity and mechanism",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1705946",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "참가자 100명을 24주 동안 위약과 비교한 연구로, 모발 굵기·밀도 등의 지표가 위약군보다 더 많이 변했다고 보고했다.",
+        "title": "Therapeutic Potential of Gynostemma pentaphyllum Extract for Hair Health Enhancement: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/nu17050767",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "건강한 남성 16명을 대상으로 한 4주 교차 시험으로 자전거 기록이 다소 빨라졌다고 보고했지만, 규모가 작은 예비 연구다.",
+        "title": "Gynostemma Pentaphyllum Increases Exercise Performance and Alters Mitochondrial Respiration and AMPK in Healthy Males",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/nu15224721",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2026년 연구 중에는 사람 대상 연구가 일부 있다. 2026년 메타분석은 8편(584명)의 임상연구를 모아 공복혈당·당화혈색소가 낮아지는 경향을 보고했지만, 연구 규모가 작고 결과 차이가 커서 근거 수준은 높지 않다. 2025년 리뷰는 주성분 지페노사이드의 작용이 대부분 세포·동물 실험에서 나온 것이고 표준화된 추출물과 임상 자료가 부족하다고 정리했다."
+  },
+  "name": "돌외",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과, 돌외",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8F%8C%EC%99%B8"
+      },
+      {
+        "title": "Wikipedia, Gynostemma pentaphyllum",
+        "url": "https://en.wikipedia.org/wiki/Gynostemma_pentaphyllum"
+      }
+    ],
+    "text": "교고람(絞股藍)이라는 이름은 중국 명나라 『구황본초』(1406)에 처음 나오는 것으로 알려져 있다. 전통적으로 염증을 가라앉히고 가래와 기침을 줄이는 데 쓰였다고 하며, 예전에는 주로 약재로 썼지만 요즘은 잎과 덩굴을 말려 차로 많이 마신다."
+  },
+  "updatedAt": 1792875515253
+}

@@ -1,0 +1,150 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목 菜部(菜之二)",
+    "bu": "채소(菜部)",
+    "easy": [
+      "다른 이름으로 자초(滋草)·아장채(鵝腸菜, 거위 창자 나물)를 들었고, 줄기 속에 실 같은 심이 하나 있으며 잘 번식한다고 이름의 뜻을 풀었다.",
+      "습한 땅이나 도랑가에 나며 작은 흰 꽃이 핀다고 적었고, 이시진은 번루가 곧 아장(鵝腸)이며 계장(鷄腸)과는 다른 풀이라고 구별했다.",
+      "오래된 나쁜 종기와 낫지 않는 치질에 쓴다고 적었고, 해산 뒤 젖이 잘 돌게 하거나 배앓이에 썼다는 기록도 실었다.",
+      "오래 먹지 말라는 경고도 함께 남겼다."
+    ],
+    "han": "蘩縷",
+    "has": true,
+    "ki": "酸 平 無毒",
+    "kiKo": "맛은 시고 성질은 평하며 독이 없다(맛이 쓰다·달고 약간 짜다·따뜻하다는 다른 견해도 함께 실었다).",
+    "old": "",
+    "orig": "【氣味】酸，平，無毒。……【主治】積年惡瘡、痔不愈（《別錄》）。",
+    "sources": [
+      {
+        "title": "위키문헌 - 本草綱目/菜之二 (蘩縷)",
+        "url": "https://zh.wikisource.org/wiki/本草綱目/菜之二"
+      }
+    ],
+    "verified": true,
+    "warn": "옛 기록에도 오래 먹지 말라는 경고가 있다."
+  },
+  "faq": [
+    {
+      "a": "꽃 가운데 암술대 수를 보면 됩니다. 별꽃은 3개, 쇠별꽃은 5개이고, 별꽃은 꽃받침이 꽃잎보다 깁니다.",
+      "q": "별꽃과 쇠별꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "이른 봄(3~4월) 연한 줄기와 잎을 뜯습니다. 꽃은 5~6월에 핍니다.",
+      "q": "별꽃은 언제 뜯나요?"
+    },
+    {
+      "a": "해외에서는 샐러드로 생식하기도 하지만, 사포닌이 들어 있어 살짝 데쳐 적당량 먹는 편이 무난합니다. 임신·수유 중에는 피하는 것이 좋다고 알려져 있습니다.",
+      "q": "별꽃을 날로 먹어도 되나요?"
+    },
+    {
+      "a": "물기를 털어 냉장하고 2~3일 안에 드세요. 오래 두려면 데쳐서 나눠 냉동합니다.",
+      "q": "별꽃은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 나물무침이나 국에 넣는다. 해외에서는 생으로 샐러드에 쓰고, 일본에서는 봄철 일곱 가지 나물죽(나나쿠사)에 넣는 나물 중 하나다.",
+    "eng": "Common chickweed",
+    "family": "석죽과",
+    "grade": "",
+    "habitat": "세계 곳곳에 퍼져 있고 한반도 전역에서 자란다. 마을 근처·길가·밭둑·산기슭의 약간 축축한 곳에 흔하다.",
+    "look": {
+      "flower": "가지 끝에 지름 1cm가 안 되는 흰 꽃이 핀다. 꽃잎 5장이 밑동 가까이까지 둘로 깊게 갈라져 10장처럼 보이고, 초록 꽃받침이 꽃잎보다 길다. 가운데 암술대는 3개다.",
+      "fruit": "8~9월 무렵 작은 삭과(씨주머니)가 익는다.",
+      "leaf": "잎은 마주나고 달걀 모양이며 털이 없고 길이 0.6~2.5cm 정도로 작다. 아래쪽 잎은 잎자루가 길고 위쪽 잎은 잎자루가 없다.",
+      "stem": "줄기는 여러 대가 모여 나와 땅을 기듯 퍼지며, 줄기 한쪽 면에만 털이 한 줄로 나 있고 마디마다 털 줄이 반대쪽으로 바뀐다."
+    },
+    "parts": "어린 줄기와 잎",
+    "prep": "어린 줄기와 잎을 뜯어 흙과 마른 잎을 골라내고 씻는다. 살짝 데쳐 나물로 쓰는 것이 무난하며, 사포닌이 들어 있어 한꺼번에 많이 먹지 않는다. 임신·수유 중에는 피하는 것이 좋다고 알려져 있다.",
+    "sci": "Stellaria media (L.) Vill.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 별꽃",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B3%84%EA%BD%83"
+      },
+      {
+        "title": "Wikipedia - Stellaria media",
+        "url": "https://en.wikipedia.org/wiki/Stellaria_media"
+      },
+      {
+        "title": "한국교육신문 - 싱그러운 소녀의 향기, 쇠별꽃 (김민철)",
+        "url": "https://www.hangyo.com/mobile/article.html?no=88127"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Stellaria media",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:77225345-1"
+      }
+    ],
+    "store": "물기를 털어 비닐에 담아 냉장하고 2~3일 안에 쓴다. 데친 것은 나눠 냉동한다.",
+    "taste": "쓴맛이나 강한 향 없이 담백하고 풋풋한 맛이다."
+  },
+  "lookSources": [
+    {
+      "title": "한국교육신문 - 싱그러운 소녀의 향기, 쇠별꽃 (김민철)",
+      "url": "https://www.hangyo.com/mobile/article.html?no=88127"
+    },
+    {
+      "title": "Wikipedia - Stellaria media",
+      "url": "https://en.wikipedia.org/wiki/Stellaria_media"
+    },
+    {
+      "title": "위키백과 - 별꽃",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%84%EA%BD%83"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 시기에 같은 곳에서 자라는 가까운 식물로, 암술대가 5개이고 꽃받침이 꽃잎보다 짧거나 비슷하다.",
+      "name": "쇠별꽃",
+      "points": [
+        "꽃 가운데 암술대를 세어 본다. 별꽃은 3개, 쇠별꽃은 5개다.",
+        "별꽃은 초록 꽃받침이 꽃잎보다 길고, 쇠별꽃은 꽃받침이 꽃잎보다 짧거나 비슷하다.",
+        "별꽃은 줄기 한쪽에만 털이 한 줄로 나 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "흰 꽃이 비슷한 석죽과 풀이지만 잎과 줄기 전체에 털이 많다.",
+      "name": "점나도나물",
+      "points": [
+        "점나도나물은 잎과 줄기 모두 털이 빽빽하고, 별꽃 잎은 털이 없이 매끈하다.",
+        "별꽃 줄기 털은 한쪽 면에만 한 줄로 난다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Results in Chemistry",
+        "note": "별꽃 메탄올 추출물의 성분과 항산화 활성을 살피고, 유방암 세포와 정상 세포에서 생존율 변화를 비교했다.",
+        "title": "Biochemical and anticancer properties of Stellaria media extract in breast Cancer",
+        "type": "세포 실험",
+        "url": "https://www.sciencedirect.com/science/article/pii/S2211715625007246",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Science & Nutrition",
+        "note": "용매별 별꽃 추출물의 플라보노이드 성분, 항산화·효소 억제 활성, 간암 세포 영향을 시험관 실험과 컴퓨터 분석으로 살폈다.",
+        "title": "Small Steps to the Big Picture for Health-Promoting Applications Through the Use of Chickweed (Stellaria media): In Vitro, In Silico, and Pharmacological Network Approaches",
+        "type": "세포 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39620022/",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 별꽃 추출물의 항산화 활성, 효소 억제, 암세포 생존율 변화 등을 시험관·세포 실험과 컴퓨터 분석으로 살핀 것이 중심이다. 모두 실험실 수준의 결과이며 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+  },
+  "name": "별꽃",
+  "st": "ok",
+  "updatedAt": 1792573003678
+}

@@ -1,0 +1,193 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "보약에 넣을 때는 소금물이나 꿀물에 축여 찌거나 볶고, 약 기운을 위로 올리려면 술에 축여 볶는다고 적었다고 소개된다.",
+      "쇠붙이에 닿지 않게 다루라고 했으며, 이 주의는 『향약집성방』·『본초강목』에도 같이 나온다고 전한다."
+    ],
+    "han": "知母",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 지모(知母)",
+        "url": "http://dh.aks.ac.kr/sillokwiki/index.php/%EC%A7%80%EB%AA%A8(%E7%9F%A5%E6%AF%8D)"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "땅속에서 옆으로 뻗는 굵은 뿌리줄기를 캐어 햇볕에 말려 약재로 씁니다.",
+      "q": "지모는 어느 부위를 쓰나요?"
+    },
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이라 스스로 차로 끓여 먹는 것은 권하지 않습니다. 성질이 차서 변이 묽은 사람에게는 맞지 않는다고 하니 전문가와 상의하세요.",
+      "q": "지모를 차로 마셔도 되나요?"
+    },
+    {
+      "a": "옛 기록에는 음력 8월(대략 양력 9월 무렵)에 캐어 햇볕에 말린다고 나옵니다.",
+      "q": "지모는 언제 캐나요?"
+    },
+    {
+      "a": "잎은 뿌리줄기 끝에서 모여 나는 길이 20~70cm의 가늘고 긴 잎이고, 꽃은 6~7월에 핍니다.",
+      "q": "지모 잎과 꽃은 어떻게 생겼나요?"
+    },
+    {
+      "a": "같은 지모입니다. 껍질째 말린 것은 겉이 황갈색~갈색인 모지모, 겉껍질을 벗긴 것은 황백색인 광지모라고 부르며, 둘 다 단면은 황백색이고 씹으면 끈적합니다.",
+      "q": "껍질이 있는 지모와 하얀 지모는 다른 약재인가요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "비짜루과(Asparagaceae; 옛 분류로는 백합과 또는 지모과)",
+    "grade": "",
+    "habitat": "중국·몽골 원산의 여러해살이풀로, 우리나라에는 들어와 자란다. 조선 『세종실록』 지리지에는 경기·경상·황해도의 토산물로 올라 있고, 황해도 서흥에서 많이 났다고 전한다.",
+    "look": {
+      "flower": "꽃은 6~7월에 핀다.",
+      "fruit": "열매는 여러 칸으로 된 삭과다.",
+      "leaf": "잎은 뿌리줄기 끝에서 모여 나는 가늘고 긴 선형으로 길이 20~70cm이다. 끝은 실처럼 가늘고, 밑부분은 서로 겹쳐 줄기를 감싼다.",
+      "root": "굵은 뿌리줄기가 땅속에서 옆으로 뻗는다. 껍질째 말린 약재는 길이 3~15cm, 지름 0.8~2cm의 약간 굽고 납작한 막대 모양으로 겉은 황갈색~갈색이며, 윗면에 세로 홈과 촘촘한 고리 마디가 있고 단면은 황백색이다.",
+      "smell": "말린 약재는 냄새가 거의 없고, 씹으면 약간 달고 쓰며 끈적한 느낌이 난다."
+    },
+    "parts": "뿌리줄기(한약재로 쓰는 부위). 식품 원료로 쓸 수 있는지는 따로 확인이 필요하다.",
+    "prep": "식용 손질법은 확인되지 않았다. 식품 원료로 쓸 수 있는지 확인이 필요한 품목이므로 차·술로 함부로 먹지 않는다. 약재로는 뿌리줄기를 캐어 햇볕에 말려 쓰며, 성질이 차서 변이 묽거나 설사하는 사람에게는 맞지 않는다고 한다. 전문가 처방 안에서만 쓴다.",
+    "sci": "Anemarrhena asphodeloides Bunge",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 지모",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054184"
+      },
+      {
+        "title": "약학정보원 한약정보 - 지모(Anemarrhenae Rhizoma)",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=337"
+      },
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 지모(知母)",
+        "url": "http://dh.aks.ac.kr/sillokwiki/index.php/%EC%A7%80%EB%AA%A8(%E7%9F%A5%E6%AF%8D)"
+      },
+      {
+        "title": "Wikipedia - Anemarrhena",
+        "url": "https://en.wikipedia.org/wiki/Anemarrhena"
+      },
+      {
+        "title": "홍콩 중약재 표준(HKCMMS) 제3권 - 知母 Rhizoma Anemarrhenae",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol3/pdf_c/Rhizoma_Anemarrhenae_v3_c.pdf"
+      }
+    ],
+    "store": "",
+    "taste": "약재는 맛이 쓰고 성질이 차다고 보며, 일부 자료는 맛이 달다고도 적는다."
+  },
+  "lookSources": [
+    {
+      "title": "홍콩 중약재 표준(HKCMMS) 제3권 - 知母 Rhizoma Anemarrhenae",
+      "url": "https://www.cmro.gov.hk/hkcmms/vol3/pdf_c/Rhizoma_Anemarrhenae_v3_c.pdf"
+    },
+    {
+      "title": "엽록체 DNA 염기서열을 이용한 한약재 지모(Anemarrhena asphodeloides)의 기원 확인 및 유연관계 분석 - 한국약용작물학회지",
+      "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07998615"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 지모(Anemarrhena asphodeloides) 뿌리줄기의 겉껍질을 벗겨 말린 것이다. 껍질째 말린 모지모와 색·겉모양이 달라 다른 약재로 착각하기 쉽다.",
+      "name": "광지모",
+      "points": [
+        "껍질째 말린 모지모는 겉이 황갈색~갈색이고, 윗면에 세로 홈과 촘촘한 고리 마디, 남은 잎 밑동이 있으며 한쪽 끝에 연노란 줄기·잎 흔적이 붙어 있다.",
+        "껍질을 벗긴 광지모는 겉이 황백색이고 비틀린 세로 홈이 보이며, 지름 0.5~1.5cm로 모지모보다 가는 편이다.",
+        "둘 다 단면이 황백색이고 씹으면 약간 달고 쓰며 끈적한 느낌이 나는지 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "지모는 중국·몽골 원산이라 중국에서 들어온 약재도 많이 유통된다. 국내·중국 한약시장 지모를 유전자로 확인한 연구에서는 시판품이 모두 정품 지모와 일치했지만, 겉모양만으로 산지를 가리기는 어렵다.",
+      "name": "중국산 지모",
+      "points": [
+        "산지는 겉모양으로 구별하기 어려우니 포장의 원산지 표시를 확인한다.",
+        "정품이라면 수입품이든 국산이든 단면이 황백색이고 씹을 때 끈적한 느낌이 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "지모에서 얻은 다당류를 예쁜꼬마선충에 주었을 때 수명과 관련된 반응을 살핀 실험으로, 사람에게 같은 효과가 있는지는 알 수 없다.",
+        "title": "A homogalacturonan polysaccharide from Anemarrhena asphodeloides promotes longevity in Caenorhabditis elegans with involvement of DAF-16/FOXO",
+        "type": "동물 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42710754/",
+        "year": "2026"
+      },
+      {
+        "journal": "Industrial Crops and Products",
+        "note": "지모의 생물학적 특성과 주요 성분인 스테로이드 사포닌이 만들어지는 과정을 정리한 리뷰다.",
+        "title": "Anemarrhena asphodeloides Bunge: A review of its biological characteristics, steroidal saponin biosynthesis and their molecular mechanisms",
+        "type": "리뷰",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0926669025003115",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "지모 다당류의 추출·정제·구조와 실험실에서 보고된 활성을 정리한 리뷰다.",
+        "title": "Polysaccharides from Anemarrhena asphodeloides Bge, the extraction, purification, structure characterization, biological activities and application of a traditional herbal medicine",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40286959/",
+        "year": "2025"
+      },
+      {
+        "journal": "BioMed Research International",
+        "note": "지모 성분과 골다공증 관련 표적을 컴퓨터로 예측·분석한 연구로, 실제 사람에게서 효과를 확인한 것은 아니다.",
+        "title": "Exploring the Mechanism of Anemarrhena asphodeloides in the Treatment of Osteoporosis Based on Network Pharmacology, Molecular Docking, and Mendelian Randomization",
+        "type": "기타",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1155/bmri/9283631",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "지모 다당류 연구 동향을 정리한 리뷰다.",
+        "title": "Advances in the study of polysaccharides from Anemarrhena asphodeloides Bge.: A review",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39476924/",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 연구는 지모의 다당류와 스테로이드 사포닌(티모사포닌 등)의 성분·추출·생합성을 정리한 리뷰, 컴퓨터 기반 네트워크 약리 분석, 선충·세포 수준 실험이 대부분이다. 근거는 세포·동물 실험과 예측 분석 수준이며, 사람 대상 임상 근거는 이번 조사에서 찾지 못했다."
+  },
+  "name": "지모",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "조선왕조실록사전(한국학중앙연구원) - 지모(知母)",
+        "url": "http://dh.aks.ac.kr/sillokwiki/index.php/%EC%A7%80%EB%AA%A8(%E7%9F%A5%E6%AF%8D)"
+      },
+      {
+        "title": "약학정보원 한약정보 - 지모(Anemarrhenae Rhizoma)",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=337"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 지모",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054184"
+      }
+    ],
+    "text": "지모는 몸속 열을 내리고 진액을 보태는 약으로 분류되어 소갈, 열이 나는 병, 마른기침 등에 처방 재료로 써 왔다고 정리된다. 옛 기록에는 음력 8월에 캐어 햇볕에 말렸고, 지나치게 많이 먹으면 설사를 일으킨다는 내용도 있다."
+  },
+  "updatedAt": 1792789248965
+}

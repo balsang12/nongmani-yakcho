@@ -1,0 +1,156 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "가래 열매는 9월에 익습니다. 꽃은 4월 말~5월에 핍니다.",
+      "q": "가래는 언제 따나요?"
+    },
+    {
+      "a": "씨껍질 모양과 잎으로 구별합니다. 가래는 길쭉한 씨껍질에 8개의 모와 깊은 홈이 있어 매우 울퉁불퉁하고 작은잎이 7~17장에 톱니가 있지만, 호두나무는 작은잎이 5~7장이고 가장자리가 밋밋합니다.",
+      "q": "가래와 호두는 어떻게 구별하나요?"
+    },
+    {
+      "a": "먹지 마세요. 덜 익은 열매의 푸른 겉껍질은 과량 사용 시 메스꺼움·구토·어지럼 같은 부작용이 보고되어 있으며, 식품원료로 허용된 부위는 껍질을 뺀 씨앗입니다.",
+      "q": "가래 겉껍질도 먹을 수 있나요?"
+    },
+    {
+      "a": "씨앗(껍질 제외)은 식품공전의 '식품에 사용할 수 있는 원료' 목록에 올라 있습니다. 판매 전 최신 식품공전을 다시 확인하는 것이 좋습니다.",
+      "q": "가래는 식품으로 팔 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "알맹이를 그대로 먹거나 기름을 짠다.",
+    "eng": "Manchurian walnut",
+    "family": "가래나무과",
+    "grade": "",
+    "habitat": "산비탈과 골짜기, 특히 계곡에 많고 해발 약 100~1,500m에서 자란다. 습기가 있고 깊고 기름진 땅을 좋아하며 물이 고이는 곳은 싫어한다. 백과사전은 소백산·속리산 이북으로, 한반도의 식물 자료는 백두대간을 따라 전남까지 분포한다고 적었다.",
+    "look": {
+      "flower": "4월 말~5월에 피며, 수꽃은 10~20cm 길이로 늘어지고 암꽃은 4~10개씩 곧게 선 꽃차례에 달린다.",
+      "fruit": "길이 4~8cm의 달걀~긴 타원 모양 열매가 9월에 익으며 겉껍질에 샘털이 빽빽하다. 속의 단단한 씨껍질은 짙은 갈색으로 8개의 모가 지고 그 사이가 깊게 패어 울퉁불퉁하다.",
+      "leaf": "작은잎 7~17장으로 된 깃꼴겹잎이며, 작은잎은 길이 7~28cm로 크고 가장자리에 잔톱니가 있으며 뒷면 맥에 샘털이 있다.",
+      "stem": "높이 20m까지 자라는 낙엽 큰키나무로 나무껍질이 세로로 갈라지고, 잎자국이 크고 T자 모양이다."
+    },
+    "parts": "열매 속 씨앗(알맹이). 식품공전 [별표 1] '식품에 사용할 수 있는 원료' 목록에 가래나무(Juglans mandshurica)가 사용부위 '씨앗(껍질제외)'으로 올라 있다.",
+    "prep": "먹는 부위는 단단한 씨껍질을 깨서 꺼낸 알맹이뿐이다. 덜 익은 열매의 푸른 겉껍질(외과피)은 과량이나 부적절하게 쓰면 메스꺼움·구토·어지럼 등 부작용이 보고되어 있으므로 먹지 말고, 즙이 피부에 닿지 않게 장갑을 끼고 다룬다.",
+    "sci": "Juglans mandshurica Maxim.",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한반도의 식물 - 가래나무(Juglans mandshurica)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5368"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 가래나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0000102"
+      },
+      {
+        "title": "식품안전나라 식품공전 [별표 1] 식품에 사용할 수 있는 원료의 목록",
+        "url": "https://www.foodsafetykorea.go.kr/popup/safefoodlife/food/foodRvlv/foodRvlvDetail.do?rvlv_no=814"
+      },
+      {
+        "title": "Juglans mandshurica Maxim.: A Review of Its Traditional Usages, Phytochemical Constituents, and Pharmacological Properties (Frontiers in Pharmacology, 2021)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7858255"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한반도의 식물 - 가래나무속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5367"
+    },
+    {
+      "title": "한반도의 식물 - 가래나무(Juglans mandshurica)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5368"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "호두나무(Juglans regia)는 재배·수입이 많은 같은 속 나무로, 잎과 열매 구조가 다르다.",
+      "name": "호두",
+      "points": [
+        "호두나무 작은잎은 5~7장으로 가장자리가 밋밋하고, 가래나무 작은잎은 7~17장으로 톱니가 있다.",
+        "호두나무 암꽃은 1~3개씩 달리지만 가래나무 암꽃은 여러 개가 모여 달린다.",
+        "호두 열매는 속이 4실로 나뉘고, 가래 열매는 2실이다.",
+        "가래 씨껍질은 길쭉하고 8개의 모와 깊은 홈이 있어 매우 울퉁불퉁하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Horticulturae",
+        "note": "중국 지린성 4개 산지 117가계의 열매 형질 13가지를 비교해 우량 산지와 가계를 골라냈다.",
+        "title": "Research on the Reproductive Strategies of Different Provenances/Families of Juglans mandshurica Maxim. Based on the Fruit Traits",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2311-7524/11/5/495/htm",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "버려지는 가지에서 정제한 플라보노이드가 간암 세포(HepG2)의 증식을 억제했다고 보고했다.",
+        "title": "Enrichment and Evaluation of Antitumor Properties of Total Flavonoids from Juglans mandshurica Maxim",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/1420-3049/29/9/1976",
+        "year": "2024"
+      },
+      {
+        "journal": "Glycoconjugate Journal",
+        "note": "덜 익은 열매 겉껍질에서 펙틴을 분리해 구조를 밝히고 간암 세포에서 예비 활성을 확인했다.",
+        "title": "Structural elucidation a complex galactosyl and glucosyl-rich pectin from the pericarp of immature fruits of Juglans mandshurica Maxim.",
+        "type": "세포 실험",
+        "url": "https://link.springer.com/article/10.1007/s10719-024-10156-9",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Asian Natural Products Research",
+        "note": "가래나무에서 트리테르페노이드 성분을 분리하고 히알루로니다제 억제 활성을 시험했다.",
+        "title": "Triterpenoids from Juglans mandshurica with anti-hyaluronidase activities",
+        "type": "기타",
+        "url": "https://www.tandfonline.com/doi/abs/10.1080/10286020.2024.2327514",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 연구는 주로 성분 분리와 세포 실험 수준이며, 사람 대상 연구는 찾지 못했다. 덜 익은 열매 겉껍질과 가지에서 얻은 성분의 실험실 활성이 보고되고 있고, 열매 형질을 비교한 육종 연구도 있다."
+  },
+  "name": "가래",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 가래나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0000102"
+      },
+      {
+        "title": "Juglans mandshurica Maxim.: A Review of Its Traditional Usages, Phytochemical Constituents, and Pharmacological Properties (Frontiers in Pharmacology, 2021)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7858255"
+      }
+    ],
+    "text": "우리 백과사전에는 가래나무 껍질이 열을 내리고 수렴하는 성질이 있어 장염과 이질에 썼다고 적혀 있고, 산추자·추자·산핵도 등의 옛 이름이 있다. 중국에서는 덜 익은 열매 겉껍질과 나무껍질을 민간 약재로 써 왔으나, 겉껍질을 과량 쓰면 부작용이 생길 수 있다고 정리되어 있다."
+  },
+  "updatedAt": 1792832316687
+}

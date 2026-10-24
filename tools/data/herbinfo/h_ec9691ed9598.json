@@ -1,0 +1,151 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "꽃봉오리는 여름 끝부터 가을(대략 8~10월)에 땅 위로 올라올 때 거둡니다. 어린 순은 봄에 나옵니다.",
+      "q": "양하는 언제가 제철인가요?"
+    },
+    {
+      "a": "끝의 붉은빛이 선명하고 통통하면서 단단한 꽃봉오리를 고릅니다. 꽃이 이미 피었거나 초록빛이 도는 것은 피합니다.",
+      "q": "좋은 양하는 어떻게 고르나요?"
+    },
+    {
+      "a": "생김새는 비슷하지만 생강은 땅속줄기를, 양하는 땅 위로 올라온 꽃봉오리와 어린 순을 먹습니다.",
+      "q": "양하와 생강은 어떻게 다른가요?"
+    },
+    {
+      "a": "딱딱한 겉껍질을 벗기고 씻은 뒤 소금 넣은 끓는 물에 살짝 데쳐 식힙니다. 굵은 것은 반으로 가릅니다.",
+      "q": "양하는 어떻게 손질하나요?"
+    },
+    {
+      "a": "장아찌·김치·나물·볶음·산적으로 먹고, 잘게 썰어 국수나 국의 고명으로도 씁니다.",
+      "q": "양하는 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린 순은 데쳐 된장 양념장에 찍어 먹거나 된장국에 넣는다. 꽃이삭은 김치·장아찌·나물·볶음·산적·초절임으로 쓰며, 일본에서는 잘게 썰어 국수나 된장국의 고명으로 올린다.",
+    "eng": "Japanese ginger (myoga)",
+    "family": "생강과(Zingiberaceae)",
+    "grade": "꽃봉오리는 끝부분의 붉은빛(분홍빛)이 선명하고 통통하면서도 단단하게 여문 것이 좋은 물건으로 꼽힌다. 꽃이 피기 전에 거둔 것이어야 하고, 초록빛이 도는 것은 상품성이 떨어진다고 소개된다.",
+    "habitat": "반그늘의 마르지 않고 습한 땅을 좋아하는 여러해살이풀로, 땅속줄기가 옆으로 뻗으며 퍼진다. 국내에서도 자생하며 여수·제주 등 남부 지역 양하가 연구에 쓰였다.",
+    "look": {
+      "flower": "꽃이삭은 잎 사이가 아니라 땅속줄기에서 바로 나와 땅 위에 붉은빛 봉오리로 드러난다. 포는 붉은 녹색에 자줏빛 줄이 있고, 연한 노란 꽃이 핀다.",
+      "fruit": "열매는 거꿀달걀꼴 삭과로 안쪽이 붉고, 흰 헛씨껍질에 싸인 검은 씨가 들어 있다.",
+      "leaf": "잎은 피침형 또는 긴 타원형으로 길이 20~37cm, 너비 4~6cm 정도이며 끝이 뾰족하게 좁아진다.",
+      "root": "땅속줄기는 노르스름하며 옆으로 뻗고 비늘 같은 잎으로 덮여 있다.",
+      "smell": "꽃봉오리에서 맑고 시원한 특유의 향이 난다.",
+      "stem": "곧게 선 줄기(잎집이 겹친 헛줄기)가 40~100cm 높이로 자란다."
+    },
+    "parts": "땅속줄기 끝에서 땅 위로 올라오는 꽃이삭(꽃봉오리)과 봄에 올라오는 어린 순.",
+    "prep": "딱딱한 겉껍질을 벗기고 씻은 뒤, 소금을 조금 넣은 끓는 물에 아삭할 정도로만 데쳐 펼쳐 식힌다. 굵은 것은 반으로 가른다.",
+    "sci": "Zingiber mioga",
+    "season": {
+      "collect": [
+        8,
+        9,
+        10
+      ],
+      "flower": [
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "매일신문 - 양하 소개 기사",
+        "url": "https://www.imaeil.com/page/view/2014090407083686078"
+      },
+      {
+        "title": "일본 농림수산성 aff 2021년 8월호 - みょうが",
+        "url": "https://www.maff.go.jp/j/pr/aff/2108/spe1_03.html"
+      },
+      {
+        "title": "농축산업진흥기구(ALIC) 야채정보 2018년 8월 - 今月の野菜 みょうが",
+        "url": "https://www.alic.go.jp/content/000152836.pdf"
+      },
+      {
+        "title": "Nature Library - 蘘荷 Zingiber mioga (Flora of China 기재문 인용)",
+        "url": "https://naturelib.net/?p=716"
+      },
+      {
+        "title": "RHS - Zingiber mioga",
+        "url": "https://www.rhs.org.uk/plants/134575/zingiber-mioga/details"
+      },
+      {
+        "title": "CooksInfo - Mioga",
+        "url": "https://www.cooksinfo.com/mioga"
+      },
+      {
+        "title": "한국식품영양과학회지(2014) - 국내산 양하(꽃봉오리·땅속줄기) 추출물 연구",
+        "url": "https://koreascience.kr/article/JAKO201433150757091.do"
+      }
+    ],
+    "store": "",
+    "taste": "특유의 향과 쌉쌀한 맛이 있고 아삭하게 씹힌다. 생강 맛이 은은하게 난다."
+  },
+  "lookSources": [
+    {
+      "title": "매일신문 - 양하 소개 기사",
+      "url": "https://www.imaeil.com/page/view/2014090407083686078"
+    },
+    {
+      "title": "브라보마이라이프 - 생강과 생강나무",
+      "url": "https://bravo.etoday.co.kr/view/atc_view/8688"
+    },
+    {
+      "title": "일본 농림수산성 aff 2021년 8월호 - みょうが",
+      "url": "https://www.maff.go.jp/j/pr/aff/2108/spe1_03.html"
+    },
+    {
+      "title": "CooksInfo - Mioga",
+      "url": "https://www.cooksinfo.com/mioga"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "양하는 생강과 같은 생강과 식물이라 잎과 줄기 모습이 생강과 매우 닮았다. 먹는 부위와 맛으로 구별한다.",
+      "name": "생강",
+      "points": [
+        "양하는 땅 위로 올라온 붉은빛 꽃봉오리와 어린 순을 먹고, 생강은 굵게 덩어리진 땅속줄기를 먹는다.",
+        "생강 땅속줄기는 맵고 향이 강하고, 양하 꽃봉오리는 생강 맛이 은은하고 쌉쌀하며 아삭하다.",
+        "양하는 꽃이삭이 땅속줄기에서 바로 땅 위로 솟아 나오는 것이 눈에 띄는 특징이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Metabolites",
+        "note": "꽃봉오리를 네 단계로 나눠 분석한 결과 대부분의 성분이 성숙기로 갈수록 늘어나는 경향을 보였다.",
+        "title": "UPLC-ESI-QTRAP-MS-Based Metabolomics Revealed Changes in Biostimulant-Related Metabolite Profiles in Zingiber mioga Flower Buds During Development",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/metabo15060358",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 확인된 연구는 꽃봉오리가 자라는 단계에 따라 성분이 어떻게 달라지는지 분석한 성분 연구 정도이다. 건강 효과와 관련된 국내 연구는 대부분 그 이전의 동물·시험관 실험 단계이며, 사람 대상 연구는 확인되지 않았다."
+  },
+  "name": "양하",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792660004727
+}

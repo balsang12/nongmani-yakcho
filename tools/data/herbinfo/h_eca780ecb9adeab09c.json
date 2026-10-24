@@ -1,0 +1,159 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false,
+    "sources": [],
+    "verified": false
+  },
+  "faq": [
+    {
+      "a": "이른 봄, 꽃대가 올라오기 전 땅에 퍼진 어린순을 뿌리째 캡니다. 꽃은 5~7월에 핍니다.",
+      "q": "지칭개는 언제 캐나요?"
+    },
+    {
+      "a": "데친 뒤 찬물에 담가 쓴맛을 충분히 우려내면 됩니다. 쓴맛이 강한 나물이라 우리는 과정이 중요합니다.",
+      "q": "지칭개가 너무 써요. 어떻게 손질하나요?"
+    },
+    {
+      "a": "잎 뒷면을 보세요. 지칭개는 흰 솜털 때문에 뒷면이 하얗게 보이고, 냉이는 특유의 향이 납니다.",
+      "q": "지칭개와 냉이는 어떻게 구별하나요?"
+    },
+    {
+      "a": "잎에 가시가 있으면 엉겅퀴, 없으면 지칭개입니다. 엉겅퀴 꽃이 더 크고 색도 진합니다.",
+      "q": "지칭개와 엉겅퀴는 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 쓴맛을 우린 어린순을 나물로 무쳐 먹는다.",
+    "eng": "",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "전국 평지의 길가, 빈터, 밭둑 등 볕이 들거나 반그늘진 곳에 흔히 자라는 두해살이풀이다. 가을에 싹이 터서 뿌리잎으로 겨울을 난다.",
+    "look": {
+      "flower": "5~7월 가지 끝마다 연한 홍자색 꽃송이가 하나씩 위를 향해 달린다. 대롱꽃만 있고, 꽃송이 밑 총포에 닭 볏 같은 돌기가 줄지어 붙는다.",
+      "fruit": "긴 타원형 열매에 두 줄의 깃털 같은 갓털이 붙는데 잘 떨어진다.",
+      "leaf": "뿌리잎은 땅에 방석처럼 퍼져 겨울을 나고 깃꼴로 갈라지며, 뒷면에 흰 솜털이 많아 희게 보인다. 줄기 위쪽 잎은 점점 작고 가늘어진다.",
+      "stem": "줄기는 곧게 서서 60~90cm(때로 1m 넘게)까지 자라고, 속이 비어 있으며 가지를 많이 친다."
+    },
+    "parts": "봄철 어린순(뿌리잎)",
+    "prep": "봄에 어린순을 뿌리째 캐어 다듬고 끓는 물에 데친 뒤 찬물에 담가 쓴맛을 충분히 우려내고 조리한다.",
+    "sci": "Hemisteptia lyrata (Bunge) Fisch. & C.A.Mey.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "약업신문 [권순경 교수 약용식물] 지칭개(Hemistepta lyrata)",
+        "url": "https://www.yakup.com/pharmplus/plus_print.html?nid=3000132035"
+      },
+      {
+        "title": "위키백과, 지칭개 (원색한국식물도감 등 인용)",
+        "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%B9%AD%EA%B0%9C"
+      },
+      {
+        "title": "The complete chloroplast genome of Hemisteptia lyrata (PMC, 2024)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11703484/"
+      }
+    ],
+    "store": "",
+    "taste": "쓴맛이 강한 편이다."
+  },
+  "lookSources": [
+    {
+      "title": "약업신문 [권순경 교수 약용식물] 지칭개(Hemistepta lyrata)",
+      "url": "https://www.yakup.com/pharmplus/plus_print.html?nid=3000132035"
+    },
+    {
+      "title": "위키백과, 지칭개 (원색한국식물도감 등 인용)",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%80%EC%B9%AD%EA%B0%9C"
+    },
+    {
+      "title": "한국민족문화대백과사전, 엉겅퀴",
+      "url": "https://encykorea.aks.ac.kr/Article/E0036251"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이른 봄 땅에 붙은 뿌리잎 모양이 비슷하지만 냉이는 특유의 향이 있고 지칭개는 잎 뒷면이 흰 털로 희게 보인다.",
+      "name": "냉이",
+      "points": [
+        "잎을 뒤집어 보아 뒷면이 흰 솜털로 하얗게 보이면 지칭개다.",
+        "잎을 비벼 냉이 특유의 향이 나면 냉이다.",
+        "데쳐 맛보면 지칭개는 쓴맛이 강하다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "꽃 색과 모양이 닮았지만 엉겅퀴는 잎 가장자리에 날카로운 가시가 있고 꽃송이가 훨씬 크다.",
+      "name": "엉겅퀴",
+      "points": [
+        "잎 가장자리를 만져 보아 가시가 있으면 엉겅퀴, 없으면 지칭개다.",
+        "엉겅퀴 꽃송이는 지칭개보다 크고 색이 진한 홍자색이다.",
+        "엉겅퀴 줄기잎은 밑동이 줄기를 감싼다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "분홍빛 꽃이 비슷하지만 꽃송이 모양으로 구별한다.",
+      "name": "조뱅이",
+      "points": [
+        "지칭개 꽃은 대롱꽃이 촘촘히 모여 붙고, 조뱅이 꽃은 느슨하게 퍼진다.",
+        "지칭개는 잎 뒷면에 흰 솜털이 많아 희게 보인다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "The Korean Journal of Physiology & Pharmacology",
+        "note": "지칭개에서 분리한 헤미스텝신 A가 사람 폐암 세포(A549)의 세포 사멸에 미치는 영향을 실험실에서 살폈다.",
+        "title": "Hemistepsin A induces apoptosis by modulating the reactive oxygen species-dependent PI3K/Akt signaling pathway in human lung carcinoma A549 cells",
+        "type": "세포 실험",
+        "url": "https://www.kjpp.net/journal/view.html?doi=10.4196%2Fkjpp.25.044",
+        "year": "2025"
+      },
+      {
+        "journal": "Mitochondrial DNA Part B",
+        "note": "지칭개의 엽록체 유전체 전체를 해독해 분취속 식물과 가깝다는 계통 관계를 밝혔다.",
+        "title": "The complete chloroplast genome of Hemisteptia lyrata (Bunge) Fisch. & C. A. Mey. 1836 (Asteraceae) and its phylogenetic analysis",
+        "type": "기타",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11703484/",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Oncology",
+        "note": "간암 관련 천연 세스퀴테르펜 성분 연구를 정리한 리뷰로, 지칭개 성분 헤미스텝신 A의 세포·동물 실험 결과가 포함되어 있다.",
+        "title": "Progress of natural sesquiterpenoids in the treatment of hepatocellular carcinoma",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2024.1445222/full",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 지칭개에서 분리한 성분 헤미스텝신 A(hemistepsin A)가 폐암·간암 세포의 성장에 미치는 영향을 살핀 세포 실험과, 이를 정리한 리뷰가 중심이다. 그 밖에 엽록체 유전체를 해독해 분류상 위치를 살핀 연구가 있다. 사람 대상 연구는 찾지 못했으며, 효능 관련 근거는 세포·동물 실험 수준이다."
+  },
+  "name": "지칭개",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "약업신문 [권순경 교수 약용식물] 지칭개(Hemistepta lyrata)",
+        "url": "https://www.yakup.com/pharmplus/plus_print.html?nid=3000132035"
+      },
+      {
+        "title": "The complete chloroplast genome of Hemisteptia lyrata (PMC, 2024)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11703484/"
+      }
+    ],
+    "text": "꽃을 포함한 식물 전체를 말린 것을 이호채(泥胡菜)라 부르며, 민간에서 소화불량·위염과 종기·상처 등에 써 왔다고 소개된다. 중국에서는 전초를 약재로 쓰는 식물로 기록되어 있다. 이는 전통적 쓰임에 대한 기록일 뿐 효능이 확인된 것은 아니다."
+  },
+  "updatedAt": 1792573003681
+}

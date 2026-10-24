@@ -1,0 +1,187 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "채소(菜部)",
+    "easy": [
+      "장과 위를 느긋하게 하고 살을 채우는 데 쓴다고 적었다.",
+      "날것은 독이 있고 아려서 먹을 수 없지만, 익히면 독이 없어지고 몸을 크게 보한다고 했으며, 붕어와 함께 국을 끓이면 더 좋다고 했다.",
+      "밭에 심은 것은 먹을 수 있으나 들에서 저절로 난 토란(野芋)은 독이 있어 먹을 수 없다고 구별했다.",
+      "가운데서 싹이 나는 것을 우두(芋頭), 그 둘레에 붙어 자라는 것을 우자(芋子)라 하며, 당시 사람들은 토련(土蓮)이라 불렀다고 적었다.",
+      "잎은 성질이 차고 독이 없으며, 답답함을 풀고 설사를 멎게 하는 데 쓴다고 했다."
+    ],
+    "han": "芋子",
+    "has": true,
+    "ki": "性平一云冷, 味辛, 有毒",
+    "kiKo": "성질은 평하고(차다고도 한다) 맛은 매우며 독이 있다",
+    "old": "토란",
+    "orig": "芋子 性平一云冷, 味辛, 有毒. 寬腸胃, 充肌膚, 滑中, 破宿血, 去死肌. 一名土芝, 處處有之. 生則有毒, 薟不可食. 性滑. 熟則無毒, 甚補益. 和鯽魚作羹, 尤良. 《本草》 園圃中種者可食, 野芋有毒, 不堪啖. 當中出苗者爲芋頭, 四面附芋頭而生者爲芋子. 《本草》 今人呼爲土蓮. 《俗方》 葉 性冷, 無毒. 除煩, 止瀉.",
+    "sources": [
+      {
+        "title": "내손안에 동의보감 - 탕액편 권2 채부 4.2 芋子 (한국한의학연구원)",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2399"
+      }
+    ],
+    "verified": true,
+    "warn": "원문도 날것에는 독이 있다고 적었다. 반드시 익혀 먹는다."
+  },
+  "faq": [
+    {
+      "a": "토란 속 바늘 모양의 수산칼슘 결정이 피부를 자극하기 때문입니다. 비닐장갑을 끼거나 손에 기름을 바르고 손질하세요.",
+      "q": "토란을 손질하면 손이 가려운 이유는?"
+    },
+    {
+      "a": "껍질을 벗겨 쌀뜨물에 담가 두면 됩니다. 아린 맛이 강하면 소금물에 삶아 찬물에 헹군 뒤 조리하고, 날로는 먹지 않습니다.",
+      "q": "토란 아린 맛은 어떻게 빼나요?"
+    },
+    {
+      "a": "흙이 묻고 껍질이 촉촉하며 갈라지거나 마르지 않은 것을 고르세요. 머리가 푸르거나 쉰내가 나는 것은 피하고, 잘랐을 때 속이 흰 것이 좋습니다.",
+      "q": "좋은 토란 고르는 법은?"
+    },
+    {
+      "a": "국산은 모양이 길쭉하고 껍질이 잘 벗겨지며 잔뿌리가 적다고 소개됩니다.",
+      "q": "국산 토란과 중국산은 어떻게 구별하나요?"
+    },
+    {
+      "a": "냉장고에 넣지 말고, 흙이 묻은 채 젖은 신문지에 싸서 10~15℃의 서늘한 곳에 두세요. 삶은 토란대는 밀봉해 냉동하면 됩니다.",
+      "q": "토란은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "추석 무렵 다시마·소고기·무를 넣은 토란국이 대표적이고, 조림·전으로도 먹는다. 말린 토란대는 육개장·들깻국에 넣거나 볶아 나물로 먹는다.",
+    "eng": "Taro",
+    "family": "천남성과(Araceae)",
+    "grade": "흙이 묻어 있고 껍질에 촉촉한 물기가 있으며, 마르거나 갈라지지 않고 머리 부분이 푸르지 않으며 쉰내가 없는 것이 좋다. 잘랐을 때 속이 희고 끈적임과 윤기가 있는 것을 고른다. 국내산은 중국산보다 모양이 길쭉하고 껍질이 잘 벗겨지며 잔뿌리가 적다고 소개된다.",
+    "habitat": "재배 작물. 원산지는 인도와 그 주변의 덥고 습한 지대로 보며, 우리나라에는 고려시대 이전에 들어온 것으로 여겨진다.",
+    "look": {
+      "flower": "재배 중에는 꽃이 거의 피지 않고, 더운 해 가을에 드물게 노란 불염포에 싸인 꽃차례가 나온다.",
+      "leaf": "뿌리에서 돋은 긴 잎자루 끝에 길이 30~50cm의 넓은 달걀꼴~심장꼴 잎이 달린다. 잎자루가 잎 밑동에서 조금 올라간 곳에 붙어 방패 모양이 되고, 잎끝은 아래로 처진다. 잎 표면은 매끄럽다.",
+      "root": "땅속 알줄기는 타원형으로 겉이 섬유질 껍질로 덮여 있고, 가운데 어미 토란 둘레에 새끼 토란이 붙는다. 껍질을 벗기면 속살이 희다.",
+      "stem": "줄기는 땅 위로 거의 자라지 않고, 땅 위에 보이는 것은 1m 안팎의 잎자루(토란대)다."
+    },
+    "parts": "알줄기(토란), 잎자루(토란대), 잎",
+    "prep": "날로 먹지 않는다. 토란에는 바늘 모양의 수산칼슘(옥살산칼슘) 결정이 들어 있어 날것을 먹거나 맨손으로 만지면 입안·피부가 따갑고 가려울 수 있다. 손질할 때는 비닐장갑을 끼거나 손에 기름을 바르고, 껍질을 조금 두껍게 벗긴다. 벗긴 토란은 쌀뜨물에 담가 미끈거림과 아린 맛을 빼고, 아린 맛이 강하면 소금물에 삶아 찬물에 헹군 뒤 조리한다. 토란대는 겉의 질긴 섬유질을 벗겨 말렸다가 삶아 쓰고, 말린 잎은 하루쯤 물에 담갔다가 삶는다.",
+    "sci": "Colocasia esculenta (L.) Schott",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "토란 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0059170"
+      },
+      {
+        "title": "토란 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%ED%86%A0%EB%9E%80"
+      },
+      {
+        "title": "농촌진흥청 웹진: 땅 속의 계란 토란 (2022.9)",
+        "url": "https://www.rda.go.kr/webzine/2022/09/sub4-2.html"
+      },
+      {
+        "title": "농촌진흥청 웹진: 구황작물에서 가을 보약으로 (2024.9)",
+        "url": "https://rda.go.kr/webzine/2024/09/sub1-7.html"
+      },
+      {
+        "title": "대한민국 정책브리핑: 섬유질이 풍부해 대장암 예방에 도움 되는 식재료는? (2020)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148878152"
+      },
+      {
+        "title": "Impact of Cooking Duration on Calcium Oxalate Needle-like Crystals in Plants: A Case Study of Vegetable Taro Flowers in Yunnan (Foods, 2024)",
+        "url": "https://mdpi-res.com/d_attachment/foods/foods-13-03730/article_deploy/foods-13-03730.pdf"
+      },
+      {
+        "title": "The effect of soaking and cooking on the oxalate content of taro leaves (Int J Food Sci Nutr, 2006)",
+        "url": "https://agris.fao.org/search/en/records/65df28d00f3e94b9e5d5b309"
+      }
+    ],
+    "store": "냉장고보다 흙이 묻은 채 젖은 신문지나 키친타월에 싸서 10~15℃의 서늘하고 바람이 통하는 곳에 둔다. 손질한 토란은 물기를 닦아 밀봉하고, 삶은 토란대는 밀봉해 냉동하면 오래 쓸 수 있다.",
+    "taste": "익히면 미끈한 점액질이 있고 담백하다. 날것이나 덜 우린 것은 아린 맛이 나며, 어미 토란은 떫은맛이 강하다."
+  },
+  "lookSources": [
+    {
+      "title": "Toxi-infection alimentaire après consommation de tiges d'Alocasia au Japon (MesVaccins.net, 2022)",
+      "url": "https://www.mesvaccins.net/web/news/19881-toxi-infection-alimentaire-apres-consommation-de-tiges-d-alocasia-au-japon"
+    },
+    {
+      "title": "APAMT 15th Poster Abstract PO-56 (Alocasia, Japan)",
+      "url": "https://www.apamt.org/wp-content/uploads/2017/07/15th_Poster_Abstract_PO-56.pdf"
+    },
+    {
+      "title": "NYBG Plant Talk - taro",
+      "url": "https://www.nybg.org/blogs/plant-talk/tag/taro"
+    },
+    {
+      "title": "토란 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0059170"
+    },
+    {
+      "title": "농촌진흥청 웹진: 땅 속의 계란 토란 (2022.9)",
+      "url": "https://www.rda.go.kr/webzine/2022/09/sub4-2.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "관상용으로 기르는 알로카시아(Alocasia 속)는 같은 천남성과로 잎과 잎자루가 토란과 비슷해, 일본에서는 토란 줄기로 잘못 알고 먹어 식중독이 난 사례가 여럿 있다. 온몸에 수산칼슘 바늘 결정이 많아 먹으면 입·혀·목이 붓고 타는 듯 아프다.",
+      "name": "알로카시아",
+      "points": [
+        "토란 잎은 끝이 아래로 처진 심장 모양이고, 알로카시아 잎은 화살촉처럼 위를 향하는 경우가 많다.",
+        "토란은 잎자루가 잎몸 밑동에서 조금 안쪽에 붙어 방패 모양이 된다.",
+        "알로카시아는 실내·정원 관상식물로 팔리는 것이므로, 화분이나 조경용으로 기른 비슷한 잎·줄기는 먹지 않는다.",
+        "출처가 확실한 식용 토란대만 사고, 먹고 입안이 타는 듯하면 바로 뱉는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "수입 토란은 먹어도 해롭지는 않지만, 국산과 생김새에 차이가 있다고 농촌진흥청이 소개한다.",
+      "name": "중국산 토란",
+      "points": [
+        "국내산은 모양이 길쭉한 타원형이다.",
+        "국내산은 껍질이 잘 벗겨진다.",
+        "국내산은 수염뿌리가 적게 붙어 있다.",
+        "껍질을 벗겼을 때 속살이 흰 것을 고른다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Experimental Pharmacology",
+        "note": "토란 성분과 세포·동물 실험에서 보고된 활성을 정리하고, 사람 대상 근거가 부족해 안전성·임상 연구가 필요하다고 밝혔다.",
+        "title": "Colocasia Esculenta as a Potential Plant-Based Medicine: A Review on Its Bioactive Constituents and Pharmacological Activities",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/a604a0cec251411ea3398545e495c46c",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Science and Technology",
+        "note": "토란의 전분·점액질·무기질 등 영양 조성과 식품 활용을 정리했으며, 옥살산염 같은 항영양 성분 때문에 날로 먹기 어렵다고 짚었다.",
+        "title": "Taro [Colocasia esculenta (L.) Schott]: a critical review of its nutritional value and potential for food application",
+        "type": "리뷰",
+        "url": "https://doi.org/10.5327/fst.00118",
+        "year": "2023"
+      },
+      {
+        "journal": "Foods",
+        "note": "토란 꽃을 100℃에서 오래 찔수록 수산칼슘 바늘 결정의 수·길이·날카로움이 줄어든 것을 관찰한 조리 실험이다.",
+        "title": "Impact of Cooking Duration on Calcium Oxalate Needle-like Crystals in Plants: A Case Study of Vegetable Taro Flowers in Yunnan",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods13233730",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 토란의 영양 성분과 식품 활용, 아린 맛의 원인인 수산칼슘 결정을 줄이는 조리법, 실험실에서 보고된 생리활성을 다룬다. 항산화·항균 등 활성은 대부분 세포·동물 실험 단계이고 사람 대상 근거는 부족하다고 리뷰가 정리한다. 조리 연구에서는 오래 찌면 수산칼슘 바늘 결정이 줄고 무뎌지는 것이 관찰되었다."
+  },
+  "name": "토란",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792660004727
+}

@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "열매는 7~8월에 붉게 익습니다. 꽃은 그보다 앞선 4~5월에 핍니다.",
+      "q": "줄딸기는 언제 따나요?"
+    },
+    {
+      "a": "잎을 보면 됩니다. 줄딸기는 작은잎이 5~9장(흔히 7장)이고 4~5월에 꽃이 피며, 멍석딸기는 작은잎이 3~5장으로 둥글고 뒷면이 희며 5~6월에 꽃이 핍니다.",
+      "q": "줄딸기와 멍석딸기는 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닙니다. 약재 '복분자'는 복분자딸기의 덜 익은 열매를 말하고, 줄딸기 열매는 여기에 쓰이지 않습니다. 복분자딸기 열매는 검게 익고 줄딸기 열매는 붉게 익습니다.",
+      "q": "줄딸기 열매를 복분자로 팔아도 되나요?"
+    },
+    {
+      "a": "뱀딸기는 노란 꽃이 피는 키 작은 풀이고, 줄딸기는 가시 있는 줄기가 길게 뻗는 나무입니다. 뱀딸기 열매는 딸기처럼 겉에 씨가 박혀 있고 맛이 싱겁습니다.",
+      "q": "뱀딸기와 헷갈리지 않나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "한반도 전역에 나며 주로 백두대간을 따라 분포한다. 중국 내륙과 일본(혼슈~규슈)에도 자란다.",
+    "look": {
+      "flower": "4~5월 전년도 가지에 연한 붉은색(가끔 흰색) 꽃이 피고, 꽃자루와 꽃받침에 가시가 있다.",
+      "fruit": "7~8월에 붉은색으로 익는다.",
+      "leaf": "작은잎 5~9장(흔히 7장)이 깃털처럼 붙은 겹잎이고 작은잎은 달걀 모양이다.",
+      "stem": "줄기가 덩굴처럼 옆으로 2m 넘게 뻗으며, 붉은빛이 돌고 흰 가루가 덮인다. 줄기와 잎자루에 샘털은 없다."
+    },
+    "parts": "익은 열매",
+    "prep": "열매가 무르기 쉬우므로 먹기 직전에 흐르는 물에 살살 헹군다.",
+    "sci": "Rubus pungens var. oldhamii (Miq.) Maxim.",
+    "season": {
+      "collect": [
+        7,
+        8
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 줄딸기 기재문",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5602/descriptions"
+      },
+      {
+        "title": "Flora of Korea - 줄딸기",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5602"
+      },
+      {
+        "title": "Flora of Korea(국립생물자원관 한반도 식물지) - 산딸기속 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea(국립생물자원관 한반도 식물지) - 산딸기속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5591"
+    },
+    {
+      "title": "Flora of Korea - 멍석딸기",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5604"
+    },
+    {
+      "title": "Flora of Korea - 복분자딸기",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5596"
+    },
+    {
+      "title": "Flora of Korea - 산딸기",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5597"
+    },
+    {
+      "title": "NC State Extension Plant Toolbox - Potentilla indica(뱀딸기)",
+      "url": "https://plants.ces.ncsu.edu/plants/potentilla-indica"
+    },
+    {
+      "title": "Quantification of Antidepressant Miquelianin in Mature and Immature Fruits of Korean Rubus Species (Natural Product Sciences, 2014)",
+      "url": "https://koreascience.kr/article/JAKO201402852974818.do"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "멍석딸기(Rubus parvifolius)는 작은잎이 3~5장으로 둥글고 뒷면에 흰 털이 빽빽하며, 5~6월에 꽃이 핀다.",
+      "name": "멍석딸기",
+      "points": [
+        "멍석딸기 작은잎은 3~5장이고 둥근 편이며 잎 뒷면이 흰 털로 희게 보인다.",
+        "멍석딸기는 가지 끝이 땅에 닿아 뿌리를 내리며 멍석처럼 퍼진다.",
+        "멍석딸기 붉은 꽃잎은 꽃받침보다 짧고 위를 향해 오므린 듯 핀다.",
+        "멍석딸기는 5~6월에, 줄딸기는 4~5월에 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "복분자딸기(Rubus coreanus)는 줄기가 곧게 자라다 휘고 흰 가루가 덮이며, 열매가 붉었다가 검게 익는다. 생약 '복분자'는 복분자딸기의 덜 익은 열매를 말한다.",
+      "name": "복분자",
+      "points": [
+        "복분자딸기의 어린 줄기는 자줏빛 붉은색에 흰 가루가 덮여 있다.",
+        "복분자딸기 작은잎은 보통 5장(가끔 7장)이고 가시는 갈고리 모양이다.",
+        "복분자딸기 열매는 붉다가 다 익으면 검은색이 되고, 줄딸기·멍석딸기 열매는 붉은색으로 익는다.",
+        "복분자딸기는 5~6월에 연한 붉은 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "산딸기(Rubus crataegifolius)는 잎이 겹잎이 아닌 홑잎(3~5갈래로 갈라짐)이고 흰 꽃이 피는 곧선 떨기나무다.",
+      "name": "산딸기",
+      "points": [
+        "산딸기 잎은 한 장짜리 잎이 손바닥처럼 3~5갈래로 갈라지고, 줄딸기·멍석딸기는 작은잎 여러 장으로 된 겹잎이다.",
+        "산딸기 꽃은 흰색이고 6월경 핀다.",
+        "산딸기는 줄기가 곧게 서서 2m 정도 자라고 뿌리에서 새순을 내어 무리를 이룬다.",
+        "산딸기 열매는 약간 노란빛이 도는 붉은색이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "뱀딸기(Potentilla indica, 이전 학명 Duchesnea indica)는 나무가 아닌 키 작은 풀로, 노란 꽃이 피고 딸기 모양 붉은 열매를 맺지만 맛이 싱겁고 퍼석하다.",
+      "name": "뱀딸기",
+      "points": [
+        "뱀딸기는 땅을 기는 풀이라 가시 있는 나무줄기가 없다.",
+        "뱀딸기 꽃은 노란색 다섯잎 꽃이고, 산딸기속 식물 꽃은 붉거나 흰색이다.",
+        "뱀딸기 열매는 겉에 작은 씨가 박힌 딸기 모양이고, 산딸기속 열매는 작은 알갱이가 모인 모양이다.",
+        "뱀딸기 잎은 작은잎 3장짜리 겹잎이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "2023~2026년에 줄딸기(Rubus pungens var. oldhamii)를 다룬 논문은 찾지 못함. 2014년 국내 연구에서는 한방의 '복분자'는 복분자딸기의 덜 익은 열매를 말하며 줄딸기 열매는 여기에 쓰이지 않는다고 적었다."
+  },
+  "name": "줄딸기",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792832316687
+}

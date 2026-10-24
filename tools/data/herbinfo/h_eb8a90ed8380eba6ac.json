@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹지 마세요. 독버섯인 화경버섯·삿갓외대버섯이 느타리와 매우 닮아 중독 사고가 나며, 농촌진흥청과 산림청은 믿을 수 있는 농가 재배 버섯만 먹으라고 권합니다.",
+      "q": "산에서 느타리처럼 생긴 버섯을 따 먹어도 되나요?"
+    },
+    {
+      "a": "갓이 너무 크게 퍼지지 않은 것을 고르세요. 한국민족문화대백과사전은 갓 지름 2~3cm 정도가 좋고 너무 크면 상품 가치가 떨어진다고 설명합니다.",
+      "q": "좋은 느타리는 어떻게 고르나요?"
+    },
+    {
+      "a": "재배 느타리는 계절별로 재배해 1년 내내 나옵니다. 야생 느타리는 주로 10~12월과 3~4월에 납니다.",
+      "q": "느타리 제철은 언제인가요?"
+    },
+    {
+      "a": "냉장고(3℃ 안팎)에 보관하고 되도록 빨리 드세요. 랩으로만 싸 두면 약 6일 만에 이취가 났다는 연구가 있습니다.",
+      "q": "느타리는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "국거리, 데쳐서 무친 나물, 볶음, 부침개, 전골 등으로 익혀 먹는다.",
+    "eng": "Oyster mushroom",
+    "family": "느타리과",
+    "grade": "한국민족문화대백과사전은 느타리 갓 지름이 2~3cm 정도인 것이 좋고 너무 커지면 상품 가치가 떨어진다고 설명한다. 농촌진흥청 등의 공식 등급 기준은 이번 조사에서 확인하지 못했다.",
+    "habitat": "야생 느타리는 가을에 전국의 참나무·오리나무·미루나무·버드나무 같은 활엽수의 죽은 줄기, 쓰러진 나무, 잘린 그루터기에 무리 지어 난다. 시중 느타리는 대부분 농가에서 볏짚·톱밥 배지, 병재배, 원목으로 재배한 것이다.",
+    "look": {
+      "leaf": "갓은 회백색이나 연한 회갈색이며 반원이나 부채 모양이다.",
+      "stem": "대는 짧고, 여러 개체가 나무 한곳에 몰려 겹겹이 난다."
+    },
+    "parts": "자실체(갓과 대)",
+    "prep": "익혀 먹는다. 야생에서 느타리처럼 보이는 버섯을 직접 따서 먹는 것은 독버섯(화경버섯·삿갓외대버섯 등)과 혼동할 위험이 커 피하고, 농가에서 재배한 것을 산다.",
+    "sci": "Pleurotus ostreatus (Jacq.) P. Kumm.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        10,
+        11,
+        12
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "느타리버섯 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013308"
+      },
+      {
+        "title": "농사로 - 느타리버섯 생육과정",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psb/psbl/workScheduleDtl.ps?menuId=PS00087&cntntsNo=30733"
+      },
+      {
+        "title": "수확후 CO2 처리 및 포장필름 종류가 '곤지-7호' 느타리버섯의 저장 중 품질에 미치는 영향 (한국자원식물학회 2019 춘계학술대회)",
+        "url": "https://koreascience.kr/article/CFKO201921956453750.pdf"
+      },
+      {
+        "title": "느타리 배지 및 자실체 미생물 군집 변화 (Journal of Mushrooms, 2024)",
+        "url": "https://koreascience.or.kr/article/JAKO202421461822956.pdf"
+      },
+      {
+        "title": "국내 자생 버섯 18%만 식용 가능 (농촌진흥청·산림청 발표 인용, 데일리안)",
+        "url": "https://www.dailian.co.kr/news/view/1549083/"
+      }
+    ],
+    "store": "냉장(3℃ 안팎) 보관한다. 학술대회 발표에서 랩으로만 싼 느타리는 3℃에서 약 6일이면 이취가 나 상품성이 떨어졌고, 통기성을 맞춘 OPP 필름 포장은 20일 안팎까지 품질이 유지되었다.",
+    "taste": "삶거나 익히면 부드러워지고 입안의 감촉이 좋다."
+  },
+  "lookSources": [
+    {
+      "title": "농사로 농(農)영상 - 식용버섯과 독버섯 (국립원예특작과학원 협조)",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psb/psby/vodPlay.ps?mvpNo=465"
+    },
+    {
+      "title": "KISTI 과학향기 칼럼 인용 기사 (아이뉴스24)",
+      "url": "https://www.inews24.com/view/935050"
+    },
+    {
+      "title": "국내 자생 버섯 18%만 식용 가능 (농촌진흥청·산림청 발표 인용, 데일리안)",
+      "url": "https://www.dailian.co.kr/news/view/1549083/"
+    },
+    {
+      "title": "느타리버섯 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013308"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "나무에 나는 독버섯(Omphalotus japonicus)으로, 느타리와 생김새가 매우 비슷해 전문가가 아니면 구별하기 어렵고 느타리로 착각하기 쉽다.",
+      "name": "화경버섯",
+      "points": [
+        "버섯을 세로로 쪼개면 화경버섯은 나무에 붙어 있던 대 부분에 검은(암갈색) 큰 반점이 보인다.",
+        "갓 표면에 암갈색 작은 비늘 조각이 있으면 먹지 않는다.",
+        "색·냄새·벌레 먹은 흔적·은수저 변색 같은 민간 구별법은 근거가 없으므로 야생 느타리는 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "'땅에서 나는 느타리'라고 불릴 만큼 느타리와 닮아 중독 사고가 잦은 독버섯이다. 8월 말~9월 말에 주로 난다.",
+      "name": "삿갓외대버섯",
+      "points": [
+        "느타리는 죽은 나무에 붙어 나는 데 비해, 삿갓외대버섯은 '땅에서 나는 느타리'라는 별명처럼 땅에서 난다.",
+        "늦여름~초가을(8월 말~9월 말) 숲에서 땅에 난 느타리 비슷한 버섯은 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Nutrition & Metabolism",
+        "note": "성인 46명이 4주간 느타리 분말을 먹었으나 LDL 콜레스테롤은 변하지 않았고, 사후 분석에서 콜레스테롤 흡수 지표 변화가 일부 관찰되었다.",
+        "title": "Effects of regular consumption of a β-glucan-rich oyster mushroom powder on cholesterol metabolism in adults with moderately elevated LDL-cholesterol concentrations: a double-blind randomized controlled trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1186/s12986-026-01122-3",
+        "year": "2026"
+      },
+      {
+        "journal": "Food & Function",
+        "note": "건강한 노인 33명에게 느타리 수프를 한 번 먹인 교차 시험으로, 기분과 식후 염증 지표에 일부 차이가 보고되었다(종은 Pleurotus 느타리로만 표기).",
+        "title": "A randomised controlled study to investigate the cognitive, mood, metabolic and anti-inflammatory effects of acute oyster mushroom intervention in healthy older adults",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1039/D5FO03075G",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Future Foods",
+        "note": "느타리의 다당류·단백질·폴리페놀 등 성분 추출법과 실험실에서 보고된 작용을 정리했다.",
+        "title": "Extraction and bioactivities of the chemical composition from Pleurotus ostreatus: a review",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/44cf99feeb1f4b0d958600f1d1bfc4d6",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Mushrooms",
+        "note": "국내 병재배 느타리의 배지와 자실체에서 미생물 군집이 어떻게 바뀌는지 분석한 재배 연구다.",
+        "title": "느타리 배지 및 자실체 미생물 군집 변화 (Changes in the microbial community of substrate and fruit body of Pleurotus ostreatus)",
+        "type": "기타",
+        "url": "https://doi.org/10.14480/JM.2024.22.2.67",
+        "year": "2024"
+      }
+    ],
+    "summary": "느타리는 사람 대상 무작위 대조 연구가 몇 편 있지만, 규모가 작고 기간이 짧으며 결과도 엇갈린다. 예를 들어 4주 동안 분말을 먹은 시험에서 LDL 콜레스테롤은 달라지지 않았다. 항산화 같은 성분 작용은 주로 실험실 연구에서 나온 결과다."
+  },
+  "name": "느타리",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "느타리버섯 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013308"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 느타리의 한자 이름으로 천화심(天花蕈)과 만이(晩栮)를 들고 있다. 중국에서는 목이·표고 등과 함께 느타리를 다섯 가지 대표 버섯(오심, 五蕈)으로 꼽았다고 한다. 예부터 국거리, 나물, 구이, 부침개, 전골감 등 음식 재료로 써 왔다."
+  },
+  "updatedAt": 1792487178148
+}

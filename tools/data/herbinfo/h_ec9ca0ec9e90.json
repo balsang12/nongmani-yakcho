@@ -1,0 +1,164 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "柚子",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "국산 노란 유자는 늦가을, 보통 11월 무렵에 본격적으로 수확합니다. 고흥 등 남해안 주산지에서 이 시기에 수확과 수매가 시작됩니다.",
+      "q": "유자 제철은 언제인가요?"
+    },
+    {
+      "a": "잎을 보면 가장 쉽게 구별됩니다. 탱자는 작은잎 3장짜리 겹잎이고 겨울에 잎이 지며 열매에 잔털이 있지만, 유자는 늘푸른나무로 날개 달린 잎자루에 잎이 한 장씩 붙고 열매가 더 크고 울퉁불퉁합니다.",
+      "q": "유자와 탱자는 어떻게 구별하나요?"
+    },
+    {
+      "a": "네, 유자는 껍질째 얇게 썰어 유자청이나 차로 쓰는 것이 일반적입니다. 그래서 겉을 깨끗이 씻어서 손질해야 합니다.",
+      "q": "유자는 껍질째 먹나요?"
+    },
+    {
+      "a": "얇게 썬 유자를 꿀이나 설탕에 재워 서늘하고 건조한 곳에 2~3주 두면 맑은 즙이 우러나 쓸 수 있습니다. 차로 마실 때는 유자청을 컵에 넣고 뜨거운 물을 붓습니다.",
+      "q": "유자청은 어떻게 만들고 두나요?"
+    }
+  ],
+  "id": {
+    "eat": "유자청을 뜨거운 물에 타서 유자차로 마시는 것이 대표적이며, 화채나 약과 같은 음식에도 유자청을 넣는다. 얇게 썬 조각이나 껍질을 끓는 물에 우려 마시기도 한다.",
+    "eng": "Yuzu",
+    "family": "운향과",
+    "grade": "",
+    "habitat": "추위에 약해 추운 곳에서는 기르지 못하고, 경남·전남 바닷가 등 남해안 따뜻한 지역에서 과수로 재배한다. 주산지로는 고흥·거제·남해·고성·완도 등이 꼽힌다.",
+    "look": {
+      "flower": "향기가 있는 흰 꽃이 핀다.",
+      "fruit": "지름 5.5~7.5cm 안팎의 둥근 열매로 껍질이 울퉁불퉁하고, 덜 익으면 초록색, 익으면 노란색이 된다.",
+      "leaf": "늘푸른 잎이 어긋나게 붙고, 잎자루에 잎처럼 넓은 날개가 달려 있으며 잎을 비비면 향이 강하다.",
+      "smell": "열매 껍질과 잎에서 유자 특유의 진한 시트러스 향이 난다.",
+      "stem": "높이 5m 안팎의 늘푸른 떨기나무~작은 나무로, 가지에 길고 뾰족한 가시가 있다."
+    },
+    "parts": "열매(껍질과 과육을 함께 씀)",
+    "prep": "껍질째 쓰는 과일이므로 겉을 깨끗이 씻은 뒤 얇게 썰어 쓴다. 유자청은 얇게 썬 유자를 꿀이나 설탕에 재워 서늘하고 건조한 곳에 2~3주 두어 맑은 즙이 우러나면 쓴다.",
+    "sci": "Citrus junos Siebold ex Tanaka",
+    "season": {
+      "collect": [
+        11
+      ],
+      "flower": [
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 유자나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0041775"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 유자차",
+        "url": "https://encykorea.aks.ac.kr/Article/E0041782"
+      },
+      {
+        "title": "Physicochemical Properties, Free Sugar and Volatile Compounds of Korean Citrons Cultivated in Different Areas (한국식품영양과학회지, 2010)",
+        "url": "https://koreascience.kr/article/JAKO201005364712305.do"
+      },
+      {
+        "title": "유자과피 열수 추출물의 항산화 활성 (Journal of Life Science, 2008)",
+        "url": "https://koreascience.kr/article/JAKO200805441024814.pdf"
+      },
+      {
+        "title": "Wikipedia - Yuzu",
+        "url": "https://en.wikipedia.org/wiki/Yuzu"
+      },
+      {
+        "title": "고흥군 2025년산 고흥 유자 수확·수매 시작 (위키트리)",
+        "url": "https://www.wikitree.co.kr/articles/1096569"
+      }
+    ],
+    "store": "유자청으로 만들어 서늘하고 건조한 곳에 두고 쓴다.",
+    "taste": "신맛이 강하고 껍질에서 진한 향이 난다. 껍질 향의 주성분은 리모넨이다."
+  },
+  "lookSources": [
+    {
+      "title": "UConn Plant Database - Poncirus trifoliata",
+      "url": "https://plantdatabase.uconn.edu/detail.php?pid=339"
+    },
+    {
+      "title": "USGS PlantID - Poncirus trifoliata",
+      "url": "https://warcapps.usgs.gov/PlantID/Species/Details/558"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 유자나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0041775"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "탱자나무(Poncirus trifoliata)는 같은 운향과로 가시와 노란 열매가 비슷하지만, 잎이 작은잎 3장짜리 겹잎이고 겨울에 잎이 지는 나무이며 열매 겉에 잔털이 있다. 날로 먹는 과일이 아니고 덜 익은 열매는 한약재(지실)로 쓴다.",
+      "name": "탱자",
+      "points": [
+        "잎이 작은잎 3장으로 된 겹잎이면 탱자, 홑잎 하나에 날개 달린 잎자루가 붙어 있으면 유자다.",
+        "탱자는 겨울에 잎이 모두 떨어지고, 유자는 늘푸른나무라 겨울에도 잎이 있다.",
+        "탱자 열매는 지름 4cm 안팎으로 작고 겉에 솜털이 있으며, 유자는 더 크고 털이 없이 울퉁불퉁하다.",
+        "탱자 줄기는 초록색이고 단면이 각진 편이며 굵은 가시가 많다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Research International",
+        "note": "유자 과육과 과피의 화학 성분 구성을 비교하고 주요 생리활성 성분을 찾은 성분 분석 연구다.",
+        "title": "Comparison of chemical profiles and identification of key bioactive compound in yuzu (Citrus junos) pulp and peel.",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42632710/",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrition Research and Practice",
+        "note": "나린진·헤스페리딘이 많은 풋유자 껍질 추출물의 항비만 작용을 세포와 동물에서 살펴본 연구로, 사람에게 같은 효과가 있는지는 확인되지 않았다.",
+        "title": "Anti-obesity effects of ethanol extract of green Citrus junos peel enriched in naringin and hesperidin in vitro and in vivo.",
+        "type": "동물 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39959742/",
+        "year": "2025"
+      },
+      {
+        "journal": "Arerugi",
+        "note": "캐슈너트 알레르기와 관련된 감귤류 씨앗 알레르기 사례 보고로, 유자 씨앗 관련 알레르기 가능성을 다룬 일본 학술지 논문이다.",
+        "title": "[A CASE OF CASHEW NUT-RELATED CITRUS SEED ALLERGY WITH SUSPECTED CITRIN INVOLVEMENT].",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39551505/",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Medicinal Food",
+        "note": "유자즙과 농축액이 면역세포(RAW264.7)와 쥐 비장세포에서 면역 관련 사이토카인 분비에 주는 영향을 본 실험실 연구다.",
+        "title": "Yuja Juice and Concentrate Enhance Immunomodulating Effects via Increasing Immune-Related Cytokines",
+        "type": "동물 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37347980/",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 유자 과피·과육의 성분 분석과, 추출물을 쓴 세포·동물 실험(항비만, 면역 반응 등)이 대부분이다. 사람을 대상으로 한 임상시험은 이번 검색(PubMed, 2023~2026)에서 찾지 못했으므로 건강 효과는 아직 실험실 단계 근거로 보아야 한다."
+  },
+  "name": "유자",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 유자나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0041775"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 덜 익은 유자 열매를 약으로 써 왔으며, 성질은 서늘하고 맛은 시다고 적었다. 구역질·구토·소화불량·술독(주독) 등에 썼다고 소개한다. 또 씨가 싹이 잘 터서 감귤나무의 대목(접붙이는 밑나무)으로도 쓰였다."
+  },
+  "updatedAt": 1792832316687
+}

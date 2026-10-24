@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "산 개암은 9~10월에 익습니다. 종 모양 총포가 갈색으로 변하면 수확할 때입니다.",
+      "q": "개암 제철은 언제인가요?"
+    },
+    {
+      "a": "같은 개암나무속 열매지만 시중 헤이즐넛은 대부분 유럽개암나무 열매이고, 개암은 우리 산에 자라는 개암나무 열매입니다. 원산지·품종 표시로 구별합니다.",
+      "q": "개암과 헤이즐넛은 같은 건가요?"
+    },
+    {
+      "a": "며칠 그늘에서 말린 뒤 2~4℃ 냉장 보관하면 3개월 넘게 둘 수 있습니다. 기름이 많아 산패하기 쉬우니 진공포장하면 좋습니다.",
+      "q": "개암은 어떻게 보관하나요?"
+    },
+    {
+      "a": "총포가 짧은 종 모양(1.5~2.5cm)이면 개암나무, 견과보다 훨씬 긴 대롱 모양(4~5cm)이면 물개암나무입니다.",
+      "q": "산에서 본 열매가 개암인지 물개암인지 어떻게 아나요?"
+    }
+  ],
+  "id": {
+    "eat": "껍데기를 깨 생으로 먹거나 볶아 간식으로 먹는다.",
+    "eng": "Siberian filbert (Siberian hazel)",
+    "family": "자작나무과",
+    "grade": "",
+    "habitat": "전국의 산과 들에 자라는 갈잎 떨기나무. 조선 초 지리지에도 경상·전라·경기·충청·강원에서 난다고 적혀 있다.",
+    "look": {
+      "flower": "3월에 묵은 가지에서 길이 4cm쯤 되는 수꽃 이삭이 2~5개씩 아래로 늘어진다. 한 그루에 암꽃과 수꽃이 함께 핀다.",
+      "fruit": "잎처럼 생긴 종 모양 총포(길이 1.5~2.5cm, 가장자리가 삼각형으로 갈라짐)가 견과를 감싼다. 견과는 둥글고 갈색이며 9~10월에 익는다.",
+      "leaf": "어긋나는 둥근꼴~거꿀달걀꼴 잎으로 길이 5~12cm, 끝은 짧게 뾰족하고 가장자리에 불규칙한 겹톱니가 있다. 잎 앞면에 자주색 얼룩이 보이기도 하고, 잎이 얕게 갈라진 개체(난티잎개암나무)도 섞여 난다."
+    },
+    "parts": "열매(딱딱한 껍데기 속 알맹이)",
+    "prep": "총포를 벗기고 딱딱한 껍데기를 깨서 속 알맹이를 먹는다. 수확 후 며칠 그늘에서 말려 둔다.",
+    "sci": "Corylus heterophylla Fisch. ex Trautv.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        3
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 개암나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0001689"
+      },
+      {
+        "title": "한국의 수목 - Corylus heterophylla (florakorea)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5095"
+      },
+      {
+        "title": "국립산림과학원 개암나무(헤이즐넛) 재배기술 자료",
+        "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_01_11.pdf"
+      }
+    ],
+    "store": "그늘에서 며칠 말린 뒤 2~4℃에서 저장하면 3개월 넘게 둘 수 있다. 기름이 많아 산패하기 쉬우므로 진공포장하면 좋다.",
+    "taste": "땅콩이나 호두와 비슷한 고소한 맛이 나며 지방과 단백질이 많다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 - 물개암나무 (florakorea)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5097"
+    },
+    {
+      "title": "한국의 수목 - Corylus heterophylla (florakorea)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5095"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 개암나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0001689"
+    },
+    {
+      "title": "국립산림과학원 개암나무(헤이즐넛) 재배기술 자료",
+      "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_01_11.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "물개암나무(Corylus sieboldiana var. mandshurica)는 전국 산에 함께 자라는 개암나무속 나무로, 열매를 감싼 총포 모양이 확연히 다르다.",
+      "name": "물개암나무",
+      "points": [
+        "물개암나무 총포는 길이 4~5cm의 긴 대롱 모양으로 견과보다 훨씬 길게 뻗고, 개암나무 총포는 1.5~2.5cm의 짧은 종 모양이다.",
+        "물개암나무 총포 밑부분에는 갈색 털이 빽빽하고 끝이 깊게 여러 갈래로 갈라진다.",
+        "물개암나무 견과는 달걀꼴이고 지름 1.5cm 안팎이다.",
+        "물개암나무 잎은 위쪽이 깊게 갈라지는 경우가 많다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "참개암나무(Corylus sieboldiana var. sieboldiana)는 우리나라에서는 남부 해안 지역에만 자라며, 물개암나무처럼 총포가 긴 대롱 모양이다.",
+      "name": "참개암나무",
+      "points": [
+        "참개암나무 총포도 견과를 길게 감싸는 대롱 모양이라 짧은 종 모양인 개암나무와 다르다.",
+        "참개암나무는 총포 끝이 좁아지고, 물개암나무는 끝이 좁아지지 않는다는 구별법이 있으나 변이가 크다.",
+        "참개암나무는 남부 해안에만 자라므로 중부 이북 산에서 딴 개암은 대개 개암나무나 물개암나무다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "시중 헤이즐넛은 대부분 유럽개암나무(Corylus avellana) 열매이며, 국내 재배 헤이즐넛은 주로 중국 교잡종이나 '바르셀로나' 계통이다. 산에서 딴 개암과는 다른 재배·수입품이다.",
+      "name": "헤이즐넛",
+      "points": [
+        "세계 상업 생산의 대부분은 유럽개암나무 열매다.",
+        "국내 재배 교잡종 헤이즐넛은 한 알 3~4g 정도로 굵다.",
+        "재배 헤이즐넛은 8월 중하순에 수확하고, 산 개암은 9~10월에 익는다.",
+        "산 개암인지 수입·재배품인지는 포장의 원산지·품종 표시로 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Science (食品科学)",
+        "note": "개암과 유럽개암나무 교잡종의 잎·가지 등 부산물 추출물에서 항산화 활성이 페놀 함량과 함께 높게 측정됐다는 시험관 연구다.",
+        "title": "Different Solvent Extracts from By-products of Corylus heterophylla Fisch. × Corylus avellana L.: Bioactivity Evaluation and Phenolic Composition Analysis by Ultra-high Performance Liquid Chromatography-Mass Spectrometry",
+        "type": "기타",
+        "url": "https://www.spkx.net.cn/EN/Y2024/V45/I1/32",
+        "year": "2024"
+      },
+      {
+        "journal": "한국식품과학회지",
+        "note": "국내산 개암 품종 추출물이 과산화수소로 손상시킨 배양 세포에서 활성산소를 줄이고 세포 생존율을 높였다고 보고했다.",
+        "title": "국내산 개암(Corylus heterophylla)의 항산화 활성 및 세포 보호 효과",
+        "type": "세포 실험",
+        "url": "https://scholarworks.gnu.ac.kr/item/3f376a71-ce11-4ebc-96c3-716e4be7d5cc",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 국내산 개암 품종이나 개암 교잡종 부산물 추출물의 항산화 성분을 시험관·세포 수준에서 살핀 기초 연구다. 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "개암",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 개암나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0001689"
+      }
+    ],
+    "text": "개암은 한자로 진(榛)이라 쓰며, 예부터 과일로 먹었다. 『세종실록지리지』와 『경상도지리지』에는 경상·전라·경기·충청·강원도에서 개암이 난다고 기록돼 있다."
+  },
+  "updatedAt": 1792832316687
+}

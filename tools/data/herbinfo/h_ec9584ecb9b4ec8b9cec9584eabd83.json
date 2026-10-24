@@ -1,0 +1,208 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "네, 같습니다. 우리가 '아카시아'라고 부르는 나무의 바른 이름은 아까시나무(Robinia pseudoacacia)이고, 진짜 아카시아(Acacia)는 국내에서 자라지 않는 다른 나무입니다.",
+      "q": "아카시아꽃과 아까시나무 꽃은 같은 건가요?"
+    },
+    {
+      "a": "5월입니다. 꽃은 5~6월에 피지만 피어 있는 기간이 짧아 5월 중에 따는 경우가 많습니다.",
+      "q": "아카시아꽃 제철은 언제인가요?"
+    },
+    {
+      "a": "아니요, 꽃만 먹습니다. 나무껍질과 씨에는 로빈·로비틴 같은 독성 성분이 있어 껍질·씨·꼬투리는 먹으면 안 됩니다.",
+      "q": "아까시나무의 다른 부위도 먹을 수 있나요?"
+    },
+    {
+      "a": "아까시꽃은 흰색이고 곧게 선 가시 있는 나무에 달리며, 등나무 꽃은 연보라색이고 감고 오르는 덩굴에 달립니다. 등나무는 꽃·꼬투리·씨에 독성이 있어 먹으면 안 됩니다.",
+      "q": "등나무 꽃과 어떻게 구별하나요?"
+    },
+    {
+      "a": "식용 꽃 공통 원칙대로 암술·수술·꽃받침을 떼고 깨끗한 물에 씻어 바로 쓰는 것이 가장 좋습니다. 남으면 밀폐용기에 담아 냉장 보관하고, 도로변 꽃은 따지 않습니다.",
+      "q": "아카시아꽃은 어떻게 손질하고 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "꽃송이에 튀김옷을 입혀 튀기거나, 꽃잎차·꽃술로 담근다.",
+    "eng": "black locust",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "북아메리카 원산으로 19세기 말~20세기 초에 국내에 들어와 심어졌다. 지금은 야산, 하천 제방, 마을 근처 등 전국 낮은 산과 들에서 흔히 자란다.",
+    "look": {
+      "flower": "5~6월 길이 10~20cm 꽃대에 흰 나비 모양 꽃이 포도송이처럼 늘어져 달리고, 꽃잎 밑부분이 노르스름하다.",
+      "fruit": "납작하고 길쭉한 꼬투리(5~10cm)에 흑갈색 씨가 5~10개 들어 있다.",
+      "leaf": "작은잎 9~19장이 깃털 모양으로 달린 겹잎이며, 작은잎은 타원형~달걀꼴로 길이 2.5~4.5cm, 가장자리가 밋밋하다.",
+      "smell": "꽃향기가 매우 진하고 달콤하다.",
+      "stem": "높이 25m까지 자라는 낙엽 큰키나무로 껍질이 황갈색~회색이고 세로로 깊게 갈라진다. 어린 가지의 잎자루 밑에 턱잎이 변한 가시가 한 쌍씩 난다."
+    },
+    "parts": "꽃(흰 꽃송이)",
+    "prep": "먹는 부위는 꽃뿐이다. 나무껍질과 씨에는 로빈(robin, 렉틴 계열 독성 단백질)과 로비틴 등 독성 성분이 있어 동물과 사람에게 중독을 일으킬 수 있고, 껍질이 가장 위험하므로 껍질·씨·꼬투리·어린 가지는 먹지 않는다. 꽃은 식용 꽃 공통 원칙대로 암술·수술·꽃받침을 떼고 깨끗한 물에 씻어 쓴다. 도로변이나 농약을 쳤을 수 있는 곳의 꽃은 따지 않는다.",
+    "sci": "Robinia pseudoacacia L.",
+    "season": {
+      "collect": [
+        5
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 아까시나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034428"
+      },
+      {
+        "title": "매일신문 - 아까시나무 이름과 밀원 (국립국어원·국립산림과학원 인용, 2022)",
+        "url": "https://www.imaeil.com/page/view/2022050414081755652"
+      },
+      {
+        "title": "위키트리 - 아까시나무 (산림청·국립산림과학원 인용)",
+        "url": "https://www.wikitree.co.kr/articles/1139006"
+      },
+      {
+        "title": "IVIS Guide to Poisonous House and Garden Plants - Robinia (Black Locust)",
+        "url": "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/robinia-species-black-locust"
+      },
+      {
+        "title": "Massey University Poisonous Plants of New Zealand - Black locust",
+        "url": "https://poisonousplants.massey.ac.nz/data/black_locust/bl-locust.html"
+      },
+      {
+        "title": "Washington College Center for Environment & Society - Black Locust",
+        "url": "https://www.washcoll.edu/learn-by-doing/ces/plants/fabaceae/robinia-pseudoacacia.php"
+      },
+      {
+        "title": "코메디닷컴 - 식의약청 식용 꽃 손질·보관 안내 (2012)",
+        "url": "https://kormedi.com/1203165/"
+      },
+      {
+        "title": "농촌진흥청 웹진 - 식용 꽃 손질과 보관 (2025년 4월)",
+        "url": "https://rda.go.kr/webzine/2025/04/sub_45.html"
+      }
+    ],
+    "store": "따서 바로 쓰는 것이 가장 좋고, 남으면 마르지 않게 밀폐용기에 담아 냉장 보관한다.",
+    "taste": "꽃을 씹으면 달콤하고 향기가 강하다."
+  },
+  "lookSources": [
+    {
+      "title": "Poison Control (National Capital Poison Center) - Virginia Creeper and Wisteria Toxicity",
+      "url": "https://poison.org/articles/virginia-creeper-and-wisteria-toxicity-192"
+    },
+    {
+      "title": "내 손안에 서울 - 회화나무",
+      "url": "https://mediahub.seoul.go.kr/archives/592105"
+    },
+    {
+      "title": "매일신문 - 아까시나무 이름과 밀원 (국립국어원·국립산림과학원 인용, 2022)",
+      "url": "https://www.imaeil.com/page/view/2022050414081755652"
+    },
+    {
+      "title": "위키트리 - 아까시나무 (산림청·국립산림과학원 인용)",
+      "url": "https://www.wikitree.co.kr/articles/1139006"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 아까시나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034428"
+    },
+    {
+      "title": "IVIS Guide to Poisonous House and Garden Plants - Robinia (Black Locust)",
+      "url": "https://www.ivis.org/library/guide-to-poisonous-house-and-garden-plants/robinia-species-black-locust"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "등나무(Wisteria floribunda)도 콩과로 늦봄에 향기 나는 꽃송이가 늘어져 피어 헷갈릴 수 있다. 렉틴과 위스테린이 들어 있어 꽃·꼬투리·씨를 먹으면 입안 화끈거림, 복통, 구토, 설사가 생길 수 있고 꼬투리와 씨가 가장 위험하다.",
+      "name": "등나무",
+      "points": [
+        "등나무는 다른 물체를 감고 오르는 덩굴이고, 아까시나무는 곧게 서는 큰키나무다.",
+        "등나무 꽃은 연보라~보라색이고, 아까시나무 꽃은 흰색에 밑부분이 노르스름하다.",
+        "등나무 꼬투리는 벨벳 같은 털로 덮여 늘어지고, 아까시나무 꼬투리는 납작하고 매끈하다.",
+        "아까시나무는 어린 가지에 가시가 한 쌍씩 있고, 등나무는 가시가 없다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "회화나무(Styphnolobium japonicum)는 잎과 줄기 모양이 아까시나무와 비슷해 자주 혼동된다. 꽃봉오리(괴화)와 열매(괴실)는 한약재로 쓰이는 별개의 품목이다.",
+      "name": "회화나무",
+      "points": [
+        "회화나무는 8월 무렵 꽃이 피고, 아까시나무는 5~6월에 핀다.",
+        "회화나무 꽃은 노르스름한 흰색으로 원뿔 모양 꽃차례에 달리고, 아까시꽃은 꽃송이가 아래로 늘어진다.",
+        "회화나무에는 가시가 없다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "흔히 부르는 '아카시아'는 사실 아까시나무이며, 진짜 아카시아(Acacia 속)는 호주·아프리카 등 열대·아열대의 다른 나무로 국내 산야에서는 자라지 않는다. 일제강점기 '가짜 아카시아'라는 뜻의 일본 이름에서 앞말이 빠져 굳은 명칭이다.",
+      "name": "아카시아",
+      "points": [
+        "국내에서 '아카시아꽃'·'아카시아꿀'로 파는 것은 모두 아까시나무(Robinia pseudoacacia)에서 나온 것이다.",
+        "표준어와 식물 이름은 '아까시나무'이고, 국어사전은 '아카시아'를 그 일상적 이름으로 풀이한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "줄기 껍질 추출물에서 항산화 성분 21종을 찾아내고 새로운 에스터 성분들을 보고한 분석 연구다.",
+        "title": "Novel Antioxidant Caffeate Esters of Black Locust (Robinia pseudoacacia L.) Stem Bark",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants15152347",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
+        "note": "아까시나무 줄기 껍질에서 카페산 에스터 계열 성분 9종을 분리해 항산화 활성을 측정한 성분 연구다.",
+        "title": "New Antioxidant Caffeate Esters of Fatty Alcohols Identified in Robinia pseudoacacia",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules29235673",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "크로아티아산 아까시나무 잎과 꽃 추출물의 페놀 성분과 항산화·항균·세포독성 활성을 비교했으며, 잎 추출물의 항산화 활성이 더 높았다.",
+        "title": "Invasive Alien Species as a Potential Source of Phytopharmaceuticals: Phenolic Composition and Antimicrobial and Cytotoxic Activity of Robinia pseudoacacia L. Leaf and Flower Extracts",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/plants12142715",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 사이 아까시나무(Robinia pseudoacacia) 연구는 주로 꽃·잎·껍질의 페놀 성분과 항산화·항균 활성을 시험관에서 분석한 것이다. 꽃을 직접 다룬 연구는 잎과 꽃 추출물을 비교한 한 편 정도이며, 사람 대상 연구는 찾지 못해 근거는 실험실 수준이다."
+  },
+  "name": "아카시아꽃",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 아까시나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034428"
+      },
+      {
+        "title": "매일신문 - 아까시나무 이름과 밀원 (국립국어원·국립산림과학원 인용, 2022)",
+        "url": "https://www.imaeil.com/page/view/2022050414081755652"
+      },
+      {
+        "title": "위키트리 - 아까시나무 (산림청·국립산림과학원 인용)",
+        "url": "https://www.wikitree.co.kr/articles/1139006"
+      }
+    ],
+    "text": "아까시나무는 북아메리카에서 근대에 들어온 나무여서 옛 의서에 항목이 없다. 국내에서는 꿀을 얻는 밀원식물로 가장 중요하게 쓰여 국내 양봉 산물의 약 70%가 이 나무에서 나온다고 산림청·국립산림과학원은 설명한다. 꽃은 예부터 아이들이 따서 단맛을 즐겼고, 튀김이나 꽃술로도 먹는다."
+  },
+  "updatedAt": 1792443723000
+}

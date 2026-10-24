@@ -1,0 +1,189 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요해 권하지 않습니다. 예전에 꽃을 떡이나 화전에 넣어 먹었다는 이야기는 있지만, 판매·섭취 전에 식품의약품안전처 식품원료 목록에서 해당 부위의 사용 가능 여부를 확인하세요.",
+      "q": "골담초 꽃을 먹어도 되나요?"
+    },
+    {
+      "a": "5월 무렵 잎겨드랑이에 노란 나비 모양 꽃이 아래로 늘어져 핍니다. 처음엔 노랗다가 점점 붉은빛이 도는 노란색으로 바뀝니다.",
+      "q": "골담초 꽃은 언제 피나요?"
+    },
+    {
+      "a": "잎과 가시를 보면 됩니다. 골담초는 작은 잎 4장짜리 겹잎에 줄기에 날카로운 가시가 있고, 양골담초는 작은 잎 3장짜리 잎에 가시가 없습니다. 양골담초는 독성 물질이 있는 다른 식물입니다.",
+      "q": "양골담초와 골담초는 어떻게 구별하나요?"
+    },
+    {
+      "a": "캐지 마세요. 작은 잎이 4~6쌍이고 꽃자루가 긴 것은 멸종위기 특산식물로 소개된 참골담초일 수 있습니다. 골담초는 작은 잎이 2쌍뿐입니다.",
+      "q": "산에서 본 골담초 비슷한 나무를 캐도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "예전에 꽃을 떡이나 화전에 넣어 먹었다는 이야기가 언론에 소개되지만, 식품 원료로 인정되는지는 확인이 필요하다. 뿌리는 달이거나 술에 담가 약으로 써 왔다.",
+    "eng": "Chinese pea shrub",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "중국 원산으로 알려져 약용·관상용으로 심어 왔고, 중부 이남의 산과 들, 절·마을 주변, 뜰과 공원에서 볼 수 있다. 해가 잘 드는 곳을 좋아하지만 반그늘이나 마른 땅에서도 자라며 추위와 건조에 강하다.",
+    "look": {
+      "flower": "잎겨드랑이에 나비 모양 꽃이 1~2송이씩 아래로 늘어져 핀다. 길이 2.5~3cm로 처음엔 노랗다가 점차 붉은빛이 도는 노란색으로 변한다.",
+      "fruit": "길이 3~4cm의 꼬투리 열매가 달리지만 열매를 맺는 일은 드물다.",
+      "leaf": "작은 잎 4장이 모인 깃꼴겹잎이 어긋나게 달린다. 작은 잎은 거꿀달걀형으로 두껍고, 윗면은 짙은 녹색에 윤기가 나며 뒷면은 회록색이다.",
+      "root": "뿌리는 깊게 박히지 않고 잔뿌리가 옆으로 길게 뻗는다.",
+      "stem": "높이 1~2m로 가지가 많이 갈라져 덤불처럼 자란다. 줄기는 회갈색에 모가 지고, 턱잎이 변한 날카로운 가시가 있다."
+    },
+    "parts": "뿌리(말린 것을 금작근이라 부름), 꽃. 식품 원료로 쓸 수 있는지 확인이 필요한 품목이다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요하므로 함부로 먹지 않는다. 약재로는 봄·가을에 뿌리를 캐어 말려 쓴다. 가시가 날카로워 채취할 때 장갑을 낀다.",
+    "sci": "Caragana sinica (Buc'hoz) Rehder",
+    "season": {
+      "collect": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "제주도민일보 제주향토자원이야기Ⅷ - 뼈를 책임지는 풀 '골담초' (2023)",
+        "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=220593"
+      },
+      {
+        "title": "위키백과 - 골담초",
+        "url": "https://ko.wikipedia.org/wiki/골담초"
+      },
+      {
+        "title": "조경수 99호 단신 - 멸종위기 특산식물 참골담초 자생지 발견 (국립수목원 보도 내용)",
+        "url": "https://koreascience.kr/article/JAKO200776357277385.pdf"
+      },
+      {
+        "title": "매일신문 - 골담초 (2026.05)",
+        "url": "https://www.imaeil.com/page/view/2026050817201802071"
+      }
+    ],
+    "store": "",
+    "taste": "꽃은 달큰한 맛이 난다고 소개된다."
+  },
+  "lookSources": [
+    {
+      "title": "조경수 99호 단신 - 멸종위기 특산식물 참골담초 자생지 발견 (국립수목원 보도 내용)",
+      "url": "https://koreascience.kr/article/JAKO200776357277385.pdf"
+    },
+    {
+      "title": "위키백과 - 골담초",
+      "url": "https://ko.wikipedia.org/wiki/골담초"
+    },
+    {
+      "title": "제주도민일보 제주향토자원이야기Ⅷ - 뼈를 책임지는 풀 '골담초' (2023)",
+      "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=220593"
+    },
+    {
+      "title": "FAO AGROVOC - Cytisus scoparius (양골담초)",
+      "url": "https://agrovoc.fao.org/browse/agrovoc/es/page/c_26461"
+    },
+    {
+      "title": "Washington Invasive Species Council - Scotch broom (Cytisus scoparius)",
+      "url": "https://invasivespecies.wa.gov/?p=2222"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "유럽 원산의 Cytisus scoparius(영어명 Scotch broom)로 이름이 비슷하고 노란 나비 모양 꽃이 피지만 다른 속의 식물이다. 독성 물질을 만들어 많이 먹으면 말 같은 동물이 중독될 수 있다고 알려져 있다.",
+      "name": "양골담초",
+      "points": [
+        "골담초는 작은 잎이 4장인 깃꼴겹잎이고, 양골담초는 작은 잎이 3장인 세겹잎이다.",
+        "골담초 줄기에는 턱잎이 변한 날카로운 가시가 있고, 양골담초 줄기는 가늘고 모가 진 녹갈색으로 가시가 없다.",
+        "양골담초는 꼬투리 안에 콩 모양 씨가 5~8개 든다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "Caragana koreana. 국립수목원이 멸종위기 특산식물로 소개한 우리나라 자생종으로 강원도 계곡 일부에서만 확인되므로 캐거나 꺾지 않는다.",
+      "name": "참골담초",
+      "points": [
+        "골담초는 작은 잎이 2쌍(4장)이고, 참골담초는 4~6쌍이다.",
+        "참골담초는 꽃자루가 3~4cm로 훨씬 길다.",
+        "참골담초는 줄기 가시가 짧고 부드러우며 잎에 윤기가 없다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "우리나라 자생 골담초속 식물로, 작은 잎 수가 골담초보다 훨씬 많다.",
+      "name": "좀골담초",
+      "points": [
+        "골담초는 작은 잎이 2쌍(4장)이고, 좀골담초는 6~10쌍이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Phytomedicine",
+        "note": "뿌리 활성 분획이 보조제 유발 관절염 쥐와 활막 세포에서 염증성 변화를 줄였다고 보고했다.",
+        "title": "Caragana sinica root bioactive fraction ameliorates experimental arthritis by inhibiting synovial inflammatory lesions through targeting HSP90α",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.phymed.2026.158845",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "골담초에서 얻은 성분 caraphenol A가 고요산혈증을 유도한 생쥐에서 요산 수치와 콩팥 손상 지표를 낮췄다고 보고했다.",
+        "title": "The resveratrol trimer caraphenol A from Caragana sinica alleviates hyperuricemia and hyperuricemia-induced renal injury in mice by modulating uric acid metabolism and inflammatory pathways",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.jep.2026.121874",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "골담초 다당류가 약물로 면역을 떨어뜨린 생쥐에서 면역 지표와 장내 미생물 구성에 변화를 주었다고 보고했다.",
+        "title": "Caragana sinica (Buc'hoz) Rehd. (jin ji er) polysaccharide regulates the immune function and intestinal microbiota of cyclophosphamide (CTX) induced immunosuppressed mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.jep.2023.117551",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceuticals (Basel)",
+        "note": "꽃에서 얻은 향 추출물(앱솔루트)의 성분을 분석하고, 사람 피부 각질세포(HaCaT)에서 상처 회복·주름 관련 작용을 살폈다.",
+        "title": "Skin Wound Healing and Anti-Wrinkle-Promoting In Vitro Biological Activities of Caragana sinica Flower Absolute and Its Chemical Composition",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ph16020235",
+        "year": "2023"
+      },
+      {
+        "journal": "ACS Omega",
+        "note": "뿌리의 핵심 성분을 찾아 관절염 모델 쥐와 시험관 염증 실험으로 작용 가능성을 살폈다.",
+        "title": "Core Constituents of Caragana sinica Root for Rheumatoid Arthritis Treatment and the Potential Mechanism",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1021/acsomega.2c07094",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 뿌리 추출물·성분이 관절염 모델 쥐에서 염증을 줄이는지, 꽃 추출물이 피부 세포에 어떤 작용을 하는지를 살폈다. 근거는 세포 실험과 동물 실험 단계이며, 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+  },
+  "name": "골담초",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "농사로 농업기술 현장 전문가 칼럼 - 신경통, 관절통, 항염증에 사용하는 골담초",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psx/psxn/sptExpertDtl.ps?menuId=PS63117&infoNo=6&colmnNo=4"
+      },
+      {
+        "title": "제주도민일보 제주향토자원이야기Ⅷ - 뼈를 책임지는 풀 '골담초' (2023)",
+        "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=220593"
+      },
+      {
+        "title": "위키백과 - 골담초",
+        "url": "https://ko.wikipedia.org/wiki/골담초"
+      }
+    ],
+    "text": "뿌리를 말린 것을 금작근(金雀根)이라 하며, 민간과 한방에서 신경통·관절통 같은 통증에 달이거나 술에 담가 써 왔다고 전해진다. 말린 꽃도 기침 등에 쓰였다고 소개된다. 영주 부석사 조사당 옆의 '선비화'가 골담초로, 의상대사의 지팡이에서 자랐다는 이야기가 전한다."
+  },
+  "updatedAt": 1792789248965
+}

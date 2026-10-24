@@ -1,0 +1,152 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목(本草綱目)",
+    "bu": "과부(果部) 산과류(果之二)",
+    "easy": [
+      "갈증이 심한 증상(消渴)을 멎게 하고 답답한 열을 없애는 데 쓴다고 적었다.",
+      "마음을 진정시키고, 오래 먹으면 얼굴빛이 좋아지고 몸이 가벼워진다고 적었다.",
+      "동의보감 탕액편 과부에는 '小柿(고욤)'이라는 이름으로 따로 실려 있다."
+    ],
+    "han": "君遷子",
+    "has": true,
+    "ki": "甘、澀，平，無毒",
+    "kiKo": "맛은 달고 떫으며, 성질은 평하고 독이 없다",
+    "old": "고욤(동의보감 탕액편 果部의 小柿 항목 한글 이름)",
+    "orig": "【氣味】甘、澀，平，無毒。【主治】止消渴，去煩熱，令人潤澤。鎮心。久服，悅人顏色，令人輕健。",
+    "sources": [
+      {
+        "title": "위키문헌 - 본초강목 果之二(君遷子)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%BA%8C"
+      },
+      {
+        "title": "어듸메 - 동의보감 탕액편 한글 물명(디지털한글박물관 자료 기반)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=4"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 고욤나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0003842"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "열매가 검게 익는 10월 이후, 서리가 내린 뒤에 따는 것이 일반적입니다. 꽃은 6월에 피고 열매는 노란색에서 검은색으로 익습니다.",
+      "q": "고욤은 언제 따나요?"
+    },
+    {
+      "a": "고욤은 지름 약 1.5cm로 감(지름 4~8cm)보다 훨씬 작고, 검은색으로 익습니다. 같은 감나무속 식물이지만 감은 붉은 노란색으로 익는 재배 과일입니다.",
+      "q": "고욤과 감은 어떻게 다른가요?"
+    },
+    {
+      "a": "서리를 맞아 검게 무르익은 뒤에 먹습니다. 예로부터 서리 맞은 열매를 항아리에 담아 삭혀 두고 먹었습니다.",
+      "q": "고욤이 떫은데 어떻게 먹나요?"
+    },
+    {
+      "a": "주로 경기도 이남의 해발 500m 이하 낮은 지대에서 자랍니다. 볕이 잘 들고 물기가 넉넉한 완만한 비탈을 좋아하고, 감나무보다 추위에 강합니다.",
+      "q": "고욤나무는 어디서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "검게 무르익은 열매를 그대로 먹거나, 항아리에 삭혀 두었다가 먹는다.",
+    "eng": "Date plum",
+    "family": "감나무과",
+    "grade": "",
+    "habitat": "전국(주로 경기도 이남)의 해발 500m 이하 낮은 산과 마을 주변에서 자란다. 햇빛을 좋아하고, 물기가 넉넉하고 볕이 잘 드는 완만한 비탈이나 배수가 잘되는 깊은 모래참흙에서 잘 자란다. 감나무보다 추위에 강하다.",
+    "look": {
+      "flower": "6월에 새 가지 아래쪽 잎겨드랑이에 연한 녹색의 작은 종 모양 꽃이 핀다.",
+      "fruit": "지름 약 1.5cm의 둥근 열매가 10월에 노란색에서 검은색으로 익는다.",
+      "leaf": "어긋나게 달리는 타원형 잎으로 길이 6~12cm, 가장자리에 톱니가 없다. 잎 앞면은 녹색, 뒷면은 회녹색이다.",
+      "stem": "높이 10m 넘게 자라는 큰키나무다. 겨울눈 비늘조각이 2개이고, 어린 가지의 털은 짧거나 거의 없다."
+    },
+    "parts": "열매",
+    "prep": "서리가 내린 뒤 검게 익은 열매를 딴다. 덜 익은 열매는 떫어서 그대로 먹기 어렵다.",
+    "sci": "Diospyros lotus L.",
+    "season": {
+      "collect": [
+        10,
+        11
+      ],
+      "flower": [
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목(Flora of Korea) - 고욤나무 Diospyros lotus",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5194"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 고욤나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0003842"
+      },
+      {
+        "title": "한국의 수목(Flora of Korea) - 감나무속 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5192"
+      }
+    ],
+    "store": "예로부터 서리 맞은 열매를 항아리에 담아 삭혀(발효시켜) 두고 먹었다.",
+    "taste": "덜 익으면 떫고, 서리를 맞아 검게 무르익으면 단맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora of Korea) - 감나무속 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5192"
+    },
+    {
+      "title": "한국의 수목(Flora of Korea) - 감나무 Diospyros kaki",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5193"
+    },
+    {
+      "title": "한국의 수목(Flora of Korea) - 고욤나무 Diospyros lotus",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5194"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 감나무속(Diospyros kaki)의 재배 과일나무로, 잎과 꽃 모양은 비슷하지만 열매 크기가 훨씬 크다.",
+      "name": "감나무",
+      "points": [
+        "감 열매는 지름 4~8cm, 고욤은 지름 약 1.5cm로 크기 차이가 뚜렷하다.",
+        "감은 붉은 노란색으로 익고, 고욤은 노란색에서 검은색으로 익는다.",
+        "감나무 겨울눈 비늘조각은 4개, 고욤나무는 2개다.",
+        "감나무 꽃은 지름 약 2cm의 황백색이고, 고욤나무 꽃은 1cm 이하로 작다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food & Nutrition Research",
+        "note": "건강한 성인 70명에게 홍오크라·고욤나무 배합 원료를 2일간 먹였을 때 위약보다 대변으로 나간 지방이 많았다고 보고했다(사용 부위는 확인 못 함).",
+        "title": "Clinical evidence for fat-binding-mediated fecal fat excretion by RODL (Red Okra-Diospyros lotus botanical combination) under a prescribed restricted diet: a randomized, double-blind, placebo-controlled trial",
+        "type": "사람 대상",
+        "url": "https://foodandnutritionresearch.net/index.php/fnr/article/view/13900",
+        "year": "2026"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "고욤나무 잎 추출물의 루틴을 효소로 이소퀘르시트린으로 바꾸면 항산화·항염 활성이 높아졌다는 실험실 연구다.",
+        "title": "Enhanced Antioxidant and Anti-Inflammatory Activities of Diospyros lotus Leaf Extract via Enzymatic Conversion of Rutin to Isoquercitrin",
+        "type": "기타",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12382970/",
+        "year": "2025"
+      },
+      {
+        "journal": "Experimental and Therapeutic Medicine",
+        "note": "생쥐 실험에서 고욤나무 잎 추출물과 미리시트린이 가려움으로 긁는 행동을 줄였다고 보고했다.",
+        "title": "Diospyros lotus leaf extract and its main component, myricitrin, inhibit both histamine-dependent and histamine-independent itching",
+        "type": "동물 실험",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035596",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 주로 고욤나무 잎 추출물을 대상으로 한 실험실·동물 연구이며, 열매 자체를 다룬 사람 연구는 찾지 못했다. 홍오크라와 고욤나무 배합 원료로 지방 배출을 본 짧은 기간의 사람 대상 시험이 1건 있으나, 고욤 열매를 먹는 효과로 볼 수는 없다."
+  },
+  "name": "고욤",
+  "st": "ok",
+  "updatedAt": 1792832316687
+}

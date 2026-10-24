@@ -1,0 +1,142 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감은 자초(지치 뿌리)를 성질이 차고 맛이 쓰며 독이 없는 약재로 적었다고 소개된다."
+    ],
+    "han": "紫草",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "헬스경향 [한동하의 식의보감] 건강에 좋은 '자초', 무분별한 복용은 화 자초한다 (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=67900"
+      }
+    ],
+    "verified": false,
+    "warn": "자초는 중국산 Arnebia속 식물 뿌리(신강자초 등)도 같은 이름으로 불리므로 옛 기록의 자초와 오늘날 수입 자초를 그대로 같다고 보지 않는다. 원문은 직접 대조하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "말린 뿌리만으로는 구별이 어려워 원산지와 기원 식물 표시를 먼저 확인해야 합니다. 살아 있는 식물이라면 지치는 흰 꽃, 신강자초는 짙은 자주색 꽃이 피어 꽃 색으로 쉽게 나뉩니다.",
+      "q": "국산 지치와 수입 자초(신강자초)는 어떻게 구별하나요?"
+    },
+    {
+      "a": "삼가는 것이 좋습니다. 남획으로 자생지가 크게 줄어 일부 지역에만 남아 있다고 보고되어 있으므로, 재배품이나 원산지가 분명한 제품을 사는 편이 낫습니다.",
+      "q": "산에서 지치를 캐도 되나요?"
+    },
+    {
+      "a": "같은 종이지만 재배가 까다롭습니다. 연구 보고에 따르면 재배한 지치는 여름에 뿌리가 썩거나 이어짓기가 어렵고, 색소가 약하게 나오는 경우가 많습니다.",
+      "q": "재배한 지치는 자생 지치와 같은가요?"
+    },
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인하지 못했으므로 단정할 수 없습니다. 한약재로 유통되는 품목이며, 성질이 차서 설사가 잦은 사람이나 임신 중인 사람은 피하라는 한의사 조언이 있습니다.",
+      "q": "지치 뿌리를 차나 술로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "예부터 뿌리의 자줏빛 색소를 옷감 염료로 썼고, 약식 등 음식에 색을 내는 데에도 썼다. 오늘날에는 진도 홍주의 붉은 빛깔을 내는 재료로 알려져 있다.",
+    "eng": "Gromwell",
+    "family": "지치과",
+    "grade": "",
+    "habitat": "산지의 풀밭이나 능선, 비탈, 길가, 바위가 많은 곳처럼 햇볕이 잘 드는 곳에서 자란다. 줄기는 볕을 받되 뿌리 쪽은 직사광선이 덜 닿는 환경을 좋아하며, 동향·남향 비탈에서 주로 확인됐다. 약초 채취꾼의 남획으로 자생지가 크게 줄어 일부 지역에만 남아 있으므로 야생 채취는 삼가야 한다(일본에서도 멸종위기종으로 분류).",
+    "look": {
+      "flower": "5~6월에 줄기 끝에 지름 5~8mm쯤 되는 흰 꽃이 피고, 꽃잎은 5갈래이며 꽃 목에 작은 비늘 조각이 있다.",
+      "fruit": "8~9월에 회백색의 작고 단단한 열매가 맺힌다.",
+      "leaf": "잎은 어긋나고 두툼하며 양 끝이 뾰족하고 가장자리가 밋밋하다. 잎자루는 거의 없다.",
+      "root": "뿌리는 굵고 땅속 깊이 뻗으며 겉이 짙은 자줏빛이다. 색소가 배어 나와 뿌리 주변 흙까지 자줏빛을 띤다.",
+      "stem": "줄기는 곧게 서고 30~100cm쯤 자라며 전체에 뻣뻣한 털이 있다. 윗부분에서 2~3갈래로 갈라진다."
+    },
+    "parts": "뿌리(한약재 이름 자초·자근). 식품 원료로 쓸 수 있는 부위인지는 확인하지 못함",
+    "prep": "한약재(자초·자근)로 유통되는 품목이며 식품 원료로 쓸 수 있는지는 확인하지 못했으므로 임의로 달여 먹거나 술을 담그지 않는다. 한의사 칼럼에서는 성질이 차서 설사가 잦은 사람, 임신 중이거나 임신을 준비하는 사람은 복용을 피하라고 당부한다.",
+    "sci": "Lithospermum erythrorhizon Siebold & Zucc.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 지치",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054428"
+      },
+      {
+        "title": "지치 자생지의 생태적 특성에 관한 연구 (한국환경생태학회 학술대회논문집, 2009)",
+        "url": "https://koreascience.kr/article/CFKO200916762902788.pdf"
+      },
+      {
+        "title": "헬스경향 [한동하의 식의보감] 건강에 좋은 '자초', 무분별한 복용은 화 자초한다 (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=67900"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Park et al. 2020, Floral Micromorphology and Plastid Genome of Medicinal Borages Arnebia and Lithospermum (Frontiers in Plant Science)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7746654/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "중국 등지에서 나는 Arnebia euchroma(신강자초)와 노란 꽃의 Arnebia guttata 뿌리도 자초라는 같은 약재 이름으로 쓰여, 국산 지치 뿌리와 섞이거나 바뀌어 팔릴 수 있다. 원물이 뿌리 조각이면 눈으로 가리기 어려우므로 원산지와 기원 식물 표시를 먼저 확인한다.",
+      "name": "신강자초",
+      "points": [
+        "꽃 색: 지치는 흰 꽃, 신강자초는 짙은 자주~보라색 꽃, A. guttata는 노란 꽃이 핀다.",
+        "꽃받침: 지치는 꽃받침이 깊게 5갈래로 갈라지고, Arnebia 무리는 상대적으로 얕게 갈라진다.",
+        "꽃차례: 지치는 꽃이 짝지어 달리며 말린 꼬리 모양 꽃차례를 이룬다.",
+        "말린 뿌리만으로는 구별이 어려우므로 원산지(국산/수입)와 학명 표기가 있는 제품을 고른다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Veterinary Science",
+        "note": "면역 기능을 떨어뜨린 쥐에서 지치 추출물이 면역 지표에 미치는 영향을 살핀 연구다.",
+        "title": "Lithospermum erythrorhizon extract alleviates immunosuppression via MAPK signaling pathway",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fvets.2025.1654212",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "자외선을 쬔 피부 세포에서 지치·연교 혼합 추출물의 콜라겐 분해 관련 변화를 관찰했다.",
+        "title": "Lithospermum erythrorhizon and Forsythia suspensa Prevent Collagen Degradation and Maintain Skin Hydration by Regulating MMPs and HAS2/HYAL1 Signaling",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/molecules30051083",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Microbiology and Biotechnology",
+        "note": "근육 세포와 고지방식 생쥐에서 지치 추출물이 근육 위축 지표에 미치는 영향을 살폈다.",
+        "title": "Gromwell (Lithospermum erythrorhizon) Attenuates High-Fat-Induced Skeletal Muscle Wasting by Increasing Protein Synthesis and Mitochondrial Biogenesis",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.4014/jmb.2311.11034",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 뿌리 추출물과 색소 성분 시코닌을 대상으로 한 세포·동물 실험이며, 피부 세포의 콜라겐 분해, 근육 위축, 면역 지표 등을 살폈다. 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "지치",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 지치",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054428"
+      }
+    ],
+    "text": "지치 뿌리는 자줏빛 염료로 오래 쓰였는데, 삼국 시대에 자색이 가장 높은 신분을 나타내는 색으로 정해졌고 고려 때는 대외 교역품이 되었다고 한다. 약재로는 뿌리를 위를 튼튼히 하거나 해독, 화상·동상에 썼다고 기록되어 있으며, 약식에 색을 내는 데에도 썼다."
+  },
+  "updatedAt": 1792703340527
+}

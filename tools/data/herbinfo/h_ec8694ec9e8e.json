@@ -1,0 +1,194 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "",
+    "easy": [
+      "솔잎을 오래 날로 먹으면 늙지 않고 기운이 왕성해지며 머리가 검어지고, 추위와 배고픔을 덜 탄다고 적었다고 소개된다."
+    ],
+    "han": "松葉",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "푸드투데이 - 제대로 알고 먹는 약재 상식: 솔잎 송엽(松葉) (2012)",
+        "url": "https://foodtoday.or.kr/mobile/article.html?no=96852"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "잎이 2개씩 한 다발로 모여 나고 길이 8~9cm 정도면 소나무 무리입니다. 3개씩이면 리기다소나무, 5개씩이면 잣나무이고, 줄기 껍질이 붉은 갈색이고 겨울눈이 붉은 갈색이면 소나무, 검은 회색 껍질에 흰 겨울눈이면 곰솔입니다.",
+      "q": "소나무 솔잎은 어떻게 알아보나요?"
+    },
+    {
+      "a": "절대 안 됩니다. 주목은 잎과 씨에 독성 알칼로이드가 있습니다. 주목 잎은 하나씩 따로 달린 짧고 납작한 잎(1~2.5cm)이라 2개씩 모여 나는 솔잎과 구별됩니다.",
+      "q": "주목 잎을 솔잎 대신 써도 되나요?"
+    },
+    {
+      "a": "약제 방제 여부를 알 수 없는 곳은 피하는 것이 좋습니다. 솔잎혹파리 방제 농약이 솔잎에 오래 남을 수 있다는 지적이 있습니다.",
+      "q": "아무 산에서나 솔잎을 따도 되나요?"
+    },
+    {
+      "a": "송편을 찔 때 밑에 깔아 향을 입히는 것이 대표적입니다. 예전에는 죽을 쑤거나 송엽주를 담그기도 했습니다.",
+      "q": "솔잎은 주로 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "추석 송편을 찔 때 솔잎을 깔고 쪄서 향을 입힌다. 예전에는 솔잎으로 죽(송죽)을 쑤거나 술(송엽주)을 담갔고, 흉년에는 구황 식량으로도 썼다.",
+    "eng": "Japanese red pine (pine needles)",
+    "family": "소나무과",
+    "grade": "",
+    "habitat": "제주도에서 함경북도까지 한반도 거의 전역(북부 아고산대 제외)과 일본에 자라며, 국내에서 분포 면적과 개체 수가 가장 많은 나무다. 건조하고 메마른 땅에도 잘 견디며 화강암 산지에서 잘 자라고, 해발 1,000~1,100m 정도까지 자란다.",
+    "look": {
+      "flower": "암수한그루로 5월에 꽃가루를 날린다. 길이 1cm 정도의 수꽃은 새 가지 아래쪽에, 달걀 모양의 작은 암꽃은 새 가지 끝에 달린다.",
+      "fruit": "솔방울은 달걀 모양으로 길이 4~5cm, 황갈색이며 꽃 핀 다음 해 가을에 익는다. 씨는 짙은 갈색이다.",
+      "leaf": "바늘잎이 짧은 가지 끝에 2개씩 모여 나며, 길이 8~9cm(가끔 14cm), 폭 약 1.5mm다. 잎 밑은 얇은 잎집(엽초)에 싸여 있고, 잎은 2년쯤 지나 잎집과 함께 떨어진다.",
+      "stem": "줄기 껍질은 위쪽이 붉은 갈색, 아래쪽이 검은 갈색이다. 겨울눈은 붉은 갈색이고, 1년생 가지는 윤기 나는 황갈색이다."
+    },
+    "parts": "소나무의 바늘잎(솔잎)",
+    "prep": "솔잎혹파리 방제에 쓰는 농약이 솔잎에 오래 남을 수 있다는 지적이 있으므로, 약제를 뿌렸는지 알 수 없는 곳의 솔잎은 쓰지 않는 것이 좋다.",
+    "sci": "Pinus densiflora Siebold & Zucc.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea (florakorea.myspecies.info) - Pinus densiflora 소나무",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4983"
+      },
+      {
+        "title": "Flora of Korea (florakorea.myspecies.info) - 소나무속(Pinus) 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/4982"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 소나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029956"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 송편",
+        "url": "https://encykorea.aks.ac.kr/Article/E0031123"
+      },
+      {
+        "title": "푸드투데이 - 제대로 알고 먹는 약재 상식: 솔잎 송엽(松葉) (2012)",
+        "url": "https://foodtoday.or.kr/mobile/article.html?no=96852"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea (florakorea.myspecies.info) - 소나무속(Pinus) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4982"
+    },
+    {
+      "title": "Flora of Korea (florakorea.myspecies.info) - Pinus densiflora 소나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4983"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 소나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0029956"
+    },
+    {
+      "title": "Flora of Korea (florakorea.myspecies.info) - Taxus cuspidata 주목",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4994"
+    },
+    {
+      "title": "Purdue University - Yew (Japanese) 독성 식물 안내",
+      "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/yew.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "주목(Taxus cuspidata, 주목과)은 늘푸른 바늘잎나무로 높은 산과 정원에서 흔히 보여 솔잎과 혼동될 수 있다. 잎과 씨에 탁신(taxine) 계열 독성 알칼로이드가 있어 절대 차나 음식으로 쓰면 안 된다.",
+      "name": "주목나무",
+      "points": [
+        "솔잎은 2개씩 다발로 나지만, 주목 잎은 하나씩 따로 달리며 납작한 선형이다.",
+        "주목 잎은 길이 1~2.5cm로 솔잎(8~9cm)보다 훨씬 짧고, 옆가지에서는 깃털처럼 양옆 두 줄로 늘어선다.",
+        "주목 잎 뒷면에는 누런빛이 도는 넓은 줄(숨구멍줄) 2개가 있다.",
+        "주목은 솔방울 대신 컵 모양의 빨간 살(가종피) 속에 씨가 하나 든 열매가 달린다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "리기다소나무(Pinus rigida)는 북미 원산으로 산에 많이 심어진 소나무 무리다. 잎이 3개씩 모여 나는 점으로 소나무와 가린다.",
+      "name": "리기다소나무",
+      "points": [
+        "소나무는 잎이 2개씩, 리기다소나무는 3개씩 모여 난다.",
+        "리기다소나무 잎은 길이 7~14cm다.",
+        "리기다소나무는 굵은 줄기에서도 짧은 새 가지(움싹)가 돋아난다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "곰솔(Pinus thunbergii, 해송)은 소나무처럼 잎이 2개씩 모여 나는 같은 무리의 나무로 주로 바닷가에 자란다. 해안 근처에서는 둘 사이의 잡종도 흔하다.",
+      "name": "곰솔",
+      "points": [
+        "곰솔은 줄기 껍질이 검은 회색이고, 소나무는 위쪽 껍질이 붉은 갈색이다.",
+        "곰솔 겨울눈은 흰색(은백색)이고 소나무 겨울눈은 붉은 갈색이다.",
+        "곰솔은 바닷가를 따라 많이 자라고, 소나무는 내륙 산지에 널리 자란다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "잣나무(Pinus koraiensis)는 잣이 열리는 소나무속 나무로, 잎이 5개씩 모여 나는 점으로 쉽게 가린다.",
+      "name": "잣나무",
+      "points": [
+        "소나무는 잎이 2개씩, 잣나무는 5개씩 모여 난다.",
+        "잣나무 잎은 길이 7~12cm다.",
+        "잣나무 솔방울은 길이 12~15cm로 소나무 솔방울(4~5cm)보다 훨씬 크고, 날개 없는 씨(잣)가 든다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Forests",
+        "note": "소나무속 관련 논문 340편을 검토해 쓰임과 성분을 정리했으며, 근거 대부분이 전임상 단계라고 보았다.",
+        "title": "Global Perspectives on the Medicinal Potential of Pines (Pinus spp.)",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/f16121772",
+        "year": "2025"
+      },
+      {
+        "journal": "BioResources",
+        "note": "마미송·소나무·잣나무의 잎·껍질·꽃가루 등 추출물에 대한 항산화·항염 등 실험 연구를 정리했다.",
+        "title": "Medicinal Potential of Pine Trees: A Brief Review Focusing on Three Species",
+        "type": "리뷰",
+        "url": "https://doi.org/10.15376/biores.20.1.Li",
+        "year": "2025"
+      },
+      {
+        "journal": "EXCLI Journal",
+        "note": "소나무 솔잎 열수 추출물을 생쥐에게 먹여 염증으로 유도한 우울 유사 행동과 뇌 지표의 변화를 살폈다.",
+        "title": "Antidepressant-like and neuroprotective effects of pine needle extracts: evidence from behavioral, transcriptomic, and biochemical studies",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.17179/excli2025-8720",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 소나무(Pinus densiflora) 솔잎 연구는 소나무류의 약용 가능성을 정리한 리뷰와 동물·세포 실험이 대부분이다. 리뷰들도 근거가 대부분 전임상(실험실) 수준이라고 정리했으며, 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "솔잎",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 소나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0029956"
+      }
+    ],
+    "text": "『본초강목』에는 솔잎을 잘게 썰어 갈아 식전에 술과 함께 먹거나 죽으로 쑤어 먹었고, 흉년에 대비하는 데도 썼다고 전한다. 우리나라에서는 솔잎으로 송편을 찌고 죽과 술(송엽주)을 만들었으며, 기근 때 식량 대용으로도 썼다."
+  },
+  "updatedAt": 1792443723000
+}

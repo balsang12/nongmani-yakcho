@@ -1,0 +1,174 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [],
+    "han": "梅實",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "가장 안전한 방법은 처음부터 씨를 빼고 담그는 것입니다. 식약처는 씨를 빼면 시안화합물이 약 95% 줄고, 3~4개월 숙성 뒤 건더기를 건져내면 약 22% 더 준다고 안내했습니다. '담근 지 100일'이라는 구체적 기준은 공공자료에서 확인하지 못했습니다.",
+      "q": "매실청 씨는 언제 건져야 하나요?"
+    },
+    {
+      "a": "네, 대체로 줄어듭니다. 건더기를 건진 뒤 서늘한 곳에서 6개월 이상 두면 약 13% 더 줄고(식약처), 1년 숙성 연구에서는 12개월에 모든 매실청의 아미그달린이 5mg/L 아래로 떨어졌습니다.",
+      "q": "매실청은 오래 숙성하면 더 안전한가요?"
+    },
+    {
+      "a": "시안화합물만 보면 황매실이 유리합니다. 식약처는 청매실 대신 황매실을 쓰면 약 70% 줄어든다고 안내했습니다.",
+      "q": "청매실과 황매실 중 무엇이 좋나요?"
+    },
+    {
+      "a": "열매를 갈라 씨와 과육을 보세요. 매실은 씨가 과육에 붙어 잘 떨어지지 않고 과육이 연초록인 반면, 살구는 씨가 잘 떨어지고 과육이 주황빛을 띠는 경우가 많습니다.",
+      "q": "살구가 매실로 팔리는 것은 어떻게 알아보나요?"
+    },
+    {
+      "a": "먹지 않는 것이 좋습니다. 덜 익은 매실과 씨에는 시안화합물이 있어 날로 먹으면 두통·어지러움 등이 생길 수 있으므로 청이나 술 등으로 가공해 먹습니다.",
+      "q": "풋매실을 날로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "설탕에 절여 매실청으로 만들어 물에 타 마시거나 요리에 쓴다.",
+    "eng": "Japanese apricot",
+    "family": "장미과",
+    "grade": "청을 담글 때는 상처 없는 열매를 고른다. 식약처는 다 익은 황매실을 쓰면 청매실보다 시안화합물이 약 70% 적다고 안내했고, 남고처럼 수확기까지 초록빛을 오래 유지하는 품종은 풋매실 가공에 알맞다는 연구가 있다.",
+    "habitat": "중국 중남부에서 인도차이나 북부가 원산인 나무로, 국내에는 중국에서 들어와 주로 과원에서 재배한다. 재배면적의 약 70%가 전라남도(광양·순천 등)에 몰려 있다.",
+    "look": {
+      "flower": "꽃이 잎보다 먼저 핀다.",
+      "fruit": "씨방과 열매에 털이 있고, 과육은 흰빛이 도는 연초록인 경우가 많다. 씨는 과육에서 잘 떨어지지 않고 겉에 작은 구멍이 많다.",
+      "leaf": "잎끝이 길게 발달하고 가장자리 톱니가 거의 고르게 나 있다(살구 잎은 톱니가 불규칙하다)."
+    },
+    "parts": "열매(풋열매·익은 열매의 과육)",
+    "prep": "덜 익은 매실과 씨에는 시안화합물이 있어 날로 먹지 않는다. 식약처 안내에 따르면 씻어 물기를 말리고 꼭지를 떼어 설탕과 1:1로 켜켜이 담고, 그늘진 실온에서 3~4개월 숙성한다. 씨를 빼고 담그면 시안화합물이 약 95%, 청매실 대신 황매실을 쓰면 약 70% 줄며, 숙성 중 건더기를 건져내면 약 22%, 이후 서늘한 곳에서 6개월 이상 더 두면 약 13% 더 줄어든다. 처음 한 달은 가스가 생기므로 뚜껑을 느슨하게 두거나 주 1회 가스를 뺀다.",
+    "sci": "Prunus mume (Siebold) Siebold & Zucc.",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 - 벚나무속(Prunus) 종 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+      },
+      {
+        "title": "Plants of the World Online - Prunus mume (Siebold) Siebold & Zucc.",
+        "url": "https://powo.science.kew.org/taxon/730000-1"
+      },
+      {
+        "title": "식품의약품안전처, 안전한 매실청 담그는 방법 안내 (2026.5.27, KDI 경제정보센터 게재)",
+        "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=281625"
+      },
+      {
+        "title": "품종과 수확시기 및 발효조건에 따른 매실의 아미그달린 함량에 관한 연구 (한국식품영양과학회지, 2017)",
+        "url": "https://koreascience.kr/article/JAKO201719950757227.do"
+      },
+      {
+        "title": "매실의 성숙중 유기산, 유리당 및 유리아미노산의 변화 (Food Science and Preservation, 1999)",
+        "url": "https://koreascience.kr/article/JAKO199911921432984.pub"
+      },
+      {
+        "title": "전남농업정보 제40호 (2015) - 매실 재배면적",
+        "url": "https://www.jangseong.go.kr/file/wsboard/data/www_notice/1436410379.pdf/%EC%A0%9C40%ED%98%B8_6.29.pdf?idx=1194"
+      },
+      {
+        "title": "뉴시스 - 덜 익은 매실·씨앗 시안화합물 관련 식약처 안내 (2024.6)",
+        "url": "https://www.newsis.com/view/NISX20240626_0002788263"
+      }
+    ],
+    "store": "건더기를 건져낸 청은 서늘한 곳에 두고 6개월 이상 더 숙성하면 시안화합물이 더 줄어든다.",
+    "taste": "신맛이 강하다. 익으면서 사과산은 줄고 구연산이 늘며, 두 유기산이 전체 유기산의 90% 이상을 차지한다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 - 벚나무속(Prunus) 종 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+    },
+    {
+      "title": "매실나무와 살구나무 열매의 착색 특성 (한국자원식물학회 학술대회, 2019)",
+      "url": "https://koreascience.kr/article/CFKO201921956453421.pdf"
+    },
+    {
+      "title": "뉴시스 - 덜 익은 매실·씨앗 시안화합물 관련 식약처 안내 (2024.6)",
+      "url": "https://www.newsis.com/view/NISX20240626_0002788263"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "덜 익은 살구는 매실과 크기·빛깔이 비슷해 매실로 섞여 팔릴 수 있다. 씨와 과육 빛깔로 구별한다.",
+      "name": "살구",
+      "points": [
+        "매실 씨는 과육에서 잘 떨어지지 않고, 살구 씨는 과육에서 잘 떨어진다.",
+        "매실 씨 겉에는 작은 구멍이 많고, 살구 씨는 겉이 울퉁불퉁하다.",
+        "매실 과육은 흰빛 도는 연초록이 많고, 살구 과육은 주황빛(등색)이 많다.",
+        "익어 갈 때 살구는 껍질에 붉은 빛이 짙고 넓게 드는 편이고, 매실은 약하다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "털이 있는 초록 풋열매라 매실과 섞일 수 있다. 씨를 갈라 보면 구별에 도움이 된다.",
+      "name": "개복숭아",
+      "points": [
+        "매실 씨는 과육에서 잘 떨어지지 않고 겉에 작은 구멍이 많다.",
+        "복사나무 계열은 꽃받침과 씨방에 털이 많다.",
+        "두 열매 모두 씨에 시안배당체가 있으므로 씨는 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Science and Biotechnology",
+        "note": "매실청의 총 시안 함량을 줄이는 여러 가공 방법을 비교한 식품 안전 연구다.",
+        "title": "Comprehensive approaches for mitigation of total cyanide in Maesil (Prunus mume) syrup: a stone fruit-derived product",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s10068-026-02100-4",
+        "year": "2026"
+      },
+      {
+        "journal": "Food Chemistry",
+        "note": "집에서 담근 것과 시판 매실청 670건을 분석해, 많이 마시는 경우를 가정해도 시안 노출 추정치가 허용 한도 아래였다고 보고했다.",
+        "title": "Quantification of amygdalin, prunasin, mandelonitrile, and free cyanide in homemade and commercial Prunus mume syrups using UHPLC-(ESI)QqQ-MS/MS and their dietary risk assessment",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.foodchem.2026.148175",
+        "year": "2026"
+      },
+      {
+        "journal": "Foods",
+        "note": "매실과 오매(훈증해 말린 매실)의 페놀 성분이 소화 과정에서 얼마나 남고 장내 미생물과 어떻게 관련되는지 비교한 실험 연구다.",
+        "title": "Bioaccessibility and Gut Microbiota Modulation of Phenolics in Prunus mume vs. Fructus mume",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods14234067",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "매실청 아미그달린이 9개월까지 크게 줄고 12개월에는 모두 5mg/L 아래가 되어, 최소 9개월 숙성을 권했다.",
+        "title": "The Effect of One-Year Fermentation of Maesil Fruit (Prunus mume) Sugar Syrup on Amygdalin Level: A Natural Toxic Compound",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods13162609",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 국내 연구는 효능보다 매실청의 안전성, 곧 아미그달린과 시안 함량을 재고 줄이는 방법에 많이 집중되어 있다. 2024년 연구에서는 숙성 12개월 무렵 모든 매실청의 아미그달린이 5mg/L 아래로 떨어졌고, 국내 매실청 670건 분석에서도 추정 섭취량이 허용 기준 아래였다. 건강 효과 관련 연구는 실험실 단계가 대부분이다."
+  },
+  "name": "매실",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792400388863
+}

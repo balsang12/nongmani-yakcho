@@ -1,0 +1,187 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "열독(熱毒)으로 생긴 증상, 허로(虛勞)와 뼛속이 달아오르는 증상(骨蒸)에 쓰고, 붓기와 멍울(나력, 영류)을 삭이며 신기를 돕고 눈을 밝게 한다고 적었다.",
+      "싹과 잎이 참깨를 닮았고 음력 7월에 푸른빛 꽃이 피며, 뿌리는 날것일 때 푸르스름한 흰빛이다가 마르면 자줏빛 검은색이 된다고 했다.",
+      "음력 3·4·8·9월에 뿌리를 캐 볕에 말리거나 쪄서 말린다고 했고, 『의학입문』을 인용해 술에 쪄 써도 좋다고 덧붙였다.",
+      "우리나라에서는 경상도에서만 나는데 진짜인지는 알 수 없다는 당시의 속방 기록도 실었다."
+    ],
+    "han": "玄參",
+    "has": true,
+    "ki": "性微寒, 味苦醎, 無毒",
+    "kiKo": "성질은 약간 차고 맛은 쓰고 짜며 독이 없다",
+    "old": "",
+    "orig": "性微寒, 味苦醎, 無毒. 治熱毒遊風, 補虛勞, 骨蒸, 傳尸邪氣. 消腫毒, 散瘤癭瘰癧, 補腎氣, 令人目明. 苗葉似脂麻, 七月開花, 靑碧色. 八月結子, 黑色. 其根尖長, 生靑白, 乾卽紫黑, 新者潤膩. 三月四月八月九月採根, 暴乾. 或云, 蒸過日乾.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권2 초부 玄參",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2522"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "현삼과 여러해살이풀 현삼(Scrophularia buergeriana)의 뿌리를 말린 것입니다. 중국에서는 다른 종(S. ningpoensis)을 현삼으로 쓰므로, 원산지에 따라 기원 식물이 다를 수 있습니다.",
+      "q": "현삼은 어떤 식물의 뿌리인가요?"
+    },
+    {
+      "a": "자른 면이 검고 윤기가 있으며 캐러멜 같은 냄새가 나고, 질겨서 잘 휘는 것을 고릅니다. 곰팡이가 피었거나 눅눅한 것은 피합니다.",
+      "q": "좋은 현삼은 어떻게 고르나요?"
+    },
+    {
+      "a": "8~9월에 줄기 끝 긴 이삭 모양 꽃차례에 작은 황록색 꽃이 핍니다. 줄기가 네모지고 키가 1m를 넘기도 합니다.",
+      "q": "현삼은 언제 꽃이 피나요?"
+    },
+    {
+      "a": "먼저 확인이 필요합니다. 현삼은 주로 한약재로 다루므로, 식품 원료로 쓸 수 있는지 식품안전나라 식품원료 목록을 확인하고, 약으로 쓸 때는 한의사 등 전문가와 상의하세요.",
+      "q": "현삼을 차나 음식에 넣어도 되나요?"
+    },
+    {
+      "a": "밀봉해 습기와 햇빛을 피해 서늘한 곳에 둡니다. 말린 현삼은 질기고 촉촉한 편이라 습기를 먹으면 곰팡이가 생기기 쉽습니다.",
+      "q": "말린 현삼은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품보다는 한약재로 다룬다. 식품 원료로 쓸 수 있는지는 식품안전나라 식품원료 목록에서 먼저 확인해야 한다.",
+    "eng": "Figwort (Korean figwort)",
+    "family": "현삼과",
+    "grade": "규격상 말린 현삼은 질기고 잘 휘며, 자른 면이 검고 윤기가 있고 캐러멜 같은 냄새가 나는 것이 특징이다. 옛 기록도 새것은 윤기가 돌고 촉촉하다고 했다. 자른 면이 검지 않거나 냄새가 거의 없으면 덜 가공됐거나 다른 뿌리일 수 있다.",
+    "habitat": "우리나라와 중국 북부, 일본에 자생하는 여러해살이풀로 소개된다. 『동의보감』에는 우리나라에서는 경상도에서만 난다는 당시 기록이 있다. 시중 약재는 국내 재배품과 중국산이 함께 유통된다.",
+    "look": {
+      "flower": "8~9월 줄기 끝에 좁고 긴 이삭 모양 꽃차례가 서고, 작은 황록색(연녹색) 꽃이 꽃자루 없이 붙듯이 촘촘히 달린다.",
+      "fruit": "열매는 삭과(익으면 갈라지는 열매)이다.",
+      "leaf": "잎은 마주나고 잎자루가 있는 길쭉한 달걀꼴로, 끝이 뾰족하고 가장자리에 톱니가 있다.",
+      "root": "굵어진 뿌리가 여러 개 달린다. 말린 약재는 원기둥꼴로 겉은 회황색~회갈색이고 세로 주름이 있으며, 자른 면은 검고 약간 윤기가 난다.",
+      "stem": "줄기는 네모지고 털이 없으며 80~150cm까지 곧게 자란다."
+    },
+    "parts": "뿌리(말려서 약재로 쓰며, 식품 원료 사용 여부는 확인이 필요하다)",
+    "prep": "뿌리를 캐 흙과 잔뿌리, 뿌리줄기를 떼어 낸다. 중국 생약 규격에서는 반쯤 말린 뒤 3~6일 쌓아 두었다가 다시 말리기를 되풀이해 속까지 검게 만든다고 적고 있다. 날로 먹는 나물이 아니며, 약재로 쓸 때는 한의사 등 전문가와 상의한다.",
+    "sci": "Scrophularia buergeriana Miq.",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 현삼",
+        "url": "https://encykorea.aks.ac.kr/Article/E0063350"
+      },
+      {
+        "title": "위키백과 - 현삼",
+        "url": "https://ko.wikipedia.org/wiki/%ED%98%84%EC%82%BC"
+      },
+      {
+        "title": "Hong Kong Chinese Materia Medica Standards - Scrophulariae Radix",
+        "url": "https://cmro.gov.hk/hkcmms/vol4/pdf_e/Scrophulariae_Radix_v4_e.pdf"
+      },
+      {
+        "title": "Molecules (2021) - Scrophulariae Radix: An Overview of Its Biological Activities and Nutraceutical and Pharmaceutical Applications",
+        "url": "https://www.mdpi.com/1420-3049/26/17/5250"
+      },
+      {
+        "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권2 초부 玄參",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2522"
+      }
+    ],
+    "store": "바싹 말린 뿌리를 밀봉해 습기와 직사광선을 피해 서늘한 곳에 둔다. 말린 현삼은 질기고 촉촉한 편이라 눅눅해지면 곰팡이가 생기기 쉽다.",
+    "taste": "말린 뿌리는 약간 쓰고, 캐러멜 비슷한 독특한 냄새가 난다. 옛 기록은 맛을 쓰고 짜다(苦鹹)고 적었다."
+  },
+  "lookSources": [
+    {
+      "title": "한국자원식물학회지(2013) - 형태학적 형질에 의한 한국산 현삼속(현삼과)의 분류학적 연구",
+      "url": "https://koreascience.or.kr/article/JAKO201317642690354.do"
+    },
+    {
+      "title": "BMC Genomics (2025) - Using RAD-seq to identify and differentiate Scrophularia ningpoensis and its adulterants",
+      "url": "https://doi.org/10.1186/s12864-025-11304-7"
+    },
+    {
+      "title": "Molecules (2021) - Scrophulariae Radix: An Overview of Its Biological Activities and Nutraceutical and Pharmaceutical Applications",
+      "url": "https://www.mdpi.com/1420-3049/26/17/5250"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 현삼",
+      "url": "https://encykorea.aks.ac.kr/Article/E0063350"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 현삼속(Scrophularia koraiensis)으로 생김새가 비슷하다. 꽃차례가 줄기 끝 이삭이 아니라 잎겨드랑이에서 나오는 점이 다르다.",
+      "name": "토현삼",
+      "points": [
+        "현삼은 줄기 끝에 꽃자루가 아주 짧은 이삭 모양 꽃차례가 서고, 토현삼은 잎겨드랑이에 갈라지는 꽃차례(취산꽃차례)가 달린다.",
+        "토현삼은 잎과 꽃받침이 피침형(가늘고 긴 창 모양)이다.",
+        "현삼 꽃은 연녹색(황록색)이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "현삼속의 다른 종(Scrophularia kakudensis)으로, 중국에서는 현삼 약재에 섞여 들어오는 혼입품으로 분석된 바 있다.",
+      "name": "큰개현삼",
+      "points": [
+        "현삼은 꽃자루와 작은꽃자루가 매우 짧아 꽃이 줄기에 붙은 듯 보이는 것이 특징이다.",
+        "큰개현삼과 좀현삼은 잎 크기로 서로 구별되며, 현삼속끼리는 꽃차례 모양을 함께 봐야 한다.",
+        "말린 뿌리 상태에서는 눈으로 구별이 어려워 출처가 분명한 약재를 고른다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "중국 약전의 현삼은 Scrophularia ningpoensis로 우리나라 자생 현삼(S. buergeriana)과 종이 다르다. 유전자 분석 연구에서는 두 종을 서로 다른 종으로 뚜렷이 구분했다.",
+      "name": "중국산 현삼",
+      "points": [
+        "우리나라에서는 주로 S. buergeriana를, 중국에서는 S. ningpoensis를 현삼으로 써 왔다.",
+        "말린 약재는 모양으로 구별이 어려우므로 원산지 표시와 원산지 증명을 확인한다.",
+        "중국 쪽 연구에서는 오히려 우리 현삼(S. buergeriana)을 중국 현삼의 혼입품으로 분류하기도 한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomedicines",
+        "note": "현삼 뿌리 추출물이 유방암 세포주(MCF-7)에서 에스트로겐과 비슷한 반응을 보이는지 시험관에서 살폈다.",
+        "title": "Estrogen-like Activity of Scrophularia buergeriana Root Extracts in MCF-7 Cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/biomedicines13092151",
+        "year": "2025"
+      },
+      {
+        "journal": "BMC Genomics",
+        "note": "유전자 분석으로 중국 현삼과 우리 현삼·큰개현삼 등 혼입 가능 종을 뚜렷이 구별할 수 있음을 보였다.",
+        "title": "Using RAD-seq to identify and differentiate the medicinal herb Scrophularia ningpoensis and its adulterants",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s12864-025-11304-7",
+        "year": "2025"
+      },
+      {
+        "journal": "Progress in Nutrition",
+        "note": "기억력 저하를 호소하는 성인 80명에게 현삼 추출물 또는 위약을 먹였을 때 일부 기억력 검사 점수가 나아졌다고 보고했으며, 단일 기관의 소규모 연구다.",
+        "title": "Intake of Scrophularia buergeriana extract (Brainon®) shows memory improvement effects in a randomized, double-blind, placebo-controlled clinical study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.23751/pn.v26i2.15159",
+        "year": "2024"
+      },
+      {
+        "journal": "Scientific Reports",
+        "note": "기억 장애를 유도한 생쥐에서 현삼 추출물 투여 후 행동 검사와 뇌 대사물질 변화를 분석했다.",
+        "title": "Metabolomics study to reveal cognitive improvement with treatment of Scrophularia buergeriana",
+        "type": "동물 실험",
+        "url": "https://www.nature.com/articles/s41598-024-66371-9",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 현삼 뿌리 추출물의 기억력·신경 보호 작용을 다루며, 국내에서 사람 대상 무작위 대조 시험이 1건 보고됐지만 규모가 작다. 나머지는 동물·세포 실험이어서 사람에게 효과가 있다고 말하기에는 근거가 부족하고, 리뷰에서도 독성 연구와 임상 시험이 더 필요하다고 지적했다."
+  },
+  "name": "현삼",
+  "st": "check",
+  "updatedAt": 1792745954823
+}

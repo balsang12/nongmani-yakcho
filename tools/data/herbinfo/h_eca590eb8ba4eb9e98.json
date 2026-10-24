@@ -1,0 +1,181 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "꽃필 무렵 잎이 흰색·연분홍으로 변하면 쥐다래, 두껍고 윤기 나는 녹색 그대로면 다래입니다. 열매도 쥐다래가 다래보다 작습니다.",
+      "q": "쥐다래와 다래는 어떻게 구별하나요?"
+    },
+    {
+      "a": "줄기를 잘라 골속이 갈색 계단 모양이면 쥐다래, 흰색으로 꽉 차 있으면 개다래입니다. 개다래 열매는 끝이 뾰족하고 노란색~주황색으로 익으며 맛이 씁니다.",
+      "q": "쥐다래와 개다래는 어떻게 다른가요?"
+    },
+    {
+      "a": "늦여름~초가을(8~9월)에 익으며, 다래보다 한 달쯤 일찍 익는 편입니다.",
+      "q": "쥐다래 제철은 언제인가요?"
+    },
+    {
+      "a": "쉽게 물러 터지므로 낱개로 싸서 3℃ 안팎으로 냉장하는 것이 좋습니다. 다래류 기준으로 이 온도에서 약 4주 보관할 수 있습니다.",
+      "q": "쥐다래는 어떻게 보관하나요?"
+    },
+    {
+      "a": "말랑하게 익은 열매를 씻어 그대로 먹습니다. 덜 익어 단단하면 실온에서 후숙해 무르게 한 뒤 먹습니다.",
+      "q": "쥐다래는 껍질째 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "생으로 먹거나 잼·청으로 만든다.",
+    "eng": "Kolomikta actinidia (hardy kiwi vine)",
+    "family": "다래나무과",
+    "grade": "",
+    "habitat": "해발 500~1,000m쯤 깊은 산 숲속 그늘진 곳에서 자라는 갈잎 덩굴나무. 광덕산 조사에서는 해발 679~1,014m의 빛이 잘 드는 임도 가장자리에서 자랐다.",
+    "look": {
+      "flower": "지름 1.2cm 안팎의 흰 꽃이 향기를 내며 잎겨드랑이에 핀다. 암수딴그루로 수꽃은 3개쯤, 암꽃은 1~2개씩 달리고 꽃밥은 노란색이다.",
+      "fruit": "한 알 1~2.5g 정도의 작은 달걀꼴~타원형 열매로, 익어도 녹색~진녹색이며 붉은 기가 돌거나 세로 줄무늬가 보이기도 한다. 다 익으면 말랑해진다.",
+      "leaf": "잎이 얇고 윤기가 없으며, 꽃필 무렵 잎의 위쪽 절반이나 잎 전체가 흰색 또는 연분홍색으로 변한다. 잎맥은 5~7쌍이다.",
+      "stem": "덩굴 줄기를 잘라 보면 가운데 골속이 갈색이고 계단(사다리)처럼 칸이 져 있다."
+    },
+    "parts": "열매",
+    "prep": "따로 독성 손질은 필요 없다. 말랑하게 익은 열매를 씻어 그대로 먹는다. 덜 익어 단단하면 실온에 두어 무르게 익힌다.",
+    "sci": "Actinidia kolomikta",
+    "season": {
+      "collect": [
+        8,
+        9
+      ],
+      "flower": [
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "산림청 다래류 재배기술 자료(임산물 재배기술)",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_10.pdf"
+      },
+      {
+        "title": "한국의 수목 - 다래나무속 검색표 (florakorea)",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5520"
+      },
+      {
+        "title": "Asakura & Hoshino 2016, The Horticulture Journal 85(2) - 홋카이도 자생 다래속 3종의 분포와 열매 특성",
+        "url": "https://www.jstage.jst.go.jp/article/hortj/85/2/85_MI-082/_html"
+      },
+      {
+        "title": "Trees and Shrubs Online - Actinidia kolomikta",
+        "url": "https://treesandshrubsonline.org/articles/actinidia/actinidia-kolomikta/"
+      },
+      {
+        "title": "광덕산 쥐다래 자생지의 생태적 특성과 관상수로의 배식기법 (인간식물환경학회지 2008)",
+        "url": "https://db.koreascholar.com/Article/Detail/283520"
+      }
+    ],
+    "store": "쉽게 물러 터지므로 수확 후 바로 낱개로 싸서 냉장한다. 다래류 기준으로 3℃ 안팎에서 약 4주, 5℃에서 약 2주 품질이 유지되고 2℃ 이하는 저온 피해가 날 수 있다.",
+    "taste": "다래보다 작지만 단맛이 있다. 일본 홋카이도 조사에서는 당도가 다래보다 조금 낮고 비타민 C는 다래보다 훨씬 많게 측정됐다."
+  },
+  "lookSources": [
+    {
+      "title": "산림청 다래류 재배기술 자료",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_01_10.pdf"
+    },
+    {
+      "title": "한국의 수목 - 다래나무속 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5520"
+    },
+    {
+      "title": "한국의 수목 - Actinidia (다래나무속)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5012"
+    },
+    {
+      "title": "한국의 수목 - 다래나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5013"
+    },
+    {
+      "title": "한국의 수목 - 개다래",
+      "url": "https://florakorea.myspecies.info/en/node/4301"
+    },
+    {
+      "title": "한국의 수목 - 섬다래나무",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5016"
+    },
+    {
+      "title": "Asakura & Hoshino 2016, The Horticulture Journal",
+      "url": "https://www.jstage.jst.go.jp/article/hortj/85/2/85_MI-082/_html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "다래(Actinidia arguta)는 같은 속의 대표 식용 다래로, 골속도 갈색 계단 모양이라 줄기만으로는 구별이 어렵다. 잎 색 변화와 열매 크기로 가린다. 시중의 재배 다래 품종(청산·대보 등)도 이 종이다.",
+      "name": "다래",
+      "points": [
+        "다래 잎은 두껍고 앞면이 윤기 나는 녹색으로 꽃필 때도 색이 변하지 않고, 쥐다래 잎은 얇고 흰색·연분홍으로 변한다.",
+        "다래 꽃밥은 흑자색, 쥐다래 꽃밥은 노란색이다.",
+        "다래 열매가 더 크고(홋카이도 조사 평균 4.5g 대 쥐다래 1.8g) 익는 시기도 한 달쯤 늦다.",
+        "쥐다래는 주로 해발 500~1,000m 깊은 산 그늘에서 자라고, 다래는 전국에 널리 자란다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "개다래(Actinidia polygama)도 꽃필 때 잎이 하얗게 변해 쥐다래와 가장 헷갈린다. 열매가 쓰고 달지 않아 생과로 먹기에는 맞지 않는다.",
+      "name": "개다래",
+      "points": [
+        "줄기를 잘랐을 때 개다래 골속은 흰색이고 꽉 차 있고, 쥐다래는 갈색 계단 모양이다.",
+        "개다래 열매는 끝이 뾰족한 긴 타원형이고 노란색~주황색으로 익는다. 쥐다래 열매는 녹색으로 익는다.",
+        "개다래 잎맥은 4~5쌍으로 쥐다래(5~7쌍)보다 적다.",
+        "개다래 열매는 맛이 쓰고 달지 않다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "섬다래(Actinidia rufa)는 전남 신안·제주 같은 남쪽 섬에만 자라는 다래류로, 산지가 겹치지 않는다.",
+      "name": "섬다래",
+      "points": [
+        "섬다래 잎은 두껍고 윤기가 나며 색이 변하지 않는다.",
+        "섬다래 잎자루는 6~7cm로 길고, 잎 톱니 끝에 샘점이 있다.",
+        "섬다래 열매는 넓은 타원형이며 밝은 갈색 반점이 있다.",
+        "섬다래 골속은 흰색이고 꽉 차 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "다래·쥐다래·개다래 열매를 비교했으며, 쥐다래(특히 'Vitakola' 품종)의 총 폴리페놀 함량과 항산화 활성이 가장 높게 측정됐다.",
+        "title": "Biological and Health-Promoting Potential of Fruits from Three Cold-Hardy Actinidia Species",
+        "type": "기타",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11767855/",
+        "year": "2025"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "쥐다래 열매의 총 페놀 함량이 다래 열매보다 평균 약 3배 높게 측정됐다는 시험관 분석 결과다.",
+        "title": "Phenolic Compounds in Berries of Winter-Resistant Actinidia arguta Miq. and Actinidia kolomikta Maxim.: Evidence of Antioxidative Activity",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2076-3921/13/3/372",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 유럽에서 기른 쥐다래 재배 품종 열매의 폴리페놀 함량과 항산화 활성을 시험관에서 측정한 성분 분석 수준이다. 같은 다래속의 다래·개다래보다 폴리페놀과 항산화 수치가 높게 나왔다는 보고가 있으나, 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "쥐다래",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792832316687
+}

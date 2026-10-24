@@ -1,0 +1,169 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [],
+    "han": "木瓜",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "생으로 먹기에는 알맞지 않습니다. 과육이 딱딱하고 시며 떫기 때문에 얇게 썰어 차·청·잼·술 등으로 가공해 먹습니다.",
+      "q": "모과는 생으로 먹을 수 있나요?"
+    },
+    {
+      "a": "열매는 9~10월에 노랗게 익습니다. 남부 지방 조사에서는 10월 하순 무렵 성숙했다는 기록이 있습니다.",
+      "q": "모과 제철은 언제인가요?"
+    },
+    {
+      "a": "손질할 때 씨는 빼는 것이 안전합니다. 모과 씨 자체의 자료는 확인하지 못했지만, 가까운 명자나무 씨에서 시안 성분이 보고되었습니다.",
+      "q": "모과 씨는 어떻게 하나요?"
+    },
+    {
+      "a": "아니요, 서로 다른 식물입니다. 명자나무 열매는 지름 2~3cm 정도로 훨씬 작고 떨기나무에 달리며, 마르멜로(퀸스)는 다른 속의 서양 과일로 열매가 더 둥근 편입니다.",
+      "q": "명자나무 열매나 마르멜로도 모과인가요?"
+    }
+  ],
+  "id": {
+    "eat": "썰어서 과실주를 담그거나 차 대용으로 마시며, 잼·시럽·리큐어·젤리 등으로도 가공한다.",
+    "eng": "Chinese quince",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "중국 원산의 잎 지는 큰키나무로, 우리나라에서는 중부 이남의 마을·집 주변에 흔히 심어 기른다. 땅이 깊고 물 빠짐이 좋은 기름진 곳을 좋아한다.",
+    "look": {
+      "flower": "잎이 난 가지 끝에 연분홍 꽃이 한 송이씩 따로 피며, 꽃받침 조각 가장자리에 잔톱니가 있고 뒤로 젖혀진다.",
+      "fruit": "가을에 지름 8~15cm 정도의 둥글거나 길쭉한 달걀꼴 열매가 노랗게 익는다.",
+      "leaf": "어긋나게 달리는 타원형 잎으로 가장자리에 잔톱니가 있다. 턱잎은 작다.",
+      "smell": "익은 열매에서 독특하고 진한 향이 난다.",
+      "stem": "가지에 가시가 없고, 나무껍질이 조각으로 벗겨지며, 18m 안팎까지 크게 자라는 나무다."
+    },
+    "parts": "열매",
+    "prep": "과육이 딱딱하고 시며 떫어 생으로 먹기에는 알맞지 않으므로 썰어서 차·청·잼·술 등으로 가공해 먹는다. 모과 씨에 대한 자료는 확인하지 못했지만, 가까운 명자나무 씨에서 시안 성분이 보고되어 손질할 때 씨를 빼는 편이 안전하다.",
+    "sci": "Chaenomeles sinensis (Thouin) Koehne",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 모과나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018444"
+      },
+      {
+        "title": "Quinces (Cydonia oblonga, Chaenomeles sp., and Pseudocydonia sinensis) as Medicinal Fruits of the Rosaceae Family (Antioxidants, 2024)",
+        "url": "https://doi.org/10.3390/antiox13010071"
+      },
+      {
+        "title": "한국의 수목 - 명자나무속 종 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5522"
+      },
+      {
+        "title": "남부지방 모과의 생육특성에 관한 연구 (한국자원식물학회지, 1989)",
+        "url": "https://koreascience.or.kr/article/JAKO198911920277382.page?lang=ko"
+      },
+      {
+        "title": "IPNI - Chaenomeles sinensis (Thouin) Koehne",
+        "url": "https://www.ipni.org/n/722124-1"
+      }
+    ],
+    "store": "",
+    "taste": "신맛과 떫은맛이 강하고 과육이 딱딱하며, 향이 진하다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 - 명자나무속 종 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5522"
+    },
+    {
+      "title": "한국의 수목 - 명자나무 Chaenomeles japonica",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5523"
+    },
+    {
+      "title": "Quinces (Cydonia oblonga, Chaenomeles sp., and Pseudocydonia sinensis) as Medicinal Fruits of the Rosaceae Family (Antioxidants, 2024)",
+      "url": "https://doi.org/10.3390/antiox13010071"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 모과나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0018444"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 명자나무속의 떨기나무(명자꽃·풀명자 무리)로 노란 열매가 열려 작은 모과처럼 보인다. 열매가 훨씬 작고, 씨에서 시안 성분이 보고되어 씨째 먹지 않도록 주의한다.",
+      "name": "명자나무",
+      "points": [
+        "모과나무는 크게 자라는 나무지만, 명자나무 무리는 높이 1~3m 정도의 떨기나무다.",
+        "모과나무는 가시가 없고, 명자나무 무리는 가지가 가시로 변한 것이 많다.",
+        "모과나무 꽃은 잎이 난 가지에 한 송이씩 피고, 명자나무 무리 꽃은 잎이 나기 전 묵은 가지에 2~4송이씩 모여 핀다.",
+        "모과 열매는 지름 8~15cm로 크지만, 풀명자 열매는 지름 2~3cm 정도로 작다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "서양에서 퀸스(quince)라 부르는 Cydonia oblonga로 모과와 비슷한 노란 열매가 열리지만 다른 속 식물이다. 수입 가공품(잼·젤리 등)에서 '퀸스'가 모과로 옮겨지는 경우가 있어 원료명을 확인한다.",
+      "name": "마르멜로",
+      "points": [
+        "마르멜로는 떨기나무나 작은 나무이고, 모과나무는 18m까지 자라는 큰 나무다.",
+        "마르멜로 열매는 둥근꼴~긴꼴로 지름 8~12cm, 100~250g 정도이고, 모과는 길이 12~17cm의 길쭉한 달걀꼴이다.",
+        "모과나무는 나무껍질이 조각으로 벗겨지는 특징이 뚜렷하다.",
+        "마르멜로 꽃은 흰색 또는 분홍색으로 크게 한 송이씩 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plant Foods for Human Nutrition",
+        "note": "모과 조각을 진공 튀김으로 가공하는 조건을 비교하고, 시험관 장내 발효 모델에서 짧은사슬지방산 변화를 살폈다.",
+        "title": "Modulating the Quality of Chinese Quince Slices via Vacuum Frying: Focus on Sensory Attributes, gut Microbiota After In Vitro Fermentation, and SCFA Production",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s11130-026-01541-w",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "스트레스 호르몬으로 우울 유사 상태를 만든 생쥐에게 모과 열매 추출물을 먹였을 때 행동 지표 변화를 보고했으며, 사람에게 같은 결과가 나오는지는 확인되지 않았다.",
+        "title": "Antidepressant-like Effects of Chinese Quince (Chaenomeles sinensis) Fruit Based on In Vivo and Molecular Docking Studies",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms25115838",
+        "year": "2024"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "마르멜로·명자나무속·모과의 생김새, 성분, 가공·이용 연구를 비교해 정리한 리뷰이다.",
+        "title": "Quinces (Cydonia oblonga, Chaenomeles sp., and Pseudocydonia sinensis) as Medicinal Fruits of the Rosaceae Family: Current State of Knowledge on Properties and Use",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/antiox13010071",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 열매의 클로로겐산 등 페놀 성분과 가공 방법에 관한 것이 많고, 효과를 본 연구는 동물 실험·시험관 실험 수준이다. 사람 대상 연구는 확인되지 않아 건강 효과를 단정할 수 없다."
+  },
+  "name": "모과",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 모과나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0018444"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 모과나무 열매를 과실주로 담그거나 차 대용으로 마시고 약재로도 써 왔다고 소개하며, 산림경제·임원경제지·본초강목 등을 참고문헌으로 든다."
+  },
+  "updatedAt": 1792400388863
+}

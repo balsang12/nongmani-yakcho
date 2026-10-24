@@ -1,0 +1,168 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "고삼을 열독풍(熱毒風)으로 피부에 생기는 부스럼, 심한 피부병, 치통, 음부가 헌 증상 등에 쓴다고 적었다고 소개된다.",
+      "쓰기 전에 찹쌀 뜨물에 하룻밤 담갔다가 오래 쪄서 볕에 말리고, 주로 환약으로 썼다고 전한다."
+    ],
+    "han": "苦參",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "주간경향 - 고삼차, 게임의 벌칙으로 안전한 걸까? (2019)",
+        "url": "https://weekly.khan.co.kr/article/201912061603441"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감은 맛이 쓰고 독이 없다고 적었으나, 너무 써서 위가 약한 사람은 조심해야 한다고 소개된다. 현대 연구는 고삼 함유 제품의 간 등 안전성 감시가 필요하다고 본다."
+  },
+  "faq": [
+    {
+      "a": "권하지 않습니다. 고삼 뿌리는 극히 쓰고 마트린 같은 알칼로이드가 들어 있으며, 식품 원료로 쓸 수 있는지 확인이 필요한 품목입니다. 약재로 쓸 때는 전문가 처방에 따르세요.",
+      "q": "고삼을 차로 끓여 마셔도 되나요?"
+    },
+    {
+      "a": "뿌리로 구별합니다. 황기는 곧고 노란 뿌리에 단맛이 나고, 고삼은 갈색에 가깝고 구부러진 뿌리에 쓴맛이 아주 강합니다.",
+      "q": "고삼과 황기는 어떻게 구별하나요?"
+    },
+    {
+      "a": "뿌리가 흉하게 구부러진 모양이어서 붙은 이름입니다. '고삼'은 맛이 써서 붙은 이름입니다.",
+      "q": "왜 '도둑놈의지팡이'라고 부르나요?"
+    },
+    {
+      "a": "6~8월에 연한 노란색 나비 모양 꽃이 줄기 끝 긴 꽃차례에 줄지어 핍니다. 꽃이 지면 아래로 늘어지는 꼬투리가 달립니다.",
+      "q": "고삼 꽃은 언제 피나요?"
+    },
+    {
+      "a": "아닙니다. 옛 기록과 달리 최근 리뷰는 고삼이 든 제품의 간·심폐 관련 위험과 약물 상호작용을 지켜봐야 한다고 지적합니다. 스스로 달여 먹지 마세요.",
+      "q": "동의보감에 독이 없다고 했는데 많이 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Lightyellow sophora",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "우리나라 각지의 산과 들 풀밭에서 자라는 여러해살이풀이다. 중국·일본·러시아 극동에도 분포한다.",
+    "look": {
+      "flower": "6~8월에 원줄기와 가지 끝의 긴 꽃차례(총상꽃차례)에 연한 노란색 나비 모양 꽃이 줄지어 달린다.",
+      "fruit": "아래로 늘어지는 꼬투리 열매로 씨가 3~7개 들고, 익어도 잘 갈라지지 않는다.",
+      "leaf": "잎은 어긋나고 잎자루가 길며, 작은잎 15~41장이 달린 홀수깃꼴겹잎이다. 작은잎은 길이 2~4cm의 긴 타원형~달걀형이고 털이 있다.",
+      "root": "뿌리는 굵고 흉하게 구부러져 '도둑놈의지팡이'라는 이름이 붙었다. 곧고 노란 황기 뿌리와 달리 갈색에 가깝다.",
+      "stem": "키는 1m 안팎으로 곧게 서다가 윗부분에서 가지를 친다. 어린 줄기는 검은빛이 돌고 털이 있으며 자라면서 녹색이 된다."
+    },
+    "parts": "뿌리(한약재로 쓰는 부위). 식품 원료로 쓸 수 있는지는 따로 확인이 필요하다.",
+    "prep": "날로든 차로든 식용으로 먹지 않는다. 뿌리에 마트린 같은 알칼로이드 성분이 들어 있고 맛이 극히 쓰며, 최근 리뷰는 고삼이 든 제품의 간·심폐·전해질 관련 위험과 약물 상호작용을 지켜봐야 한다고 지적한다. 약재로는 봄·가을에 캔 뿌리의 머리와 잔뿌리를 떼고 말려 쓰며, 한의사 등 전문가의 처방 안에서만 쓴다.",
+    "sci": "Sophora flavescens Aiton",
+    "season": {
+      "collect": [
+        3,
+        4,
+        9,
+        10
+      ],
+      "flower": [
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 고삼",
+        "url": "https://encykorea.aks.ac.kr/Article/E0003680"
+      },
+      {
+        "title": "주간경향 - 고삼차, 게임의 벌칙으로 안전한 걸까? (2019)",
+        "url": "https://weekly.khan.co.kr/article/201912061603441"
+      },
+      {
+        "title": "위키백과 - 고삼",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%82%BC"
+      },
+      {
+        "title": "국민일보 - 황기와 고삼(단너삼·쓴너삼) 한의학 칼럼 (2021)",
+        "url": "https://www.kukinews.com/article/view/kuk202107090281"
+      },
+      {
+        "title": "Frontiers in Pharmacology (2026) - Five-flavor Sophora flavescens enteric-coated capsules for ulcerative colitis",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1972684/full"
+      }
+    ],
+    "store": "",
+    "taste": "뿌리가 몹시 써서 '쓸 고(苦)' 자를 붙여 고삼이라 부른다. 먹자마자 토할 만큼 쓰다고 소개될 정도다."
+  },
+  "lookSources": [
+    {
+      "title": "국민일보 - 황기와 고삼(단너삼·쓴너삼) 한의학 칼럼 (2021)",
+      "url": "https://www.kukinews.com/article/view/kuk202107090281"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 고삼",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003680"
+    },
+    {
+      "title": "위키백과 - 고삼",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%A0%EC%82%BC"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "황기(단너삼)와 고삼(쓴너삼)은 둘 다 콩과로 땅 위 모습이 비슷해 헷갈리기 쉽다. 맛과 성질이 정반대여서 바꿔 쓰면 안 되며, 뿌리를 보면 구별된다.",
+      "name": "황기",
+      "points": [
+        "황기 뿌리는 곧게 뻗고 노란빛이며, 고삼 뿌리는 갈색에 가깝고 심하게 구부러진다.",
+        "황기는 맛이 달아 '단너삼', 고삼은 맛이 써서 '쓴너삼'이라 불린다. 뿌리를 조금 씹었을 때 아주 쓰면 고삼이다.",
+        "고삼은 꽃이 연한 노란색으로 6~8월에 줄기 끝 긴 꽃차례에 촘촘히 달린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "고삼 등 다섯 약재로 만든 장용 캡슐의 대장염 연구를 비판적으로 정리했으며, 완제품의 효능·안전성은 아직 입증되지 않았고 간 등 위험 감시가 필요하다고 보았다.",
+        "title": "Five-flavor Sophora flavescens enteric-coated capsules for ulcerative colitis: ethnopharmacological rationale, pharmacology, clinical evidence, and safety",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1972684",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "암성 흉막삼출 환자에게 고삼 유래 주사제를 항암제와 함께 쓴 무작위 임상시험 83편을 모은 메타분석으로, 일부 지표가 나아졌으나 근거 수준은 중등도~낮음이었다.",
+        "title": "Intrapleural administration with traditional Chinese medicine injections (Sophorae flavescentis preparations) in controlling malignant pleural effusion: a clustered systematic review and meta-analysis",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fphar.2025.1519794",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "암 뼈전이 통증 환자 대상 무작위 시험 7편을 모았으나 연구 간 차이가 크고 출판 편향 가능성이 있어 해석에 한계가 있다.",
+        "title": "Meta-analysis of the effect of sophora flavescens on tumor metastasis-induced bone neuropathic pain",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fphar.2024.1474982",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 중국에서 고삼 유래 주사제·캡슐을 암 환자 보조 치료나 궤양성 대장염에 쓴 임상시험을 모은 메타분석과 리뷰다. 포함된 연구의 비뚤림 위험과 이질성이 커서 근거 수준은 낮음~중등도로 평가되며, 생뿌리나 차를 먹는 것과는 다른 제제에 대한 결과다. 안전성(간 등)을 지켜봐야 한다는 지적도 함께 나온다."
+  },
+  "name": "고삼",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 고삼",
+        "url": "https://encykorea.aks.ac.kr/Article/E0003680"
+      }
+    ],
+    "text": "고삼은 맛이 너무 써서 달여 마시는 탕약보다는 환약이나 씻는 약으로 주로 써 왔고, 피부 화농·습진·가려움에 달인 물로 환부를 씻었다고 정리된다. 민간에서는 변소에 넣어 구더기가 생기지 않게 할 만큼 살충력이 있는 풀로 알려졌다."
+  },
+  "updatedAt": 1792745954823
+}

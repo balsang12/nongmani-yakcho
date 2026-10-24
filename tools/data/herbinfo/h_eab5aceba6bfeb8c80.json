@@ -1,0 +1,225 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "白芷",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "푸드투데이: 구리때 백지(白芷) 약재 상식 (2013)",
+        "url": "https://www.foodtoday.or.kr/news/article.html?no=103898"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 원문 페이지(한의학고전DB·위키문헌)를 열람하지 못해 성미·원문은 대조하지 못했다. 언론 기사에는 동의보감에 우리말 이름 '구리댓불휘'로 실려 있다고 소개되어 있으나 원문으로 확인하지 못했다."
+  },
+  "faq": [
+    {
+      "a": "네, 구릿대의 뿌리를 말린 한약재 이름이 백지(白芷)입니다. 다만 대한민국약전은 구릿대와 그 변종(var. formosana) 두 가지를 백지 기원으로 인정하므로, 수입품은 다른 변종일 수 있습니다.",
+      "q": "백지와 구릿대는 같은 것인가요?"
+    },
+    {
+      "a": "겉모습만으로 확실히 가리기는 어렵고, 포장에 표시된 기원식물과 원산지를 확인하는 것이 가장 확실합니다. 연구에서도 약전의 기존 확인시험만으로는 두 기원이 구별되지 않았다고 보고되었습니다.",
+      "q": "국산 백지와 중국산 백지는 어떻게 구별하나요?"
+    },
+    {
+      "a": "뿌리는 가을, 꽃대가 올라오기 전에 캔 것을 약재로 씁니다. 꽃은 여름(대략 7~8월)에 핍니다.",
+      "q": "구릿대는 언제 캐나요?"
+    },
+    {
+      "a": "식약처 식품원료 목록에서 식품으로 쓸 수 있는지는 확인하지 못했으므로 단정할 수 없습니다. 날로 먹지 말고, 먹을 목적이면 한의사·약사와 상의하세요. 뿌리의 퓨라노쿠마린 성분은 햇빛 민감성을 높일 수 있다고 알려져 있습니다.",
+      "q": "구릿대를 나물이나 차로 먹어도 되나요?"
+    },
+    {
+      "a": "권하지 않습니다. 개구릿대·독미나리·지리강활 같은 산형과 독초와 헷갈리기 쉽고, 꽃 피기 전에는 잎·뿌리로 구별하기 어렵습니다.",
+      "q": "산에서 구릿대 비슷한 풀을 캐도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "한방에서 말린 뿌리(백지)를 다른 약재와 함께 달여 쓴다. 중국에서는 줄기·씨를 요리 향신료로 쓰기도 한다.",
+    "eng": "Dahurian angelica",
+    "family": "산형과",
+    "grade": "백지는 대한민국약전에서 구릿대(Angelica dahurica)와 그 변종 var. formosana 두 가지가 기원으로 인정되며, 우리나라에서는 주로 구릿대, 중국에서는 주로 var. formosana가 재배된다고 보고되어 있으니 포장의 기원·원산지 표시를 확인한다. 연구에 따르면 쿠마린 성분은 잔뿌리와 껍질 쪽(피층)에 더 많아 껍질을 지나치게 깎아낸 것은 성분이 적을 수 있다. 유황 훈증을 하면 성분 조성이 달라진다는 연구가 있으니 훈증 여부를 확인하는 것이 좋다.",
+    "habitat": "우리나라를 포함한 동북아시아에 자라며, 냇가·계곡 가장자리처럼 물기가 많은 습한 곳에 주로 자생한다.",
+    "look": {
+      "flower": "여름에 흰색(녹백색) 작은 꽃이 우산 모양으로 모여 크게는 지름 30cm 안팎의 겹산형꽃차례를 이룬다.",
+      "fruit": "타원형 열매가 늦여름~가을에 갈색으로 익는다.",
+      "leaf": "첫해에는 뿌리에서 여러 갈래로 깊게 갈라진 잎이 모여 난다.",
+      "root": "굵고 살찐 원기둥 모양의 갈색 뿌리에 잔뿌리가 많이 붙는다.",
+      "smell": "뿌리와 잎을 비비면 강한 향이 난다.",
+      "stem": "2~3년째에 속이 빈 꽃줄기가 1~2m까지 곧게 자라며, 줄기는 세로 줄이 있고 자줏빛을 띤 녹색이다."
+    },
+    "parts": "뿌리(말린 것을 한약재 '백지(白芷)'라 부른다). 식약처 식품원료 목록에서 식품으로 쓸 수 있는 부위는 확인하지 못했다.",
+    "prep": "날로 먹는 나물이 아니며, 가을에 캔 뿌리를 씻어 말린 한약재로 유통된다. 식품원료로 쓸 수 있는지 확인하지 못했으므로 먹을 목적이라면 한의사·약사와 상의한다. 뿌리에 잔토톡신·임페라토린 같은 퓨라노쿠마린 성분이 들어 있고 이 계열 성분은 햇빛에 피부가 예민해지게 할 수 있다고 알려져 있으니, 다룬 뒤 손을 씻고 생즙을 피부에 바르지 않는다. 야생에서 비슷한 산형과 식물(독초 개구릿대·독미나리 등)을 직접 캐서 쓰지 않는다.",
+    "sci": "Angelica dahurica (Hoffm.) Benth. & Hook.f. ex Franch. & Sav.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "구릿대 뿌리의 부위별 성분 비교 (생약학회지 41(3), 2010)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201028455276344.pdf"
+      },
+      {
+        "title": "Two-Dimensional HPTLC with Bioautography for Distinguishing Angelicae Dahuricae Radix Varieties (Plants, 2024)",
+        "url": "https://doi.org/10.3390/plants13101348"
+      },
+      {
+        "title": "Angelica dahurica - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Angelica_dahurica"
+      },
+      {
+        "title": "구릿대 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B5%AC%EB%A6%BF%EB%8C%80"
+      },
+      {
+        "title": "A review of the historical records, chemistry, pharmacology, pharmacokinetics and edibility of Angelica dahurica (Arabian Journal of Chemistry, 2023)",
+        "url": "https://doi.org/10.1016/j.arabjc.2023.104877"
+      },
+      {
+        "title": "Influence of Sulfur Fumigation on Angelicae Dahuricae Radix (Molecules, 2024, DOAJ)",
+        "url": "https://doaj.org/article/f0206c56d3404f0bad7c70048368dbf2"
+      }
+    ],
+    "store": "잘 말린 뿌리를 밀봉해 습기와 벌레를 피해 서늘하고 그늘진 곳에 둔다.",
+    "taste": "뿌리와 잎에서 강한 향이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "산림청 보도자료 인용 기사: 참당귀와 독초 개구릿대 구별 (2015.6.3)",
+      "url": "https://www.sidae.com/article/2015060317358050127"
+    },
+    {
+      "title": "식약처·국립수목원 봄철 독초 주의 기사(독미나리 구별법, 서울신문 2026.4.16)",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    },
+    {
+      "title": "식약처·국립수목원: 꽃 피기 전에는 산나물과 독초 구별이 어려움 (YTN 2023.4.14)",
+      "url": "https://www.ytn.co.kr/_ln/0103_202304141345145932"
+    },
+    {
+      "title": "한국산 Angelica속 식물의 생약학적 연구 (생약학회지 42(2), 2011) - 지리강활 중독 예방 감별",
+      "url": "https://scholarworks.gnu.ac.kr/handle/sw.gnu/24369"
+    },
+    {
+      "title": "Two-Dimensional HPTLC with Bioautography for Distinguishing Angelicae Dahuricae Radix Varieties (Plants, 2024)",
+      "url": "https://doi.org/10.3390/plants13101348"
+    },
+    {
+      "title": "Influence of Sulfur Fumigation on Angelicae Dahuricae Radix (Molecules, 2024, DOAJ)",
+      "url": "https://doaj.org/article/f0206c56d3404f0bad7c70048368dbf2"
+    },
+    {
+      "title": "Cicuta virosa - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cicuta_virosa"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "구릿대와 이름·생김새가 비슷한 산형과 식물(Angelica anomala)로, 산림청은 개구릿대를 독초로 안내했다. 야생에서 뿌리를 캐서 쓰면 혼동 위험이 크다.",
+      "name": "개구릿대",
+      "points": [
+        "산림청 안내에서 개구릿대는 잘게 갈라진 작은 잎들이 서로 떨어져 있다고 설명한다.",
+        "꽃은 흰색이라 구릿대와 꽃 색으로는 구별되지 않으므로 꽃만 보고 판단하지 않는다.",
+        "산형과 식물은 꽃이 피기 전에는 잎·뿌리만으로 구별하기 어렵다(식약처·국립수목원).",
+        "야생 채취품 대신 기원이 표시된 규격 한약재를 산다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "구릿대처럼 물가·습지에 자라는 산형과 독초로, 흰 꽃이 우산 모양으로 피어 겉모습이 비슷하다. 뿌리에 신경독 시큐톡신이 많아 적은 양으로도 위험하다.",
+      "name": "독미나리",
+      "points": [
+        "독미나리 뿌리는 죽순처럼 생겼고 세로로 자르면 속이 사다리처럼 칸막이져 있다.",
+        "잎 가장자리 톱니가 깊고, 화학약품 같은 불쾌한 냄새가 난다.",
+        "구릿대는 뿌리와 잎에서 특유의 강한 향이 난다.",
+        "물가에서 비슷한 식물을 캐서 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "참당귀 등 당귀류로 오인되어 중독을 일으키는 산형과 독초(Angelica purpuraefolia)로, 같은 Angelica속이라 말린 뿌리 모양만으로는 구별이 어렵다.",
+      "name": "지리강활",
+      "points": [
+        "지리강활은 당귀로 잘못 알고 먹어 중독되는 사례가 알려진 독초다.",
+        "전문 감별에서는 뿌리 단면의 분비도·목부섬유·관다발 배열을 현미경으로 비교한다.",
+        "산에서 직접 캔 Angelica속 뿌리는 백지·당귀로 쓰지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmaceutics",
+        "note": "구릿대 유래 나노소포를 세포 실험과 알레르기 비염 생쥐 모델에 분무해 염증 신호 변화를 관찰한 연구다.",
+        "title": "Angelica dahurica Exosome-like Nanovesicles Delivered by Ultrasonic Nebulization Alleviate Allergic Rhinitis and Modulate NF-κB Signaling",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/pharmaceutics18091193",
+        "year": "2026"
+      },
+      {
+        "journal": "Plants (Basel)",
+        "note": "대한민국약전이 인정하는 백지의 두 기원(구릿대, var. formosana)을 기존 시험으로는 구별하지 못해 새 크로마토그래피 감별법을 제안했다.",
+        "title": "Two-Dimensional High-Performance Thin-Layer Chromatography with Bioautography for Distinguishing Angelicae Dahuricae Radix Varieties: Chemical Fingerprinting and Antioxidant Profiling",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants13101348",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "중국 재배 백지 4개 재래종이 야생 구릿대(var. dahurica)에서 유래했을 가능성이 크다는 유전자 분석 결과를 보고했다.",
+        "title": "Molecular evidence provides new insights into the evolutionary origin of an ancient traditional Chinese medicine, the domesticated \"Baizhi\"",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fpls.2024.1388586",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "뿌리의 쿠마린 성분 일부가 대식세포 실험에서 염증 신호를 줄이는 경향을 보였다는 세포 수준 연구다.",
+        "title": "Screening of anti-inflammatory activities components of Angelica dahurica root based on spectrum-effect relationship analysis and NF-κB pathway",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3389/fphar.2024.1396001",
+        "year": "2024"
+      },
+      {
+        "journal": "Arabian Journal of Chemistry",
+        "note": "구릿대의 옛 기록, 성분, 약리, 체내 동태와 식재료로서의 쓰임을 정리한 종설이다.",
+        "title": "A review of the historical records, chemistry, pharmacology, pharmacokinetics and edibility of Angelica dahurica",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.arabjc.2023.104877",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 뿌리의 쿠마린 성분(임페라토린 등)에 대한 화학 분석과 세포·동물 실험이며, 항염증 작용 등이 실험실 수준에서 관찰되었다. 사람 대상 임상 근거는 이번 검색에서 확인하지 못했다. 품질 쪽으로는 국산(구릿대)과 중국산(var. formosana) 기원 구별, 재배 백지의 기원에 관한 연구가 나왔다."
+  },
+  "name": "구릿대",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "구릿대 뿌리의 부위별 성분 비교 (생약학회지 41(3), 2010)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201028455276344.pdf"
+      },
+      {
+        "title": "A review of the historical records, chemistry, pharmacology, pharmacokinetics and edibility of Angelica dahurica (Arabian Journal of Chemistry, 2023)",
+        "url": "https://doi.org/10.1016/j.arabjc.2023.104877"
+      }
+    ],
+    "text": "구릿대 뿌리(백지)는 한방에서 바람과 습기를 없애고 붓기와 통증을 가라앉히는 약재로 분류되어, 두통·치통 등에 쓰여 왔다고 학술 자료에 소개되어 있다. 중국에서는 약재뿐 아니라 요리 향신료로도 쓰였다."
+  },
+  "updatedAt": 1792703340527
+}

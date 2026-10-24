@@ -1,0 +1,143 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "꽃이 피기 전인 3~4월 어린 순이 가장 좋습니다. 꽃은 4~5월에 붉은 자주색으로 핍니다.",
+      "q": "광대나물은 언제 뜯나요?"
+    },
+    {
+      "a": "위쪽 잎을 보면 됩니다. 광대나물은 잎자루 없는 반원형 잎이 줄기를 감싸고, 자주광대나물은 잎이 줄기를 감싸지 않으며 털이 많고 자줏빛을 띱니다.",
+      "q": "광대나물과 자주광대나물은 어떻게 구별하나요?"
+    },
+    {
+      "a": "어린 순을 씻어 끓는 물에 살짝 데친 뒤 찬물에 헹궈 나물무침이나 국에 씁니다.",
+      "q": "광대나물은 어떻게 손질하나요?"
+    },
+    {
+      "a": "식품원료로 쓸 수 있는지 아직 확인이 필요한 품목입니다. 판매나 가공 전에 식품안전나라 식품원료 목록에서 등재 여부를 먼저 확인하세요.",
+      "q": "광대나물을 팔아도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 나물무침이나 된장국에 넣어 먹는다. 유럽과 아시아에서는 잎을 날로 또는 익혀 먹기도 한다.",
+    "eng": "Henbit (henbit deadnettle)",
+    "family": "꿀풀과",
+    "grade": "",
+    "habitat": "유라시아 원산으로 오래전에 들어와 자리 잡은 귀화식물이다. 전국의 밭둑·길가·빈터처럼 햇빛이 잘 들고 기름진 땅에 흔하며, 봄과 가을에 싹이 튼다.",
+    "look": {
+      "flower": "4~5월 위쪽 잎겨드랑이에 붉은빛 도는 자주색 꽃이 여러 송이 돌려나듯 모여 핀다. 꽃은 긴 통 모양의 입술꽃으로, 윗입술은 모자처럼 앞으로 굽고 아랫입술은 셋으로 갈라진다.",
+      "leaf": "잎은 마주나고 가장자리에 둥근 톱니가 있으며 잎맥이 눌려 주름져 보인다. 아래쪽 잎은 잎자루가 길고 둥글며, 위쪽 잎은 잎자루 없이 반원형으로 줄기를 감싼다.",
+      "root": "가는 수염뿌리가 많이 난다.",
+      "stem": "줄기는 네모지고 높이 10~30cm로, 밑에서 가지가 많이 갈라진다. 초록색이다가 자라면서 자줏빛을 띠기도 한다."
+    },
+    "parts": "어린 순과 잎",
+    "prep": "꽃 피기 전 어린 순을 뜯어 깨끗이 씻고 끓는 물에 살짝 데쳐 찬물에 헹군 뒤 쓴다. 식품원료로 쓸 수 있는지 아직 확인되지 않은 품목이라, 판매·가공 전에 식품안전나라에서 원료 등재 여부를 확인해야 한다.",
+    "sci": "Lamium amplexicaule L.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 광대나물",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8C%80%EB%82%98%EB%AC%BC"
+      },
+      {
+        "title": "University of Wisconsin–Madison Extension - Henbit, Lamium amplexicaule",
+        "url": "https://hort.extension.wisc.edu/articles/henbit-lamium-amplexicaule/"
+      },
+      {
+        "title": "Penn State Extension - Henbit: a Common Winter Annual",
+        "url": "https://extension.psu.edu/henbit-a-common-winter-annual"
+      },
+      {
+        "title": "Plants of South Eastern New South Wales - Lamium amplexicaule",
+        "url": "https://apps.lucidcentral.org/plants_se_nsw/text/entities/lamium_amplexicaule.htm"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Lamium amplexicaule",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:448797-1"
+      }
+    ],
+    "store": "생것은 물기를 털어 비닐에 담아 냉장하고 빨리 쓴다. 데친 것은 물기를 짜서 나눠 냉동한다.",
+    "taste": "향은 약하고 순한 풀맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "University of Wisconsin–Madison Extension - Henbit, Lamium amplexicaule",
+      "url": "https://hort.extension.wisc.edu/articles/henbit-lamium-amplexicaule/"
+    },
+    {
+      "title": "Penn State Extension - Henbit: a Common Winter Annual",
+      "url": "https://extension.psu.edu/henbit-a-common-winter-annual"
+    },
+    {
+      "title": "위키백과 - 광대나물",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8C%80%EB%82%98%EB%AC%BC"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 광대나물속 식물로 밭과 길가에 함께 자라며, 위쪽 잎이 줄기를 감싸지 않는다.",
+      "name": "자주광대나물",
+      "points": [
+        "광대나물의 위쪽 잎은 잎자루 없이 반원형으로 줄기를 감싸지만, 자주광대나물은 잎이 줄기를 감싸지 않는다.",
+        "자주광대나물 잎은 털이 훨씬 많고 두툼하며 더 길쭉하다.",
+        "자주광대나물은 윗부분 잎이 자줏빛을 띠는 경우가 많다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "꽃이 비슷한 꿀풀과 여러해살이풀이지만 줄기가 땅을 기며 마디마다 뿌리를 내린다.",
+      "name": "긴병꽃풀",
+      "points": [
+        "긴병꽃풀은 줄기가 땅 위를 길게 기고 마디에서 뿌리가 나지만, 광대나물은 기지 않고 밑에서 가지를 친다.",
+        "긴병꽃풀 잎은 위아래 모두 잎자루가 있고, 광대나물 위쪽 잎은 잎자루가 없다.",
+        "광대나물은 한두해살이풀이라 수염뿌리만 있고 기는 줄기가 없다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Genetics",
+        "note": "광대나물의 유전자 발현 정보를 처음부터 조립해 정리한 기초 데이터 보고로, 앞으로 성분·생리 연구의 바탕 자료가 된다.",
+        "title": "De novo assembly and functional annotation of Henbit (Lamium amplexicaule) transcriptome",
+        "type": "기타",
+        "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1612607/full",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 광대나물을 직접 다룬 논문은 많지 않으며, 확인된 것은 유전자 발현 정보(전사체)를 정리한 기초 자료 연구다. 이 연구 소개글은 항균 활성 등 이전 실험 결과를 언급하지만, 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+  },
+  "name": "광대나물",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과 - 광대나물",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%8C%80%EB%82%98%EB%AC%BC"
+      },
+      {
+        "title": "Frontiers in Genetics (2025) - Henbit transcriptome",
+        "url": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1612607/full"
+      },
+      {
+        "title": "University of Wisconsin–Madison Extension - Henbit, Lamium amplexicaule",
+        "url": "https://hort.extension.wisc.edu/articles/henbit-lamium-amplexicaule/"
+      }
+    ],
+    "text": "국내 백과 자료에는 광대나물을 민간에서 피를 멎게 하는 데 썼다는 기록이 소개되어 있다. 해외 학술 자료에서도 전통 의학에서 쓰여 온 식물로 언급되며, 유럽과 아시아에서는 잎을 나물이나 생채로 먹어 왔다고 설명한다. 다만 구체적인 고서 원문은 확인하지 못했다."
+  },
+  "updatedAt": 1792573003675
+}

@@ -1,0 +1,171 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "씨를 약재로 다루며, 물이 차서 배가 불러 오르는 증상과 해산을 돕는 데 쓴다고 적었다.",
+      "잎은 삼(大麻) 잎과 닮았지만 훨씬 크고, 씨 모양이 소 진드기(牛蜱)를 닮아 이런 이름이 붙었다고 설명했다.",
+      "몸 밖으로 고인 것을 끌어내는 성질이 있어 외과에서 중요한 약으로 보았고, 소금물에 삶아 껍질을 벗기고 속씨를 쓴다고 했다."
+    ],
+    "han": "萆麻子",
+    "has": true,
+    "ki": "性平, 味甘辛, 有小毒",
+    "kiKo": "성질은 평하고 맛은 달고 매우며 독이 조금 있다",
+    "old": "아ᄌᆞᆺ가리",
+    "orig": "萆麻子 性平, 味甘辛, 有小毒. 治水脹腹滿, 催生. 瘡痍疥癩, 去水癥浮腫, 尸疰惡氣. 葉似大麻而極大, 其子形如牛蜱蟲, 故以名之. 《本草》 萆麻能出有形質之滯物, 善吸氣, 當是外科要藥. 鹽水煮, 去皮取仁. 《入門》",
+    "sources": [
+      {
+        "title": "내손안에 동의보감 - 탕액편 권3 초부 1.98 萆麻子 (한국한의학연구원)",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2606"
+      }
+    ],
+    "verified": true,
+    "warn": "원문에도 '독이 있다(有小毒)'고 적혀 있다. 고서의 약재 기록일 뿐이며, 씨앗은 리신 때문에 현재 식품에 쓸 수 없다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 씨앗은 절대 먹으면 안 됩니다. 씨에는 맹독성 단백질 리신이 들어 있어 식약처도 식품 원료로 쓸 수 없다고 하며, 식용으로 인정된 부위는 잎뿐입니다.",
+      "q": "아주까리 씨앗도 먹을 수 있나요?"
+    },
+    {
+      "a": "말린 잎을 물에 불린 뒤 20분 이상 푹 삶고 여러 번 헹궈 냄새와 쓴맛을 뺍니다. 그다음 물기를 짜서 양념해 볶아 먹으며, 날로는 먹지 않습니다.",
+      "q": "아주까리 잎은 어떻게 손질하나요?"
+    },
+    {
+      "a": "주로 정월대보름 묵나물로 먹습니다. 여름·가을에 딴 잎을 삶아 말려 두었다가 겨울에 불려 씁니다.",
+      "q": "아주까리 나물은 언제 먹나요?"
+    },
+    {
+      "a": "같은 식물입니다. 학명은 Ricinus communis이고 아주까리·피마자·피마주라고 부릅니다.",
+      "q": "아주까리와 피마자는 다른 식물인가요?"
+    },
+    {
+      "a": "줄기를 보면 됩니다. 엄나무는 가지에 억센 가시가 많은 큰키나무이고, 아주까리는 가시 없는 풀이며 가시 돋친 둥근 열매가 달립니다.",
+      "q": "엄나무 잎과 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "여름·가을 잎을 삶아 말려 두었다가 정월대보름에 묵나물로 먹는다. 불려 삶은 잎을 국간장·마늘·파로 무쳐 들기름에 볶고 들깻가루를 넣어 마무리하는 방식이 대표적이다.",
+    "eng": "Castor oil plant (castor bean)",
+    "family": "대극과(Euphorbiaceae)",
+    "grade": "",
+    "habitat": "재배 식물. 원산지는 인도·소아시아·북아프리카 일대로 소개되며, 온대인 우리나라에서는 한해살이로 자라 해마다 새로 심는다. 예전에는 집 주변에 흔히 심었으나 지금은 일부 지역에서만 기른다고 한다.",
+    "look": {
+      "flower": "꽃잎 없는 꽃이 긴 이삭에 달리는데, 아래쪽은 수꽃, 위쪽은 붉은 암술머리가 보이는 암꽃이다. 8~9월 무렵 핀다.",
+      "fruit": "부드러운 가시가 빽빽한 세 칸짜리 둥근 열매(삭과)가 달리고, 한 열매에 씨가 3개 든다. 씨는 매끈하고 광택이 있으며 얼룩무늬가 있어 진드기처럼 보인다.",
+      "leaf": "긴 잎자루 끝에 손바닥처럼 7~11갈래로 깊게 갈라진 큰 잎이 어긋나게 달리며, 가장자리에 톱니가 있다. 녹색 외에 붉은 구릿빛을 띠는 것도 있다.",
+      "smell": "말린 잎을 삶을 때 특유의 냄새가 난다.",
+      "stem": "2~3m까지 곧게 자라고, 줄기 속이 비어 있으며 겉이 납질(왁스층)로 덮여 있다. 줄기 색은 녹색·붉은색·자주색 등으로 다양하다."
+    },
+    "parts": "잎(묵나물). 식약처는 피마자 가운데 잎만 식품 원료로 인정하고, 씨앗은 리신 때문에 식품에 쓸 수 없다고 안내한다.",
+    "prep": "씨앗(피마자)은 맹독성 단백질 리신이 들어 있어 절대 먹으면 안 되며, 어린이·반려동물 손에 닿지 않게 한다. 씨를 깨물거나 껍질이 깨지면 독이 나오고, 깨진 씨가 피부에 닿아도 심한 알레르기 반응이 날 수 있다. 식용은 잎만, 그것도 날로 먹지 않는다. 말린 잎은 미지근하거나 찬물에 불린 뒤 20분 이상 푹 삶고 물을 여러 번 갈아 헹궈 냄새와 쓴맛을 뺀 다음 물기를 짜서 조리한다. 생잎을 만지면 접촉 피부염이 생길 수 있다.",
+    "sci": "Ricinus communis L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 웹진 2025년 8월호(식품 원료 퀴즈: 피마자)",
+        "url": "https://mfds.go.kr/webzine/202508/sub04.html"
+      },
+      {
+        "title": "아주까리 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0034407"
+      },
+      {
+        "title": "피마자 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%ED%94%BC%EB%A7%88%EC%9E%90"
+      },
+      {
+        "title": "Ricinus communis - NC State Extension Gardener Plant Toolbox",
+        "url": "https://plants.ces.ncsu.edu/plants/all/ricinus-communis/"
+      },
+      {
+        "title": "Castor oil plant - Poisonous Plants (Massey University)",
+        "url": "https://poisonousplants.massey.ac.nz/data/castor_oil_plant/castor.html"
+      },
+      {
+        "title": "위키트리: 예전엔 집집마다 있을 정도로 흔했는데… (아주까리, 2025)",
+        "url": "https://www.wikitree.co.kr/articles/1048458"
+      },
+      {
+        "title": "내 손안에 서울: 부럼은 준비하셨나요? (대보름 나물)",
+        "url": "https://mediahub.seoul.go.kr/archives/180188"
+      }
+    ],
+    "store": "",
+    "taste": "말린 잎은 삶아도 특유의 냄새가 있어 여러 번 헹궈 쓴다. 어린잎이 덜 쓰고 연하다고 한다."
+  },
+  "lookSources": [
+    {
+      "title": "Ricinus communis - NC State Extension Gardener Plant Toolbox",
+      "url": "https://plants.ces.ncsu.edu/plants/all/ricinus-communis/"
+    },
+    {
+      "title": "음나무 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9D%8C%EB%82%98%EB%AC%B4"
+    },
+    {
+      "title": "엄나무 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0036206"
+    },
+    {
+      "title": "아주까리 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034407"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "음나무(Kalopanax septemlobus)는 손바닥 모양으로 갈라진 잎 때문에 아주까리와 헷갈리는 식물로 꼽히지만, 가시 돋친 큰키나무라 줄기만 봐도 구별된다.",
+      "name": "엄나무",
+      "points": [
+        "엄나무는 가지에 날카롭고 억센 가시가 많고, 아주까리 줄기에는 가시가 없고 겉이 납질로 덮여 있다.",
+        "엄나무는 높이 25m까지 크는 나무이고, 아주까리는 우리나라에서 한 해 동안 2~3m 자라는 풀이다.",
+        "엄나무 잎은 5~9갈래, 아주까리 잎은 7~11갈래로 갈라진다.",
+        "엄나무 열매는 가시 없는 둥근 핵과로 검게 익고, 아주까리 열매는 가시 돋친 세 칸짜리 삭과다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "피마자의 식물학적 특징, 전통적 쓰임, 성분, 실험실에서 보고된 약리 활성과 산업적 이용을 정리한 리뷰다.",
+        "title": "Phytochemical Composition and Multifunctional Applications of Ricinus communis L.: Insights into Therapeutic, Pharmacological, and Industrial Potential",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules30153214",
+        "year": "2025"
+      },
+      {
+        "journal": "Mini-Reviews in Medicinal Chemistry",
+        "note": "피마자 씨앗의 독소 리신에 대한 해독제 연구 현황을 정리했으며, 아직 효과가 입증된 해독제나 백신은 없다고 밝혔다.",
+        "title": "The Search for Antidotes Against Ricin",
+        "type": "리뷰",
+        "url": "https://doi.org/10.2174/0113895575270509231121060105",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Medical Case Reports",
+        "note": "탈모 예방 목적으로 피마자 씨 6알을 먹은 환자가 4~5시간 뒤 복통·구토·설사를 보여 중환자실 관찰 후 회복한 증례 보고다.",
+        "title": "Ricin intoxication by lethal dose of castor seeds ingestion: a case report",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s13256-024-04697-8",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 씨앗의 독소 리신과 피마자 식물 전체의 성분·활성을 다룬다. 항산화·항균 등 약리 활성 보고는 대부분 실험실 단계를 정리한 리뷰이며, 리신에 대해서는 아직 효과적인 해독제나 백신이 없다는 점이 강조된다. 사람 자료는 씨앗을 먹고 중독된 증례 보고 수준이다."
+  },
+  "name": "아주까리",
+  "st": "caution",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792660004727
+}

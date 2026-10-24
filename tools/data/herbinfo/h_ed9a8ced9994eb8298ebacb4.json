@@ -1,0 +1,196 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [],
+    "han": "槐實(괴실), 槐花(괴화)",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 (탕액편 목차)",
+        "url": "https://mediclassics.kr/books/8"
+      }
+    ],
+    "verified": false,
+    "warn": "원문 미대조: 동의보감 원문 텍스트를 열지 못해 항목 이름과 부(部)만 적었다. 성미·원문·풀이는 원문을 확인한 뒤 채워야 한다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 먹지 마세요. 꼬투리와 씨는 독성이 보고되어 있고 구토·설사 등을 일으킬 수 있습니다. 회화나무는 식품 원료로 쓸 수 있는지 확인이 필요한 품목이며, 약재로 쓸 때는 전문가 처방을 따르세요.",
+      "q": "회화나무 열매를 그냥 먹어도 되나요?"
+    },
+    {
+      "a": "둘 다 회화나무 꽃봉오리·꽃을 말린 한약재 이름입니다. 열매는 괴실 또는 괴각이라고 부릅니다.",
+      "q": "괴화와 괴미는 무엇인가요?"
+    },
+    {
+      "a": "가지의 가시와 꽃 피는 시기를 보세요. 아까시나무는 잎자루 밑에 가시가 있고 5~6월에 흰 꽃이 늘어지며, 회화나무는 가시가 없고 7~8월에 연노랑빛 꽃이 가지 끝에 핍니다. 꼬투리도 회화나무는 염주처럼 잘록합니다.",
+      "q": "회화나무와 아카시아(아까시나무)는 어떻게 구별하나요?"
+    },
+    {
+      "a": "꽃은 7~8월 봉오리 때, 열매는 10월에 익으면 따서 볕에 말립니다. 꼬투리는 겨울까지 나무에 매달려 있습니다.",
+      "q": "회화나무 꽃과 열매는 언제 채취하나요?"
+    },
+    {
+      "a": "같은 회화나무입니다. 예전에는 Sophora japonica로 불렀고, 지금은 Styphnolobium japonicum으로 분류하는 경우가 많습니다.",
+      "q": "Sophora japonica와 Styphnolobium japonicum은 다른 나무인가요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Japanese pagoda tree",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "전국에서 볼 수 있으며 해발 600m 아래 마을 주변, 산기슭, 밭 가장자리에 자란다. 깊고 기름진 땅을 좋아하지만 건조와 공해에 강해 가로수·공원수로 많이 심고, 향교·궁궐·사찰 등에 오래된 큰 나무가 많다.",
+    "look": {
+      "flower": "한여름(7~8월)에 새 가지 끝의 큰 원추꽃차례에 연노랑빛이 도는 흰색 나비 모양 작은 꽃이 많이 핀다.",
+      "fruit": "꼬투리는 길이 5~8cm로 씨 사이가 잘록하게 들어가 염주를 꿴 듯한 모양으로 아래로 늘어진다. 10월에 녹색에서 누런빛으로 익고 겨울까지 나무에 달려 있다.",
+      "leaf": "잎은 어긋나고 작은잎 여러 장이 깃털처럼 달린 홀수깃꼴겹잎이다. 작은잎은 달걀꼴~타원형으로 길이 2~6cm, 가장자리가 밋밋하고 뒷면은 흰빛이 돌며 누운 털이 있다.",
+      "smell": "어린 녹색 가지를 꺾거나 자르면 독특하고 진한 냄새가 난다.",
+      "stem": "높이 25m까지 자라는 갈잎큰키나무로, 줄기 껍질은 짙은 회갈색이고 세로로 깊게 갈라진다. 어린 가지는 녹색이며 가시가 없다."
+    },
+    "parts": "꽃봉오리·꽃(괴화·괴미), 열매(괴실·괴각)를 한약재로 쓴다. 식품 원료로 쓸 수 있는지는 확인이 필요하다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이라 함부로 먹기를 권하지 않는다. 열매 꼬투리와 씨는 독성이 보고되어(구토·설사 등) 날로든 달여서든 임의로 먹지 않는다. 꽃(괴화)은 7~8월 봉오리 때, 열매(괴각)는 10월에 따서 볕에 말려 한약재로 쓰며, 약재로 쓸 때는 전문가의 처방을 따른다.",
+    "sci": "Styphnolobium japonicum (L.) Schott",
+    "season": {
+      "collect": [
+        7,
+        8,
+        10
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 회화나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0065601"
+      },
+      {
+        "title": "내 손안에 서울 - 사대부 곁을 지키던 상서로운 나무가 우리 곁으로 (2014)",
+        "url": "https://mediahub.seoul.go.kr/archives/592105"
+      },
+      {
+        "title": "NC State Extension Gardener Plant Toolbox - Styphnolobium japonicum",
+        "url": "https://plants.ces.ncsu.edu/plants/styphnolobium-japonicum/common-name/japanese-pagoda-tree/"
+      }
+    ],
+    "store": "",
+    "taste": "한방에서는 꽃을 쓰고 서늘하며, 열매를 쓰고 차다고 본다. 어린 가지를 자르면 독특한 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 아까시나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034428"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 회화나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0065601"
+    },
+    {
+      "title": "Flora of Korea - 다릅나무(Maackia amurensis)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5287"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 고삼",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003680"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "흔히 '아카시아'라 부르는 아까시나무(Robinia pseudoacacia)는 같은 콩과로 깃꼴겹잎이 회화나무와 아주 닮았다. 아까시나무는 꽃만 먹고 껍질·씨는 독성이 있다.",
+      "name": "아카시아꽃",
+      "points": [
+        "아까시나무는 잎자루 밑에 턱잎이 변한 가시가 한 쌍씩 있고, 회화나무 가지에는 가시가 없다.",
+        "아까시나무 꽃은 5~6월에 흰 꽃송이가 아래로 늘어지고 향이 진하며, 회화나무 꽃은 7~8월에 가지 끝 원추꽃차례에 연노랑빛으로 핀다.",
+        "아까시나무 꼬투리는 납작하고 곧으며, 회화나무 꼬투리는 씨 사이가 잘록해 염주 모양이다.",
+        "회화나무 어린 가지는 녹색이고 자르면 독특한 냄새가 난다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "같은 콩과의 갈잎큰키나무(Maackia amurensis)로, 홀수깃꼴겹잎에 한여름 가지 끝에 꽃이 피어 회화나무와 헷갈릴 수 있다. 식용 여부는 확인되지 않았다.",
+      "name": "다릅나무",
+      "points": [
+        "다릅나무 작은잎은 7~9장이고 길이 5~9cm로, 회화나무 작은잎(2~6cm)보다 크다.",
+        "다릅나무 꽃은 6~7월 곧게 선 꽃차례에 피고, 회화나무는 7~8월에 핀다.",
+        "다릅나무 꼬투리는 납작한 선 모양(4~7cm)이고, 회화나무 꼬투리는 염주처럼 잘록잘록하다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "고삼(Sophora flavescens)은 회화나무의 옛 학명과 같은 Sophora 속으로 약재 이름·학명이 섞이기 쉽다. 고삼은 1m 안팎의 풀이고 뿌리를 약재로 쓰며, 독성 보고가 있다.",
+      "name": "고삼",
+      "points": [
+        "고삼은 키 1m 안팎의 여러해살이풀이고, 회화나무는 큰키나무이다.",
+        "약재로 고삼은 뿌리, 회화나무는 꽃봉오리(괴화)와 열매(괴각)를 쓴다.",
+        "고삼 꽃은 6~8월 줄기 끝 긴 총상꽃차례에 연노란색으로 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Planta Medica",
+        "note": "회화나무의 생리활성 성분과 그동안 보고된 생물학적 효과를 정리한 서술형 리뷰다.",
+        "title": "Japanese Pearl Tree (Styphnolobium japonicum): An Exploration of Its Health Benefits",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1055/a-2817-4235",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Visualized Experiments",
+        "note": "성분 함량을 표준화한 꽃봉오리 추출물을 미세아교세포와 고혈압 유발 쥐에 적용해 염증·혈압 변화를 살펴본 연구다.",
+        "title": "HPLC-Quantified Styphnolobium japonicum Extract Attenuates Microglial Inflammation and Hypertension in L-NAME-Treated Rats",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3791/72816",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "회화나무 열매 추출물을 모유두세포·멜라닌세포와 생쥐 수염 모낭 배양에 적용해 모발 성장 관련 신호 변화를 본 실험실 연구다.",
+        "title": "Fructus Sophorae Extract Generated Using the Natural Deep Eutectic Solvent ChCl Urea Activates Wnt/β Catenin and cAMP/MITF Signaling to Stimulate Hair Growth and Pigmentation",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms27198781",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "회화나무 꽃을 포함한 약용 꽃 네 가지의 플라보노이드가 간·눈 질환 모델에서 보인 작용을 정리한 문헌 리뷰다.",
+        "title": "Research progress on pharmacological effects against liver and eye diseases of flavonoids present in Chrysanthum indicum L., Chrysanthemum morifolium Ramat., Buddleja officinalis Maxim. and Sophora japonica L",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.jep.2024.119094",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 리뷰들은 꽃봉오리에 많은 루틴·퀘르세틴 같은 플라보노이드의 생리활성을 정리하고 있으나, 대부분 세포·동물 실험 근거이다. 꽃봉오리 추출물을 고혈압 쥐에 준 동물 실험, 열매 추출물을 모낭 세포에 적용한 세포 실험 등이 있으며, 사람 대상 임상시험은 찾지 못했다."
+  },
+  "name": "회화나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 회화나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0065601"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 창덕궁 회화나무군",
+        "url": "https://encykorea.aks.ac.kr/Article/E0075107"
+      },
+      {
+        "title": "내 손안에 서울 - 사대부 곁을 지키던 상서로운 나무가 우리 곁으로 (2014)",
+        "url": "https://mediahub.seoul.go.kr/archives/592105"
+      }
+    ],
+    "text": "한방에서는 꽃(괴화)을 출혈을 멎게 하고 피의 열을 식히는 데, 열매(괴각)를 출혈을 멎게 하고 열을 내리는 데 써 왔다. 민간에서는 가지를 달여 치질에 썼다고 전하며, 나무 전체에서 루틴을 뽑아 혈관 관련 의약품 원료로 쓴다. 예부터 학자수(學者樹)라 하여 사대부 집안, 향교, 궁궐 앞에 즐겨 심었다."
+  },
+  "updatedAt": 1792789248963
+}

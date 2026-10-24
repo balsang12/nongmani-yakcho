@@ -1,0 +1,177 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "같은 식물(Curcuma longa)에서 나오지만 대한약전은 덩이뿌리를 울금, 뿌리줄기를 강황으로 구분합니다. 다만 국내 시장에서는 뿌리줄기도 '울금'으로 많이 팔리니 부위 표시를 확인하세요.",
+      "q": "울금과 강황은 같은 건가요?"
+    },
+    {
+      "a": "진도가 대표 산지이고 곡성 등 중남부 지역에서도 재배합니다. 수입품과 국산을 구별하려는 성분 분석 연구도 있으니 원산지 표시를 꼭 확인하세요.",
+      "q": "국산 울금은 어디서 많이 나나요?"
+    },
+    {
+      "a": "서리가 내리기 전인 11월 무렵 캡니다. 연구에서는 11월 하순에 뿌리줄기 무게가 가장 무거웠고 첫서리 뒤에는 줄었습니다.",
+      "q": "울금은 언제 캐나요?"
+    },
+    {
+      "a": "40℃ 정도에서 말리는 것이 가장 알맞다는 연구가 있습니다. 너무 높은 온도는 성분을 해칠 수 있습니다.",
+      "q": "생울금은 어떻게 말리나요?"
+    },
+    {
+      "a": "고용량 강황·커큐민 보충제에서 드물게 간 손상 사례가 보고되었으므로, 담도 질환이 있거나 항응고제 등 약을 먹는 사람은 전문가와 먼저 상의하는 것이 좋습니다.",
+      "q": "울금 보충제는 아무나 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말려서 가루를 내 음식의 색과 향을 내는 데 쓰고, 가루·환·즙 같은 가공품으로 많이 먹는다. 카레의 노란색이 이 식물의 커큐민에서 나온다.",
+    "eng": "Turmeric",
+    "family": "생강과(Zingiberaceae)",
+    "grade": "",
+    "habitat": "따뜻한 곳에서 자라는 여러해살이풀로, 국내에서는 중남부 지역 밭에서 재배한다. 진도가 대표 산지로 재배 면적이 가장 넓다고 소개되며, 곡성 등지에서도 재배된다.",
+    "look": {
+      "leaf": "한 포기에 큰 잎이 여섯 장 안팎 달리며, 생육 후반에는 잎 수가 줄어든다.",
+      "root": "덩이뿌리(약전상 울금)는 양 끝이 뾰족한 방추형으로 겉은 회갈색~회황색, 단면은 짙은 노란색이며 매우 단단하다. 뿌리줄기(약전상 강황)는 울퉁불퉁한 달걀꼴~원기둥꼴로 휘거나 가지를 치고, 겉이 거칠며 잔뿌리와 줄기 자국이 남아 있다.",
+      "stem": "10월 무렵 키가 1.2m 안팎까지 자라고 줄기 밑동 굵기는 3cm 남짓이다."
+    },
+    "parts": "땅속의 덩이뿌리와 뿌리줄기. 대한약전은 덩이뿌리를 울금(鬱金), 뿌리줄기를 강황(薑黃)으로 구분하지만, 국내 시장과 연구에서는 뿌리줄기도 흔히 '울금'이라 부른다.",
+    "prep": "캐낸 것은 씻어 말려 쓰는데, 연구에서는 40℃ 건조가 가장 알맞았고 60℃처럼 높은 온도는 성분을 해칠 수 있다고 했다. 말리면 무게가 생것의 1/3~1/4로 준다. 쓰고 매운맛이 강해 대부분 가루·환 등으로 가공해 먹는다.",
+    "sci": "Curcuma longa",
+    "season": {
+      "collect": [
+        11
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국자원식물학회지(2013) - 울금(Curcuma longa L.)의 생산 및 최적 건조조건에 관한 연구",
+        "url": "https://koreascience.or.kr/article/JAKO201326053672647.pdf"
+      },
+      {
+        "title": "대한본초학회지(2010) - 울금과 강황의 항산화 및 항염증 활성 비교연구",
+        "url": "https://koreascience.or.kr/article/JAKO201021147394109.pdf"
+      },
+      {
+        "title": "서울신문 - 세종실록 속 '곡성 울금' 기사",
+        "url": "https://m.seoul.co.kr/news/2016/10/05/20161005017001"
+      },
+      {
+        "title": "약학정보원 - 강황(薑黃) 한약재 정보",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=559"
+      },
+      {
+        "title": "숙명여대 응용화학(2005) - 울금 생산국·지역별 커큐민 함량 분석 연구",
+        "url": "https://scholarworks.sookmyung.ac.kr/handle/2020.sw.sookmyung/58296?mode=full"
+      },
+      {
+        "title": "UK Committee on Toxicity (2024) - Statement on the potential risk to human health of turmeric and curcumin supplements",
+        "url": "https://cot.food.gov.uk/%20Turmeric%20and%20Curcumin%20Supplements%20-%20Toxicity"
+      }
+    ],
+    "store": "생 울금은 일반 저장고에 두면 상하기 쉬워, 온도가 일정하고 수분이 덜 날아가는 곳에 저장하는 것이 좋다고 소개된다.",
+    "taste": "맛이 쓰고 맵다."
+  },
+  "lookSources": [
+    {
+      "title": "대한본초학회지(2010) - 울금과 강황의 항산화 및 항염증 활성 비교연구",
+      "url": "https://koreascience.or.kr/article/JAKO201021147394109.pdf"
+    },
+    {
+      "title": "한국자원식물학회지(2013) - 울금(Curcuma longa L.)의 생산 및 최적 건조조건에 관한 연구",
+      "url": "https://koreascience.or.kr/article/JAKO201326053672647.pdf"
+    },
+    {
+      "title": "메트로신문 - 김소형의 본초 테라피: 강황",
+      "url": "https://www.metroseoul.co.kr/article/20240830500178"
+    },
+    {
+      "title": "서울신문 - 세종실록 속 '곡성 울금' 기사",
+      "url": "https://m.seoul.co.kr/news/2016/10/05/20161005017001"
+    },
+    {
+      "title": "브라보마이라이프 - 생강과 생강나무",
+      "url": "https://bravo.etoday.co.kr/view/atc_view/8688"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "강황과 울금은 같은 식물(Curcuma longa)에서 나오지만 대한약전은 덩이뿌리를 울금, 뿌리줄기를 강황으로 나눈다. 국내에서는 뿌리줄기도 '울금'으로 팔리는 경우가 많아 이름만으로는 부위를 알기 어렵다.",
+      "name": "강황",
+      "points": [
+        "양 끝이 뾰족한 방추형에 매우 단단하고 겉이 회갈색이면 덩이뿌리(약전상 울금)다.",
+        "울퉁불퉁 가지를 치고 겉이 거칠며 줄기·잔뿌리 자국이 있으면 뿌리줄기(약전상 강황)다.",
+        "한방에서는 울금을 찬 성질, 강황을 따뜻한 성질로 달리 보므로 약재로 살 때는 부위와 약재명을 확인한다.",
+        "국산 '울금' 상품은 뿌리줄기인 경우가 흔하니 상품 설명의 부위 표시를 본다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 생강과 식물로 덩어리진 뿌리줄기 모양이 비슷하다. 잘라 보면 쉽게 구별된다.",
+      "name": "생강",
+      "points": [
+        "울금은 자른 면이 짙은 노란색(커큐민 색소)이다.",
+        "생강은 특유의 매운 향이 강하고, 울금은 쓰고 매운맛이 난다.",
+        "울금 뿌리줄기는 겉이 거칠고 가지를 치며 줄기·잔뿌리 자국이 남아 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Foods",
+        "note": "무작위 대조시험 104편을 모아 대사증후군 지표 변화를 살폈으나 지표별로 결과가 엇갈리고 연구 간 차이가 컸다.",
+        "title": "Clinical Potential of Curcuma longa Linn. as Nutraceutical/Dietary Supplement for Metabolic Syndrome: Systematic Review and Meta-Analysis of Randomized Controlled Trials",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods15010060",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Rheumatic Diseases",
+        "note": "임상시험 10편(786명)을 분석해 위약보다 통증 점수 개선이 컸다고 보고했지만 용량·방법에 대한 추가 연구가 필요하다고 했다.",
+        "title": "Efficacy of Curcuma longa in relieving pain symptoms of knee osteoarthritis patients: a systematic review and metaanalysis of clinical trials",
+        "type": "리뷰",
+        "url": "https://doi.org/10.4078/jrd.2024.0062",
+        "year": "2025"
+      },
+      {
+        "journal": "Biomedicines",
+        "note": "설치류 실험 47편을 모은 전임상 분석으로, 사람에게 적용하려면 임상 연구가 필요하다는 단계의 근거다.",
+        "title": "Preclinical Evidence of Curcuma longa Linn. as a Functional Food in the Management of Metabolic Syndrome: A Systematic Review and Meta-Analysis of Rodent Studies",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/biomedicines13081911",
+        "year": "2025"
+      }
+    ],
+    "summary": "사람 대상 임상시험을 모은 메타분석에서 무릎 골관절염 통증, 대사증후군 관련 혈당·지질 지표에 일부 긍정적 결과가 보고됐지만 연구마다 결과 차이가 크고 더 큰 연구가 필요하다고 했다. 동물 실험을 모은 분석도 있으나 이는 전임상 단계 근거다. 한편 영국 식품독성위원회는 커큐민·강황 보충제(식품으로 쓰는 양이 아닌 고용량 제품)에서 드물게 간 손상 사례가 보고되었다고 정리했다."
+  },
+  "name": "울금",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "대한본초학회지(2010) - 울금과 강황의 항산화 및 항염증 활성 비교연구",
+        "url": "https://koreascience.or.kr/article/JAKO201021147394109.pdf"
+      },
+      {
+        "title": "서울신문 - 세종실록 속 '곡성 울금' 기사",
+        "url": "https://m.seoul.co.kr/news/2016/10/05/20161005017001"
+      }
+    ],
+    "text": "한방에서 울금은 성질이 차고 맛이 맵고 쓴 약재로, 혈을 돌려 통증을 덜고 기를 다스리며 열을 내리고 황달에 써 왔다고 소개된다. 같은 식물의 뿌리줄기인 강황은 성질이 따뜻하다고 보아 서로 구분해 썼다. 『세종실록』에는 곡성·순천·구례의 울금이 왕실에 공납되었다는 기록이 있다고 전해진다."
+  },
+  "updatedAt": 1792660004727
+}

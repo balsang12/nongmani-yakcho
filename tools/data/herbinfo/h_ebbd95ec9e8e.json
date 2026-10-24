@@ -1,0 +1,217 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "차용으로는 6월 중순 이전에 딴 잎을 씁니다. 전라남도농업기술원의 뽕잎차 제조 기술도 이 시기 잎을 기준으로 합니다.",
+      "q": "뽕잎은 언제 딴 것이 좋나요?"
+    },
+    {
+      "a": "잎 가장자리 톱니와 가지 가시를 보면 됩니다. 뽕잎은 가장자리에 무딘 톱니가 있고 가지에 가시가 없지만, 꾸지뽕나무 잎은 가장자리가 밋밋하고 어린 가지에 가시가 있습니다.",
+      "q": "꾸지뽕 잎과 뽕잎은 어떻게 구별하나요?"
+    },
+    {
+      "a": "네, 식품의약품안전처 자료에서 약재 상엽은 뽕나무 또는 산뽕나무의 잎으로 정리되어 있습니다.",
+      "q": "산뽕나무 잎도 뽕잎으로 쓰나요?"
+    },
+    {
+      "a": "잎을 짧게 김에 쪄서 비비고 말린 뒤 높은 온도로 덖어 마무리합니다. 농업기술원 기술에서는 100℃에서 약 50초 찌고, 비빔과 건조를 거쳐 덖음통에서 180℃로 30분 덖는 공정을 소개합니다.",
+      "q": "뽕잎차는 어떻게 만드나요?"
+    },
+    {
+      "a": "공식 등급 기준은 확인하지 못했습니다. 약재 성상 기준으로는 윗면이 황록~연한 황갈색이고 가볍고 잘 부스러지며, 뒷면 잎맥이 도드라지고 털이 있는지 확인합니다.",
+      "q": "말린 뽕잎(상엽)은 어떤 것을 골라야 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말려 덖은 잎을 차로 우려 마신다. 국립농업과학원 영상에서는 뽕잎차 티백을 순대·보쌈 고기를 삶을 때 넣어 잡내를 줄이는 데 쓰는 방법도 소개한다.",
+    "eng": "White mulberry leaf",
+    "family": "뽕나무과",
+    "grade": "뽕잎의 공식 등급 기준은 찾지 못했다. 약재(상엽)로는 식품의약품안전처 자료의 성상, 즉 길이 8~15cm·너비 7~13cm 정도에 윗면이 황록~연한 황갈색이고 가볍고 잘 부스러지며 뒷면 잎맥에 털이 있는지를 확인하는 정도가 기준이 된다.",
+    "habitat": "전국에서 자라며 주로 해발 100~1,100m의 마을 근처에 심어 기른다. 추위에 강하고 흙이 깊고 기름진 땅에서 잘 자란다.",
+    "look": {
+      "flower": "암꽃과 수꽃이 따로 피며, 수꽃은 작은 녹색 꽃이 꼬리 모양으로 늘어진 꽃차례에 달린다.",
+      "fruit": "열매(오디)는 길이 1~2.5cm의 긴 타원형으로, 6월에 검게 익는다.",
+      "leaf": "달걀꼴 또는 넓은 달걀꼴로 갈라지지 않거나 3~5갈래로 갈라지며, 가장자리에 무딘 톱니가 있고 밑동은 심장 모양이다. 잎은 두껍고 윗면이 매끈하며 윤이 나고, 뒷면은 잎맥이 도드라지며 맥 위에 털이 있기도 하다.",
+      "root": "뿌리껍질도 밝은 주황빛을 띤다.",
+      "smell": "말린 잎은 냄새가 거의 없다.",
+      "stem": "가시가 없는 낙엽 큰키나무다. 어린 나무껍질과 속껍질은 밝은 주황빛을 띠고, 묵은 껍질은 회색으로 불규칙하게 갈라진다."
+    },
+    "parts": "잎",
+    "prep": "차로 만들 때는 6월 중순 전에 딴 잎을 3~5조각으로 자른 뒤 김으로 짧게(약 50초) 쪄서 비비고 말리기를 거쳐, 덖음통에서 높은 온도로 덖어 마무리하는 방식이 농업기술원 기술로 소개되어 있다.",
+    "sci": "Morus alba L.",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 한약재 감별 도감 - 상엽(桑葉, Mori Folium)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP171.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 뽕나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+      },
+      {
+        "title": "한국의 수목(Flora Korea) - 뽕나무속(Morus) 종 검색표",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5424"
+      },
+      {
+        "title": "NParks Flora & Fauna Web - Morus alba",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/flora/3/0/3035"
+      },
+      {
+        "title": "농사로 영농활용기술 - 증제+덖음 기술을 이용한 뽕잎차 제조공정 (전라남도농업기술원, 2014)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psb/psbb/farmUseTechDtl.mo?menuId=PS00072&farmPrcuseSeqNo=17307"
+      },
+      {
+        "title": "농사로 농영상 - 뽕잎차 티백을 이용한 순대 잡내 제거 (국립농업과학원 협조, 2020)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psb/psby/vodPlay.ps?mvpNo=1767"
+      }
+    ],
+    "store": "",
+    "taste": "말린 잎은 냄새가 거의 없고, 맛은 담백한 가운데 조금 쓰고 떫다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora Korea) - 꾸지뽕나무(Maclura tricuspidata)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5423"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 뽕나무과 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5414"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 닥나무속(Broussonetia)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5415/descriptions"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 꾸지나무(Broussonetia papyrifera)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5416"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 뽕나무속(Morus) 종 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5424"
+    },
+    {
+      "title": "식품의약품안전처 한약재 감별 도감 - 상엽(桑葉, Mori Folium)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP171.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 뽕나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "꾸지뽕나무(Maclura tricuspidata)는 같은 뽕나무과지만 다른 속의 나무로, 잎이 달걀꼴이고 때로 3갈래로 갈라져 뽕잎과 헷갈릴 수 있다. 잎 가장자리 톱니와 가지의 가시를 보면 쉽게 가릴 수 있다.",
+      "name": "꾸지뽕",
+      "points": [
+        "꾸지뽕나무 잎은 가장자리에 톱니가 없이 밋밋하고, 뽕나무 잎은 가장자리에 무딘 톱니가 있다.",
+        "꾸지뽕나무는 어린 가지에 가시가 있고, 뽕나무 가지에는 가시가 없다.",
+        "꾸지뽕나무 잎은 앞면에 잔털, 뒷면에 부드러운 털이 있고, 뽕나무 잎은 윗면이 매끈하다.",
+        "꾸지뽕 열매는 지름 2~3cm의 둥근 붉은 열매이고, 오디는 긴 타원형으로 검게 익는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "닥나무(Broussonetia kazinoki)는 뽕나무과 닥나무속으로, 잎이 3~5갈래로 갈라지고 톱니가 있어 뽕잎과 비슷해 보인다. 상엽(뽕잎 약재)의 기원 식물이 아니므로 뽕잎 대신 쓰지 않는다.",
+      "name": "닥나무",
+      "points": [
+        "닥나무속 잎은 털이 있어 표면이 다소 거칠고, 뽕나무 잎은 윗면이 매끈하다.",
+        "닥나무 열매는 둥글고, 오디는 긴 타원형이다.",
+        "닥나무속 겨울눈은 눈비늘이 2~3개, 뽕나무속은 3~6개다.",
+        "닥나무 잎자루는 1~2.5cm로 짧은 편이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "꾸지나무(Broussonetia papyrifera)는 닥나무속 나무로, 잎이 넓은 달걀꼴에 대개 갈라지고 밑동이 심장 모양이라 뽕잎과 매우 비슷해 보인다. 상엽의 기원 식물이 아니므로 뽕잎으로 쓰지 않는다.",
+      "name": "꾸지나무",
+      "points": [
+        "꾸지나무 잎은 윗면이 털 때문에 거칠고 뒷면과 잎자루에도 털이 많다. 뽕나무 잎은 윗면이 매끈하다.",
+        "꾸지나무는 잎자루가 2~10cm로 길고 어린 가지에 털이 빽빽하다.",
+        "꾸지나무 열매는 지름 약 2cm의 둥근 붉은 열매로, 긴 타원형으로 검게 익는 오디와 다르다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Front Nutr",
+        "note": "뽕잎의 여러 성분을 함께 보는 관점에서 당뇨 관련 연구 방향을 정리한 리뷰다.",
+        "title": "New directions in mulberry leaf research for diabetes: a translational approach based on multi-component synergy.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fnut.2026.1792767",
+        "year": "2026"
+      },
+      {
+        "journal": "Asia Pac J Clin Nutr",
+        "note": "건강한 성인에게 뽕잎과 마름 껍질을 섞은 차를 마시게 하고 식후 혈당을 살핀 이중맹검 교차 시험이다.",
+        "title": "Effects of mulberry leaves & water chestnut husk tea on postprandial and second meal interstitial glucose in healthy adults: A randomised, double-blind, placebo-controlled crossover study.",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.6133/apjcn.202606_35(3).0007",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "뽕잎과 옥수수수염 추출물을 당뇨 전 단계인 사람에게 주고 식후 혈당 변화를 살핀 무작위 교차 시험이다.",
+        "title": "Effects of Mulberry Leaf and Corn Silk Extracts Against α-Amylase and α-Glucosidase In Vitro and on Postprandial Glucose in Prediabetic Individuals: A Randomized Crossover Trial.",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/nu17213438",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "뽕나무(잎 포함) 추출물과 심혈관 질환 예방에 관한 연구를 모아 정리한 리뷰다.",
+        "title": "White Mulberry Plant Extracts in Cardiovascular Prevention: An Update.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu17142262",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "뽕잎의 대표 성분인 DNJ(1-데옥시노지리마이신)와 뽕나무의 활성 및 쓰임을 폭넓게 정리한 리뷰다.",
+        "title": "Insights into the Activities and Usefulness of Deoxynojirimycin and Morus alba: A Comprehensive Review.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules30153213",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 뽕잎(Morus alba 잎)은 혈당 조절을 중심으로 리뷰와 소규모 사람 대상 시험이 꾸준히 나오고 있다. 사람 대상 연구는 다른 원료와 섞은 차·추출물을 짧은 기간 시험한 것이 많아, 뽕잎만의 효과를 단정하기에는 근거가 아직 제한적이다."
+  },
+  "name": "뽕잎",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "식품의약품안전처 한약재 감별 도감 - 상엽(桑葉, Mori Folium)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KHP171.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 뽕나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025328"
+      }
+    ],
+    "text": "뽕잎은 한약재 이름으로 상엽(桑葉)이라 하며, 식품의약품안전처 자료에 뽕나무 또는 산뽕나무의 잎으로 정리되어 있고 겨울에 딴 것은 동상엽(冬桑葉)이라고도 부른다. 한국민족문화대백과사전에 따르면 상엽은 예로부터 열, 두통, 기침, 눈병, 부기, 각기, 갈증 등에 쓰였고, 민간에서는 뽕잎과 누에똥을 고혈압에 쓰기도 했다. 뽕잎은 무엇보다 누에를 치는 먹이로 중요해 조선시대에는 나라에서 뽕나무 심기를 권장했다."
+  },
+  "updatedAt": 1792443723000
+}

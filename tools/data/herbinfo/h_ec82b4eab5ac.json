@@ -1,0 +1,183 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [
+      "살구씨를 기침하며 기운이 치밀어 오르는 증상과 숨이 가쁜 증상에 쓴다고 적었다.",
+      "땀을 내어 겉의 사기를 풀고, 개고기 독을 푼다고 적었다.",
+      "산에서 나는 살구씨는 약으로 쓰기에 알맞지 않아 집에서 기른 살구의 씨를 쓴다고 했다.",
+      "살구 열매는 많이 먹으면 정신을 상하고 근육과 뼈를 상하게 하니 많이 먹지 말라고 적었다."
+    ],
+    "han": "杏核仁(행핵인)·杏實(행실)",
+    "has": true,
+    "ki": "杏核仁: 性溫 味甘苦 有毒(一云小毒) / 杏實: 性熱 味酸 有毒",
+    "kiKo": "살구씨는 성질이 따뜻하고 맛은 달고 쓰며 독이 있다(조금 있다고도 함). 살구 열매는 성질이 뜨겁고 맛이 시며 독이 있다.",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "東醫寶鑑 單方에 관한 연구 (김대식·윤창열, 大田大學校 韓醫學硏究所 論文集 16(2), 2007)",
+        "url": "https://koreascience.kr/article/JAKO200727742023441.pdf"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감도 살구씨(행핵인)에 독이 있다고 적었고, 씨가 두 알 든 것은 특히 해롭다고 했다. 살구 열매도 많이 먹지 말라고 경고했다. 현대 식품 안전 기준으로도 살구씨는 식품으로 먹지 않는다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 살구씨는 날로 먹지 마세요. 살구씨에는 시안배당체가 많아 식품으로 먹으면 안 되고 약용으로만 써야 한다고 알려져 있으며, 살구씨를 먹고 시안 중독이 생긴 사례도 보고되어 있습니다.",
+      "q": "살구씨를 먹어도 되나요?"
+    },
+    {
+      "a": "살구는 4월에 꽃이 피고 초여름인 6~7월에 열매가 익습니다.",
+      "q": "살구 제철은 언제인가요?"
+    },
+    {
+      "a": "열매를 갈라 씨를 보면 구별됩니다. 매실은 씨가 과육에 붙어 잘 떨어지지 않고 씨 겉에 작은 구멍이 많지만, 살구는 씨가 잘 떨어지고 겉이 울퉁불퉁합니다. 덜 익은 매실은 날로 먹지 않습니다.",
+      "q": "살구와 매실은 어떻게 구별하나요?"
+    },
+    {
+      "a": "나무껍질과 열매자루로 구별합니다. 개살구나무는 나무껍질에 코르크가 발달하고 열매자루가 10mm 안팎으로 길지만, 살구나무는 코르크가 없고 열매자루가 3~4mm로 짧습니다.",
+      "q": "개살구와 살구는 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "주로 익은 생과로 먹고, 말린 살구·잼·통조림·넥타 등으로 가공해 먹는다.",
+    "eng": "Apricot",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "갈잎 작은키나무로 과수로 널리 심는다. 원산지는 동아시아이며, 국내에서는 중부 이북의 산과 들에 예부터 자라 온 것으로 추정된다.",
+    "look": {
+      "flower": "4월에 잎보다 먼저 연분홍빛 꽃이 피며 꽃잎은 5장이고 꽃자루가 거의 없다.",
+      "fruit": "노란색~주황빛 노란색으로 익고 겉에 잔털이 있으며, 열매자루가 3~4mm로 짧다. 씨는 과육에서 잘 떨어지고 씨 겉이 울퉁불퉁하다.",
+      "leaf": "잎은 넓은 달걀꼴이고 가장자리에 크고 작은 톱니가 불규칙하게 나 있다.",
+      "stem": "높이 5m 안팎의 갈잎 작은키나무로, 나무껍질에 코르크가 발달하지 않는다."
+    },
+    "parts": "익은 열매의 과육(씨는 날로 먹지 않음)",
+    "prep": "과육만 먹고 씨(살구씨, 행인)는 날로 먹지 않는다. 살구씨에는 시안배당체(아미그달린)가 많아 식품으로 먹으면 안 되고 약용으로만 써야 한다고 식약처 자료를 인용해 보도되었다. 씨를 깨물지 말고 발라낸 뒤 먹는다.",
+    "sci": "Prunus armeniaca var. ansu Maxim.",
+    "season": {
+      "collect": [
+        6,
+        7
+      ],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 살구",
+        "url": "https://encykorea.aks.ac.kr/Article/E0026409"
+      },
+      {
+        "title": "Flora of Korea - 벚나무속 종 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+      },
+      {
+        "title": "Multilingual Multiscript Plant Name Database - Prunus (Korean names)",
+        "url": "https://plantnames.unimelb.edu.au/new/Prunus_Korean_index.html"
+      },
+      {
+        "title": "여름철 덜 익은 매실 먹고 두통·어지럼증…원인은 '이것' (뉴시스, 식약처 자료 인용)",
+        "url": "https://www.newsis.com/view/NISX20240626_0002788263"
+      }
+    ],
+    "store": "",
+    "taste": "익은 열매는 새콤달콤하다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 벚나무속 종 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+    },
+    {
+      "title": "Multilingual Multiscript Plant Name Database - Prunus (Korean names)",
+      "url": "https://plantnames.unimelb.edu.au/new/Prunus_Korean_index.html"
+    },
+    {
+      "title": "여름철 덜 익은 매실 먹고 두통·어지럼증…원인은 '이것' (뉴시스, 식약처 자료 인용)",
+      "url": "https://www.newsis.com/view/NISX20240626_0002788263"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "개살구나무(Prunus mandshurica)는 산에 자생하는 살구 무리로 꽃과 열매가 살구와 비슷하다. 열매 맛이 살구보다 못하며, 살구씨처럼 씨는 먹지 않는 것이 안전하다.",
+      "name": "개살구나무",
+      "points": [
+        "나무껍질에 코르크가 두툼하게 발달하면 개살구나무, 코르크가 없으면 살구나무다.",
+        "개살구는 열매자루가 10mm 안팎으로 길고, 살구는 3~4mm로 짧아 가지에 바짝 붙는다.",
+        "개살구나무 잎은 톱니가 불규칙한 겹톱니이고, 살구나무 잎은 넓은 달걀꼴에 크고 작은 톱니가 섞여 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "매실나무(Prunus mume) 열매는 풋살구와 크기·색이 비슷하다. 덜 익은 매실은 과육과 씨에 시안배당체가 있어 날로 먹지 않는다.",
+      "name": "매실",
+      "points": [
+        "열매를 갈라 씨가 과육에 단단히 붙어 잘 안 떨어지고 씨 겉에 작은 구멍이 많으면 매실, 씨가 잘 떨어지고 겉이 울퉁불퉁하면 살구다.",
+        "매실나무 잎은 끝이 길게 뾰족하고 톱니가 고르며, 살구나무 잎은 끝이 짧고 톱니가 불규칙하다.",
+        "매실은 주로 초록색일 때 따서 청·장아찌로 쓰고, 살구는 노랗게 익혀 생과로 먹는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "자두나무(Prunus salicina)는 열매 모양이 비슷하지만 열매와 씨방에 털이 없고, 꽃이 3~4송이씩 꽃자루를 달고 핀다.",
+      "name": "자두",
+      "points": [
+        "열매 겉을 만져 보아 털이 없이 매끈하면 자두, 잔털이 있으면 살구다.",
+        "자두는 꽃이 잎과 함께 피고 꽃자루가 있으며 3~4송이씩 모여 달리고, 살구는 잎보다 먼저 꽃자루 없이 한 송이씩 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecular Nutrition & Food Research",
+        "note": "살구 껍질 색과 생리활성 성분 함량의 관계를 정리한 리뷰다.",
+        "title": "Fruit Skin Color: A Reliable Tool Revealing the Potential of Bioactive Compounds in Apricots (Prunus armeniaca L.).",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41787859/",
+        "year": "2026"
+      },
+      {
+        "journal": "Archivos Argentinos de Pediatria",
+        "note": "살구씨를 먹은 뒤 급성 시안 중독이 생긴 소아 사례를 보고한 논문으로, 씨를 먹지 말아야 하는 이유를 보여 준다.",
+        "title": "Acute cyanide intoxication due to apricot seed ingestion.",
+        "type": "사람 대상",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39207944/",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "살구씨 단백질과 펩타이드의 기능과 식품 이용 가능성을 정리한 리뷰다.",
+        "title": "A review on apricot kernel seed proteins and peptides: Biological functions and food applications.",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39710033/",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "한약재 고행인(쓴 살구씨)의 성분과 약리 연구를 정리한 리뷰다.",
+        "title": "Phytochemistry and pharmacology of Armeniacae semen Amarum: A review.",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36806484/",
+        "year": "2023"
+      },
+      {
+        "journal": "Food Science and Biotechnology",
+        "note": "살구씨의 특성과 기름 추출, 활용 방법을 정리한 리뷰다.",
+        "title": "Apricot kernel characterization, oil extraction, and its utilization: a review.",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/36778095/",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 살구씨(행인)의 성분·약리 리뷰, 살구 과실의 생리활성 성분 리뷰, 살구씨 단백질·기름의 식품 이용 리뷰가 많다. 사람 관련 자료로는 살구씨를 먹고 급성 시안 중독이 생긴 사례 보고가 있으며, 과실의 건강 효과를 확인한 임상시험은 이번 검색에서 찾지 못했다."
+  },
+  "name": "살구",
+  "st": "caution",
+  "updatedAt": 1792832316687
+}

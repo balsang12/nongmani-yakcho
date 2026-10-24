@@ -1,0 +1,142 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "꽃이 피면 뚝갈은 흰색, 마타리는 노란색이라 바로 구별됩니다. 꽃이 없을 때는 줄기를 보세요. 뚝갈은 짧은 흰 털이 많고 마타리는 거의 매끈합니다.",
+      "q": "뚝갈과 마타리는 어떻게 구별하나요?"
+    },
+    {
+      "a": "어린순을 나물로 먹는 봄이 제철입니다. 여름에도 여린 가지를 삶아 나물로 먹으며, 꽃은 7~8월에 핍니다.",
+      "q": "뚝갈 제철은 언제인가요?"
+    },
+    {
+      "a": "연한 어린잎은 날로 쌈을 싸 먹기도 합니다. 보통은 데쳐서 무치거나 된장국에 넣어 먹습니다.",
+      "q": "뚝갈은 날로 먹어도 되나요?"
+    },
+    {
+      "a": "꼭 상한 것은 아닙니다. 뚝갈과 마타리는 날이 더울 때 묵은 장 같은 냄새를 내는 성질이 있어 '패장(敗醬)'이라는 이름이 붙었습니다. 그래도 잎이 무르거나 색이 변했다면 먹지 마세요.",
+      "q": "뚝갈에서 이상한 냄새가 나는데 상한 건가요?"
+    },
+    {
+      "a": "생것은 냉장해 며칠 안에 드세요. 오래 두려면 데쳐서 물기를 짜고 한 번 쓸 만큼씩 나눠 냉동하세요.",
+      "q": "뚝갈은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 나물무침, 된장국, 고추장무침, 생쌈으로 먹는다.",
+    "family": "마타리과(Valerianaceae) — 최근 분류에서는 인동과(Caprifoliaceae)에 넣기도 함",
+    "grade": "",
+    "habitat": "",
+    "look": {
+      "flower": "7~8월에 지름 4mm 정도의 작은 흰 꽃이 가지와 줄기 끝에 우산처럼 평평하게 모여 핀다.",
+      "fruit": "9~10월에 2~3mm 크기의 열매가 달리는데, 둥근 날개(5~6mm)가 붙어 있다.",
+      "leaf": "잎은 마주나고 길이 3~15cm로, 통잎이거나 깃 모양으로 갈라지며 가장자리에 고르지 않은 톱니가 있다. 앞면은 짙은 녹색, 뒷면은 희끗하다.",
+      "smell": "평소엔 상큼하지만 무더운 날에는 상한 된장이나 젓갈 같은 냄새가 나기도 한다.",
+      "stem": "곧게 서서 1m 안팎까지 자라고, 줄기 전체에 짧은 흰 털이 촘촘하다."
+    },
+    "parts": "어린순과 잎, 여름의 여린 가지",
+    "prep": "어린순은 다듬어 씻은 뒤 끓는 물에 데쳐 무치거나, 연한 잎은 날로 쌈을 싸 먹기도 한다. 여름의 여린 가지는 삶아서 나물로 쓴다.",
+    "sci": "Patrinia villosa (Thunb.) Juss.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키트리 — 뚝갈 소개 기사(사진 출처 국립생물자원관)",
+        "url": "https://www.wikitree.co.kr/articles/1046639"
+      },
+      {
+        "title": "이주영, 서울대학교 박사학위논문(2013) — 뚝갈의 배당체 성분 연구",
+        "url": "https://s-space.snu.ac.kr/handle/10371/120057?mode=full"
+      }
+    ],
+    "store": "생것은 물기를 닦아 비닐에 담아 냉장하고 빨리 쓴다. 오래 두려면 데쳐서 물기를 짜고 한 번 쓸 만큼씩 나눠 냉동한다.",
+    "taste": "쓴맛이 거의 없고 상큼한 편이다. 더운 날에는 묵은 장 같은 냄새가 날 수 있다."
+  },
+  "lookSources": [
+    {
+      "title": "위키트리 — 뚝갈 소개 기사(사진 출처 국립생물자원관)",
+      "url": "https://www.wikitree.co.kr/articles/1046639"
+    },
+    {
+      "title": "이주영, 서울대학교 박사학위논문(2013) — 뚝갈의 배당체 성분 연구",
+      "url": "https://s-space.snu.ac.kr/handle/10371/120057?mode=full"
+    },
+    {
+      "title": "Foods 2025 — Patrinia scabiosaefolia L. (마타리) 연구, 동아시아에서 국거리 채소로 쓰인다고 소개",
+      "url": "https://doi.org/10.3390/foods14071145"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "마타리(Patrinia scabiosifolia)는 같은 속 식물로 어린잎이 비슷하고 역시 나물로 먹는 풀이며 독초로 분류된 근거는 찾지 못했다. 둘 사이의 드문 교잡종(뚝마타리)은 흰 꽃과 노란 꽃이 함께 핀다.",
+      "name": "마타리",
+      "points": [
+        "꽃 색: 뚝갈은 흰 꽃, 마타리는 노란 꽃이 핀다.",
+        "털: 뚝갈은 줄기 전체에 짧은 흰 털이 많고, 마타리 줄기에는 털이 거의 없다.",
+        "열매: 뚝갈 열매에는 둥근 날개가 붙지만 마타리 열매에는 날개가 없다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Immunology",
+        "note": "뚝갈 정제 추출물을 대장암 모델 생쥐에게 먹이고, 핏속으로 들어가는 성분들이 종양 관련 염증 경로에 작용하는지 살폈다.",
+        "title": "Identification and validation of the VEGF/p38MAPK/HSP27 pro-tumor inflammatory pathway: screening of active components from Patrinia villosa and evaluation of their drug-likeness",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fimmu.2025.1631031",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "패장(뚝갈·마타리 계열 약재)의 플라보노이드 성분과 대장암에 관한 임상·실험 연구를 모아 정리했다.",
+        "title": "Clinical research, mechanisms, and prospects of flavonoids from Herba Patriniae in the treatment of colorectal cancer",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1633286",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "사염화탄소로 간 손상을 일으킨 쥐와 간세포에서 뚝갈 추출물이 간 수치와 세포 손상에 어떤 변화를 주는지 살폈다.",
+        "title": "Patrinia villosa (Thunb.) Juss alleviates CCL4-induced acute liver injury by restoring bile acid levels and inhibiting apoptosis/autophagy",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2024.1409971",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Chemistry",
+        "note": "뚝갈을 물에 달일 때 열로 생기는 성분을 찾아내고 대장암 세포의 생존·이동에 미치는 영향을 실험했다.",
+        "title": "Discovery of a heat-generated compound DHD derived from Patrinia villosa water extract with inhibitory effects on colon cancer cells viability and migration",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3389/fchem.2023.1195883",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 사이 뚝갈(Patrinia villosa) 연구는 대장암 모델 생쥐, 간 손상 쥐, 대장암 세포를 이용한 동물·세포 실험이 중심이다. 패장(Herba Patriniae)의 플라보노이드와 대장암을 다룬 리뷰도 나왔지만, 뚝갈 자체를 사람에게 시험한 최근 연구는 확인하지 못해 근거 수준은 아직 실험실·동물 연구 단계다."
+  },
+  "name": "뚝갈",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "이주영, 서울대학교 박사학위논문(2013) — 뚝갈의 배당체 성분 연구",
+        "url": "https://s-space.snu.ac.kr/handle/10371/120057?mode=full"
+      }
+    ],
+    "text": "학술 자료에 따르면 뚝갈 전초는 한방에서 백화패장(白花敗醬)이라 부르고, 노란 꽃의 마타리는 황화패장(黃花敗醬)이라 불러 둘 다 패장(敗醬) 계열로 다뤄 왔다. 동아시아에서는 뚝갈을 맹장염·피부 염증·생리통 등에 써 왔다고 소개되며, 패장이라는 약재 이름은 중국 『신농본초경』에도 실려 있다. 『동의보감』 탕액편의 패장 항목이 뚝갈과 마타리 중 어느 쪽을 가리키는지는 이번 조사에서 원문으로 확인하지 못했다."
+  },
+  "updatedAt": 1792616180342
+}

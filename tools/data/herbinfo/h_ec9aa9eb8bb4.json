@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "龍膽",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "과남플",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (龍膽 과남플)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      },
+      {
+        "title": "한국민족문화대백과사전, 용담(龍膽)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0039416"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "판매 전 식품원료목록 확인이 필요합니다. 식약처 식품원료목록에서 용담의 사용 가능 여부와 사용부위를 확인한 뒤 판매하세요.",
+      "q": "용담은 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "잎맥과 꽃받침을 보면 됩니다. 과남풀은 잎맥 3개가 뚜렷하고 꽃받침 조각이 곧게 서며, 용담은 주맥만 뚜렷하고 꽃받침 조각이 뒤로 젖혀집니다. 꽃도 과남풀은 7~8월에 하늘색~남색, 용담은 8~10월에 자주색으로 핍니다.",
+      "q": "용담과 과남풀은 어떻게 구별하나요?"
+    },
+    {
+      "a": "8~10월에 자주색 종 모양 꽃이 핍니다.",
+      "q": "용담 꽃은 언제 피나요?"
+    },
+    {
+      "a": "매우 씁니다. 이 쓴맛 때문에 예부터 위를 돕는 약재로 썼습니다.",
+      "q": "용담 뿌리는 어떤 맛인가요?"
+    },
+    {
+      "a": "박새 같은 독초와 헷갈리지 않도록 잎 배열을 확인하세요. 용담 잎은 마주나고, 박새 잎은 어긋나며 훨씬 넓고 큽니다.",
+      "q": "용담을 캘 때 조심할 독초가 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 뿌리를 달여 쓴맛을 이용하는 한약재로 주로 쓴다. 식품으로 먹는 방법은 식품원료목록 확인 후 정한다.",
+    "eng": "Japanese gentian",
+    "family": "용담과",
+    "grade": "",
+    "habitat": "전국의 산지 풀밭에서 자라는 여러해살이풀이다. 한국·일본·만주·동부 시베리아에 분포한다.",
+    "look": {
+      "flower": "8~10월에 자주색 종 모양 꽃이 핀다. 꽃받침 조각이 뒤로 젖혀지는 편이다.",
+      "fruit": "열매는 삭과로, 시든 꽃부리와 꽃받침에 싸인 채 익으며 작은 씨가 많이 들어 있다.",
+      "leaf": "잎은 마주나고 피침형으로 길이 4~8cm, 너비 1~3cm 정도다. 잎맥은 가운데 주맥이 뚜렷하다.",
+      "root": "뿌리줄기는 짧고 굵은 수염뿌리가 여러 개 달린다. 말린 뿌리가 한약재 용담이다.",
+      "stem": "높이 20~60cm로 곧게 서며, 줄기에 가는 줄 4개가 있다."
+    },
+    "parts": "뿌리와 뿌리줄기(한약재 '용담'). 식품원료로 쓸 수 있는지와 사용부위는 판매 전 식품원료목록 확인 필요.",
+    "prep": "뿌리는 맛이 매우 쓰다. 식품으로 판매하거나 가공하기 전에 현행 식품원료목록에서 사용 가능 여부와 사용부위를 먼저 확인한다.",
+    "sci": "Gentiana scabra Bunge",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 용담(龍膽)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0039416"
+      },
+      {
+        "title": "위키백과, 용담",
+        "url": "https://ko.wikipedia.org/wiki/%EC%9A%A9%EB%8B%B4"
+      },
+      {
+        "title": "황명숙·박종희, 한약 '용담(龍膽)'의 생약학적 연구, 생약학회지 32(1) (2001)",
+        "url": "https://koreascience.or.kr/article/JAKO200103041289975.page"
+      }
+    ],
+    "store": "",
+    "taste": "뿌리는 맛이 매우 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "위키백과, 과남풀",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B3%BC%EB%82%A8%ED%92%80"
+    },
+    {
+      "title": "비즈한국, [들꽃나들이] 입에 쓴 꽃이 몸에 달다, 과남풀 (2016)",
+      "url": "https://bizhankook.com/articles/11496.html"
+    },
+    {
+      "title": "한국민족문화대백과사전, 용담(龍膽)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0039416"
+    },
+    {
+      "title": "위키백과, 박새 (식물)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%EC%83%88_(%EC%8B%9D%EB%AC%BC)"
+    },
+    {
+      "title": "Czerwiec et al., Intoxication par vératre (Toxicologie Analytique et Clinique, 2023)",
+      "url": "https://www.em-consulte.com/article/1631725"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "과남풀(Gentiana triflora var. japonica)은 같은 용담속 식물로 꽃과 잎이 용담과 매우 비슷하고, 한방에서는 둘 다 뿌리를 용담으로 쓴다. 칼잎용담·큰용담은 지금은 과남풀에 합쳐졌고, 백과사전에는 '과남풀'이 용담의 다른 이름으로도 올라 있어 이름이 섞여 쓰인다.",
+      "name": "과남풀",
+      "points": [
+        "과남풀 잎은 길이 5~15cm로 더 길고 잎맥 3개가 뚜렷하다. 용담 잎은 4~8cm 정도이고 주맥만 뚜렷하다.",
+        "과남풀은 7~8월에 하늘색~짙은 남색 꽃이 주로 가지 끝에 3개씩 모여 달리고, 용담은 8~10월에 자주색 꽃이 핀다.",
+        "과남풀은 꽃받침 조각이 곧게 서고, 용담은 꽃받침 조각이 뒤로 젖혀진다.",
+        "약재로 살 때는 기원 식물이 무엇인지(Gentiana scabra 또는 다른 용담속) 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "박새(Veratrum 속)는 뿌리에 베라트린·제르빈 같은 알칼로이드 독이 있는 독초다. 유럽에서는 같은 용담속인 노랑용담(Gentiana lutea) 뿌리로 알고 박새속 Veratrum album을 술에 담가 마셨다가 저혈압·서맥으로 입원한 중독 사례가 2023년에 보고됐다.",
+      "name": "박새",
+      "points": [
+        "잎 배열을 먼저 본다. 용담 잎은 마주나고, 박새 잎은 어긋난다.",
+        "박새 잎은 길이 30cm가 넘는 넓은 타원형이고 세로 주름이 많다. 용담 잎은 4~8cm의 좁은 피침형이다.",
+        "박새는 6~8월에 연한 황백색 꽃이 원뿔 모양으로 촘촘히 달리고, 용담은 8~10월에 자주색 종 모양 꽃이 핀다.",
+        "뿌리만 보고는 구별이 어려우므로 꽃·잎이 달린 상태에서 확인된 것이나 출처가 분명한 약재만 산다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "닭 골절 모델에서 용담 추출물과 일부 분획이 골절 회복 지표와 관련이 있었다고 보고한 동물 실험이다.",
+        "title": "Identification of active metabolites from Gentiana scabra Bunge ethanol-water extract for chicken metatarsal fracture repair",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1706754",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "44개 시료를 분석해 품질 지표 성분 3가지를 제안했고, 산지별로 함량 차이가 컸다고 보고했다.",
+        "title": "Prediction and quality evaluation of quality markers of Gentiana scabra Bunge. in treatment of liver injury",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1679981",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "용담(용담속 뿌리 약재)의 성분 172종과 약리 연구를 정리한 리뷰로, 근거 대부분이 세포·동물 실험이다.",
+        "title": "The chemical structure, pharmacological activity, and clinical progress of Gentianae Radix et Rhizoma",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1656493",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Bioscience-Landmark",
+        "note": "알코올로 간 손상을 일으킨 생쥐에서 용담 추출물이 간 수치와 염증 지표를 낮췄다고 보고한 동물 실험이다.",
+        "title": "Gentiana Scabra Bge Extract (GSE) Protects Against Alcoholic Liver Disease by Regulating the TLR4/NF-κB Pathway in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.31083/j.fbl2811309",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2025년 연구는 세포·동물 실험이 대부분이다. 2025년 리뷰는 용담 뿌리의 주성분(겐티오피크로사이드 등 이리도이드)의 항염·간 보호 관련 작용을 정리했지만, 근거는 주로 세포·동물 실험에서 나왔다. 사람 대상 최근 연구는 찾지 못했다."
+  },
+  "name": "용담",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 용담(龍膽)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0039416"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (龍膽 과남플)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 용담 뿌리를 한약재로 많이 쓰며, 쓴맛이 위액 분비를 도와 위를 튼튼하게 하고 소화를 돕는 데 쓴다고 소개했다. 담즙 분비와 관련해 간·담낭 질환에 쓰기도 한다고 적었다. 조선시대 향명은 관음초(觀音草)였고, 동의보감 탕액편 풀(草部)에는 龍膽이 '과남플'이라는 한글 이름으로 올라 있다."
+  },
+  "updatedAt": 1792875515254
+}

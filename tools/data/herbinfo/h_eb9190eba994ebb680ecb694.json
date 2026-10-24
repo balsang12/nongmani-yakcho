@@ -1,0 +1,163 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false,
+    "sources": [],
+    "verified": false
+  },
+  "faq": [
+    {
+      "a": "서로 다른 종입니다. 두메부추는 잎이 더 굵고 도톰하며 자르면 끈적한 점액이 나오고, 가을에 연보라색 꽃이 핍니다. 일반 부추는 흰 꽃이 핍니다.",
+      "q": "두메부추와 일반 부추는 어떻게 다른가요?"
+    },
+    {
+      "a": "울릉도에만 자생하는 한국 특산식물로, 햇볕 드는 해안·산지 바위 절벽에 자랍니다. 자생지가 좁아 보전이 필요하므로 야생 개체는 캐지 않는 것이 좋습니다.",
+      "q": "두메부추는 어디서 나나요?"
+    },
+    {
+      "a": "장아찌나 김치로 많이 먹고, 생으로 무치거나 전·볶음에 넣기도 합니다. 꽃도 잎과 함께 먹습니다.",
+      "q": "두메부추는 어떻게 먹나요?"
+    },
+    {
+      "a": "두메부추 잎은 폭 4~13mm로 납작하고 속이 차 있고, 산부추 잎은 가늘고 단면이 삼각형이며 속이 비어 있습니다. 꽃도 두메부추는 9~10월 연보라색, 산부추는 8~9월 홍자색입니다.",
+      "q": "두메부추와 산부추는 어떻게 구별하나요?"
+    },
+    {
+      "a": "심은 기억이 없다면 먹지 마세요. 수선화 잎이 부추와 닮아 중독 사고가 나며, 수선화는 잎을 찢어도 마늘 냄새가 나지 않습니다.",
+      "q": "화단에서 부추 같은 풀을 뜯어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "장아찌, 김치, 생채 무침, 부추전·볶음에 넣으며 생즙으로도 먹는다.",
+    "family": "백합과 (최근 분류체계에서는 수선화과)",
+    "habitat": "울릉도에만 자라는 한국 특산식물로, 해안과 산의 햇볕이 잘 드는 바위 절벽·바위 비탈에 붙어 자란다. 그늘을 좋아하는 울릉산마늘과 달리 양지를 좋아한다. 2021년 신종 발표 논문은 자생지가 한 곳뿐이고 해안도로 공사로 위협받는다며 IUCN 기준 '위급(CR)' 평가를 제안했으므로, 야생 개체는 캐지 않는 것이 좋다.",
+    "look": {
+      "flower": "9월 하순~10월에 연보라색 작은 꽃이 공 모양으로 둥글게 모여 핀다. 다른 부추류보다 꽃이 크고 색이 선명하다.",
+      "fruit": "10월 하순~11월에 열매가 익는다.",
+      "leaf": "한 포기에 잎이 4~9장이며, 길이 20~38cm·폭 4~13mm의 납작하고 도톰한 줄 모양이다. 잎 단면은 속이 차 있고 끝이 둥글다.",
+      "root": "굵은 뿌리줄기가 비스듬히 또는 옆으로 뻗고, 그 위에 흰 막질 껍질에 싸인 원뿔형 비늘줄기가 여러 개 모여 달린다.",
+      "smell": "잎과 비늘줄기에서 은은한 마늘 냄새가 난다.",
+      "stem": "꽃줄기는 높이 23~49cm로, 단면이 마름모꼴이고 속이 차 있다."
+    },
+    "parts": "잎(꽃도 함께 먹음)",
+    "prep": "시든 잎과 흙을 떼어 내고 흐르는 물에 씻는다. 생으로 무치거나 즙을 내 먹어도 되고, 꽃도 잎과 함께 쓴다.",
+    "sci": "Allium dumebuchum H.J.Choi (예전에는 Allium senescens로 다룸)",
+    "season": {
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "Jang 외, Notes on Allium section Rhizirideum in South Korea and northeastern China: with a new species from Ulleungdo Island, PhytoKeys 176, 2021",
+        "url": "https://phytokeys.pensoft.net/article_preview.php?id=63378"
+      },
+      {
+        "title": "정책브리핑(산림청 국립수목원 보도자료) - 자생 '두메부추', 한국에만 있는 특산식물로 밝혀져",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156443374"
+      },
+      {
+        "title": "국립수목원 웹진 Vol.170 - 두메부추",
+        "url": "https://www.forest.go.kr/kna/webzine/2024/vol_170/s1.html"
+      },
+      {
+        "title": "숲튜데이 - 울릉도 자생식물, 두메부추 꽃을 피우다(2020)",
+        "url": "https://www.sumtoday.co.kr/article/view/isl202009220003"
+      }
+    ],
+    "store": "오래 두고 먹을 때는 울릉도에서 흔히 하듯 장아찌로 담근다.",
+    "taste": "부추보다 잎이 굵고, 자르면 끈적한 점액이 나오며 은은한 마늘·부추 향이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "Jang 외, Notes on Allium section Rhizirideum in South Korea and northeastern China: with a new species from Ulleungdo Island, PhytoKeys 176, 2021",
+      "url": "https://phytokeys.pensoft.net/article_preview.php?id=63378"
+    },
+    {
+      "title": "국립수목원 웹진 Vol.170 - 두메부추",
+      "url": "https://www.forest.go.kr/kna/webzine/2024/vol_170/s1.html"
+    },
+    {
+      "title": "Case of narcissus poisoning under CHP investigation (홍콩 위생서 보도자료, 2014)",
+      "url": "https://www.info.gov.hk/gia/general/201403/03/P201403030618_print.htm"
+    },
+    {
+      "title": "Daffodils - Beautiful but Potentially Toxic (National Capital Poison Center)",
+      "url": "https://poison.org/articles/daffodils"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 부추",
+      "url": "https://encykorea.aks.ac.kr/Contents/Item/E0024590"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 부추속 산나물로, 잎이 가늘고 단면이 삼각형이며 꽃 색과 피는 시기가 다르다.",
+      "name": "산부추",
+      "points": [
+        "두메부추 잎은 폭 4~13mm로 납작하고 두툼하며 속이 차 있고, 산부추 잎은 지름 2~5mm로 가늘고 단면이 삼각형이며 속이 비어 있다.",
+        "두메부추는 9월 하순~10월에 연보라색 꽃이, 산부추는 8~9월에 홍자색 꽃이 핀다.",
+        "두메부추는 울릉도 바위 절벽에 자라고, 산부추는 전국 산지에 자란다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "밭에서 기르는 흔한 부추로, '두메부추'라는 이름으로 섞여 팔리지 않는지 잎과 꽃으로 확인한다.",
+      "name": "부추",
+      "points": [
+        "두메부추 잎은 일반 부추보다 굵고 도톰하며, 자르면 끈적한 점액이 나온다.",
+        "부추는 흰 꽃이 피고, 두메부추는 연보라색 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "납작하고 긴 잎이 부추류와 닮아 잘못 베어 먹는 중독 사고가 나는 독초다. 냄새와 꽃 피는 시기로 구별한다.",
+      "name": "수선화",
+      "points": [
+        "두메부추 잎과 비늘줄기에서는 마늘 냄새가 나지만, 수선화는 잎을 찢거나 알뿌리를 잘라도 그런 냄새가 나지 않는다.",
+        "수선화는 겨울~이른 봄에 꽃이 피고, 두메부추는 가을(9~10월)에 연보라색 꽃이 핀다.",
+        "수선화 알뿌리는 검은 껍질에 싸인 둥근 모양이고, 두메부추는 굵은 뿌리줄기 위에 흰 막에 싸인 가는 비늘줄기가 모여 있다.",
+        "심은 기억이 없는 화단의 '부추'는 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Applied Sciences",
+        "note": "울릉도산 잎 추출물이 신경독소로 손상시킨 신경세포에서 활성산소와 세포 사멸 지표를 줄이는지 살핀 세포·브라인슈림프 실험이다.",
+        "title": "Protective Effects of Allium senescens Extract against 6-Hydroxydopamine in Neurons",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/app14135579",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "엽록체 유전체로 부추속의 계통을 분석해 두메부추가 대륙 계통에서 갈라진 시기를 추정했다.",
+        "title": "New insights into the phylogenetic relationships among wild onions (Allium, Amaryllidaceae), with special emphasis on the subgenera Anguinum and Rhizirideum, as revealed by plastomes",
+        "type": "기타",
+        "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2023.1124277/full",
+        "year": "2023"
+      }
+    ],
+    "summary": "두메부추는 2021년 울릉도 특산 신종(Allium dumebuchum)으로 발표되었고, 2023년 엽록체 유전체 연구에서 대륙의 가까운 종들과 약 29만 년 전에 갈라진 것으로 추정되었다. 효능 연구로는 울릉도산 잎 추출물이 신경세포 손상 모델에서 보호 효과를 보였다는 세포·무척추동물 실험이 있으며, 사람 대상 연구는 찾지 못했다. 예전 학명(A. senescens)으로 발표된 논문 중에는 유럽 아종 등 다른 식물을 다룬 것이 섞여 있어 원산지를 확인해야 한다."
+  },
+  "name": "두메부추",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "정책브리핑(산림청 국립수목원 보도자료) - 자생 '두메부추', 한국에만 있는 특산식물로 밝혀져",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156443374"
+      },
+      {
+        "title": "국립수목원 웹진 Vol.170 - 두메부추",
+        "url": "https://www.forest.go.kr/kna/webzine/2024/vol_170/s1.html"
+      }
+    ],
+    "text": "두메부추는 울릉도에서 오래전부터 나물로 먹고 약으로도 써 온 식물로 소개된다. 울릉도 주민들은 주로 장아찌를 담그거나 김치에 넣어 먹는다. 옛 의서에서 두메부추를 따로 다룬 항목은 찾지 못했다."
+  },
+  "updatedAt": 1792573003677
+}

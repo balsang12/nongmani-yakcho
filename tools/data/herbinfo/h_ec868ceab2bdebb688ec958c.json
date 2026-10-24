@@ -1,0 +1,166 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "뿌리가 동그란 알 모양이면 소경불알, 길쭉한 방추형이면 더덕입니다. 소경불알은 잎과 줄기에 털이 많고 더덕 같은 진한 향이 없습니다.",
+      "q": "소경불알과 더덕은 어떻게 구별하나요?"
+    },
+    {
+      "a": "소경불알(Codonopsis ussuriensis)의 다른 이름입니다. 더덕과 같은 더덕속 덩굴식물이지만 뿌리가 동그란 것이 특징입니다.",
+      "q": "알더덕은 어떤 식물인가요?"
+    },
+    {
+      "a": "뿌리 모양으로 구별합니다. 소경불알은 짧고 동그랗고, 만삼은 20~30cm의 길쭉한 곤봉 모양입니다. 둘 다 털이 많아 잎만으로는 헷갈리기 쉽습니다.",
+      "q": "소경불알과 만삼은 어떻게 다른가요?"
+    },
+    {
+      "a": "7~8월에 핍니다. 종 모양 꽃의 안쪽이 짙은 자주색입니다.",
+      "q": "소경불알 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "동그란 뿌리를 식용으로 이용한다고 소개된다.",
+    "eng": "",
+    "family": "초롱꽃과",
+    "grade": "",
+    "habitat": "습기가 넉넉하고 햇볕이 잘 드는 산지 풀밭이나 숲 가장자리에서 자란다. 중국 동북부·아무르·우수리 지역과 한국, 일본에 분포하며, 일본에서는 적색목록 취약(VU)으로 분류된다(국내 희귀식물 지정 여부는 확인하지 못함).",
+    "look": {
+      "flower": "7~8월에 짧은 가지 끝에 지름 2.5cm 안팎의 종 모양 꽃이 달린다. 끝이 5갈래로 갈라져 살짝 뒤로 젖혀지고, 안쪽은 짙은 자주색이다.",
+      "fruit": "원뿔 모양의 삭과가 달린다.",
+      "leaf": "잎은 어긋나지만 짧은 가지 끝에서는 4장이 모여 마주난 것처럼 보인다. 달걀형~둥근 타원형에 가장자리가 밋밋하고, 뒷면은 분백색에 흰 털이 빽빽하다.",
+      "root": "길쭉하지 않고 짧고 동그란 알(공) 모양이며 털이 있다.",
+      "smell": "더덕 같은 특유의 향이 없다.",
+      "stem": "감아 오르는 여러해살이 덩굴로, 식물 전체에 털이 많다."
+    },
+    "parts": "뿌리(동그란 덩이뿌리). 지자체 농업기술원 자료에 식용으로 이용한다고 적혀 있다.",
+    "prep": "",
+    "sci": "Codonopsis ussuriensis (Rupr. & Maxim.) Hemsl.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "제주환경일보 - 한비 김평일의 제주들꽃 이야기: 소경불알",
+        "url": "https://www.newsje.com/news/articleView.html?idxno=83872"
+      },
+      {
+        "title": "제주특별자치도농업기술원 특용작물(더덕) 자료",
+        "url": "https://agri.jeju.go.kr/files/board/%ED%8A%B9%EC%9A%A9%EC%9E%91%EB%AC%BC(%EB%8D%94%EB%8D%95).pdf"
+      },
+      {
+        "title": "위키백과 - 더덕속",
+        "url": "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%8D%95%EC%86%8D"
+      },
+      {
+        "title": "Hokkaido University - Codonopsis ussuriensis (バアソブ)",
+        "url": "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/bellflower/codonopsis/uss.html"
+      },
+      {
+        "title": "산림청 임산물 재배기술 - 더덕",
+        "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_04.pdf"
+      }
+    ],
+    "store": "",
+    "taste": "더덕과 달리 특유의 진한 향이 없다고 소개된다."
+  },
+  "lookSources": [
+    {
+      "title": "제주환경일보 - 한비 김평일의 제주들꽃 이야기: 소경불알",
+      "url": "https://www.newsje.com/news/articleView.html?idxno=83872"
+    },
+    {
+      "title": "제주특별자치도농업기술원 특용작물(더덕) 자료",
+      "url": "https://agri.jeju.go.kr/files/board/%ED%8A%B9%EC%9A%A9%EC%9E%91%EB%AC%BC(%EB%8D%94%EB%8D%95).pdf"
+    },
+    {
+      "title": "위키백과 - 더덕속",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%8D%95%EC%86%8D"
+    },
+    {
+      "title": "Hokkaido University - Codonopsis ussuriensis (バアソブ)",
+      "url": "https://hosho.ees.hokudai.ac.jp/tsuyu/top/plt/bellflower/codonopsis/uss.html"
+    },
+    {
+      "title": "산림청 임산물 재배기술 - 더덕",
+      "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_04.pdf"
+    },
+    {
+      "title": "산림청 국립산림과학원 임산물 재배기술 - 만삼",
+      "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_04_11.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 더덕속(Codonopsis lanceolata)으로 잎이 가지 끝에 4장씩 모여 나는 모습까지 닮았지만, 털·뿌리 모양·향이 다르다. 값이 다를 수 있어 뿌리 모양 확인이 중요하다.",
+      "name": "더덕",
+      "points": [
+        "소경불알 뿌리는 짧고 동그란 알 모양이고, 더덕 뿌리는 가운데가 굵고 양 끝이 가는 길쭉한 방추형이다.",
+        "소경불알은 잎(특히 뒷면)과 줄기에 털이 많고, 더덕 잎은 털이 없다.",
+        "더덕은 특유의 진한 향이 나지만 소경불알은 그런 향이 없다.",
+        "더덕 꽃은 연녹색 바탕 안쪽에 갈자색 반점이 있고 8~9월에 피며, 소경불알 꽃은 안쪽이 짙은 자주색이고 7~8월에 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 더덕속(Codonopsis pilosula)으로 둘 다 털이 많은 덩굴이라 지상부로는 헷갈리기 쉽다. 뿌리 모양이 가장 확실한 차이다.",
+      "name": "만삼",
+      "points": [
+        "소경불알 뿌리는 짧고 동그랗고, 만삼 뿌리는 20~30cm에 이르는 길쭉한 곤봉 모양에 겉이 황갈색이다.",
+        "만삼은 잎자루가 2~3cm로 길고, 소경불알은 잎자루가 짧다.",
+        "둘 다 털이 많아 털 유무로는 구별이 어렵다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "더덕속(Codonopsis minima)으로 소경불알과 매우 닮았지만 크기가 작다.",
+      "name": "애기더덕",
+      "points": [
+        "애기더덕은 꽃과 잎 크기가 소경불알의 절반 정도이다.",
+        "애기더덕은 한라산 해발 1,000m 부근에서 채집된 기록이 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "2023~2026년에 소경불알(Codonopsis ussuriensis)만을 직접 다룬 논문은 이번 조사에서 확인하지 못했다. 더덕속 전체를 다룬 최근 리뷰들은 주로 중국 당삼(만삼)을 중심으로 하며, 그 약리 근거도 대부분 세포·동물 실험 단계이다."
+  },
+  "name": "소경불알",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "제주특별자치도농업기술원 특용작물(더덕) 자료",
+        "url": "https://agri.jeju.go.kr/files/board/%ED%8A%B9%EC%9A%A9%EC%9E%91%EB%AC%BC(%EB%8D%94%EB%8D%95).pdf"
+      },
+      {
+        "title": "제주환경일보 - 한비 김평일의 제주들꽃 이야기: 소경불알",
+        "url": "https://www.newsje.com/news/articleView.html?idxno=83872"
+      },
+      {
+        "title": "산림청 임산물 재배기술 - 더덕",
+        "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_04.pdf"
+      }
+    ],
+    "text": "소경불알은 더덕·만삼과 함께 우리나라에 자생하는 더덕속 식물로, 동그란 뿌리를 식용으로 이용한다고 소개된다. 이름은 불알처럼 생긴 뿌리를 더듬어 보아야 더덕·만삼과 구별할 수 있다는 데서 왔다고 전해지며, 알더덕·만삼아재비 등으로도 불린다. 고서의 약재 항목이나 공공기관 자료의 약용 기록은 확인하지 못했다."
+  },
+  "updatedAt": 1792660004727
+}

@@ -1,0 +1,98 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 둘 다 비짜루속이지만 비짜루는 동아시아 산과 들에 자생하는 다른 종이고, 아스파라거스는 밭이나 하우스에서 키우는 재배 채소입니다.",
+      "q": "비짜루와 아스파라거스는 같은 식물인가요?"
+    },
+    {
+      "a": "익혀 드시는 것을 권합니다. 확인된 자료에는 어린순을 익혀 먹는다고만 나와 있고, 날로 먹어도 된다는 근거는 찾지 못했습니다.",
+      "q": "비짜루는 날로 먹어도 되나요?"
+    },
+    {
+      "a": "숲속이나 풀이 난 비탈, 덤불 가장자리에서 자랍니다. 한국을 비롯해 일본, 중국 북부, 러시아 극동 등 동아시아 온대에 분포합니다.",
+      "q": "비짜루는 어디서 자라나요?"
+    },
+    {
+      "a": "채취한 산지와 장소를 먼저 물어보세요. 크기가 고르게 잘려 사철 나오는 순은 재배 아스파라거스일 가능성이 큽니다.",
+      "q": "야생 비짜루인지 어떻게 확인하나요?"
+    }
+  ],
+  "id": {
+    "eat": "봄에 올라오는 어린순을 익혀 나물로 먹는다.",
+    "eng": "",
+    "family": "비짜루과(Asparagaceae)",
+    "grade": "",
+    "habitat": "한국·일본·중국 북부·몽골·러시아 극동 등 동아시아 온대에 자생한다. 중국 자료에서는 숲속과 풀이 난 비탈(해발 400~2,300m), 시베리아 자료에서는 낙엽수림·덤불·풀밭에서 자란다고 적었다.",
+    "look": {
+      "flower": "암그루와 수그루가 따로 있는 암수딴그루 식물이다.",
+      "stem": "곧게 서는 여러해살이풀로, 가지를 친 줄기가 여러 대 모여 나며 높이 40~120cm 정도까지 자란다. 가시는 없다."
+    },
+    "parts": "어린순",
+    "prep": "자료에는 어린순을 익혀 먹는다고만 나온다. 날로 먹어도 된다는 근거는 확인되지 않았으니 익혀 먹는다.",
+    "sci": "Asparagus schoberioides Kunth",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Plants of the World Online (Kew) - Asparagus schoberioides Kunth",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:531305-1"
+      },
+      {
+        "title": "Temperate Plants Database - Asparagus schoberioides (Flora of China·Flora of the USSR 인용)",
+        "url": "https://temperate.theferns.info/plant/Asparagus+schoberioides"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "농사로 - 아스파라거스 농작업일정",
+      "url": "https://www.nongsaro.go.kr/portal/ps/psb/psbl/workScheduleDtl.ps?menuId=PS00087&cntntsNo=30632&sKidofcomdtySeCode=210001&totalSearchYn=Y"
+    },
+    {
+      "title": "Temperate Plants Database - Asparagus schoberioides (Flora of China·Flora of the USSR 인용)",
+      "url": "https://temperate.theferns.info/plant/Asparagus+schoberioides"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 비짜루속이라 어린순 모양이 닮았지만, 아스파라거스는 밭·하우스에서 키워 사철 출하하는 재배 채소다. 야생 비짜루로 팔리는 물건이 재배 아스파라거스가 아닌지 확인한다.",
+      "name": "아스파라거스",
+      "points": [
+        "아스파라거스는 하우스 촉성재배로 겨울(12~4월)에도 나오지만, 비짜루는 산과 들에서 자라는 야생 나물이다.",
+        "아스파라거스는 땅속에서 25~27cm쯤 자란 순을 잘라 거두므로 길이가 고르고, 야생 비짜루는 크기가 들쭉날쭉하다.",
+        "산지·채취 장소를 밝히지 않고 크기가 균일하게 묶인 물건은 재배 아스파라거스일 가능성을 의심한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "2023~2026년 문헌 검색(OpenAlex·Crossref)에서 비짜루 자체의 성분이나 건강 영향을 다룬 연구는 찾지 못했고, 식물상 조사 목록이나 비짜루과 계통 연구에 이름이 나오는 정도였다. 사람 대상 근거는 없다. Europe PMC는 접속 제한으로 확인하지 못했다."
+  },
+  "name": "비짜루",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792529979983
+}

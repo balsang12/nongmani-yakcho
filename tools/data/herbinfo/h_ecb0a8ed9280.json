@@ -1,0 +1,164 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 둘 다 콩과이지만 다른 식물입니다. 결명자차는 Senna 속 식물의 씨앗을 볶은 것이고, 차풀차는 차풀의 줄기·잎·어린 열매 같은 땅 위 부분을 말려 볶은 것입니다.",
+      "q": "차풀과 결명자는 같은 건가요?"
+    },
+    {
+      "a": "7~8월에 노란 꽃이 핍니다. 전통적으로 같은 7~8월에 어린 열매가 달린 것을 거두어 그늘에 말렸고, 열매는 10월에 익습니다.",
+      "q": "차풀은 언제 꽃이 피고 언제 거두나요?"
+    },
+    {
+      "a": "주로 차로 마십니다. 땅 위 부분을 말려 볶은 뒤 뜨거운 물에 우려 마시는 것이 한국과 일본의 전통 방식입니다.",
+      "q": "차풀은 어떻게 먹나요?"
+    },
+    {
+      "a": "판매 전 식품원료목록 확인이 필요합니다. 이번에 식약처 식품원료목록에서 차풀의 지위와 사용부위를 확인하지 못했습니다.",
+      "q": "차풀은 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "꼬투리와 꽃 달림새를 보면 됩니다. 자귀풀 꼬투리는 6~8마디로 잘록하게 나뉘고 꽃이 꽃대에 여러 송이 달리며, 차풀은 꼬투리가 납작하고 털이 있으며 꽃이 1~2송이씩 달립니다.",
+      "q": "자귀풀과는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말려 볶은 땅 위 부분을 뜨거운 물에 우려 차 대용으로 마신다.",
+    "eng": "",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "한국·중국 등에 분포하는 한해살이풀로, 냇가 근처의 볕이 잘 드는 곳에 자란다.",
+    "look": {
+      "flower": "7~8월에 잎겨드랑이에 노란 꽃이 1~2송이씩 달린다.",
+      "fruit": "꼬투리는 납작하고 겉에 털이 있으며, 익으면 두 쪽으로 갈라진다. 씨는 검고 윤기가 나며 납작하면서 약간 모가 진다. 열매는 10월에 익는다.",
+      "leaf": "잎은 어긋나고, 작은 잎이 짝수로 줄지어 달린 깃꼴겹잎이다. 작은 잎은 가는 긴 타원형이며 가장자리가 밋밋하다.",
+      "stem": "높이 30~60cm이고 줄기에 안쪽으로 굽은 잔털이 있다."
+    },
+    "parts": "땅 위 부분(줄기·잎)과 어린 열매. 식품원료목록 등재 여부와 사용부위는 확인하지 못했으니 판매 전 식품원료목록 확인 필요.",
+    "prep": "전통적으로 7~8월에 어린 열매가 달린 것을 거두어 그늘에서 말리고, 볶은 뒤 우려 차로 마셨다. 식품원료목록상 지위를 확인하지 못했으므로 판매 전 식품원료목록 확인 필요.",
+    "sci": "Chamaecrista nomame (Siebold) H.Ohashi",
+    "season": {
+      "collect": [
+        7,
+        8
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과, 차풀",
+        "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%ED%92%80"
+      },
+      {
+        "title": "IPNI, Chamaecrista nomame",
+        "url": "https://www.ipni.org/n/946976-1"
+      },
+      {
+        "title": "Journal of Ethnic Foods (2026), Phytochemical characterization and bioactivity of Chamaecrista nomame",
+        "url": "https://link.springer.com/article/10.1186/s42779-026-00310-z"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "위키백과, 결명자",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B2%B0%EB%AA%85%EC%9E%90"
+    },
+    {
+      "title": "위키백과, 자귀풀",
+      "url": "https://ko.wikipedia.org/wiki/%EC%9E%90%EA%B7%80%ED%92%80"
+    },
+    {
+      "title": "위키백과, 차풀",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%ED%92%80"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "결명자는 Senna 속 식물의 씨앗으로 볶아서 차로 흔히 팔린다. 차풀과 같은 콩과이고 노란 꽃이 피지만, 차풀차는 땅 위 부분을 쓰고 결명자차는 씨앗을 쓰는 다른 원료다.",
+      "name": "결명자",
+      "points": [
+        "결명자 식물은 키가 1.5m 안팎으로 크고, 차풀은 30~60cm로 작다.",
+        "결명자 작은 잎은 3~4cm 거꿀달걀꼴로 2~4쌍뿐이고, 차풀 작은 잎은 가늘고 작으며 훨씬 많이 달린다.",
+        "결명자 꼬투리는 가늘고 길며 활처럼 휜다. 차풀 꼬투리는 납작하고 털이 있다.",
+        "제품을 살 때는 원료가 씨앗(결명자)인지, 줄기·잎(차풀)인지 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "자귀풀(Aeschynomene indica)은 물가에 자라는 콩과 한해살이풀로, 작은 잎이 많은 깃꼴겹잎과 노란 꽃 때문에 차풀과 헷갈린다. 먹는 풀로 확인된 자료가 없으니 섞지 않는다.",
+      "name": "자귀풀",
+      "points": [
+        "자귀풀은 작은 잎이 20~30쌍으로 아주 촘촘하다.",
+        "자귀풀 줄기는 둥글고 연하며 속이 비어 있다.",
+        "자귀풀은 노란 꽃이 잎겨드랑이에서 나온 꽃대에 여러 송이 모여 달리고, 차풀은 1~2송이씩 달린다.",
+        "자귀풀 꼬투리는 3~5cm로 6~8마디로 나뉘고 마디 사이가 잘록하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Foods",
+        "note": "차풀 에탄올 추출물이 대식세포의 염증 물질 분비와 지방세포의 지방 축적을 줄였다는 세포 실험으로, 저자들은 실제 효과를 보려면 동물·임상 연구가 필요하다고 했다.",
+        "title": "Anti-Inflammatory, Anti-Obesity, and Insulin-Sensitizing Effects of Chamaecrista nomame (Siebold) H. Ohashi Extract in Cellular Models, Including TNF-α-Induced Adipocyte Dysfunction",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/foods15111858",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Ethnic Foods",
+        "note": "전통 차로 쓰인 차풀의 성분을 분석하고 시험관 효소 실험과 컴퓨터 결합 예측을 한 연구로, 세포·동물·사람 실험은 하지 않았다.",
+        "title": "Phytochemical characterization and bioactivity of Chamaecrista nomame (Siebold) H. Ohashi: bridging korean ethnic food tradition and modern functional science",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s42779-026-00310-z",
+        "year": "2026"
+      },
+      {
+        "journal": "Phytotherapy Research",
+        "note": "차풀 추출물과 루테올린이 비만세포 반응과 생쥐 천식 모델의 기도 염증을 줄였다고 보고한 전임상 연구이며, 사람 혈액세포 실험도 포함했다.",
+        "title": "Anti-Allergic Potential of Chamaecrista nomame and Its Compound Luteolin for Novel Asthma Therapy",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1002/ptr.70363",
+        "year": "2026"
+      }
+    ],
+    "summary": "2026년에 나온 연구들은 모두 실험실 단계다. 추출물로 효소 억제를 재거나 컴퓨터로 결합을 예측한 연구, 세포 실험, 생쥐 천식 모델과 사람 혈액세포를 쓴 연구가 있고, 주요 성분으로 루테올린이 꼽혔다. 사람이 직접 먹고 효과를 본 임상연구는 없어 저자들도 동물·임상 연구가 더 필요하다고 했다."
+  },
+  "name": "차풀",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과, 차풀",
+        "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%ED%92%80"
+      },
+      {
+        "title": "Journal of Ethnic Foods (2026), Phytochemical characterization and bioactivity of Chamaecrista nomame",
+        "url": "https://link.springer.com/article/10.1186/s42779-026-00310-z"
+      }
+    ],
+    "text": "위키백과는 한방에서 7~8월에 어린 열매를 따서 그늘에 말려 신장염·이뇨·위를 튼튼하게 하는 데 썼고, 차 대신 마셨다고 적었다. 2026년 Journal of Ethnic Foods 논문은 땅 위 부분을 말리고 볶아 우려 마시는 것이 한국과 일본의 전통 차였으며, 일본에서는 '하마차(浜茶)'라고 부른다고 소개했다. 같은 논문은 국립생물자원관이 이 식물을 전통지식 대상종으로 지정했다고 적었다."
+  },
+  "updatedAt": 1792875515253
+}

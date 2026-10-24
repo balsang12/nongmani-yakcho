@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "잎을 조금 씹어 매운맛이 나면 여뀌입니다. 개여뀌는 맵지 않고, 붉은 자줏빛 꽃이 짧고 빽빽한 이삭으로 서는 반면 여뀌 꽃이삭은 길고 성기게 늘어집니다.",
+      "q": "여뀌와 개여뀌는 어떻게 구별하나요?"
+    },
+    {
+      "a": "습지, 냇가, 도랑가처럼 축축한 낮은 땅에서 자랍니다. 논밭 주변에서도 흔히 볼 수 있습니다.",
+      "q": "여뀌는 어디서 자라나요?"
+    },
+    {
+      "a": "6~9월에 핍니다. 가지 끝에 5~10cm 길이의 꽃이삭이 벼 이삭처럼 늘어집니다.",
+      "q": "여뀌 꽃은 언제 피나요?"
+    },
+    {
+      "a": "매운맛이 강해 향신료처럼 소량 씁니다. 일본에서는 어린 싹을 회에 곁들이고, 동남아에서는 잎을 국수 요리에 넣습니다.",
+      "q": "여뀌는 어떻게 먹나요?"
+    },
+    {
+      "a": "맨손으로 자주 만지면 피부에 물집이 생길 수 있다는 보고가 있어 장갑을 끼는 것이 좋습니다. 임신 중에는 먹지 않는 것이 안전합니다.",
+      "q": "다룰 때 주의할 점이 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "일본에서는 어린 싹을 회에 곁들이고, 동남아에서는 잎을 국수 요리(락사)에 넣는다. 잎 추출물은 절임이나 소스의 보존에 쓰인 적이 있다.",
+    "eng": "Water pepper",
+    "family": "마디풀과(Polygonaceae)",
+    "grade": "",
+    "habitat": "낮은 지대의 습지, 냇가, 도랑가, 길가 등 축축한 곳에서 자라며 논밭 주변에도 흔하다.",
+    "look": {
+      "flower": "6~9월 가지 끝에 5~10cm 길이의 성긴 꽃이삭이 벼 이삭처럼 늘어진다. 꽃은 밑이 초록빛이고 끝이 흰색이나 분홍색이며, 꽃덮이에 작은 점(오목한 점)이 있다.",
+      "fruit": "열매는 길이 2~3mm의 검은 수과로 납작한 거꿀달걀꼴이며 잔점이 있다.",
+      "leaf": "잎은 어긋나고 피침형~긴 타원형으로 길이 3~12cm, 너비 1~3cm이다. 가장자리는 밋밋하나 잔털이 있고 물결치듯 주름지기도 한다.",
+      "stem": "한해살이풀로 30~80cm까지 자라며, 털이 없이 매끈하고 밑에서부터 가지를 많이 친다. 마디에는 막질의 칼집 같은 턱잎집이 줄기를 감싸며 위 가장자리에 짧은 털이 있다."
+    },
+    "parts": "어린 싹과 잎(향신료), 땅 위 부분(약용).",
+    "prep": "날것을 많이 먹는 채소가 아니라 소량을 향신료처럼 쓴다. 땅 위 부분을 맨손으로 자주 만지면 피부에 물집이 생길 수 있다는 보고가 있어 장갑을 끼고 다루는 것이 좋다. 돼지·양 같은 가축에는 독성이 있다고 알려져 있다.",
+    "sci": "Persicaria hydropiper (L.) Delarbre",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 여뀌",
+        "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EB%80%8C"
+      },
+      {
+        "title": "eCAM(2014) - Ethnobotanical, Phytochemical, Pharmacological, and Toxicological Aspects of Persicaria hydropiper (L.) Delarbre",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009190/"
+      },
+      {
+        "title": "Minnesota Wildflowers - Persicaria hydropiper (Marsh Waterpepper)",
+        "url": "https://www.minnesotawildflowers.info/flower/marsh-waterpepper"
+      }
+    ],
+    "store": "",
+    "taste": "잎과 줄기를 씹으면 후추처럼 톡 쏘는 매운맛이 강하게 난다."
+  },
+  "lookSources": [
+    {
+      "title": "자연을 닮은 사람들 - 개여뀌(잡초도감59)",
+      "url": "https://www.jadam.kr/news/articleView.html?idxno=15651"
+    },
+    {
+      "title": "위키백과 - 여뀌",
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EB%80%8C"
+    },
+    {
+      "title": "Minnesota Wildflowers - Persicaria hydropiper (Marsh Waterpepper)",
+      "url": "https://www.minnesotawildflowers.info/flower/marsh-waterpepper"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "들에 아주 흔한 같은 여뀌속 풀(Persicaria longiseta)로 생김새가 비슷하지만 매운맛이 없다. 이름의 '개'도 매운맛이 없어 쓸모없다는 뜻에서 붙었다.",
+      "name": "개여뀌",
+      "points": [
+        "잎을 조금 씹어 보면 여뀌는 톡 쏘게 맵고, 개여뀌는 맵지 않다.",
+        "개여뀌는 붉은 자줏빛 꽃이 1~5cm의 짧고 빽빽한 이삭으로 곧게 서고, 여뀌는 초록빛에 끝이 희거나 분홍빛인 꽃이 5~10cm의 성긴 이삭으로 늘어진다.",
+        "개여뀌 턱잎집 위 가장자리에는 길이가 비슷한 긴 털이 줄지어 난다.",
+        "개여뀌 줄기는 흔히 붉은 자줏빛을 띠며 비스듬히 자라다 땅에 닿은 마디에서 뿌리를 내린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmaceutical Biology",
+        "note": "1980~2022년 문헌을 바탕으로 성분 324종과 항균·살충·항산화 등 실험 결과를 정리했다.",
+        "title": "The traditional herb Polygonum hydropiper from China: a comprehensive review on phytochemistry, pharmacological activities and applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1080/13880209.2023.2208639",
+        "year": "2023"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "추출물의 페놀 성분과 세포·소형 갑각류 독성 시험, 추출 후 남은 찌꺼기의 활용 가능성을 함께 살폈다.",
+        "title": "New Perspectives on the Old Uses of Traditional Medicinal and Edible Herbs: Extract and Spent Material of Persicaria hydropiper (L.) Delarbre",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/nu16193368",
+        "year": "2024"
+      },
+      {
+        "journal": "Phytomedicine",
+        "note": "생쥐 대장염 모델과 장 세포에서 에탄올 추출물의 영향을 살핀 실험이다.",
+        "title": "Polygonum hydropiper L. ethanol extract attenuates ferroptosis and ulcerative colitis by modulating glutathione metabolism through inhibition of KEAP1-Nrf2 interaction",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.phymed.2025.157096",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Alzheimer's Disease",
+        "note": "신경세포주에서 추출물이 산화 스트레스와 아밀로이드 독성을 줄이는지 본 세포 실험으로, 저자들도 동물 연구가 필요하다고 밝혔다.",
+        "title": "Persicaria hydropiper attenuates oxidative stress and reactive oxygen species, and inhibits amyloid-beta/tau in SH-SY5Y cell lines via multiple pathways of Alzheimer's disease",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1177/13872877261418555",
+        "year": "2026"
+      }
+    ],
+    "summary": "2023년 종설은 여뀌에서 300여 가지 성분이 분리되었고 항균·항산화·항염 등 활성이 보고되었다고 정리했지만, 근거는 대부분 실험실 단계다. 최근 연구도 생쥐 대장염 모델이나 신경세포 실험이 중심이어서 사람에게 같은 효과가 있는지는 확인되지 않았다."
+  },
+  "name": "여뀌",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "eCAM(2014) - Ethnobotanical, Phytochemical, Pharmacological, and Toxicological Aspects of Persicaria hydropiper (L.) Delarbre",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4009190/"
+      },
+      {
+        "title": "위키백과 - 여뀌",
+        "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EB%80%8C"
+      }
+    ],
+    "text": "아시아와 유럽 여러 지역에서 땅 위 부분이나 잎즙을 지혈, 이뇨, 월경 관련 증상 등에 민간에서 써 왔다고 소개된다. 일부 지역에서는 뿌리를 임신 중단에 썼다는 기록도 있어 임신 중에는 쓰지 않는 것이 안전하다. 인도 일부 지역에서는 물고기를 잡는 데 쓰기도 했다."
+  },
+  "updatedAt": 1792660004727
+}

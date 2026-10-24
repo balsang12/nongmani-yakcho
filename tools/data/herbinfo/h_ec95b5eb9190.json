@@ -1,0 +1,166 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "과일(果部)",
+    "easy": [
+      "동의보감 탕액편 과부에 '櫻桃(이ᄉᆞ랏)'라는 이름으로 실려 있다.",
+      "한국민족문화대백과사전은 한방에서 앵두를 독이 없고 비기(脾氣)를 돕고 얼굴빛을 곱게 한다고 보았다고 정리했다."
+    ],
+    "han": "櫻桃",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "이ᄉᆞ랏",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메 - 동의보감 탕액편 한글 물명(디지털한글박물관 자료 기반)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=4"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 앵두",
+        "url": "https://encykorea.aks.ac.kr/Article/E0035241"
+      }
+    ],
+    "verified": false,
+    "warn": "성질이 뜨거운 편(火性)이라 많이 먹는 것은 좋지 않다고 보았다(한국민족문화대백과사전)."
+  },
+  "faq": [
+    {
+      "a": "6월에 붉게 익어 나옵니다. 꽃은 4월에 흰색이나 연분홍색으로 핍니다.",
+      "q": "앵두는 언제 나오나요?"
+    },
+    {
+      "a": "앵두는 선명한 붉은색으로 익고 가지에 붙듯이 달리지만, 버찌는 검은색으로 익고 긴 자루에 달립니다. 앵두나무는 잎 뒷면에 솜털이 많습니다.",
+      "q": "앵두와 버찌는 어떻게 구별하나요?"
+    },
+    {
+      "a": "씨는 먹지 말고 뱉는 것이 좋습니다. 앵두 씨 속 알맹이에서 아미그달린 등 시안배당체가 확인됐다는 연구가 있습니다.",
+      "q": "앵두 씨도 먹어도 되나요?"
+    },
+    {
+      "a": "생으로 먹거나 화채, 과편(앵두편)으로 만들어 먹습니다.",
+      "q": "앵두는 어떻게 먹나요?"
+    },
+    {
+      "a": "아닙니다. 산앵도나무는 진달래과의 다른 식물로, 열매가 9월에 익고 끝에 꽃받침이 남아 있습니다.",
+      "q": "산앵두는 앵두와 같은 건가요?"
+    }
+  ],
+  "id": {
+    "eat": "생으로 먹거나 화채, 과편(앵두편)으로 만들어 먹는다.",
+    "eng": "Nanking cherry",
+    "family": "장미과",
+    "grade": "",
+    "habitat": "한국과 중국이 원산인 키 2~3m의 떨기나무로, 주로 집 울타리 밑이나 정원에 심어 기른다. 추위에 매우 강하고 배수가 잘되는 기름진 모래참흙에서 잘 자란다.",
+    "look": {
+      "flower": "4월에 흰색 또는 연분홍색 꽃이 피며, 꽃자루가 아주 짧거나 거의 없어 가지에 붙은 듯 달린다.",
+      "fruit": "6월에 선명한 붉은색으로 익는다.",
+      "leaf": "거꿀달걀꼴 또는 타원형 잎으로 가장자리에 톱니가 있고, 잎 뒷면과 잎자루에 솜털이 빽빽하다.",
+      "stem": "높이 2~3m의 떨기나무로, 나무 밑에서 어린 줄기가 많이 올라온다."
+    },
+    "parts": "열매",
+    "prep": "씨는 먹지 않고 뱉는다. 앵두 등 중국 벚나무류 2종의 씨 속 알맹이에서 아미그달린 등 시안배당체가 확인됐다는 연구가 있다.",
+    "sci": "Prunus tomentosa Thunb.",
+    "season": {
+      "collect": [
+        6
+      ],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 앵두나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0035242"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 앵두",
+        "url": "https://encykorea.aks.ac.kr/Article/E0035241"
+      },
+      {
+        "title": "한국의 수목(Flora of Korea) - 벚나무속 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+      },
+      {
+        "title": "Combined metabolomics and bioactivity assays kernel by-products of two native Chinese cherry species (Food Chemistry: X, 2024)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11296007"
+      }
+    ],
+    "store": "",
+    "taste": "달면서 새콤하다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora of Korea) - 벚나무속 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5552"
+    },
+    {
+      "title": "한국의 수목(Flora of Korea) - 벚나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5565"
+    },
+    {
+      "title": "한국의 수목(Flora of Korea) - 산앵도나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5231"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "벚나무(Prunus serrulata 등)의 열매 '버찌'는 6월 말부터 익어 앵두와 철이 겹치지만, 검게 익고 자루가 길다.",
+      "name": "벚나무",
+      "points": [
+        "버찌는 붉은색에서 검은색으로 익고, 앵두는 선명한 붉은색으로 익는다.",
+        "벚나무는 꽃자루가 길어 열매에 긴 자루가 달리고, 앵두나무는 꽃자루가 거의 없어 가지에 붙어 달린다.",
+        "벚나무 잎은 양면에 털이 없지만, 앵두나무 잎은 뒷면에 솜털이 빽빽하다.",
+        "벚나무 잎자루는 2~3cm로 길고 꿀샘이 2~3개 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 벚나무속의 떨기나무(Prunus japonica var. nakaii)로 붉은 열매가 달려 혼동되며, 옛 문헌에서 앵두를 '이ᄉᆞ랏'이라 부르기도 했다.",
+      "name": "이스라지",
+      "points": [
+        "이스라지는 꽃자루가 10~20mm로 길고, 앵두나무는 꽃자루가 거의 없다.",
+        "이스라지 잎은 톱니가 깊게 갈라지고 잎자루가 3~5mm다.",
+        "앵두나무는 씨방·잎자루·잎 뒷면에 털이 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "이름만 비슷할 뿐 진달래과 산앵도나무속(Vaccinium hirtum var. koreanum)의 다른 식물이다.",
+      "name": "산앵도나무",
+      "points": [
+        "산앵도나무 열매는 9월에 붉게 익고, 앵두는 6월에 익는다.",
+        "산앵도나무 열매 끝에는 꽃받침이 남아 절구 모양으로 보인다.",
+        "산앵도나무 꽃은 5~6월에 피는 붉은빛 도는 녹색 종 모양이고, 앵두나무 꽃은 4월에 피는 흰색·연분홍색이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Technology and Health Care",
+        "note": "쥐 실험에서 앵두나무 총 플라보노이드가 요산 수치와 발목 붓기를 낮췄다고 보고했다(사용 부위는 확인 못 함).",
+        "title": "Antigout effects and mechanisms of total flavonoids from prunus tomentosa",
+        "type": "동물 실험",
+        "url": "https://content.iospress.com/articles/technology-and-health-care/thc248019",
+        "year": "2024"
+      },
+      {
+        "journal": "Food Chemistry: X",
+        "note": "앵두와 중국 체리 씨 속 알맹이의 성분을 분석해 아미그달린 등 시안배당체를 확인하고, 추출물의 항산화·세포 실험 결과를 보고했다.",
+        "title": "Combined metabolomics and bioactivity assays kernel by-products of two native Chinese cherry species: The sources of bioactive nutraceutical compounds",
+        "type": "세포 실험",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11296007",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 앵두나무 추출물이나 씨를 대상으로 한 동물·세포 실험 수준이며, 사람 대상 연구는 찾지 못했다. 씨 속 알맹이에 시안배당체가 들어 있다는 분석 결과가 있다."
+  },
+  "name": "앵두",
+  "st": "ok",
+  "updatedAt": 1792832316687
+}

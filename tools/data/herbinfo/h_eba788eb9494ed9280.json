@@ -1,0 +1,167 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "萹蓄",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "온ᄆᆞᄃᆞᆸ",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (卷之三 草部, 萹蓄 온ᄆᆞᄃᆞᆸ)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "네. 마디풀 전초를 말린 약재를 편축(萹蓄)이라 부릅니다.",
+      "q": "마디풀과 편축은 같은 건가요?"
+    },
+    {
+      "a": "판매 전 식품의약품안전처 식품원료목록에서 사용 가능 여부와 부위를 확인해야 합니다. 이번 조사에서는 목록 내용을 직접 확인하지 못했습니다.",
+      "q": "마디풀을 식품으로 팔 수 있나요?"
+    },
+    {
+      "a": "자라는 모양과 꽃을 보면 됩니다. 마디풀은 땅에 퍼지며 잎겨드랑이에 작은 꽃이 몇 개씩 붙고, 여뀌는 곧게 서서 긴 꽃이삭이 아래로 처지며 잎을 씹으면 맵습니다.",
+      "q": "마디풀과 여뀌는 어떻게 구별하나요?"
+    },
+    {
+      "a": "대개 6~9월에 핍니다. 자료에 따라 6~7월 또는 7~9월로 적혀 있으며, 잎겨드랑이에 가장자리가 희거나 분홍빛인 작은 녹색 꽃이 달립니다.",
+      "q": "마디풀 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린잎을 나물로 먹는다. 전초는 말려 약재(편축)로 쓴다.",
+    "eng": "Common knotgrass, prostrate knotweed",
+    "family": "마디풀과",
+    "grade": "",
+    "habitat": "길가, 밭둑, 논둑처럼 사람 발길이 잦고 흙이 드러난 곳에서 흔히 자라는 한해살이풀이며, 자라는 힘이 매우 왕성하다.",
+    "look": {
+      "flower": "잎겨드랑이마다 아주 작은 녹색 꽃이 1~6개씩 모여 달리고, 꽃덮이조각 5장의 가장자리가 흰색이나 분홍빛을 띤다.",
+      "fruit": "흑갈색의 세모진 수과로 길이 1.5~3.5mm이며, 익어도 꽃덮이에 싸여 있고 광택이 거의 없다.",
+      "leaf": "길이 1.5~4cm 정도의 긴 타원형 잎이 어긋나며 털이 없다. 잎 위쪽 마디에 얇은 막질의 턱잎집이 줄기를 감싸고, 끝이 불규칙하게 잘게 찢어진다.",
+      "stem": "높이 10~40cm로 털이 없고, 바닥을 따라 비스듬히 퍼지거나 위로 갈라져 뻗는다. 세로줄이 많고 마디가 도드라져 이름이 여기서 왔다."
+    },
+    "parts": "어린잎(나물). 말린 전초는 한약재 '편축(萹蓄)'이라 부른다. 식품원료 사용 가능 여부와 부위는 판매 전 식품원료목록 확인 필요.",
+    "prep": "판매 전 식품원료목록 확인 필요. 길가·밭둑에 흔한 풀이라 채취할 때는 농약이나 매연에 노출되지 않은 곳에서 거두고 흙을 잘 씻어 낸다.",
+    "sci": "Polygonum aviculare L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 마디풀",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017321"
+      },
+      {
+        "title": "위키백과, 마디풀",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%94%94%ED%92%80"
+      },
+      {
+        "title": "Wikipedia, Polygonum aviculare",
+        "url": "https://en.wikipedia.org/wiki/Polygonum_aviculare"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "최지은 외, 한국 미기록 귀화식물 미국갯마디풀과 끈적털갯개미자리, 한국식물분류학회지 46(3), 2016 (마디풀속 검색표 포함)",
+      "url": "https://koreascience.or.kr/article/JAKO201630765905108.pdf"
+    },
+    {
+      "title": "위키백과, 여뀌",
+      "url": "https://ko.wikipedia.org/wiki/%EC%97%AC%EB%80%8C"
+    },
+    {
+      "title": "위키백과, 마디풀",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%94%94%ED%92%80"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "여뀌(Persicaria hydropiper)도 마디풀과로 마디와 턱잎집이 있어 어린 포기가 닮았지만, 키가 크고 꽃이 긴 이삭으로 늘어지며 잎을 씹으면 맵다. 예전에는 찧어서 물고기를 잡는 데 썼다.",
+      "name": "여뀌",
+      "points": [
+        "여뀌는 높이 30~80cm로 곧게 서고, 마디풀은 10~40cm로 땅에 퍼져 자란다.",
+        "여뀌 잎은 길이 3~12cm의 피침형으로, 1.5~4cm인 마디풀 잎보다 훨씬 길다.",
+        "여뀌 꽃은 5~10cm 길이의 이삭이 고개 숙인 벼처럼 처지고, 마디풀 꽃은 잎겨드랑이에 몇 개씩 붙어 핀다.",
+        "잎을 조금 씹어 맵싸하면 여뀌다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "큰옥매듭풀(Polygonum fusco-ochreatum)은 같은 마디풀속으로, 줄기가 곧게 서서 50~60cm까지 크는 점이 땅에 퍼지는 마디풀과 다르다.",
+      "name": "큰옥매듭풀",
+      "points": [
+        "큰옥매듭풀은 키 50~60cm로 줄기가 곧게 선다. 마디풀은 10~40cm로 대개 눕거나 비스듬히 퍼진다.",
+        "큰옥매듭풀 열매(수과)에는 작은 돌기가 있고, 마디풀 열매는 세모진 달걀꼴로 끝이 무디고 광택이 없다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "애기마디풀(Polygonum plebeium)은 마디풀처럼 땅에 퍼지는 작은 풀이라 헷갈리지만, 열매가 매끈하고 윤이 나는 점으로 가른다.",
+      "name": "애기마디풀",
+      "points": [
+        "애기마디풀 열매는 매끄럽고 반짝인다. 마디풀 열매는 잔점이 빽빽하고 광택이 거의 없다.",
+        "꽃자루의 마디가 애기마디풀은 가운데쯤에, 마디풀은 위쪽 끝에 있다(돋보기로 확인)."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "마디풀 에탄올 추출물이 생쥐 대식세포에서 HO-1을 늘리고 iNOS를 억제하는 방식으로 염증 반응을 낮췄다고 보고한 세포 실험이다.",
+        "title": "Hydroethanolic Extract of Polygonum aviculare L. Mediates the Anti-Inflammatory Activity in RAW 264.7 Murine Macrophages Through Induction of Heme Oxygenase-1 and Inhibition of Inducible Nitric Oxide Synthase",
+        "type": "세포 실험",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11644326/",
+        "year": "2024"
+      },
+      {
+        "journal": "Inorganic Chemistry Communications",
+        "note": "야생 마디풀의 물·메탄올 추출물 성분과 항산화 활성을 비교하고 물 추출물에서만 세포 증식 억제 활성을 관찰했으며, 컴퓨터 도킹 분석을 덧붙였다.",
+        "title": "Polygonum aviculare L.'s biological Activities: Investigating its Anti-Proliferative, Antioxidant, chemical properties supported by molecular docking study",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.inoche.2024.112228",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023~2026년에 확인한 마디풀 연구는 모두 세포 실험 단계다. 추출물이 대식세포에서 염증 관련 물질을 줄였다는 보고와 추출물의 항산화·세포 증식 억제 활성을 본 연구가 있으며, 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "마디풀",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전, 마디풀",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017321"
+      },
+      {
+        "title": "위키백과, 마디풀",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%88%EB%94%94%ED%92%80"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (卷之三 草部, 萹蓄 온ᄆᆞᄃᆞᆸ)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 마디풀 전체를 말린 것을 '편축'이라 하며 약재로 널리 써 왔다고 소개한다. 오줌을 잘 나오게 하는 데 주로 썼고, 황달·이질 등에도 썼다고 적었다. 동의보감 탕액편 풀(草部)에도 萹蓄(온ᄆᆞᄃᆞᆸ)이라는 이름이 올라 있다."
+  },
+  "updatedAt": 1792875515254
+}

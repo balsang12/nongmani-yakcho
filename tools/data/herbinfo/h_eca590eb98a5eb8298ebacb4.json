@@ -1,0 +1,154 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 여정실은 광나무 무리의 열매로 만든 한약재이고, 쥐똥나무 열매(수랍과)는 다른 나무의 열매입니다. 쥐똥나무 열매가 여정실 대용품으로 잘못 쓰일 수 있다는 연구가 있으니 이름과 원산 나무를 꼭 확인하세요.",
+      "q": "쥐똥나무 열매와 여정실은 같은 건가요?"
+    },
+    {
+      "a": "10월에 검게 익습니다. 꽃은 5~6월에 피고, 익은 열매는 겨울까지 가지에 달려 있기도 합니다.",
+      "q": "쥐똥나무 열매는 언제 익나요?"
+    },
+    {
+      "a": "권하지 않습니다. 쥐똥나무 열매는 식품 원료로 쓸 수 있는지 확인이 필요한 품목이라, 확인되기 전에는 날로 먹거나 임의로 달여 먹지 않는 것이 안전합니다.",
+      "q": "쥐똥나무 열매를 그냥 먹어도 되나요?"
+    },
+    {
+      "a": "겨울 잎을 보면 쉽게 구별됩니다. 광나무는 두꺼운 잎이 사철 붙어 있는 늘푸른나무이고, 쥐똥나무는 얇은 잎이 가을에 지며 잎자루가 1~2mm로 아주 짧습니다.",
+      "q": "광나무와 쥐똥나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닐 수 있으니 따지 마세요. 납작하고 골이 진 검붉은 열매가 긴 송이로 늘어지고 붉은 즙이 나오면 독초인 미국자리공일 수 있습니다. 쥐똥나무는 잎이 마주나는 떨기나무이고 열매는 달걀 모양에 가까운 둥근 꼴입니다.",
+      "q": "검은 열매가 송이로 늘어져 달려 있는데 쥐똥나무인가요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹는 방법은 공공기관 자료로 확인되지 않았다. 한방에서 수랍과라는 약재로 다뤄 왔다.",
+    "eng": "Border privet",
+    "family": "물푸레나무과",
+    "grade": "",
+    "habitat": "전국의 산골짜기와 산기슭, 약간 습하고 기름진 땅에 자라는 낙엽 떨기나무다. 공해에 강하고 맹아력이 좋아 생울타리로도 많이 심는다.",
+    "look": {
+      "flower": "5~6월 가지 끝에 길이 2~3cm의 꽃송이로 흰 꽃이 모여 핀다. 꽃부리는 대롱 모양이고 끝이 4갈래로 갈라지며, 대롱 부분이 갈래 조각보다 2배 이상 길다.",
+      "fruit": "달걀 모양에 가까운 둥근 열매로 길이 5~7mm이며 10월에 검게 익는다. 열매 모양이 쥐똥을 닮아 이름이 붙었다.",
+      "leaf": "잎은 마주나고 긴 타원형으로 끝이 둥글고 무디며, 길이 2~7cm에 가장자리가 밋밋하다. 잎이 얇고 잎자루는 1~2mm로 아주 짧으며 가을에 잎이 진다.",
+      "smell": "꽃 향기가 진해 라일락과 비슷한 향이 난다고 소개된다.",
+      "stem": "높이 3m 안팎의 떨기나무로 가지가 많다. 어린 가지에는 털이 있고 2년생 가지에서는 털이 없어진다."
+    },
+    "parts": "열매(한방 이름 수랍과, 水蠟果). 식품 원료로 쓸 수 있는지 확인이 필요하다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이므로, 확인 전에는 열매를 날로 먹거나 임의로 달여 먹지 않는다. 광나무 열매(한약재 여정실)와 섞이지 않게 구분해 둔다.",
+    "sci": "Ligustrum obtusifolium Siebold & Zucc.",
+    "season": {
+      "collect": [
+        10
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 쥐똥나무 Ligustrum obtusifolium",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5459"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 쥐똥나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0053987"
+      },
+      {
+        "title": "UConn Plant Database - Ligustrum obtusifolium (Border Privet)",
+        "url": "https://plantdatabase.uconn.edu/detail.php?pid=254"
+      },
+      {
+        "title": "매일신문 - 쥐똥나무 꽃·열매 이름 이야기 (2016)",
+        "url": "https://www.imaeil.com/page/view/2016060818170665511"
+      }
+    ],
+    "store": "",
+    "taste": "한방에서는 열매의 성질이 평(平)하고 맛이 달다고 본다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 쥐똥나무속(Ligustrum) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5454"
+    },
+    {
+      "title": "Flora of Korea - 쥐똥나무 Ligustrum obtusifolium",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5459"
+    },
+    {
+      "title": "Comparison of antioxidant effects and phytochemical contents between Jeju native Ligustrum species and Chinese Ligustri Fructus (J. Evid. Based Herb. Med.)",
+      "url": "https://accesson.kr/jebhm/assets/pdf/58618/journal-7-1-1.pdf"
+    },
+    {
+      "title": "Children's Health Queensland - Poisonous plant: pokeweed (Phytolacca americana)",
+      "url": "https://childrens.health.qld.gov.au/poisonous-plant-pokeweed-phytolacca-americana/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "여정실은 광나무 무리(Ligustrum japonicum, L. lucidum)의 열매로 만드는 한약재다. 쥐똥나무 열매가 여정실 대용품(위품)으로 잘못 쓰이는 경우가 있다고 보고되었다.",
+      "name": "여정실",
+      "points": [
+        "광나무 무리는 늘푸른나무로 겨울에도 두꺼운 잎이 붙어 있고, 쥐똥나무는 잎이 얇고 가을에 잎이 진다.",
+        "광나무 잎자루는 5~12mm(제주광나무는 10~20mm)로 길고, 쥐똥나무 잎자루는 1~2mm로 매우 짧다.",
+        "광나무 꽃은 꽃부리 대롱과 갈래 조각 길이가 비슷하고, 쥐똥나무는 대롱이 갈래 조각보다 2배 이상 길다.",
+        "제주 자생 종 열매 비교 연구에서 쥐똥나무 열매의 올레아놀산 함량은 여정실 기준품보다 훨씬 낮았다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "왕쥐똥나무(Ligustrum ovalifolium)는 반상록성인 같은 속 다른 나무로 생울타리에 흔히 심는다. 식품 원료로 확인된 자료가 없어 쥐똥나무 열매와 섞이지 않게 구별한다.",
+      "name": "왕쥐똥나무",
+      "points": [
+        "왕쥐똥나무는 반상록성이라 잎이 두껍고 겨울에도 상당수 남아 있으며, 쥐똥나무 잎은 얇고 가을에 진다.",
+        "왕쥐똥나무 잎자루는 3~4mm로 쥐똥나무(1~2mm)보다 조금 길다.",
+        "왕쥐똥나무 잎은 그물 모양 잎맥이 뚜렷하게 보인다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "미국자리공(Phytolacca americana)은 검붉은 열매가 송이로 달리는 독초로, 모든 부위에 독이 있고 특히 덜 익은 열매와 뿌리의 독성이 강하다. 먹으면 심한 구토·설사·복통이 나타날 수 있다.",
+      "name": "미국자리공",
+      "points": [
+        "미국자리공 열매는 납작한 둥근 모양에 세로로 10개 정도의 골이 지고, 터뜨리면 붉은 즙이 나온다. 쥐똥나무 열매는 달걀 모양에 가까운 둥근 모양이다.",
+        "미국자리공 열매는 긴 꽃대에 아래로 늘어진 송이로 줄줄이 달리고, 쥐똥나무 열매는 가지 끝 작은 송이에 모여 달린다.",
+        "쥐똥나무는 잎이 마주나는 떨기나무이고, 미국자리공은 잎이 부드러운 큰 타원형(4~14cm)이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Evidence-Based Herbal Medicine",
+        "note": "DNA로 종을 확인한 제주산 쥐똥나무·광나무·제주광나무 열매를 여정실 기준품과 비교한 실험실 분석으로, 쥐똥나무 열매는 지표성분 올레아놀산이 크게 낮았고 여정실 위품으로 쓰일 수 있음을 지적했다.",
+        "title": "Comparison of antioxidant effects and phytochemical contents between Jeju native Ligustrum species and Chinese Ligustri Fructus",
+        "type": "기타",
+        "url": "https://accesson.kr/jebhm/assets/pdf/58618/journal-7-1-1.pdf",
+        "year": "2026"
+      }
+    ],
+    "summary": "최근 3년 안에 쥐똥나무만을 깊게 다룬 연구는 드물게 찾아졌다. 확인된 연구는 제주 자생 쥐똥나무속 열매를 한약재 여정실과 비교한 시험관(실험실) 분석으로, 항산화 활성과 성분 함량을 비교했을 뿐 사람 대상 근거는 아니다."
+  },
+  "name": "쥐똥나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 쥐똥나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0053987"
+      },
+      {
+        "title": "매일신문 - 쥐똥나무 꽃·열매 이름 이야기 (2016)",
+        "url": "https://www.imaeil.com/page/view/2016060818170665511"
+      }
+    ],
+    "text": "쥐똥나무 열매는 수랍과(水蠟果)라는 이름으로 한방 약재로 써 왔으며, 성질은 평하고 맛은 달며 몸을 보하고 피를 멎게 하며 땀을 거두는 쓰임이 있다고 전해진다. 몸이 허약할 때, 신허(腎虛), 저절로 땀이 날 때(자한), 변에 피가 섞일 때 썼다고 정리되어 있다. 일부 신문 기사에서는 쥐똥나무 열매를 남정실(男貞實), 광나무 열매를 여정실(女貞實)로 구분해 부르기도 한다."
+  },
+  "updatedAt": 1792789248963
+}

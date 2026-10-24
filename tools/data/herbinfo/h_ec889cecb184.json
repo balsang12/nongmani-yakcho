@@ -1,0 +1,202 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감",
+    "bu": "",
+    "easy": [
+      "『본초강목』과 『동의보감』에 독을 풀고 열을 내리는 데 쓰는 약재로 실려 있다고 소개된다."
+    ],
+    "han": "蓴",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "전북일보 - 순채 관련 기사(고서 기록 소개)",
+        "url": "https://jjan.kr/article/20190613678241"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 순채는 환경부 지정 멸종위기 야생생물 Ⅱ급이라 자생지에서 채취하면 안 되고, 재배한 순채를 사야 합니다.",
+      "q": "산이나 연못에서 순채를 직접 따도 되나요?"
+    },
+    {
+      "a": "어린 싹을 따는 시기는 대략 5월 중순부터 8월까지입니다. 꽃은 5월 말부터 여름 동안 핍니다.",
+      "q": "순채 제철은 언제인가요?"
+    },
+    {
+      "a": "아닙니다. 어린잎과 물속줄기를 감싼 투명한 우무질은 순채 본래의 특징입니다.",
+      "q": "순채가 미끈미끈한데 상한 건가요?"
+    },
+    {
+      "a": "국내 재배는 소규모이고 일본산·중국산이 수입되어 팔리기도 하므로, 원산지 표시를 확인하는 것이 좋습니다.",
+      "q": "시중 순채는 국산인가요?"
+    },
+    {
+      "a": "깨끗이 씻어 살짝 데친 뒤 된장무침, 쌈, 국, 물김치 등으로 먹습니다.",
+      "q": "순채는 어떻게 먹나요?"
+    }
+  ],
+  "id": {
+    "eat": "데쳐서 된장에 무치거나 쌈으로 먹고, 국·물김치·죽·민물매운탕 등에 넣는다. 일본에서는 국이나 전골에 넣거나 간장·고추냉이 양념에 찍어 먹는다.",
+    "eng": "Watershield",
+    "family": "어항마름과(Cabombaceae)",
+    "grade": "",
+    "habitat": "물 흐름이 거의 없는 오래된 연못·저수지·석호 습지에서 자라는 여러해살이 물풀이다. 국내에서는 제주도부터 강원도 고성·속초까지 드물게 자라며 자생지는 10여 곳 정도로 알려져 있다. 환경부 지정 멸종위기 야생생물 Ⅱ급(1993년부터 법정보호종)이므로 자생지에서 캐거나 따면 안 되고, 재배품을 이용해야 한다.",
+    "look": {
+      "flower": "잎겨드랑이에서 나온 긴 꽃자루 끝에 지름 2cm 안팎의 짙은 홍자색 꽃이 한 송이씩 핀다. 꽃잎 3장과 꽃받침 3장이 모두 꽃잎처럼 보이는데, 바깥쪽 꽃받침이 조금 짧다.",
+      "leaf": "다 자란 잎은 길이 6~12cm 정도의 타원형으로 물 위에 뜨고 가장자리가 밋밋하다. 잎자루가 잎몸 가운데쯤에 방패처럼 붙으며 잎 뒷면은 붉은 자주빛을 띤다.",
+      "stem": "물속줄기는 길게는 1m 가까이 뻗고, 물에 잠긴 줄기와 꽃줄기, 어린잎이 끈적한 투명 우무질로 덮여 있다."
+    },
+    "parts": "물속에서 돌돌 말린 채 올라오는 어린잎(새싹)과 어린 줄기. 투명한 우무질에 싸여 있는 것이 특징이다.",
+    "prep": "따낸 어린 싹은 깨끗이 씻은 뒤 살짝 데쳐 쓴다.",
+    "sci": "Brasenia schreberi",
+    "season": {
+      "collect": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "flower": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "사이언스타임즈 - 연못과 함께 사라지는 수생식물, 순채",
+        "url": "https://www.sciencetimes.co.kr/news/%ec%97%b0%eb%aa%bb%ea%b3%bc-%ed%95%a8%ea%bb%98-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%88%98%ec%83%9d%ec%8b%9d%eb%ac%bc-%ec%88%9c%ec%b1%84/"
+      },
+      {
+        "title": "브라보마이라이프 - 순채",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/10976"
+      },
+      {
+        "title": "아시아경제 - 동해안 석호습지서 만나는 순채와 철새",
+        "url": "https://view.asiae.co.kr/article/2026053107574122340"
+      },
+      {
+        "title": "일본 국토교통성 관광 다국어 해설 - 세 가지 순채 따기",
+        "url": "https://www.mlit.go.jp/tagengo-db/ko/R1-01338.html"
+      },
+      {
+        "title": "USDA Forest Service - Watershield (Brasenia schreberi)",
+        "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/brasenia_schreberi.shtml"
+      }
+    ],
+    "store": "",
+    "taste": "우무질 때문에 미끈한 식감이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "한국교육신문 - 시흥 관곡지 연꽃테마파크, 수생식물 다 모였다",
+      "url": "https://www.hangyo.com/news/article.html?no=96581"
+    },
+    {
+      "title": "사이언스타임즈 - 연못과 함께 사라지는 수생식물, 순채",
+      "url": "https://www.sciencetimes.co.kr/news/%ec%97%b0%eb%aa%bb%ea%b3%bc-%ed%95%a8%ea%bb%98-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%88%98%ec%83%9d%ec%8b%9d%eb%ac%bc-%ec%88%9c%ec%b1%84/"
+    },
+    {
+      "title": "브라보마이라이프 - 순채",
+      "url": "https://bravo.etoday.co.kr/view/atc_view/10976"
+    },
+    {
+      "title": "USDA Forest Service - Watershield (Brasenia schreberi)",
+      "url": "https://www.fs.usda.gov/wildflowers/plant-of-the-week/brasenia_schreberi.shtml"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 연못에 흔히 심는 물풀(Nymphaea속)로 잎이 물 위에 뜬다는 점이 비슷하다. 잎 모양과 우무질 유무로 구별한다.",
+      "name": "수련",
+      "points": [
+        "수련 잎은 한쪽이 입을 벌린 듯 깊게 트여 있고, 순채 잎은 트임 없이 매끈한 타원형이다.",
+        "순채는 잎자루가 잎 가운데쯤에 방패처럼 붙는다.",
+        "순채의 어린잎·물속줄기는 투명한 우무질로 덮여 있지만 수련에는 이런 우무질 설명이 없다.",
+        "수련 꽃은 한낮에 피었다가 저녁에 오므라들고, 순채 꽃은 지름 2cm 안팎의 작은 홍자색 꽃이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "잎이 물에 뜨고 꽃 크기도 2cm 안팎으로 비슷한 물풀(Nymphoides속)이다.",
+      "name": "어리연꽃",
+      "points": [
+        "어리연꽃 잎은 둥근 심장 모양으로 한쪽이 깊게 갈라져 있고, 순채 잎은 갈라지지 않은 타원형이다.",
+        "어리연꽃 꽃부리는 다섯 갈래이고 가장자리에 가는 털이 빽빽하다.",
+        "순채 꽃은 꽃잎 3장·꽃받침 3장이 홍자색으로 여섯 장처럼 보인다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "물 위에 잎을 띄우는 수련과 식물(Euryale ferox)로, 가시연꽃 역시 멸종위기 야생생물 Ⅱ급이다.",
+      "name": "가시연",
+      "points": [
+        "가시연꽃은 잎·줄기·꽃받침이 모두 가시로 덮여 있고, 순채에는 가시가 없다.",
+        "순채는 가시 대신 투명한 우무질에 싸여 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "중국 습지 17곳의 야생 순채를 조사해, 깨끗한 물에서 잘 자라고 토양 양분이 많으면 광합성이 떨어진다는 경향을 보고했다.",
+        "title": "Functional Trait Responses of Brasenia schreberi to Water and Soil Conditions Reveal Its Endangered Status",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14132072",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "현장 조사에서 순채 광합성이 용존산소와 관련이 있고 저토 질소가 많을수록 낮아지는 경향을 보였다.",
+        "title": "Growth of Brasenia schreberi requries good water quality and appropriate sediment nitrogen content",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fpls.2025.1535395",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "순채 다당류의 겔 성질을 분석하고, 시험관에서 탄수화물 분해효소를 어느 정도 억제함을 확인한 기초 연구다.",
+        "title": "Structural Characterization, Rheology, Texture, and Potential Hypoglycemic Effect of Polysaccharides from Brasenia schreberi",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods14101836",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "양분이 많은 환경에서 순채의 우무질이 줄어드는 원인을 단백질 분석으로 살펴본 연구다.",
+        "title": "Proteomics Analysis Reveals the Underlying Factors of Mucilage Disappearance in Brasenia schreberi and Its Influence on Nutrient Accumulation",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods13040518",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 순채의 생태(수질·토양 조건과 생육의 관계, 멸종위기 원인)와 우무질 다당류의 성질을 다룬다. 다당류의 탄수화물 분해효소 억제 효과는 시험관 실험 단계이며, 사람 대상 연구는 확인되지 않았다."
+  },
+  "name": "순채",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "사이언스타임즈 - 연못과 함께 사라지는 수생식물, 순채",
+        "url": "https://www.sciencetimes.co.kr/news/%ec%97%b0%eb%aa%bb%ea%b3%bc-%ed%95%a8%ea%bb%98-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%88%98%ec%83%9d%ec%8b%9d%eb%ac%bc-%ec%88%9c%ec%b1%84/"
+      },
+      {
+        "title": "전북일보 - 순채 관련 기사(고서 기록 소개)",
+        "url": "https://jjan.kr/article/20190613678241"
+      }
+    ],
+    "text": "순채는 예로부터 나물과 약재로 함께 쓰였으며, 위를 튼튼히 하고 소변을 잘 나오게 하며 지혈·해독·해열 등에 써 왔다고 소개된다. 수채(水菜)·결분초(缺盆草) 같은 옛 이름도 약재 이름에서 왔다고 한다. 『음식디미방』 등 조리서에도 차·무침·국으로 먹는 법이 실려 있다고 전해진다."
+  },
+  "updatedAt": 1792660004727
+}

@@ -1,0 +1,220 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "다리에 힘이 없고 저리며 아픈 증상과 팔다리를 잘 못 쓰는 데 쓰고, 고름을 빼고 새살이 돋게 한다고 적었다.",
+      "묵은 피(宿血)를 깨뜨리고 새 피를 보태며, 부인의 고르지 않은 월경과 붕루·대하에 쓴다고 했다.",
+      "줄기와 잎은 박하 같고 털이 있으며, 음력 3월에 붉은 자줏빛 꽃이 피고, 뿌리는 붉고 손가락만큼 굵으며 한 포기에 여러 개 달린다고 했다.",
+      "음력 9~10월에 뿌리를 캐 볕에 말리며, 『의학입문』을 인용해 술에 씻어 말려 쓴다고 덧붙였다."
+    ],
+    "han": "丹參",
+    "has": true,
+    "ki": "性微寒一云平, 味苦, 無毒",
+    "kiKo": "성질은 약간 차고(평하다고도 한다) 맛은 쓰며 독이 없다",
+    "old": "단삼",
+    "orig": "性微寒一云平, 味苦, 無毒. 治脚軟疼痺, 四肢不遂. 排膿止痛, 生肌長肉, 破宿血, 補新血, 安生胎, 落死胎. 調婦人經脉不勻, 止崩漏帶下. 莖葉如薄荷而有毛. 三月開花紅紫色. 根赤大如指, 長尺餘, 一苗數根. 九十月採根, 暴乾.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권2 초부 丹參",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2498"
+      },
+      {
+        "title": "약학정보원 - 단삼(丹參) 한약정보",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=562"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 단삼",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013587"
+      },
+      {
+        "title": "Wikipedia - Salvia miltiorrhiza",
+        "url": "https://en.wikipedia.org/wiki/Salvia_miltiorrhiza"
+      }
+    ],
+    "verified": true,
+    "warn": "옛 기록에 '죽은 태아를 내린다(落死胎)'는 대목이 있고, 현대 자료에서도 임신부·출혈성 질환에는 쓰지 않으며 와파린 같은 항응고제와 함께 먹으면 출혈 위험이 커질 수 있다고 알려져 있다."
+  },
+  "faq": [
+    {
+      "a": "꿀풀과 여러해살이풀 단삼(Salvia miltiorrhiza)의 붉은 뿌리를 말린 약재입니다. 중국 원산으로 우리나라에서는 재배로만 얻습니다.",
+      "q": "단삼은 어떤 식물인가요?"
+    },
+    {
+      "a": "말린 뿌리 모양만으로는 어렵습니다. 같은 종이므로 원산지 표시와 생산지 정보(영양·곡성·철원 등)를 확인하는 것이 가장 확실합니다.",
+      "q": "국산 단삼과 중국산은 어떻게 구별하나요?"
+    },
+    {
+      "a": "겉이 적갈색으로 고르고, 잘랐을 때 껍질 쪽은 적갈색, 속은 회황색에 노란빛 흰 줄무늬가 방사상으로 보이는 것이 규격에 맞습니다. 습기 먹은 것이나 곰팡이 핀 것은 피합니다.",
+      "q": "좋은 단삼은 어떻게 고르나요?"
+    },
+    {
+      "a": "보통 봄이나 가을에 뿌리를 캡니다. 국내에서는 3~4월에 심어 1년 뒤 수확하는 방식이 소개돼 있습니다.",
+      "q": "단삼은 언제 캐나요?"
+    },
+    {
+      "a": "있습니다. 임신부나 출혈성 질환이 있는 사람은 쓰지 않는 것으로 알려져 있고, 와파린 같은 항응고제와 함께 먹으면 출혈 위험이 커질 수 있으니 전문가와 상의하세요. 식품 원료로 쓸 수 있는지도 식품안전나라에서 확인이 필요합니다.",
+      "q": "단삼을 먹을 때 주의할 점이 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품보다는 한약재로 다룬다. 식품 원료로 쓸 수 있는지는 식품안전나라 식품원료 목록에서 먼저 확인해야 한다.",
+    "eng": "Danshen, red sage",
+    "family": "꿀풀과",
+    "grade": "규격상 말린 단삼은 겉이 적갈색이고 자른 면의 껍질 부분이 적갈색, 목질부는 회황색~자갈색이며 노란빛 흰 관다발이 방사상으로 보인다. 국산 품종으로 '다산'(2016)과 '고산'(2018)이 개발돼 있으며, '다산'은 지역 재래종보다 살비아놀산 B와 탄시논 IIA 함량이 높게 보고됐다.",
+    "habitat": "중국 원산의 여러해살이풀로 우리나라에는 자생하지 않고 재배한다. 과거에는 거의 전량 중국에서 들여왔으나, 농촌진흥청 기술로 2010년 무렵부터 국내 재배가 본격화됐고 경북 영양, 전남 곡성, 강원 철원, 충남 청양, 전북 고창 등에서 기른다. 뿌리가 60~80cm 깊이까지 뻗어 흙이 깊고 부드러운 모래참흙을 좋아하며, 서늘한 기후에 가뭄에 강하다.",
+    "look": {
+      "flower": "5~6월에 자주색(연보라~자주) 입술 모양 꽃이 층층이 돌려 달리며, 꽃은 2.5cm 안팎으로 꿀풀과 치고 큰 편이다. 꽃차례에 털과 끈적한 샘털이 있다.",
+      "leaf": "잎은 마주나고 달걀꼴~피침형이며, 뒷면에 털이 빽빽하고 가장자리에 둔한 톱니가 있다. 홑잎과 갈라진 잎이 섞여 난다.",
+      "root": "뿌리가 인삼처럼 굵게 여러 갈래로 갈라지고 겉이 붉다. 말린 뿌리는 겉이 적갈색~암적색이고 세로 주름이 있으며, 오래된 뿌리는 겉껍질이 자갈색으로 잘 벗겨진다.",
+      "smell": "뿌리 냄새는 약하다.",
+      "stem": "키 40~80cm로 자라며 식물 전체에 털이 많다."
+    },
+    "parts": "뿌리(뿌리줄기 포함, 말려서 약재로 쓰며 식품 원료 사용 여부는 확인이 필요하다)",
+    "prep": "뿌리를 캐 줄기와 잔뿌리를 떼고 흙을 씻어 낸 뒤 말린다. 날로 먹는 나물이 아니며, 약재로 쓸 때는 전문가와 상의한다.",
+    "sci": "Salvia miltiorrhiza Bunge",
+    "season": {
+      "collect": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 단삼",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013587"
+      },
+      {
+        "title": "Hong Kong Chinese Materia Medica Standards - Radix Salviae Miltiorrhizae",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol1/pdf_e/Radix_Salviae_Miltiorrhizae_v1_e.pdf"
+      },
+      {
+        "title": "약학정보원 - 단삼(丹參) 한약정보",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=562"
+      },
+      {
+        "title": "팜앤마켓매거진 - 건강 약초 단삼 (국립원예특작과학원 기고)",
+        "url": "https://farmnmarket.com/news/article.html?no=19351"
+      },
+      {
+        "title": "영남일보 - 새롭게 떠오르는 약용작물 단삼 (영양군, 2022)",
+        "url": "https://www.yeongnam.com/web/view.php?key=20221123010003144"
+      },
+      {
+        "title": "한국약용작물학회지(2023) - 단삼 신품종 '다산'의 재배 및 품질 특성",
+        "url": "https://agris.fao.org/search/fr/records/65e9b29f0bb82ea8d51d761e"
+      },
+      {
+        "title": "Wikipedia - Salvia miltiorrhiza",
+        "url": "https://en.wikipedia.org/wiki/Salvia_miltiorrhiza"
+      },
+      {
+        "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권2 초부 丹參",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2498"
+      }
+    ],
+    "store": "바싹 말린 뿌리를 밀봉해 습기와 직사광선을 피해 서늘한 곳에 둔다.",
+    "taste": "말린 뿌리는 냄새가 약하고, 맛이 약간 쓰고 떫다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia - Salvia plebeia",
+      "url": "https://en.wikipedia.org/wiki/Salvia_plebeia"
+    },
+    {
+      "title": "푸드투데이 - 제대로 알고 먹는 약재 상식: 곰보배추",
+      "url": "https://foodtoday.or.kr/news/article.html?no=101751"
+    },
+    {
+      "title": "Wikipedia - Salvia miltiorrhiza",
+      "url": "https://en.wikipedia.org/wiki/Salvia_miltiorrhiza"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 단삼",
+      "url": "https://encykorea.aks.ac.kr/Article/E0013587"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 지치",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054428"
+    },
+    {
+      "title": "Hong Kong Chinese Materia Medica Standards - Radix Salviae Miltiorrhizae",
+      "url": "https://www.cmro.gov.hk/hkcmms/vol1/pdf_e/Radix_Salviae_Miltiorrhizae_v1_e.pdf"
+    },
+    {
+      "title": "영남일보 - 새롭게 떠오르는 약용작물 단삼 (영양군, 2022)",
+      "url": "https://www.yeongnam.com/web/view.php?key=20221123010003144"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "배암차즈기(Salvia plebeia)는 단삼과 같은 배암차즈기속 꿀풀과 식물이라 이름과 쓰임이 함께 오르내리지만, 생김새가 꽤 다르다.",
+      "name": "곰보배추",
+      "points": [
+        "곰보배추 잎은 겉이 곰보처럼 울퉁불퉁 주름지고, 단삼 잎은 뒷면에 털이 빽빽하다.",
+        "곰보배추 꽃은 4~5mm로 아주 작고, 단삼 꽃은 2.5cm 안팎으로 훨씬 크다.",
+        "곰보배추는 한두해살이풀로 뿌리가 붉게 굵어지지 않고, 단삼은 여러해살이로 붉고 굵은 뿌리를 만든다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "시중 단삼 약재의 상당 부분은 중국산이며, 같은 종이라 말린 뿌리 모양으로는 국산과 구별하기 어렵다.",
+      "name": "중국산 단삼",
+      "points": [
+        "원산지 표시와 생산지(영양·곡성 등) 정보를 확인한다.",
+        "국산은 2010년 무렵부터 본격 재배돼 공급량이 많지 않다.",
+        "겉이 붉은 뿌리라도 단면 색과 관다발 무늬가 규격과 다르면 의심한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "지치(자초) 뿌리도 붉은 자줏빛이라 말린 상태에서 '붉은 뿌리 약재'로 헷갈릴 수 있으나 전혀 다른 식물(지칫과)이다.",
+      "name": "지치",
+      "points": [
+        "지치 뿌리는 짙은 자줏빛 색소가 배어 나와 손이나 흙을 물들이고, 단삼 뿌리는 적갈색 겉껍질이 벗겨지는 정도다.",
+        "지치는 5~6월 작은 흰 꽃이 피고, 단삼은 큰 자주색 입술 모양 꽃이 핀다.",
+        "지치 잎은 가장자리가 밋밋하고, 단삼 잎은 둔한 톱니가 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "척수 손상 동물 실험 35편을 모아 분석했으며, 사람에게 같은 효과가 있는지는 확인되지 않았다.",
+        "title": "Danshen (Salvia miltiorrhiza) extract in spinal cord injury (SCI): a systematic review and meta-analysis",
+        "type": "동물 실험",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1754584/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "급성 뇌경색 환자 3,869명이 참여한 중국 임상 시험 38편을 모은 메타분석으로, 주사제를 기존 치료에 더한 경우이며 편향 가능성이 지적됐다.",
+        "title": "Safety and effectiveness of Salvia miltiorrhiza and ligustrazine injection for acute cerebral infarction",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fphar.2024.1425053",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "이상지질혈증에서 스타틴에 단삼을 더한 무작위 시험들을 모아 분석했고, 작용 기전 부분은 컴퓨터 예측이다.",
+        "title": "Salvia miltiorrhiza and Its Compounds as Complementary Therapy for Dyslipidemia: A Meta-Analysis of Clinical Efficacy and In Silico Mechanistic Insights",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/ph17111426",
+        "year": "2024"
+      }
+    ],
+    "summary": "단삼 연구는 매우 많지만, 사람 대상 메타분석은 대부분 중국 임상 시험을 모은 것이고 단삼 주사제나 추출 성분을 기존 치료에 더해 쓴 경우다. 저자들 스스로 지역·출판 편향을 지적하고 질 높은 시험이 더 필요하다고 밝혀, 일반 식품처럼 먹었을 때의 효과를 말하기는 어렵다. 동물 실험 메타분석도 연구 간 차이가 커서 해석에 주의가 필요하다."
+  },
+  "name": "단삼",
+  "st": "check",
+  "updatedAt": 1792745954823
+}

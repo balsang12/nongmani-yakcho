@@ -1,0 +1,153 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "봄에 올라오는 어린 순을 나물로 씁니다. 자라면 줄기가 억세지고 가시가 굵어지며, 꽃은 8~10월에 핍니다.",
+      "q": "고마리는 언제 나물로 먹나요?"
+    },
+    {
+      "a": "장갑을 끼고 어린 순만 골라 씻은 뒤 끓는 물에 데치고 찬물에 담가 매운맛을 우려냅니다. 그다음 나물로 무치거나 된장국에 넣습니다.",
+      "q": "고마리는 어떻게 손질하나요?"
+    },
+    {
+      "a": "잎 모양과 마디를 보세요. 고마리 잎은 잎밑 양쪽이 귀처럼 벌어진 창 모양이고 잎자루가 짧지만, 며느리밑씻개 잎은 삼각형에 잎자루가 길고 마디의 막 윗부분이 잎처럼 넓게 펼쳐집니다.",
+      "q": "며느리밑씻개와 어떻게 구별하나요?"
+    },
+    {
+      "a": "아니요, 물이 깨끗한 곳에서 자란 것만 드세요. 고마리는 오염된 물가에서도 잘 자라므로 하수나 생활폐수가 흐르는 곳의 것은 피해야 합니다.",
+      "q": "아무 도랑에서 딴 고마리를 먹어도 되나요?"
+    },
+    {
+      "a": "생것은 냉장해 빨리 쓰고, 오래 두려면 데쳐서 물기를 짠 뒤 나눠 냉동합니다.",
+      "q": "고마리는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "데친 어린 순을 나물로 무치거나 된장국에 넣어 먹는다.",
+    "family": "마디풀과(Polygonaceae)",
+    "grade": "",
+    "habitat": "전국의 냇가, 도랑, 논둑, 골짜기 습지 등 물기가 많은 곳에 큰 무리를 지어 자라는 한해살이풀이다. 물이 다소 더러운 곳에서도 잘 자란다.",
+    "look": {
+      "flower": "8~10월 가지 끝에 10~20송이의 작은 꽃이 공처럼 뭉쳐 핀다. 꽃잎은 없고 꽃덮이가 흰색에서 연분홍색이며, 끝 쪽이 분홍빛을 띠는 것이 많다.",
+      "fruit": "열매는 길이 3~5mm의 세모진 수과로 황갈색이다. 땅속이나 줄기 밑에서 피는 닫힌꽃(폐쇄화)에서도 열매를 맺는다.",
+      "leaf": "잎은 어긋나고 길이 4~10cm 정도의 창(방패) 모양으로, 잎밑 양쪽이 귀처럼 옆으로 벌어진다. 잎 가운데에 검은빛 무늬가 있는 경우가 많고, 잎자루에 날개가 있기도 하다.",
+      "root": "땅을 기는 줄기 마디에서 수염뿌리가 내린다.",
+      "stem": "줄기는 모가 지고 털이 거의 없으며, 모서리를 따라 아래를 향한 잔가시가 있어 손으로 훑으면 걸린다. 키는 1m 안팎으로 자라고 아래쪽은 땅을 기며 마디에서 뿌리를 내린다."
+    },
+    "parts": "어린 순과 부드러운 잎·줄기",
+    "prep": "줄기에 아래로 향한 잔가시가 있으니 장갑을 끼고 다룬다. 물이 깨끗한 곳에서 딴 어린 순만 골라 흐르는 물에 여러 번 씻고, 끓는 물에 데친 뒤 찬물에 담가 매운맛을 우려낸 다음 쓴다. 오염된 도랑이나 하수 근처에서 자란 것은 먹지 않는다.",
+    "sci": "Persicaria thunbergii (Siebold & Zucc.) H.Gross (이명 Polygonum thunbergii Siebold & Zucc.)",
+    "season": {
+      "collect": [
+        4,
+        5
+      ],
+      "flower": [
+        8,
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "산림청 북부지방산림청 사진자료실 — 고마리(마디풀과)",
+        "url": "https://north.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1009&mn=UNRT_03_03&nttId=400245"
+      },
+      {
+        "title": "Plants of the World Online (Kew) — Persicaria thunbergii",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:695175-1"
+      },
+      {
+        "title": "WSSA 잡초 정보 자료 — Polygonum thunbergii",
+        "url": "https://old.wssa.net/wp-content/uploads/Polygonum-thunbergii.pdf"
+      },
+      {
+        "title": "경상일보 [들꽃이야기] 고마리 (2003)",
+        "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=72220"
+      },
+      {
+        "title": "제주의소리 한라산 식물 이야기 — 고마리 (2020)",
+        "url": "https://www.jejusori.net/news/articleView.html?idxno=320920"
+      },
+      {
+        "title": "위키푸디 — 냇가의 한국 나물 고마리",
+        "url": "https://www.wikifoodie.co.kr/news/articleView.html?idxno=3195"
+      }
+    ],
+    "store": "생것은 물기를 털어 비닐에 담아 냉장하고 빨리 쓴다. 오래 두려면 데쳐서 물기를 짠 뒤 한 번 쓸 만큼씩 나눠 냉동한다.",
+    "taste": "매운맛이 있어 데친 뒤 물에 우려 쓰라고 소개된다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Taiwan (국립대만대학) — Persicaria senticosa",
+      "url": "https://tai2.ntu.edu.tw/species/317%20005%2034%200"
+    },
+    {
+      "title": "Flora of North America — Persicaria sect. Echinocaulon",
+      "url": "https://floranorthamerica.org/Persicaria_sect._Echinocaulon"
+    },
+    {
+      "title": "제주의소리 한라산 식물 이야기 — 고마리 (2020)",
+      "url": "https://www.jejusori.net/news/articleView.html?idxno=320920"
+    },
+    {
+      "title": "경상일보 [들꽃이야기] 고마리 (2003)",
+      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=72220"
+    },
+    {
+      "title": "WSSA 잡초 정보 자료 — Polygonum thunbergii",
+      "url": "https://old.wssa.net/wp-content/uploads/Polygonum-thunbergii.pdf"
+    },
+    {
+      "title": "위키백과 — 며느리밑씻개",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A9%B0%EB%8A%90%EB%A6%AC%EB%B0%91%EC%94%BB%EA%B0%9C"
+    },
+    {
+      "title": "위키백과 — 미꾸리낚시",
+      "url": "https://ko.wikipedia.org/wiki/%EB%AF%B8%EA%BE%B8%EB%A6%AC%EB%82%9A%EC%8B%9C"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "며느리밑씻개(Persicaria senticosa)는 같은 마디풀과로 줄기에 갈고리 가시가 있고 비슷한 분홍 꽃뭉치를 달아 고마리와 자주 헷갈린다. 어린잎을 나물로 먹는다고 소개되지만, 고마리와 구별해 따로 다루는 것이 좋다.",
+      "name": "며느리밑씻개",
+      "points": [
+        "잎 모양: 며느리밑씻개는 잎이 뚜렷한 삼각형이고, 고마리는 잎밑 양쪽이 귀처럼 옆으로 벌어진 창 모양이다.",
+        "잎자루: 며느리밑씻개는 잎자루가 1.5~6.5cm로 길고 가시가 많지만, 고마리 잎자루는 1cm 안팎으로 짧고 날개가 있는 경우가 많다.",
+        "턱잎(마디의 막): 며느리밑씻개는 마디를 감싼 막의 윗부분이 잎처럼 넓게 펼쳐지지만, 고마리는 털 있는 원통형 막이다.",
+        "자라는 곳: 고마리는 냇가·도랑 같은 물가에 무리 지어 자라고, 며느리밑씻개는 길가·빈터 덤불을 덩굴로 타고 오르는 경우가 많다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "미꾸리낚시(Persicaria sagittata 계열, 국내 학명 표기는 자료마다 다름)는 고마리와 같은 물가에 섞여 자라고 꽃뭉치도 비슷하지만 잎이 훨씬 좁다. 식용 여부를 확인한 공식 자료를 찾지 못했으므로 나물에 섞이지 않게 골라낸다.",
+      "name": "미꾸리낚시",
+      "points": [
+        "잎 폭: 미꾸리낚시 잎은 좁고 긴 피침형이고, 고마리 잎은 폭이 넓은 창 모양이다.",
+        "잎밑: 미꾸리낚시는 잎밑이 화살촉처럼 뒤로 갈라지거나 줄기를 감싸듯 붙고, 고마리는 잎밑 양쪽이 옆으로 벌어진다.",
+        "꽃: 둘 다 흰색~분홍색 꽃이 머리 모양으로 모여 피므로 꽃만 보고 구별하지 말고 잎을 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "며느리배꼽(Persicaria perfoliata)도 가시 돋친 마디풀과 덩굴이라 어린 덩굴을 고마리로 착각할 수 있다. 식용 여부를 확인한 공식 자료를 찾지 못해 섞이지 않게 한다.",
+      "name": "며느리배꼽",
+      "points": [
+        "잎자루가 붙는 자리: 며느리배꼽은 잎자루가 잎 뒷면 안쪽(배꼽 자리)에 붙지만, 고마리는 잎 밑 가장자리에 붙는다.",
+        "턱잎: 며느리배꼽은 마디마다 초록색 둥근 접시 같은 턱잎이 줄기를 꿰뚫듯 둘러싼다.",
+        "열매: 며느리배꼽은 열매를 싼 꽃덮이가 살이 쪄 파란 구슬처럼 되지만, 고마리 열매는 황갈색 세모진 낟알이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "고마리(Persicaria thunbergii, 이명 Polygonum thunbergii)를 대상으로 한 2023~2026년 논문을 이번 조사에서 확인하지 못했다(학술 DB 조회가 접속 제한으로 막혀 검색 결과에만 의존함). 고마리 추출물의 피부 관련 특허 출원이 있다는 정도만 확인되며, 사람 대상 연구 근거는 찾지 못했다."
+  },
+  "name": "고마리",
+  "st": "ok",
+  "updatedAt": 1792616180342
+}

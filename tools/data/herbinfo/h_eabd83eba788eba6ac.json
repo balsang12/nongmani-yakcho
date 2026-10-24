@@ -1,0 +1,151 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "줄기 끝 꽃차례가 태엽처럼 돌돌 말려 있다가 풀리면서 꽃이 피기 때문입니다.",
+      "q": "꽃마리는 왜 이름이 꽃마리인가요?"
+    },
+    {
+      "a": "이른 봄(3~4월) 꽃대가 올라오기 전 연한 어린순을 뜯습니다. 꽃은 4~7월에 핍니다.",
+      "q": "꽃마리는 언제 뜯어 먹나요?"
+    },
+    {
+      "a": "어린순을 데쳐 나물로 무치거나 국, 튀김, 나물죽에 넣어 먹습니다.",
+      "q": "꽃마리는 어떻게 먹나요?"
+    },
+    {
+      "a": "꽃차례가 태엽처럼 말려 있으면 꽃마리입니다. 꽃받이는 꽃이 위쪽 잎겨드랑이마다 잎 모양 포엽과 함께 한 송이씩 달립니다.",
+      "q": "꽃마리와 꽃받이는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 데쳐 나물로 무치거나 국, 튀김, 나물죽에 넣어 먹는다.",
+    "eng": "",
+    "family": "지치과 (Boraginaceae)",
+    "grade": "",
+    "habitat": "전국의 밭둑, 길가, 풀밭, 빈터에 흔하게 자라는 한두해살이풀이다.",
+    "look": {
+      "flower": "줄기 끝 꽃차례가 태엽처럼 말려 있다가 풀리면서 아래부터 꽃이 핀다. 꽃은 지름 2mm 안팎의 연한 하늘색이고 가운데(목 부분)가 노르스름하다.",
+      "fruit": "꽃받침에 싸인 작은 열매(분과) 4개가 맺히며 꽃자루 끝이 곤봉처럼 굵어진다.",
+      "leaf": "뿌리잎은 모여 나고 주걱 모양에 잎자루가 길다. 줄기잎은 어긋나며 긴 타원형으로 가장자리가 밋밋하고, 위로 갈수록 잎자루가 짧아진다.",
+      "smell": "어린잎을 비비면 오이 같은 냄새가 난다고 한다.",
+      "stem": "밑동에서 가지가 여러 개 갈라져 모여 난 것처럼 보이며 높이 10~30cm이다. 전체에 짧은 털이 있다."
+    },
+    "parts": "어린순과 어린잎",
+    "prep": "이른 봄 꽃대가 올라오기 전 어린순을 뜯어 끓는 물에 데친 뒤 찬물에 헹궈 쓴다.",
+    "sci": "Trigonotis peduncularis (Trevis.) Benth. ex Baker & S.Moore",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 꽃마리",
+        "url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EB%A7%88%EB%A6%AC"
+      },
+      {
+        "title": "Flora of China - Trigonotis (附地菜属)",
+        "url": "https://www.iplant.cn/foc/pdf/Trigonotis.pdf"
+      },
+      {
+        "title": "Korean Plant Flora - Trigonotis peduncularis (꽃마리)",
+        "url": "https://kpf.myspecies.info/taxonomy/term/55076"
+      },
+      {
+        "title": "Song MC 외(2008) A New Acyclic Diterpene from Trigonotis peduncularis, Bull. Korean Chem. Soc. 29(11)",
+        "url": "https://koreascience.kr/article/JAKO200802727101138.pdf"
+      },
+      {
+        "title": "Purdue University Famine Foods - Trigonotis peduncularis",
+        "url": "https://www.purdue.edu/hla/sites/famine-foods/famine_food/trigonotis-peduncularis/"
+      }
+    ],
+    "store": "",
+    "taste": "순한 풀 맛이며, 어린잎을 비비면 오이 냄새가 난다고 한다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of China - Trigonotis (附地菜属)",
+      "url": "https://www.iplant.cn/foc/pdf/Trigonotis.pdf"
+    },
+    {
+      "title": "위키백과 - 꽃받이",
+      "url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EB%B0%9B%EC%9D%B4"
+    },
+    {
+      "title": "위키백과 - 꽃마리",
+      "url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EB%A7%88%EB%A6%AC"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "연한 하늘색 작은 꽃이 비슷하지만 꽃이 위쪽 잎겨드랑이마다 하나씩 달리고 꽃차례가 태엽처럼 말리지 않는다. 독성은 알려져 있지 않으나 식용 자료는 확인되지 않았다.",
+      "name": "꽃받이",
+      "points": [
+        "꽃마리는 줄기 끝 꽃차례가 태엽처럼 돌돌 말려 있다가 풀리며 핀다.",
+        "꽃받이는 꽃마다 잎 모양의 포엽이 붙어 위쪽 잎겨드랑이에 한 송이씩 달린다.",
+        "꽃마리는 꽃차례 맨 아래 2~3송이 말고는 꽃에 잎 모양 포엽이 없다.",
+        "꽃받이는 꽃받침이 깊게 5갈래로 갈라지고 긴 털이 있다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "같은 꽃마리속 여러해살이풀로, 꽃이 훨씬 크고 잎겨드랑이에 긴 꽃자루로 한 송이씩 달린다. 식용 여부는 따로 확인하지 못했다.",
+      "name": "참꽃마리",
+      "points": [
+        "참꽃마리 꽃은 지름 6~8mm 정도로 꽃마리(2mm 안팎)보다 훨씬 크다.",
+        "참꽃마리는 꽃이 잎겨드랑이에서 나온 꽃자루 끝에 한 송이씩 달리고, 꽃마리는 줄기 끝에 말린 꽃차례로 핀다.",
+        "참꽃마리는 여러해살이로 줄기가 곧게 서다가 땅을 기며 길게 뻗는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plant Diversity",
+        "note": "중국에 자라는 꽃마리속 식물을 열매 모양과 엽록체 유전체로 비교해 분류 체계를 다시 살폈다.",
+        "title": "Phylogeny of Trigonotis in China—with a special reference to its nutlet morphology and plastid genome",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.pld.2023.03.004",
+        "year": "2023"
+      },
+      {
+        "journal": "Bulletin of the Korean Chemical Society",
+        "note": "꽃마리 전초에서 피톨 등 디테르펜 성분 3가지를 분리했고, 그중 하나는 새로운 화합물이었다.",
+        "title": "A New Acyclic Diterpene from Trigonotis peduncularis",
+        "type": "기타",
+        "url": "https://koreascience.kr/article/JAKO200802727101138.pdf",
+        "year": "2008"
+      }
+    ],
+    "summary": "꽃마리를 직접 다룬 최근 연구는 많지 않다. 2023년에는 중국 꽃마리속 식물을 열매(분과) 모양과 엽록체 유전체로 분류한 계통 연구가 나왔고, 성분 연구로는 2008년 국내 연구팀이 꽃마리에서 새로운 디테르펜 배당체를 분리한 것이 있다. 효능을 사람에게서 확인한 연구는 찾지 못했다."
+  },
+  "name": "꽃마리",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Song MC 외(2008) A New Acyclic Diterpene from Trigonotis peduncularis, Bull. Korean Chem. Soc. 29(11)",
+        "url": "https://koreascience.kr/article/JAKO200802727101138.pdf"
+      },
+      {
+        "title": "위키백과 - 꽃마리",
+        "url": "https://ko.wikipedia.org/wiki/%EA%BD%83%EB%A7%88%EB%A6%AC"
+      }
+    ],
+    "text": "꽃마리 어린잎은 우리나라에서 나물로 즐겨 먹어 왔다고 소개된다. 전통적으로는 오줌을 잘 나오게 하고 몸을 누그러뜨리는 약으로 여겨, 설사·이질, 늑막염, 감기 등에 썼다는 기록이 학술 논문에 정리되어 있다. 옛 쓰임을 소개한 것으로 효과가 검증된 것은 아니다."
+  },
+  "updatedAt": 1792573003676
+}

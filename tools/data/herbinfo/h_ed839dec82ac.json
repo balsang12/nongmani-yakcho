@@ -1,0 +1,203 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "澤瀉",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "ᄉᆈ귀ᄂᆞᄆᆞᆯ 불휘",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (草部, 澤瀉 ᄉᆈ귀ᄂᆞᄆᆞᆯ 불휘; 전사본 표기는 滭瀉)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 같은 택사속의 다른 식물입니다. 택사는 잎이 좁은 버들잎꼴이고 질경이택사는 넓은 타원형이며, 대한민국약전의 약재 택사는 질경이택사의 덩이줄기로 정의돼 있습니다.",
+      "q": "택사와 질경이택사는 같은 식물인가요?"
+    },
+    {
+      "a": "덩이줄기를 말려 씁니다. 식품 원료로 쓸 수 있는지는 판매 전 식품원료목록 확인이 필요합니다.",
+      "q": "택사는 어느 부위를 쓰나요?"
+    },
+    {
+      "a": "잎을 보면 됩니다. 벗풀 잎은 밑이 둘로 갈라진 화살 모양이고, 택사 잎은 갈라지지 않은 버들잎꼴입니다.",
+      "q": "택사와 벗풀은 어떻게 구별하나요?"
+    },
+    {
+      "a": "8~9월경에 돌려난 곁가지 끝에 꽃잎 3장인 흰 꽃이 핍니다.",
+      "q": "택사 꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "주로 말린 덩이줄기를 한약재로 쓴다.",
+    "eng": "",
+    "family": "택사과",
+    "grade": "",
+    "habitat": "한국·일본·중국 등에 분포하는 여러해살이 물풀로, 논·얕은 물가·습지처럼 물이 고인 곳에서 자란다.",
+    "look": {
+      "flower": "8~9월에 곁가지 끝마다 흰 꽃이 여러 송이 달린다. 꽃잎 3장, 꽃받침조각 3장, 수술 6개이며 한 꽃에 암술·수술이 함께 있다.",
+      "fruit": "열매는 편평한 달걀꼴의 수과다.",
+      "leaf": "잎은 모두 뿌리에서 나오며 긴 잎자루가 있고, 잎몸은 길이 10~15cm 안팎의 피침형(버들잎꼴)이다.",
+      "stem": "잎 사이에서 높이 50cm~1m의 꽃줄기가 올라오고, 곁가지가 마디마다 3개씩 돌려난다."
+    },
+    "parts": "한약재 택사(澤瀉)는 덩이줄기를 쓴다. 대한민국약전은 질경이택사(Alisma orientale)의 덩이줄기로 정의하며, 국내 문헌에 따라 택사(A. canaliculatum)의 덩이줄기도 함께 기원으로 적는다. 식품원료 사용 가능 여부는 판매 전 식품원료목록 확인 필요.",
+    "prep": "판매 전 식품원료목록 확인 필요. 한약재 택사는 덩이줄기를 말린 것이며, 중국 문헌에는 소금물·밀기울 등으로 볶는 수치법이 정리돼 있다. 생풀을 날로 먹는 일에 대해서는 확인된 자료가 없으니 식용으로 권하지 않는다.",
+    "sci": "Alisma canaliculatum A.Braun & C.D.Bouché",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과, 택사",
+        "url": "https://ko.wikipedia.org/wiki/%ED%83%9D%EC%82%AC"
+      },
+      {
+        "title": "Content and Stability of Alisol B, Alisol B acetate in Alismatis Rhizoma (대한민국약전상 택사 정의: Alisma orientale 덩이줄기)",
+        "url": "https://koreascience.kr/article/JAKO201707464563412.do"
+      },
+      {
+        "title": "석지현 외, 택사 추출물의 급성 경구투여 독성 연구, 한방안이비인후피부과학회지 26(4), 2013 (기원: 질경이택사 또는 택사의 괴경)",
+        "url": "https://koreascience.or.kr/article/JAKO201336161058128.pdf"
+      },
+      {
+        "title": "대한화장품협회 성분사전, 질경이택사덩이줄기추출물",
+        "url": "https://kcia.or.kr/cid/search/ingd_view.php?no=3253"
+      },
+      {
+        "title": "Pan et al., Botany, traditional uses, phytochemistry, pharmacology, toxicology and processing of Rhizoma alismatis: a review, Frontiers in Pharmacology 2025",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1722483/full"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "POWO (Kew), Alisma plantago-aquatica",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:30019518-2/general-information"
+    },
+    {
+      "title": "Pan et al., Botany, traditional uses, phytochemistry, pharmacology, toxicology and processing of Rhizoma alismatis: a review, Frontiers in Pharmacology 2025",
+      "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1722483/full"
+    },
+    {
+      "title": "위키백과, 질경이",
+      "url": "https://ko.wikipedia.org/wiki/%EC%A7%88%EA%B2%BD%EC%9D%B4"
+    },
+    {
+      "title": "위키백과, 벗풀",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B2%97%ED%92%80"
+    },
+    {
+      "title": "위키백과, 보풀 (식물)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%92%80_(%EC%8B%9D%EB%AC%BC)"
+    },
+    {
+      "title": "위키백과, 택사",
+      "url": "https://ko.wikipedia.org/wiki/%ED%83%9D%EC%82%AC"
+    },
+    {
+      "title": "Wikipedia, Alisma plantago-aquatica",
+      "url": "https://en.wikipedia.org/wiki/Alisma_plantago-aquatica"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "질경이택사(Alisma orientale, A. plantago-aquatica var./subsp. orientale)는 대한민국약전에 오른 택사 약재의 기원식물이다. 잎이 질경이처럼 넓은 타원형이라 버들잎꼴인 택사와 구별된다.",
+      "name": "질경이택사",
+      "points": [
+        "잎몸이 넓은 타원형~달걀꼴이고 밑이 둥글면 질경이택사, 좁은 피침형이면 택사다.",
+        "약재로 살 때는 원료 표시에 Alisma orientale(질경이택사)인지 확인한다.",
+        "중국 연구에서는 A. orientale로 표시된 시판품 상당수가 유전자 분석상 A. plantago-aquatica로 나와, 같은 속끼리도 섞여 유통될 수 있다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "질경이(Plantago asiatica)는 잎이 뿌리에서 모여 나는 모양이 질경이택사와 비슷하지만, 물가가 아닌 마른 길가·들판에서 자라는 전혀 다른 과의 풀이다. 어린순을 나물로 먹는다.",
+      "name": "질경이",
+      "points": [
+        "질경이는 햇볕 드는 길가에 자라고, 택사·질경이택사는 논·습지 물속에 자란다.",
+        "질경이 잎은 나란히맥 5개가 뚜렷하고 가장자리에 물결 모양 톱니가 있다.",
+        "질경이 꽃은 곧은 꽃대 끝에 이삭처럼 빽빽이 붙고, 택사는 가지가 돌려나며 꽃잎 3장의 흰 꽃이 따로따로 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "벗풀(Sagittaria trifolia)은 논·연못에 함께 자라는 택사과 풀로, 흰 꽃잎 3장인 꽃이 닮았지만 잎이 화살 모양이다.",
+      "name": "벗풀",
+      "points": [
+        "벗풀 잎은 밑이 둘로 갈라진 화살 모양이다. 택사 잎은 갈라지지 않는다.",
+        "벗풀은 한 꽃줄기에 아래쪽 암꽃, 위쪽 수꽃이 따로 핀다. 택사 꽃은 암술·수술이 한 꽃에 있다.",
+        "벗풀 꽃은 8~10월에 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "보풀(Sagittaria aginashi)은 소택지에 자라는 같은 과 풀로 어린잎이 긴 타원형이라 헷갈릴 수 있으나, 다 자라면 화살촉 모양 잎이 나온다.",
+      "name": "보풀",
+      "points": [
+        "다 자란 보풀 잎은 화살촉 모양이다.",
+        "어린잎만으로는 구별이 어려우니 꽃과 다 자란 잎을 함께 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "택사의 기원식물·성분·약리·독성·수치법을 정리했으며, 약리 근거가 주로 동물·세포 실험이고 독성은 고용량에서 주로 보고됐다고 했다.",
+        "title": "Botany, traditional uses, phytochemistry, pharmacology, toxicology and processing of Rhizoma alismatis: a review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1722483",
+        "year": "2025"
+      },
+      {
+        "journal": "Biomedicine & Pharmacotherapy",
+        "note": "지방간염을 유도한 생쥐와 간세포에서 질경이택사 추출물이 간 지방 축적과 산화 스트레스를 줄였다고 보고했다.",
+        "title": "A novel Alisma orientale extract alleviates non-alcoholic steatohepatitis in mice via modulation of PPARα signaling pathway",
+        "type": "동물 실험",
+        "url": "https://doaj.org/article/b3024f5971d04959a093ee0d53e55577",
+        "year": "2024"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "질경이택사 덩이줄기 성분 알리스몰이 급성 폐손상 생쥐 모델에서 염증 지표를 낮췄다고 보고한 연구다.",
+        "title": "Alismol purified from the tuber of Alisma orientale relieves acute lung injury in mice via Nrf2 activation",
+        "type": "동물 실험",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10647250/",
+        "year": "2023"
+      }
+    ],
+    "summary": "2023~2026년 연구는 대부분 동물·세포 실험이다. 2025년 리뷰는 택사가 정해진 용량 안에서는 뚜렷한 부작용이 없다고 보면서도, 독성은 논란이 있고 대부분 통상 용량을 크게 넘을 때 나타났다고 정리했다. 지방간·폐 염증 모델 생쥐 연구가 있으나 사람 대상 근거는 거의 없다."
+  },
+  "name": "택사",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "석지현 외, 택사 추출물의 급성 경구투여 독성 연구, 한방안이비인후피부과학회지 26(4), 2013 (기원: 질경이택사 또는 택사의 괴경)",
+        "url": "https://koreascience.or.kr/article/JAKO201336161058128.pdf"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (草部, 澤瀉 ᄉᆈ귀ᄂᆞᄆᆞᆯ 불휘; 전사본 표기는 滭瀉)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      }
+    ],
+    "text": "국내 문헌은 택사를 질경이택사 또는 택사의 덩이줄기로 소개하고, 성질은 차고 맛은 달면서 담담하다고 적었다. 동의보감 탕액편 풀(草部)에도 澤瀉(ᄉᆈ귀ᄂᆞᄆᆞᆯ 불휘)라는 이름이 올라 있다."
+  },
+  "updatedAt": 1792875515254
+}

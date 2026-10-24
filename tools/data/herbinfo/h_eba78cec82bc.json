@@ -1,0 +1,220 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "黨參",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "잎에 털이 있으면 만삼, 털이 없으면 더덕입니다. 더덕은 가지 끝에 잎 4장이 모여 나고 뿌리가 방추형에 향이 진하며, 만삼은 잎자루가 길고 뿌리가 길쭉한 곤봉 모양에 황갈색입니다.",
+      "q": "만삼과 더덕은 어떻게 구별하나요?"
+    },
+    {
+      "a": "같은 식물(Codonopsis pilosula)의 뿌리를 우리나라에서는 만삼, 중국에서는 당삼(党参)이라 부릅니다. 다만 중국 시장에서 '당삼'으로 팔리는 것에는 여러 근연종이 섞이고 저품질품도 있다고 보고되어 있어 기원을 확인하는 것이 좋습니다.",
+      "q": "만삼과 당삼은 같은 건가요?"
+    },
+    {
+      "a": "겉이 황갈색이고 길이 15cm 이상, 굵기 1cm 이상인 것이 우량품으로 소개됩니다. 씹어 보아 단맛이 나고 찌꺼기가 남지 않는 것이 좋습니다.",
+      "q": "좋은 만삼은 어떻게 고르나요?"
+    },
+    {
+      "a": "재배품은 2년 정도 기른 뒤 가을이나 이듬해 봄 싹이 나기 전에 캡니다. 꽃은 7~8월, 열매는 9~10월에 익습니다.",
+      "q": "만삼은 언제 캐나요?"
+    },
+    {
+      "a": "아닙니다. 만삼은 초롱꽃과 덩굴식물이고 인삼은 두릅나무과로 전혀 다른 식물입니다. 예부터 인삼 대신 쓰인 적이 있을 뿐이니 품목명을 꼭 확인하세요.",
+      "q": "만삼이 인삼인가요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순은 나물로 먹었고, 뿌리는 예부터 인삼 대신 쓰이기도 했다. 중국에서는 뿌리를 차·국·죽에 넣어 먹는다고 소개된다.",
+    "eng": "",
+    "family": "초롱꽃과",
+    "grade": "산림청 자료는 겉이 황갈색이고 길이 15cm 이상, 지름 1cm 이상인 것을 우량품으로 보며, 씹었을 때 단맛이 나고 찌꺼기가 남지 않는 것이 좋다고 적고 있다.",
+    "habitat": "중국 동북부·아무르·우수리 등에 분포하고, 우리나라에서는 강원도 이북의 산지에서 자란다. 깊은 산의 서늘하고 습한 반그늘을 좋아해, 재배할 때는 중북부 해발 300m 이상, 남부 500m 이상의 고랭지가 알맞다고 한다.",
+    "look": {
+      "flower": "7~8월에 가지 끝(또는 잎겨드랑이)에 종 모양 꽃이 한 송이씩 달리고, 꽃받침은 5갈래로 갈라진다.",
+      "fruit": "납작한 원뿔 모양 열매가 9~10월에 익어 끝이 3갈래로 터지며, 작은 갈색 씨가 많이 들어 있다.",
+      "leaf": "달걀형~긴 달걀형 잎이 어긋나지만 짧은 가지에서는 마주나며, 양면(특히 잎맥 위)에 잔털이 있고 뒷면은 분을 바른 듯 희다. 가장자리는 밋밋하고 잎자루가 2~3cm로 길다.",
+      "root": "곤봉 모양의 긴 원기둥꼴로 길이 20~30cm 정도이며 겉은 황갈색이다.",
+      "smell": "말린 뿌리에서 머리카락 탄 듯한 노린내가 난다.",
+      "stem": "1~2m까지 다른 물체를 감고 오르는 덩굴이며 식물 전체에 털이 있고, 자르면 흰 유액이 나온다."
+    },
+    "parts": "뿌리(약재명 당삼·만삼). 어린순은 나물로 먹었다고 전해진다.",
+    "prep": "재배품은 2년 정도 기른 뒤 가을이나 이듬해 봄 싹이 트기 전에 캐며, 캘 때 뿌리가 끊기지 않게 조심한다.",
+    "sci": "Codonopsis pilosula (Franch.) Nannf.",
+    "season": {
+      "collect": [
+        10,
+        11,
+        3,
+        4
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "산림청 국립산림과학원 임산물 재배기술 - 만삼",
+        "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_04_11.pdf"
+      },
+      {
+        "title": "Korean Plant Names - Codonopsis pilosula (만삼)",
+        "url": "https://kpf.myspecies.info/taxonomy/term/55187"
+      },
+      {
+        "title": "권성재 외(2005) 한약 만삼의 생약학적 연구, 생약학회지 36(1)",
+        "url": "https://koreascience.kr/article/JAKO200503041314870.do"
+      },
+      {
+        "title": "Wikipedia - Codonopsis pilosula",
+        "url": "https://en.wikipedia.org/wiki/Codonopsis_pilosula"
+      },
+      {
+        "title": "Liang et al.(2024) Codonopsis radix: a review..., Frontiers in Pharmacology",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1366556/full"
+      }
+    ],
+    "store": "",
+    "taste": "말린 뿌리는 약간 단맛이 나고, 머리카락 타는 냄새 비슷한 노린내가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "산림청 국립산림과학원 임산물 재배기술 - 만삼",
+      "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_04_11.pdf"
+    },
+    {
+      "title": "산림청 임산물 재배기술 - 더덕",
+      "url": "https://center.forest.go.kr/kfs/images/data/down/imsan/imsan_03_04.pdf"
+    },
+    {
+      "title": "제주특별자치도농업기술원 특용작물(더덕) 자료",
+      "url": "https://agri.jeju.go.kr/files/board/%ED%8A%B9%EC%9A%A9%EC%9E%91%EB%AC%BC(%EB%8D%94%EB%8D%95).pdf"
+    },
+    {
+      "title": "위키백과 - 더덕속",
+      "url": "https://ko.wikipedia.org/wiki/%EB%8D%94%EB%8D%95%EC%86%8D"
+    },
+    {
+      "title": "제주환경일보 - 한비 김평일의 제주들꽃 이야기: 소경불알",
+      "url": "https://www.newsje.com/news/articleView.html?idxno=83872"
+    },
+    {
+      "title": "산림청 국립산림과학원 임산물 재배기술 - 잔대",
+      "url": "https://eng-nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_04_14.pdf"
+    },
+    {
+      "title": "Britannica - Ginseng",
+      "url": "https://www.britannica.com/plant/ginseng"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 더덕속(Codonopsis lanceolata) 덩굴이라 잎과 덩굴만 보면 헷갈리지만, 잎의 털·잎 달린 모양·뿌리 모양과 향으로 구별된다.",
+      "name": "더덕",
+      "points": [
+        "만삼은 잎 양면에 잔털이 있고, 더덕은 잎에 털이 없고 뒷면이 밀랍처럼 희다.",
+        "더덕은 짧은 가지 끝에 잎 4장이 모여 돌려난 것처럼 보이고 잎자루가 거의 없지만, 만삼은 잎이 어긋나거나 마주나며 잎자루가 2~3cm로 길다.",
+        "더덕 뿌리는 가운데가 굵은 방추형에 겉이 회백색이고 가로 주름이 있으며 특유의 진한 향이 나고, 만삼 뿌리는 길쭉한 곤봉 모양에 황갈색이다.",
+        "꽃은 만삼이 7~8월, 더덕이 8~9월에 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 더덕속(Codonopsis ussuriensis)으로 둘 다 식물 전체에 털이 많아 지상부로는 헷갈리기 쉽다. 뿌리를 캐 보면 바로 구별된다.",
+      "name": "소경불알",
+      "points": [
+        "소경불알 뿌리는 짧고 동그란 알 모양이고, 만삼 뿌리는 20~30cm에 이르는 길쭉한 원기둥꼴이다.",
+        "둘 다 잎과 줄기에 털이 많아 털 유무로는 구별되지 않으니 뿌리 모양을 확인한다.",
+        "소경불알은 더덕 같은 진한 향이 없다고 소개된다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "만삼(당삼)은 예부터 인삼 대신 쓰였고 이름에도 '삼'이 붙어 헷갈릴 수 있지만, 인삼(Panax ginseng)은 두릅나무과로 전혀 다른 식물이다. 값 차이가 크므로 품목명을 확인해야 한다.",
+      "name": "인삼",
+      "points": [
+        "만삼은 덩굴로 감아 오르지만 인삼은 덩굴이 아니다.",
+        "인삼은 작은잎 3~5장이 손바닥 모양으로 붙은 겹잎이고, 만삼은 달걀형 홑잎이다.",
+        "인삼은 작은 꽃이 우산 모양으로 모여 달리고, 만삼은 종 모양 꽃이 가지 끝에 한 송이씩 달린다.",
+        "만삼은 줄기를 자르면 흰 유액이 나온다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 초롱꽃과(Adenophora triphylla var. japonica)로 뿌리가 굵고 유액이 나와 비슷해 보이지만, 줄기와 잎 모양이 다르다.",
+      "name": "잔대",
+      "points": [
+        "잔대는 줄기가 40~120cm로 곧게 서고, 만삼은 덩굴로 감아 오른다.",
+        "잔대 줄기잎은 돌려나고 가장자리에 톱니가 있으며, 만삼 잎은 어긋나거나 마주나고 가장자리가 밋밋하다.",
+        "잔대는 줄기 끝에 연보라 꽃이 여러 송이 달리고, 만삼은 가지 끝에 한 송이씩 달린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "당삼의 식물학·성분·가공·약리·독성을 정리했으며, 약리 근거가 주로 세포·동물 실험이고 시중에 저품질·대체품이 섞여 있다고 짚었다.",
+        "title": "A review of the botany, ethnopharmacology, phytochemistry, analysis method and quality control, processing methods, pharmacological effects, pharmacokinetics and toxicity of Codonopsis Radix",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2023.1162036",
+        "year": "2023"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "당삼의 자원 이용·수확 후 가공·품질 평가와 다당류 조성을 정리했고, 중국에서 2023년 약식동원 물질 목록에 올랐다고 소개한다.",
+        "title": "Codonopsis radix: a review of resource utilisation, postharvest processing, quality assessment, and its polysaccharide composition",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1366556",
+        "year": "2024"
+      },
+      {
+        "journal": "Medicine (Baltimore)",
+        "note": "더덕속 식물에서 보고된 350여 가지 성분과 여러 약리 작용을 정리한 리뷰로, 근거는 대부분 세포·동물 실험이다.",
+        "title": "Advancements in the investigation of chemical components and pharmacological properties of Codonopsis: A review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1097/MD.0000000000038632",
+        "year": "2024"
+      },
+      {
+        "journal": "Acupuncture and Herbal Medicine",
+        "note": "당삼의 여러 성분이 면역 기능에 미치는 영향과 기전에 관한 연구들을 비교·정리했다.",
+        "title": "Multi-layered effects of Codonopsis Radix on the immune system",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1097/HM9.0000000000000130",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 중국 당삼(Codonopsis Radix: C. pilosula와 그 변종·근연종 뿌리)을 대상으로 한 리뷰들이며, 다당류·성분 분석과 면역·소화 관련 작용이 많이 다뤄졌다. 다만 리뷰들이 정리한 약리 근거는 대부분 세포·동물 실험 단계이고, 사람 대상 대조 임상 근거는 부족하다고 지적된다."
+  },
+  "name": "만삼",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 국립산림과학원 임산물 재배기술 - 만삼",
+        "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_04_11.pdf"
+      },
+      {
+        "title": "Liang et al.(2024) Codonopsis radix: a review..., Frontiers in Pharmacology",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1366556/full"
+      }
+    ],
+    "text": "산림청 자료에는 만삼 뿌리를 피를 보하고 비장을 돕는 약으로, 또 몸이 허약하거나 입맛이 없고 쉽게 지칠 때 써 왔으며, 열이 많은 사람에게 인삼 대신 쓰기도 했다고 소개된다. 중국에서는 당삼(党参)이라는 이름으로 오래 써 온 약재로, 청나라 때부터 본초서에 실렸고 1963년부터 중국약전에 올라 있다고 한다. 『동의보감』 탕액편에서는 해당 항목을 확인하지 못했다."
+  },
+  "updatedAt": 1792660004727
+}

@@ -1,0 +1,183 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "채부(菜部) 菜之二",
+    "easy": [
+      "흰 비름, 붉은 비름, 자주 비름 등 여러 종류를 함께 다루었다고 적었다.",
+      "비름씨는 눈이 침침할 때 눈을 밝히는 데 쓰고, 대소변을 잘 나가게 한다고 적었다.",
+      "비름을 자라와 함께 먹지 말라는 경계도 적어 두었다."
+    ],
+    "han": "莧",
+    "has": true,
+    "ki": "莧菜: 甘冷利無毒 / 莧實: 甘寒無毒",
+    "kiKo": "비름 잎줄기는 맛이 달고 성질이 차며 잘 통하게 하고 독이 없다. 비름씨는 맛이 달고 성질이 차며 독이 없다.",
+    "old": "",
+    "orig": "莧菜【氣味】甘，冷利，無毒。莧實【氣味】甘，寒，無毒。【主治】青盲，明目除邪，利大小便，去寒熱。",
+    "sources": [
+      {
+        "title": "本草綱目/菜之二 (維基文庫)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E8%8F%9C%E4%B9%8B%E4%BA%8C"
+      }
+    ],
+    "verified": true,
+    "warn": "『동의보감』 탕액편 채부의 莧實 항목은 원문 페이지를 열지 못해 확인하지 못했고, 대신 『본초강목』을 실었다. 옛 莧은 여러 비름 종류를 아우르는 이름이라 오늘날의 비름 한 종과 꼭 같다고 볼 수 없으며, 쇠비름(馬齒莧)은 따로 다룬 별개 항목이다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 서로 다른 과의 식물입니다. 비름은 곧게 서고 잎이 얇고 넓으며, 쇠비름은 땅에 퍼지고 잎과 줄기가 통통하며 노란 꽃이 핍니다.",
+      "q": "비름과 쇠비름은 같은 나물인가요?"
+    },
+    {
+      "a": "보통은 데쳐서 먹습니다. 비름속 채소를 끓이면 옥살산과 질산염이 줄었다는 연구가 있어 데쳐 먹는 편이 무난합니다.",
+      "q": "비름은 날로 먹어도 되나요?"
+    },
+    {
+      "a": "되도록 빨리 먹는 것이 좋습니다. 데친 비름을 냉장 보관하거나 다시 데우면 아질산염이 늘었다는 연구가 있습니다.",
+      "q": "데친 비름나물은 얼마나 두고 먹어도 되나요?"
+    },
+    {
+      "a": "지역에서는 비름을 참비름이라고도 부르지만, 연구에 따라 개비름(Amaranthus lividus)을 참비름이라 부른 예도 있어 이름만으로는 단정하기 어렵습니다.",
+      "q": "참비름과 비름은 같은 건가요?"
+    }
+  ],
+  "id": {
+    "eat": "어린순을 데쳐 무친 비름나물로 먹는다.",
+    "eng": "",
+    "family": "비름과",
+    "grade": "",
+    "habitat": "인도 쪽에서 들어와 한때 가꾸던 식물로, 지금은 주로 집 가까운 밭둑·빈터에서 저절로 자라는 잡초로 본다.",
+    "look": {
+      "flower": "7월 무렵부터 잎겨드랑이에 작은 꽃이 동그랗게 뭉쳐 피고, 가지 끝에서는 이삭처럼 길게 이어진다. 꽃잎은 없고 꽃받침만 있다.",
+      "fruit": "열매는 타원형으로 꽃받침보다 짧고, 가운데가 옆으로 갈라져 뚜껑처럼 열린다.",
+      "leaf": "잎은 어긋나게 달리며 넓은 달걀꼴로 길이 4~12cm 정도이고, 끝이 둔하거나 살짝 오목하며 가장자리는 밋밋하다.",
+      "stem": "키는 1m 안팎까지 자라고 굵은 가지가 여럿 갈라진다."
+    },
+    "parts": "어린순과 잎",
+    "prep": "어린순을 끓는 물에 데친 뒤 찬물에 헹궈 나물로 쓴다. 비름속 채소를 끓이면 옥살산과 질산염 같은 성분이 뚜렷이 줄었다는 연구가 있어(아마란투스 크루엔투스 대상), 날로 많이 먹기보다 데쳐 먹는 편이 무난하다.",
+    "sci": "Amaranthus mangostanus L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 비름",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025132"
+      },
+      {
+        "title": "세걸산의 관속식물상 (국가표준식물목록 기준 학명 목록)",
+        "url": "https://koreascience.kr/article/JAKO201611366455573.pdf"
+      },
+      {
+        "title": "충남 내륙지역 민속식물의 전통지식 (Korean J. Plant Res. 2014)",
+        "url": "https://koreascience.kr/article/JAKO201426636276641.pdf"
+      },
+      {
+        "title": "Effect of processing methods on some nutrients, antinutrients and toxic substances in amaranthus cruentus (2011)",
+        "url": "https://pesquisa.bvsalud.org/gim/resource/en/sea-161783"
+      },
+      {
+        "title": "Changes in Nitrate and Nitrite Levels of Blanched Amaranthus During Refrigeration Storage",
+        "url": "https://ejournal.ukm.my/jskm/article/view/1322"
+      },
+      {
+        "title": "POWO - Amaranthus mangostanus L.",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:59572-1"
+      }
+    ],
+    "store": "데친 비름을 냉장 보관하거나 다시 데우면 질산염이 아질산염으로 바뀌는 양이 늘었다는 연구가 있으므로, 데친 나물은 오래 두지 말고 되도록 빨리 먹는다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 비름",
+      "url": "https://encykorea.aks.ac.kr/Article/E0025132"
+    },
+    {
+      "title": "A newly naturalized species in Korea: Amaranthus powellii (Korean Journal of Plant Taxonomy)",
+      "url": "https://koreascience.kr/article/JAKO201419640882141.page"
+    },
+    {
+      "title": "세걸산의 관속식물상 (국가표준식물목록 기준 학명 목록)",
+      "url": "https://koreascience.kr/article/JAKO201611366455573.pdf"
+    },
+    {
+      "title": "참비름의 라디칼 소거활성 및 콜레스테롤 급이 흰쥐에 대한 혈액 지질성분에 미치는 영향 (한국식품영양과학회지 2012)",
+      "url": "https://koreascience.kr/article/JAKO201215239622027.pdf"
+    },
+    {
+      "title": "충남 내륙지역 민속식물의 전통지식 (Korean J. Plant Res. 2014)",
+      "url": "https://koreascience.kr/article/JAKO201426636276641.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름만 비슷할 뿐 쇠비름과(Portulaca oleracea)에 속하는 전혀 다른 풀이다. 옛 문헌의 '비름' 기록 가운데 상당수가 실제로는 쇠비름 이야기여서 더 헷갈린다.",
+      "name": "쇠비름",
+      "points": [
+        "쇠비름은 줄기가 땅에 눕듯이 퍼지고, 비름은 곧게 서서 1m 가까이 자란다.",
+        "쇠비름은 잎과 줄기가 통통한 다육질이고, 비름 잎은 얇고 넓은 달걀꼴이다.",
+        "쇠비름은 노란 꽃잎이 있는 꽃이 피지만, 비름 꽃은 꽃잎 없이 작은 꽃이 뭉쳐 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 비름속(Amaranthus retroflexus)의 귀화 잡초로, 이름처럼 줄기와 잎에 털이 많은 점이 다르다.",
+      "name": "털비름",
+      "points": [
+        "줄기와 잎을 만져 보아 털이 눈에 띄게 많으면 털비름 쪽이다.",
+        "비름은 국내에서 오래 나물로 써 온 종이고, 털비름은 바깥에서 들어온 잡초로 다룬다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 비름속(Amaranthus lividus)으로, 국가표준식물목록 기준 이름은 개비름이지만 연구 논문에서 '참비름'이라는 이름으로 다룬 예가 있어 이름이 섞여 쓰인다.",
+      "name": "개비름",
+      "points": [
+        "학명으로 확인하면 비름은 Amaranthus mangostanus, 개비름은 Amaranthus lividus로 서로 다르다.",
+        "'참비름'이라는 이름만으로는 어느 종인지 단정하기 어려우니 산지·판매자에게 종을 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Pharmaceutical Sciences and Drug Research",
+        "note": "잎채소로서 비타민·카로티노이드·칼슘·철 같은 영양 성분과 여러 약리 활성 보고를 모은 문헌 정리로, 어떤 성분이 작용하는지는 아직 덜 밝혀졌다고 보았다.",
+        "title": "Amaranthus tricolor: A Nutrient-Dense Functional Food with Promising Therapeutic Potential",
+        "type": "리뷰",
+        "url": "https://ijpsdronline.com/index.php/journal/article/view/10306",
+        "year": "2025"
+      },
+      {
+        "journal": "Tropical Plants",
+        "note": "곡물용 아마란스를 중심으로 채소용 종까지 비름속 작물의 영양 가치와 기후 적응성, 항영양인자 같은 과제를 정리했다.",
+        "title": "From humble beginnings to nutritional powerhouse: the rise of amaranth as a climate-resilient superfood",
+        "type": "리뷰",
+        "url": "https://doi.org/10.48130/tp-0024-0037",
+        "year": "2024"
+      }
+    ],
+    "summary": "비름의 국가표준식물목록 학명 Amaranthus mangostanus는 국제 목록(POWO)에서 Amaranthus tricolor의 이명으로 처리되어, 최근 연구는 주로 A. tricolor 이름으로 나온다. 2023~2026년 자료로는 영양 성분과 항산화 성분을 정리한 리뷰가 중심이며, 약리 작용은 대부분 세포·동물 실험 수준이고 사람 대상 연구로 확인된 효과는 찾지 못했다."
+  },
+  "name": "비름",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 비름",
+        "url": "https://encykorea.aks.ac.kr/Article/E0025132"
+      },
+      {
+        "title": "충남 내륙지역 민속식물의 전통지식 (Korean J. Plant Res. 2014)",
+        "url": "https://koreascience.kr/article/JAKO201426636276641.pdf"
+      }
+    ],
+    "text": "농촌에서는 비름 어린순을 나물로 먹어 왔고, 이질에 쓰기도 했다고 전한다. 충남 내륙의 민속식물 조사에서도 비름은 먹는 풀이자 약으로 쓰는 풀로 기록되었고, 지역에서 '참비름' 같은 이름으로 불렸다."
+  },
+  "updatedAt": 1792487178149
+}

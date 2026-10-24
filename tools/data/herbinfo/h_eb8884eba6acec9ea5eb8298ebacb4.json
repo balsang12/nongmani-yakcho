@@ -1,0 +1,178 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요해 권하지 않습니다. 중국 일부 지역에서 어린잎을 산나물로 먹는다는 보고는 있지만, 국내 식용 근거와 안전성 자료는 충분하지 않습니다.",
+      "q": "누리장나무 잎을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "잎을 문질러 냄새를 맡아 보세요. 땅콩버터 같은 진한 냄새가 나고, 크고 넓은 달걀형 잎이 마주나며, 여름에 흰 꽃, 가을에 붉은 꽃받침 위 남색 열매가 달립니다.",
+      "q": "누리장나무는 어떻게 알아보나요?"
+    },
+    {
+      "a": "꽃은 7월 중순~8월 중순(경기 지역은 6월 초부터), 열매는 9월 말~10월 중순에 익습니다.",
+      "q": "꽃과 열매는 언제 볼 수 있나요?"
+    },
+    {
+      "a": "잎 크기와 꽃 시기가 다릅니다. 오동나무 잎은 15~30cm로 더 크고 밑이 심장 모양이며 5월에 연보라 꽃이 피고, 누리장나무는 7~8월에 흰 꽃이 피고 잎을 문지르면 독특한 냄새가 납니다.",
+      "q": "오동나무와 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "중국 구이저우·후베이·쓰촨·윈난 등지에서는 어린잎을 산나물로 먹는다는 학술 보고가 있으나, 국내 식용 여부와 식품 원료 인정 여부는 확인하지 못했다.",
+    "eng": "Harlequin glorybower",
+    "family": "꿀풀과",
+    "grade": "",
+    "habitat": "강원도·황해도 이남에 자라며 중국·대만·일본에도 분포한다. 햇빛을 좋아하는 나무로 벌채지나 도로변 같은 트인 곳에 많고 빨리 자란다.",
+    "look": {
+      "flower": "7~8월 새 가지 끝에 흰 꽃이 모여 핀다. 꽃잎은 5장, 지름 약 3cm이고, 붉은 꽃받침이 5갈래로 깊게 갈라진다.",
+      "fruit": "9~10월에 지름 6~8mm의 둥근 남색 열매가 익으며, 붉은 꽃받침이 별 모양으로 벌어져 열매를 받친다.",
+      "leaf": "넓은 달걀형 잎이 마주나며 길이 8~20cm로 크다. 가장자리는 밋밋하거나 큰 톱니가 있고, 잎자루가 3~10cm로 길며 털이 있다.",
+      "smell": "잎을 문지르면 땅콩버터 같은 진한 냄새가 난다.",
+      "stem": "높이 2m 안팎의 낙엽 떨기나무로 자라며, 가지 끝의 겨울눈은 뾰족하고 약간 붉은빛을 띤다."
+    },
+    "parts": "잎, 어린 가지, 뿌리(민간 약용). 식품 원료로 쓸 수 있는지 확인이 필요한 품목이다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요하므로 함부로 먹지 않는다. 독성 연구가 오래된 동물 실험 몇 건뿐이라 안전성이 충분히 밝혀지지 않았다.",
+    "sci": "Clerodendrum trichotomum Thunb.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea (국립생물자원관 한반도 식물지) - 누리장나무",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5769/descriptions"
+      },
+      {
+        "title": "Clerodendrum trichotomum Thunb.: a review on phytochemical composition and pharmacological activities (Frontiers in Pharmacology)",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2024.1505851/full"
+      },
+      {
+        "title": "Clerodendrum trichotomum Thunberg—An Ornamental Shrub with Medical Properties (Molecules, 2024)",
+        "url": "https://doi.org/10.3390/molecules29143272"
+      },
+      {
+        "title": "Oregon State University Landscape Plants - Clerodendrum trichotomum",
+        "url": "https://landscapeplants.oregonstate.edu/plants/clerodendrum-trichotomum"
+      }
+    ],
+    "store": "",
+    "taste": "잎을 비비거나 상처 내면 땅콩버터 비슷한 독특한 냄새가 나고, 꽃은 향기가 있다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea (국립생물자원관 한반도 식물지) - 누리장나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5769/descriptions"
+    },
+    {
+      "title": "Flora of Korea - 참오동(오동나무)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5792"
+    },
+    {
+      "title": "Flora of Korea - 작살나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5762"
+    },
+    {
+      "title": "Oregon State University Landscape Plants - Clerodendrum trichotomum",
+      "url": "https://landscapeplants.oregonstate.edu/plants/clerodendrum-trichotomum"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "Paulownia tomentosa(참오동) 등. 크고 넓은 잎이 마주나는 점이 비슷해 어린 나무 때 헷갈릴 수 있다.",
+      "name": "오동나무",
+      "points": [
+        "누리장나무 잎은 길이 8~20cm이고, 오동나무 잎은 15~30cm(때로 50cm)로 훨씬 크며 밑이 심장 모양이다.",
+        "오동나무는 5월에 연보라 깔때기 모양 꽃이 피고, 누리장나무는 7~8월에 흰 꽃이 핀다.",
+        "누리장나무 잎을 문지르면 땅콩버터 같은 냄새가 난다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "Callicarpa japonica. 잎이 마주나고 가을에 작은 색 열매가 달리는 떨기나무라 헷갈릴 수 있다.",
+      "name": "작살나무",
+      "points": [
+        "작살나무 잎은 3~12cm로 작고 가장자리에 날카로운 톱니가 있다.",
+        "작살나무는 지름 4~5mm의 보라색 열매가 잎겨드랑이에 모여 달리고, 누리장나무는 붉은 꽃받침 위에 남색 열매가 달린다.",
+        "작살나무 꽃은 연보라색으로 6~7월에 핀다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "Clerodendrum cyrtophyllum(가칭). 중국식물지가 국내 분포종으로 보고한 근연종으로 주로 전남 섬 지역에서 확인된다.",
+      "name": "좀누리장나무",
+      "points": [
+        "좀누리장나무는 잎 폭이 약 5cm인 긴 달걀형이고, 누리장나무는 잎 폭이 9~10cm로 넓다.",
+        "좀누리장나무 꽃은 약 2cm로, 약 3cm인 누리장나무보다 작다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "성분과 보고된 약리 작용을 정리했으며, 독성 연구는 오래된 동물 실험 몇 건에 그쳐 부족하다고 짚었다.",
+        "title": "Clerodendrum trichotomum Thunb.: a review on phytochemical composition and pharmacological activities",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1505851",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "민간 약용 쓰임과 시험관·동물 실험 결과를 정리하고, 의약 활용 전에 안전성·효능·용량 연구가 더 필요하다고 결론지었다.",
+        "title": "Clerodendrum trichotomum Thunberg-An Ornamental Shrub with Medical Properties",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules29143272",
+        "year": "2024"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "뿌리에서 분리한 디테르페노이드 성분이 손상을 유도한 신경세포(HT22)에서 보호 작용을 보이는지 살폈다.",
+        "title": "Isolation, structural transformation and neuroprotective activity of abietane diterpenoids from the roots of Clerodendrum trichotomum",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.fitote.2025.106488",
+        "year": "2025"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "분리한 성분들을 당 분해 효소 억제와 PPAR-γ 수용체 활성 시험으로 선별한 실험실 연구다.",
+        "title": "Bioactive constituents from Clerodendrum trichotomum and their α-glucosidase inhibitory and PPAR-γ agonist activities",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.fitote.2024.106266",
+        "year": "2024"
+      },
+      {
+        "journal": "Photodermatology, Photoimmunology & Photomedicine",
+        "note": "추출물이 자외선 B로 피부 손상을 준 털 없는 생쥐와 사람 각질세포에서 손상 지표를 줄였다고 보고했다.",
+        "title": "Clerodendrum trichotomum Extract Attenuates UV-B-Induced Skin Impairment in Hairless Mice by Inhibiting MAPK Signaling",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1111/phpp.13011",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 리뷰들은 누리장나무에서 페닐프로파노이드·플라보노이드·테르페노이드 등 여러 성분이 보고되었고, 혈압 강하·항염 등 작용이 주로 시험관과 동물 실험에서 관찰되었다고 정리했다. 사람 대상 임상 근거는 없고 안전성·용량 연구가 더 필요하다고 밝혔다."
+  },
+  "name": "누리장나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Clerodendrum trichotomum Thunb.: a review on phytochemical composition and pharmacological activities (Frontiers in Pharmacology)",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2024.1505851/full"
+      },
+      {
+        "title": "Clerodendrum trichotomum Thunberg—An Ornamental Shrub with Medical Properties (Molecules, 2024)",
+        "url": "https://doi.org/10.3390/molecules29143272"
+      }
+    ],
+    "text": "중국에서는 취오동(臭梧桐)이라 부르며, 잎·줄기·뿌리·꽃·열매를 민간에서 류머티즘, 반신마비, 고혈압, 편두통, 학질, 이질 등에 써 왔다고 학술 리뷰가 정리하고 있다. 원산지인 한국·중국·일본에서는 주로 잎과 어린 가지를 약으로 썼다."
+  },
+  "updatedAt": 1792789248965
+}

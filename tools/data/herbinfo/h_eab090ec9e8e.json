@@ -1,0 +1,178 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "차용은 5월 중순~6월 초, 반찬용은 잎이 연한 4월 말~5월 말이 알맞습니다. 6월 중순이 지나면 잎이 두꺼워지고 색이 짙어집니다.",
+      "q": "감잎은 언제 따나요?"
+    },
+    {
+      "a": "잎을 씻어 그늘에서 2~3일 말리고 잘게 썰어 찐 뒤 다시 말립니다. 마실 때는 말린 잎 2~3g을 70℃ 정도로 식힌 물 100ml에 15분가량 우립니다.",
+      "q": "감잎차는 어떻게 만들고 우리나요?"
+    },
+    {
+      "a": "방제를 시작하기 전인 4월 말~5월 중순 잎을 쓰면 걱정이 적습니다. 감나무 병해충 방제는 보통 6월 초부터 시작됩니다.",
+      "q": "감나무 잎에 농약이 걱정되는데요?"
+    },
+    {
+      "a": "잎만으로는 비슷하니 가지와 열매를 함께 봅니다. 감나무는 어린 가지에 털이 많고 겨울눈 눈비늘이 4개이며 잎이 더 크고, 고욤나무는 잎 뒷면이 회녹색이고 열매가 지름 1.5cm 정도로 작게 검게 익습니다.",
+      "q": "고욤나무 잎과 감잎은 어떻게 구별하나요?"
+    },
+    {
+      "a": "1% 소금물에 1분 30초 정도 데치면 색이 덜 변합니다. 데친 잎으로 장아찌나 김치를 담그고, 부각은 데치지 않은 5월 중순 잎에 찹쌀풀을 발라 말려 튀깁니다.",
+      "q": "감잎을 나물·반찬으로 먹으려면 어떻게 손질하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 잎 2~3g을 70℃ 정도로 식힌 물 100ml에 15분가량 우려 감잎차로 마신다. 어린잎은 간장 장아찌, 김치, 찹쌀풀을 발라 말려 튀긴 부각 같은 반찬으로도 먹는다.",
+    "eng": "Persimmon leaf",
+    "family": "감나무과",
+    "grade": "감잎의 공식 등급 기준은 찾지 못했다. 연구에 따르면 차용 감잎은 꽃 필 무렵인 5월 중순~6월 초에 딴 것이 주요 성분 함량이 높고, 6월 중순 이후 잎은 두꺼워지고 색이 짙어진다. 반찬용은 잎이 연한 4월 말~5월 말 것이 알맞다.",
+    "habitat": "중국·일본 등 동아시아가 원산지이며 우리나라에서는 경기도 이남에서 주로 재배한다. 햇빛을 좋아하고 습기가 있으면서 볕이 잘 드는 완만한 비탈에서 잘 자라며, 집 주변이나 밭둑에 심은 나무가 많다.",
+    "look": {
+      "flower": "5~6월에 잎겨드랑이에 황백색 꽃이 피며, 꽃잎과 꽃받침이 각각 4장이다.",
+      "fruit": "지름 4~8cm의 달걀꼴 또는 납작한 공 모양이며 10월에 붉은 노란빛으로 익는다.",
+      "leaf": "어긋나게 달리고 두꺼운 타원형~달걀꼴이며 길이 7~17cm, 너비 4~10cm로 큼직하다. 가장자리에 톱니가 없고 잎자루에 털이 있으며, 6월 중순이 지나면 잎이 두꺼워지고 색이 짙어진다.",
+      "stem": "높이 14m 정도까지 자라는 낙엽 큰키나무로, 어린 가지에 짧은 털이 많고 겨울눈의 눈비늘은 4개다."
+    },
+    "parts": "잎(주로 봄~초여름의 어린잎)",
+    "prep": "차용은 딴 잎을 씻어 그늘에서 2~3일 말린 뒤 잘게 썰어 찌고 다시 말린다. 반찬용 어린잎은 1% 소금물에 1분 30초 정도 데치면 색 변화가 적다. 감나무 병해충 방제는 보통 6월 초부터 시작되므로, 농약 걱정이 적은 4월 말~5월 중순 잎을 쓰는 것이 권장된다.",
+    "sci": "Diospyros kaki Thunb.",
+    "season": {
+      "collect": [
+        4,
+        5,
+        6
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목(Flora Korea) - 감나무(Diospyros kaki)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5193"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 감나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0000705"
+      },
+      {
+        "title": "정선화 외, 감잎차 제조를 위한 감잎의 성장시기별 함유 성분의 변화, 한국식품과학회지 26(2), 1994",
+        "url": "https://koreascience.kr/article/JAKO199403042004275.page"
+      },
+      {
+        "title": "노영균 외, 감잎차를 위한 품종별 감잎생산력과 성분분석, 한국식품저장유통학회지 7(1), 2000",
+        "url": "https://koreascience.kr/article/JAKO200011919833626.pub?lang=ko"
+      },
+      {
+        "title": "대한급식신문 - 감잎의 변신, 반찬으로 만난다 (경북농업기술원 상주감연구소, 2022)",
+        "url": "https://www.fsnews.co.kr/news/articleView.html?idxno=45377"
+      },
+      {
+        "title": "Wikipedia - Gamnip-cha (감잎차)",
+        "url": "https://en.wikipedia.org/wiki/Gamnip-cha"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora Korea) - 감나무속(Diospyros) 종 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5192"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 감나무(Diospyros kaki)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5193"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 고욤나무(Diospyros lotus)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5194"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 감나무",
+      "url": "https://encykorea.aks.ac.kr/Article/E0000705"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "고욤나무(Diospyros lotus)는 감나무와 같은 속의 나무로, 감나무를 접붙일 때 대목으로 쓸 만큼 가깝고 잎도 톱니 없는 타원형이라 비슷하다. 겨울눈, 가지의 털, 잎 크기, 열매로 가린다.",
+      "name": "고욤",
+      "points": [
+        "감나무 겨울눈은 눈비늘이 4개, 고욤나무는 2개다.",
+        "감나무는 어린 가지에 털이 많고, 고욤나무는 처음에 털이 있다가 차츰 없어진다.",
+        "고욤나무 잎은 길이 6~12cm로 감잎(7~17cm)보다 작은 편이고, 뒷면이 회녹색이며 맥 위에 굽은 털이 있다.",
+        "고욤 열매는 지름 약 1.5cm로 노란색에서 검은색으로 익고, 감은 지름 4~8cm로 붉은 노란빛으로 익는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "중국에서 수행된 감잎 추출물 무작위 대조 시험 16편(1,572명)을 모아 혈중 지질 변화를 분석했으며, 근거 수준은 낮음~매우 낮음으로 평가되었다.",
+        "title": "Persimmon leaf extract in dyslipidemia: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1572678",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "감잎의 플라보노이드·트리테르펜 성분을 산화 스트레스 관점에서 정리한 리뷰다.",
+        "title": "A Review: Pharmacological Effect of Natural Compounds in Diospyros kaki Leaves from the Perspective of Oxidative Stress",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules29010215",
+        "year": "2024"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "감잎 메탄올 추출물이 대장암 세포의 미토콘드리아 기능에 미치는 영향을 세포 수준에서 살핀 연구다.",
+        "title": "Methanolic Extract of the Nutritional Plant (Diospyros kaki Thunb.) Exhibits Anticancer Activity by Inducing Mitochondrial Dysfunction in Colorectal Cancer Cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/nu16213742",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "감잎의 영양 성분과 식품·의약·산업적 활용 가능성을 정리한 리뷰다.",
+        "title": "Persimmon Leaves: Nutritional, Pharmaceutical, and Industrial Potential—A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/plants12040937",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 사이 감잎(Diospyros kaki 잎) 연구는 플라보노이드 등 항산화 성분을 다룬 리뷰와 세포 실험이 중심이다. 사람 대상으로는 중국의 감잎 추출물 제제 임상시험을 모은 메타분석이 있으나, 저자들 스스로 근거 수준을 낮음~매우 낮음으로 평가해 결론은 조심스럽게 보아야 한다."
+  },
+  "name": "감잎",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 감나무",
+        "url": "https://encykorea.aks.ac.kr/Article/E0000705"
+      },
+      {
+        "title": "Persimmon leaf extract in dyslipidemia: a systematic review and meta-analysis (Front Pharmacol, 2025)",
+        "url": "https://doi.org/10.3389/fphar.2025.1572678"
+      }
+    ],
+    "text": "한국민족문화대백과사전에 따르면 감잎은 고혈압에 좋다고 알려져 예로부터 차로 달여 마시는 일이 많았다. 감나무는 잎 외에도 익은 열매를 날로 먹거나 곶감으로 말리고, 덜 익은 열매에서 짠 감물을 방부·염색에 쓰는 등 쓰임이 다양했다. 중국에서는 감잎 추출물 제제가 쓰이고 있어 이를 대상으로 한 임상 연구들이 보고되어 있다."
+  },
+  "updatedAt": 1792443723000
+}

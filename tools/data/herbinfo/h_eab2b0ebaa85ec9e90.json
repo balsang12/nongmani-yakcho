@@ -1,0 +1,200 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "決明子",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "차로 쓸 때는 볶아서 쓰는 것이 기본입니다. 씨 껍질이 매우 단단해 날것으로는 잘 우러나지 않기 때문에 씻어서 물기를 뺀 뒤 약한 불에 볶아 끓여 마십니다.",
+      "q": "결명자는 날로 먹어도 되나요?"
+    },
+    {
+      "a": "물 1L에 볶은 결명자 10~15g을 넣고, 끓으면 약불로 줄여 20분쯤 더 끓이면 됩니다. 양을 많이 넣거나 너무 오래 끓이면 쓴맛이 납니다.",
+      "q": "결명자차는 어떻게 끓이나요?"
+    },
+    {
+      "a": "볶은 결명자는 겉모습으로 국산과 중국산을 구별하기 어렵습니다. 원산지 표시가 분명한 곳에서 사고, 가능하면 같은 판매처의 볶지 않은 씨도 함께 확인해 보세요.",
+      "q": "국산과 중국산은 어떻게 구별하나요?"
+    },
+    {
+      "a": "국내산은 9~11월에 거둡니다. 주산지는 전라북도와 충청북도입니다.",
+      "q": "결명자 제철은 언제인가요?"
+    },
+    {
+      "a": "방습제를 넣은 밀폐 용기에 담아 서늘하고 통풍이 잘되는 곳에 둡니다. 오래 두려면 냉동, 짧게 두려면 냉장 보관이 좋습니다.",
+      "q": "결명자는 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "볶은 결명자를 물 1L에 10~15g 넣고 끓기 시작하면 약불로 줄여 20분쯤 더 끓여 보리차처럼 마신다. 너무 많이 넣거나 오래 끓이면 쓴맛이 난다.",
+    "eng": "",
+    "family": "콩과",
+    "grade": "약전 기준으로 결명차 씨는 길이 3~6mm, 지름 2~4mm의 짧은 원기둥 모양으로 한쪽 끝이 뾰족하고, 결명 씨는 겉이 녹갈색~어두운 갈색으로 매끈하고 광택이 난다. 볶은 제품은 국산과 중국산을 눈으로 가리기 어려우므로 원산지가 분명한 곳에서 사고, 같은 곳의 볶지 않은 씨를 함께 확인하는 것이 좋다.",
+    "habitat": "한해살이풀로 국내에서는 밭에 심어 기른다. 주산지는 전라북도·충청북도이며, 국립식량과학원이 육성한 '명윤결명' 품종이 있다. 대한민국약전은 결명차(Cassia tora)와 결명(Cassia obtusifolia) 두 종의 씨를 모두 결명자로 인정한다.",
+    "look": {
+      "flower": "노란 꽃잎 5장의 꽃이 잎겨드랑이에 달리며 꽃잎 크기가 서로 조금씩 다르다.",
+      "fruit": "꼬투리는 가늘고 긴 원기둥 모양으로 약간 낫처럼 휘며 길이 10~15cm 정도이다. 꼬투리 하나에 윤기 나는 씨가 20~30개 들어 있다.",
+      "leaf": "작은잎 3쌍으로 된 짝수 깃꼴겹잎이고, 작은잎은 끝이 넓고 둥근 거꿀달걀 모양이며 위쪽 잎일수록 크다. 아래쪽 두 쌍의 작은잎 사이 잎축에 2mm 정도의 뾰족한 샘이 있다.",
+      "smell": "식물체를 만지면 고약한 냄새가 난다(결명 S. obtusifolia는 냄새가 덜하다).",
+      "stem": "높이 1m 안팎까지 자라는 풀이며 털이 거의 없다."
+    },
+    "parts": "잘 익은 씨(주로 볶아서 차로 씀)",
+    "prep": "씨를 깨끗이 씻어 물기를 뺀 뒤 약한 불에 볶아 쓴다. 껍질이 매우 단단해 날것으로는 성분이 잘 우러나지 않기 때문에 시중품도 대부분 볶은 상태로 팔린다.",
+    "sci": "Senna tora (L.) Roxb.",
+    "season": {
+      "collect": [
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "농식품정보누리(농식품올바로) 제철농식품 - 결명자",
+        "url": "https://www.foodnuri.go.kr/portal/bbs/B0000283/view.do?nttId=219958&menuNo=300063&selectMonth=11&searchCnd=&searchWrd=&deleteCd=0&pageIndex=1"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 결명자(Cassiae Semen)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_13.pdf"
+      },
+      {
+        "title": "Senna tora 외 Senna 속 수집 유전자원의 농업적 특성 조사(농촌진흥청 인삼특작부 외, 2016)",
+        "url": "https://koreascience.kr/article/CFKO201614956121265.pdf"
+      },
+      {
+        "title": "Caesalpinioideae of Malesia - Senna tora",
+        "url": "https://caesalpinioideae.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=91941"
+      },
+      {
+        "title": "Caesalpinioideae of Malesia - Senna obtusifolia",
+        "url": "https://caesalpinioideae.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=91932"
+      }
+    ],
+    "store": "방습제를 넣은 밀폐 용기에 담아 덥고 습한 곳을 피해 서늘하고 바람이 잘 통하는 곳에 둔다. 짧게 둘 것은 냉장, 오래 둘 것은 냉동 보관이 좋다.",
+    "taste": "씨에 특유한 냄새와 맛이 있고, 결명(S. obtusifolia) 쪽은 맛이 약간 쓰다. 차로 진하게 오래 끓이면 쓴맛이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "PROSEA - Senna occidentalis",
+      "url": "https://uses.plantnet-project.org/en/Senna_occidentalis_(PROSEA)"
+    },
+    {
+      "title": "LiverTox (NCBI Bookshelf) - Senna",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK547922/"
+    },
+    {
+      "title": "Caesalpinioideae of Malesia - Senna tora",
+      "url": "https://caesalpinioideae.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=91941"
+    },
+    {
+      "title": "위키백과 - 차풀",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%A8%ED%92%80"
+    },
+    {
+      "title": "농식품정보누리(농식품올바로) 제철농식품 - 결명자",
+      "url": "https://www.foodnuri.go.kr/portal/bbs/B0000283/view.do?nttId=219958&menuNo=300063&selectMonth=11&searchCnd=&searchWrd=&deleteCd=0&pageIndex=1"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "같은 센나속의 Senna occidentalis로, 씨를 볶아 커피 대용으로 쓰는 지역도 있지만 날씨에는 독성이 있어 많이 먹으면 목숨이 위험할 수 있다. 인도에서는 이 씨나 꼬투리를 먹은 어린이들에게 간·근육·뇌 손상이 집단 발생한 보고가 있다.",
+      "name": "석결명",
+      "points": [
+        "결명자는 작은잎이 3쌍이고 끝이 둥글지만, 석결명은 작은잎이 3~6쌍이고 끝이 뾰족하다.",
+        "석결명은 잎자루 밑부분에 크고 붉은 샘이 있다.",
+        "결명자 씨는 마름모꼴~짧은 원기둥 모양이지만, 석결명 씨는 납작하고 동그란 올리브 갈색이다.",
+        "석결명 꼬투리는 납작하고 폭이 0.7~1cm로 결명자 꼬투리(폭 약 0.5cm)보다 넓다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "우리나라와 중국 등지에 자라는 콩과 한해살이풀로, 7~8월에 딴 어린 열매를 그늘에 말려 차 대용으로 쓰기 때문에 결명자와 헷갈리기 쉽다.",
+      "name": "차풀",
+      "points": [
+        "차풀은 키 30~60cm로 결명자(약 1m)보다 작다.",
+        "차풀 꼬투리는 납작한 타원형이고 겉에 털이 있으나, 결명자 꼬투리는 가늘고 길며 원기둥 모양이다.",
+        "차풀 꽃은 7~8월에 노랗게 잎겨드랑이에 1~2개씩 달린다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "볶은 결명자를 흑미로 잘못 알고 밥에 넣는 일이 많다고 한다. 해롭지는 않지만 밥맛을 버리므로 따로 표시해 보관한다.",
+      "name": "흑미",
+      "points": [
+        "결명자 씨는 한쪽 끝이 뾰족한 짧은 원기둥(마름모) 모양이고 껍질이 매우 단단하다.",
+        "흑미는 쌀알 모양의 길쭉한 낟알이다.",
+        "결명자는 특유한 냄새가 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "결명자의 전통적 쓰임과 체중·지방 대사 관련 실험 연구들을 묶어 정리한 문헌 고찰이다.",
+        "title": "The anti-obesity potential of Cassiae Semen: A review based on ethnopharmacology and modern pharmacology",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41791619/",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "고지방 먹이로 혈중 지질을 높인 쥐에서 결명자 추출물을 먹였을 때 혈중 지질 수치와 간 지방이 줄어든 결과를 보고했으며, 안전성 자체는 평가하지 않았다.",
+        "title": "Cassiae semen extract ameliorates hyperlipidemia in rats by modulating lipid metabolism and FcγR-mediated immune regulation",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1546119",
+        "year": "2025"
+      },
+      {
+        "journal": "Medicina",
+        "note": "중년층이 결명자차를 하루 두 잔씩 6개월 마신 뒤 눈물량·안압·근거리 시력 지표가 나아졌다고 보고했으나, 대조군 설계와 수치 보고에 일관성이 부족한 한계가 있다.",
+        "title": "Improvement of Presbyopia, Dry Eye, Intraocular Pressure, and Near Vision Through Cassiae Tea Consumption",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/medicina61010035",
+        "year": "2025"
+      },
+      {
+        "journal": "Toxics",
+        "note": "쥐에게 결명자 물 추출물을 28일간 먹였을 때 가장 높은 용량에서 신장 손상 지표가 올라갔고, 그 기전으로 세포 골격 단백질의 교란을 제시했다.",
+        "title": "Actin Dysregulation Mediates Nephrotoxicity of Cassiae Semen Aqueous Extracts",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/toxics12080556",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구 대부분은 동물·세포 실험으로, 안트라퀴논류 성분을 중심으로 지질대사·비만 관련 작용을 살핀 것이 많다. 사람 대상으로는 결명자차를 6개월 마신 뒤 눈 관련 지표를 본 시험이 있으나 설계와 보고에 한계가 있어 해석에 주의가 필요하다. 쥐에 아주 많은 양의 물 추출물을 28일간 먹인 실험에서 신장 손상 지표가 나타났으므로, 차로 적당히 마시는 수준을 넘어 진하게 많이 오래 먹는 것은 피하는 편이 안전하다."
+  },
+  "name": "결명자",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "농식품정보누리(농식품올바로) 제철농식품 - 결명자",
+        "url": "https://www.foodnuri.go.kr/portal/bbs/B0000283/view.do?nttId=219958&menuNo=300063&selectMonth=11&searchCnd=&searchWrd=&deleteCd=0&pageIndex=1"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 - 결명자(Cassiae Semen)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_13.pdf"
+      },
+      {
+        "title": "Senna tora 외 Senna 속 수집 유전자원의 농업적 특성 조사(농촌진흥청 인삼특작부 외, 2016)",
+        "url": "https://koreascience.kr/article/CFKO201614956121265.pdf"
+      }
+    ],
+    "text": "결명자라는 이름은 '눈을 밝게 하는 씨'라는 뜻으로, 한방에서 약재로 써 왔고 우리나라에서는 예부터 차로도 흔히 마셨다. 대한민국약전에 결명차와 결명의 잘 익은 씨가 '결명자'로 실려 있다. 한방에서는 성질이 약간 차다고 보며, 볶으면 찬 성질이 조금 누그러진다고 설명한다."
+  },
+  "updatedAt": 1792400388863
+}

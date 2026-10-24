@@ -1,0 +1,190 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "껍질을 꺾었을 때 은백색의 탄력 있는 가는 실이 촘촘하게 이어지면 두충의 특징입니다. 두께 2~7mm의 판 모양이고 안쪽 면이 매끈한 어두운 갈색~자줏빛인지도 함께 봅니다.",
+      "q": "진짜 두충은 어떻게 알아보나요?"
+    },
+    {
+      "a": "수액이 많아 껍질이 잘 벗겨지는 5~6월이 알맞다고 합니다. 벗긴 껍질은 주로 그늘에서 말립니다.",
+      "q": "두충 껍질은 언제 벗기나요?"
+    },
+    {
+      "a": "두충은 줄기껍질, 두충엽은 잎을 말린 것으로 약재 기준이 따로 있습니다. 껍질은 판 모양이고, 잎은 길이 7~10cm의 타원형으로 찢으면 고무질 실이 늘어납니다.",
+      "q": "두충과 두충엽은 무엇이 다른가요?"
+    },
+    {
+      "a": "바람이 잘 통하고 습기가 적은 곳에 두세요. 습하면 곰팡이가 생기기 쉽습니다.",
+      "q": "두충은 어떻게 보관하나요?"
+    },
+    {
+      "a": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이라 스스로 끓여 먹는 것은 권하지 않습니다. 필요하면 전문가와 상의하세요.",
+      "q": "두충을 차로 마셔도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Eucommia (hardy rubber tree)",
+    "family": "두충과(Eucommiaceae)",
+    "grade": "껍질을 꺾었을 때 은백색의 탄력 있는 실이 촘촘하게 이어지는지 본다. 식약처 생약 기준으로 수피는 건조감량 10% 이하, 회분 8% 이하, 묽은 에탄올 엑스 9% 이상이어야 한다.",
+    "habitat": "중국 서남부(사천·귀주 등) 원산의 잎 지는 큰키나무로, 우리나라에는 들여와 재배한다. 경남·북(구미·함양·진주 등)에서 많이 기르며, 추위에 약해 경기 북부와 강원 내륙을 뺀 지역에서 배수가 잘되고 부식질이 많은 기름진 땅에 심는다.",
+    "look": {
+      "flower": "암수딴그루이고 꽃잎이 없으며, 4월 하순~5월 초 어린 가지에 연녹색 꽃이 달린다.",
+      "fruit": "열매는 길이 2.5~3.5cm의 긴 타원형으로 가장자리에 날개가 있고 10월 하순에 익는다.",
+      "leaf": "잎은 어긋나고 길이 5~16cm의 타원형으로 끝이 뾰족하며 가장자리에 톱니가 있다. 잎을 찢으면 실 같은 고무질이 늘어나 두 조각이 이어진다.",
+      "smell": "말린 껍질은 냄새가 약하고 맛이 약간 쓰다.",
+      "stem": "나무껍질은 회갈색~흑회색이고 세로로 불규칙하게 갈라진다. 껍질을 꺾거나 자르면 가늘고 흰 고무질 실이 나온다."
+    },
+    "parts": "줄기껍질(두충)과 잎(두충엽)을 한약재로 쓴다. 식품 원료로 쓸 수 있는지는 따로 확인이 필요하다.",
+    "prep": "식품 원료로 쓸 수 있는지 확인이 필요한 품목이므로 차·술로 함부로 먹지 않는다. 약재로는 수액이 많아 껍질이 잘 벗겨지는 5~6월에 껍질을 벗겨 주로 그늘에서 말리며, 생강즙·소금물 등으로 가공한 강두충·염두충 같은 가공품도 있다.",
+    "sci": "Eucommia ulmoides Oliv.",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 생약 재배·품질 자료 - 두충(杜冲), 두충엽(杜冲葉)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3-01.pdf"
+      },
+      {
+        "title": "산림청 임산물 재배 자료 - 두충나무",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_05_05.pdf"
+      },
+      {
+        "title": "홍콩 중약재 표준(HKCMMS) 제3권 - Cortex Eucommiae",
+        "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Cortex_Eucommiae_v3_e.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 두충",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017041"
+      },
+      {
+        "title": "Trees and Shrubs Online - Eucommia ulmoides",
+        "url": "https://www.treesandshrubsonline.org/articles/eucommia/eucommia-ulmoides/"
+      }
+    ],
+    "store": "말린 껍질은 바람이 잘 통하고 습기가 적은 곳에 둔다. 덜 마르거나 습하면 곰팡이가 생기기 쉽다.",
+    "taste": "말린 껍질은 냄새가 약하고 맛이 약간 쓰다. 말린 잎은 특유의 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "식품의약품안전처 생약 재배·품질 자료 - 두충(杜冲), 두충엽(杜冲葉)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3-01.pdf"
+    },
+    {
+      "title": "산림청 임산물 재배 자료 - 두충나무",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_05_05.pdf"
+    },
+    {
+      "title": "홍콩 중약재 표준(HKCMMS) 제3권 - Cortex Eucommiae",
+      "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Cortex_Eucommiae_v3_e.pdf"
+    },
+    {
+      "title": "Trees and Shrubs Online - Eucommia ulmoides",
+      "url": "https://www.treesandshrubsonline.org/articles/eucommia/eucommia-ulmoides/"
+    },
+    {
+      "title": "혈압강하제 국산 자원생약의 개발에 관한 연구(I) - 한국산 두충과 원두충, 화두충과 대두충의 형태학적 비교 (생약학회지, 1975)",
+      "url": "https://koreascience.or.kr/article/JAKO197503041176527.page?lang=ko"
+    },
+    {
+      "title": "Chemical variance in different parts of Eucommia ulmoides by HPTLC, TLC/MS and HPLC hyphenated techniques (중초약, 2023)",
+      "url": "https://www.tiprpress.com/zcy/article/pdf/20232125"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "사철나무(Euonymus japonicus) 껍질은 1975년 국내 생약 연구에서 두충 껍질과 형태를 견주어 본 대상이었고, 산림청 자료에도 두충의 다른 이름(원두충·화두충)이 사철나무 껍질과 비교하려고 붙었다고 적혀 있을 만큼 두충과 함께 거론돼 왔다. 서로 다른 식물이므로 껍질만 보고 헷갈리지 않도록 정품 특징을 확인한다.",
+      "name": "사철나무",
+      "points": [
+        "정품 두충 껍질은 꺾으면 은백색의 탄력 있는 가는 실이 촘촘하게 이어진다.",
+        "정품 두충 껍질은 두께 2~7mm의 판 모양이고, 안쪽 면은 매끈하고 어두운 갈색~자줏빛이다.",
+        "이런 특징이 뚜렷하지 않으면 판매처에 기원 식물과 원산지를 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "두충나무는 학명(ulmoides, 느릅나무를 닮았다는 뜻)처럼 날개 달린 열매와 전체 모습이 느릅나무류를 닮았다는 기록이 있다.",
+      "name": "느릅나무",
+      "points": [
+        "두충나무 잎은 찢으면 실 같은 고무질이 늘어나 두 조각이 이어진다.",
+        "두충나무 껍질을 꺾거나 자르면 흰 고무질 실이 나온다.",
+        "두충나무 열매는 길이 2.5~3.5cm의 긴 타원형 날개 열매다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 두충나무의 잎을 말린 것으로 약재 기준이 따로 있다. 껍질(두충)과 잎·꽃·씨 같은 다른 부위가 시판 제품에 섞여 쓰이기도 한다는 지적이 있다.",
+      "name": "두충엽",
+      "points": [
+        "두충(수피)은 두께 2~7mm의 판 모양 껍질이고, 두충엽은 길이 7~10cm, 너비 4~6cm의 타원형 잎이다.",
+        "두충엽은 윗면이 녹색이고 뒷면이 회록색이며 부서지기 쉽고, 찢으면 고무질 실이 늘어난다.",
+        "껍질을 사려는지 잎을 사려는지 제품명(두충/두충엽)을 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "뼈 건강과 관련된 세포·동물·사람 연구 90편을 훑어본 리뷰로, 대부분 동물 실험이고 사람 대상 근거는 아직 예비 단계라고 정리했다.",
+        "title": "Traditional medicine in a modern light: a scoping review on the osteoprotective potential of Eucommia ulmoides",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1673870/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "두충의 주요 성분과 연구된 활용 분야를 폭넓게 정리한 리뷰다.",
+        "title": "From Traditional Medicinal Plant to Modern Pharmacotherapy: A Comprehensive Review of the Bioactive Compounds and Health Applications of Eucommia ulmoides",
+        "type": "리뷰",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12845223/",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "골다공증 쥐 모델에서 두충 추출물을 쓴 실험들을 모아 분석한 것으로, 사람이 아닌 동물 연구를 종합한 결과다.",
+        "title": "Therapeutic effects of Eucommia ulmoides extract on osteoporosis rat models: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1619687/abstract",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "두충과 그 성분이 뼈 질환 연구에서 보인 작용을 정리한 리뷰다.",
+        "title": "Eucommia ulmoides Oliv. and its bioactive compounds: therapeutic potential in bone diseases",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/articles/10.3389/fphar.2025.1601537/full",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 두충과 그 성분(피노레시놀 디글루코시드, 아우쿠빈, 클로로겐산 등)의 뼈 건강·대사 관련 작용을 정리한 리뷰가 많다. 근거의 대부분은 세포·동물(주로 쥐) 실험이며, 사람 대상 연구는 일부 예비 수준의 임상만 있어 크고 엄밀한 임상시험이 더 필요하다고 정리된다."
+  },
+  "name": "두충",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 두충",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017041"
+      },
+      {
+        "title": "산림청 임산물 재배 자료 - 두충나무",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_05_05.pdf"
+      }
+    ],
+    "text": "두충 껍질은 신장이 약해서 오는 허리 통증, 다리에 힘이 없는 증상, 잦은 소변에 쓰는 약재로 정리되며, 유산 기미가 있을 때 쓰는 보산탕, 허리 통증에 쓰는 여신산 같은 처방에 들어간다. 민간에서는 잎을 달여 차처럼 마시기도 했다고 한다. 고려 문종의 풍비증 치료를 위해 두충 껍질을 들여왔다는 기록도 전한다."
+  },
+  "updatedAt": 1792789248966
+}

@@ -1,0 +1,195 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "폐의 기운 때문에 숨이 차고 기침하는 데, 가래를 삭이고 피를 토하는 것을 멈추는 데 쓴다고 적었다.",
+      "음력 2·3·7·8월에 뿌리를 캐서 볕에 말리고, 쓸 때는 물에 담갔다가 쪼개어 심을 뺀다고 적었다.",
+      "뿌리가 굵고 맛이 단 것을 좋은 것으로 보았다.",
+      "우리나라에서는 충청·전라·경상도에서만 난다고 적었다."
+    ],
+    "han": "天門冬",
+    "has": true,
+    "ki": "性寒, 味苦甘, 無毒",
+    "kiKo": "성질이 차고 맛은 쓰면서 달며 독이 없다",
+    "old": "",
+    "orig": "性寒, 味苦甘, 無毒. 治肺氣喘嗽, 消痰, 止吐血. … 二月三月七月八月採根, 暴乾. 用時湯浸, 劈破去心. 以大根味甘者, 爲好. … 我國, 惟忠淸全羅慶尙道有之.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권2 草部 5.5 天門冬",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2459"
+      }
+    ],
+    "verified": true,
+    "warn": "이름이 비슷한 麥門冬(맥문동)과는 다른 약재다. 원문의 채취 달은 음력 기준이다."
+  },
+  "faq": [
+    {
+      "a": "굵고 연한 황갈색으로 반투명하며 꺾은 면에 윤기가 있는 것을 고른다. 약전 규격상 충분히 말라 있어야 하고(건조감량 18% 이하), 동의보감도 굵고 맛이 단 뿌리를 좋다고 했다.",
+      "q": "좋은 천문동은 어떻게 고르나요?"
+    },
+    {
+      "a": "아니다. 천문동은 비짜루속 덩굴식물, 맥문동은 맥문동속 풀의 덩이뿌리로 서로 다른 약재다. 말린 천문동은 길이 5~15cm로 맥문동(1~2.5cm)보다 훨씬 크다.",
+      "q": "천문동과 맥문동은 같은 건가요?"
+    },
+    {
+      "a": "흔하지 않다. 약용으로 많이 캐 가 자생지가 줄었고 국내 수요는 수입품으로 채운다는 연구가 있으니, 원산지 표시를 확인한다.",
+      "q": "국산 천문동은 흔한가요?"
+    },
+    {
+      "a": "덩이뿌리를 씻어 삶거나 찐 뒤 겉껍질을 벗겨 말린다. 옛 방법으로는 쓸 때 물에 불려 쪼갠 뒤 가운데 심을 뺀다.",
+      "q": "천문동은 어떻게 손질하나요?"
+    },
+    {
+      "a": "식품 원료로 어느 부위를 쓸 수 있는지는 식약처 식품원료 목록에서 확인하지 못했다. 먹을 용도라면 판매처에 식품 원료 여부를 확인한다.",
+      "q": "천문동을 식품으로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 덩이뿌리를 한약재로 쓰며, 천문동 즙을 넣어 빚는 천문동주가 옛 문헌에 전한다.",
+    "eng": "Asparagus Tuber (약재 영문명)",
+    "family": "비짜루과(Asparagaceae, 예전 분류로는 백합과)",
+    "grade": "대한민국약전 규격의 천문동은 방추형~원형으로 대개 구부러져 있고 길이 5~15cm, 지름 5~20mm이며, 겉은 연한 황갈색~연한 갈색으로 반투명하고 꺾은 면은 회황색에 윤기가 있다. 건조감량 18.0% 이하, 회분 3.0% 이하, 묽은에탄올엑스 25.0% 이상이어야 한다. 동의보감은 굵고 맛이 단 뿌리를 좋은 것으로 쳤다.",
+    "habitat": "남해안과 서해안, 섬 지역의 바다에서 1km 안팎인 곳에 주로 자라며, 소나무 숲과 덤불 사이에서 많이 보인다. 동해안에서는 확인되지 않았다. 햇빛이 잘 드는 곳에서 덩이뿌리가 더 많이 달린다. 약용으로 많이 캐 가 자생지가 줄었고, 국내 수요는 수입품으로 채우고 있다.",
+    "look": {
+      "flower": "5~6월에 연한 노란색 작은 꽃이 잎겨드랑이에 1~3송이씩 달린다.",
+      "fruit": "열매는 흰색으로 익고 안에 검은 씨가 1개 들어 있다.",
+      "leaf": "잎처럼 보이는 것은 가지가 변한 엽상지로, 1~3개씩 모여 나고 길이 1~2cm의 가는 선형이며 활처럼 굽고 윤기가 있다.",
+      "root": "짧은 뿌리줄기에서 방추형 덩이뿌리가 사방으로 퍼진다. 말린 약재는 길이 5~15cm, 지름 5~20mm이고 연한 황갈색~연한 갈색에 반투명하다.",
+      "smell": "말린 뿌리에서 약간 특유한 냄새가 난다.",
+      "stem": "원줄기가 1~2m까지 뻗는 덩굴성 여러해살이풀로, 가지는 가늘고 매끄럽다."
+    },
+    "parts": "덩이뿌리. 약재는 뿌리를 삶거나 쪄서 겉껍질을 벗기고 말린 것이다. 식품 원료로 쓸 수 있는 부위는 식약처 식품원료 목록에서 확인하지 못했다.",
+    "prep": "캔 덩이뿌리를 씻어 끓는 물에 삶거나 찐 뒤 겉껍질을 벗기고 말린다. 동의보감은 쓸 때 물에 담갔다가 쪼개어 심을 빼낸다고 적었다. 식품으로 날로 먹어도 되는지는 확인하지 못했다.",
+    "sci": "Asparagus cochinchinensis (Lour.) Merr.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "식품의약품안전처 대한민국약전 생약 사진자료 - 천문동(Asparagus Tuber)",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_145.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 천문동(天門冬)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055872"
+      },
+      {
+        "title": "김대향 외, 천문동 자생지 환경 및 생육 특성, 한국약용작물학회지 11(3), 2003",
+        "url": "https://koreascience.or.kr/article/JAKO200303042352319.page?lang=en"
+      },
+      {
+        "title": "Asparagus cochinchinensis: A review of its botany, traditional uses, phytochemistry, pharmacology, and applications (Frontiers in Pharmacology, 2022)",
+        "url": "https://frontiersin.org/articles/10.3389/fphar.2022.1068858/full"
+      }
+    ],
+    "store": "",
+    "taste": "말린 뿌리는 처음엔 달고 나중에 약간 쓰며, 약간 특유한 냄새가 있다."
+  },
+  "lookSources": [
+    {
+      "title": "Temperate Plants Database - Asparagus schoberioides (Flora of China·Flora of the USSR 인용)",
+      "url": "https://temperate.theferns.info/plant/Asparagus+schoberioides"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 천문동(天門冬)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055872"
+    },
+    {
+      "title": "식품의약품안전처 대한민국약전 생약 사진자료 - 천문동(Asparagus Tuber)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_145.pdf"
+    },
+    {
+      "title": "식품의약품안전처 한약재 GACP 자료 - 맥문동(Liriope Tuber)",
+      "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/GACP3-02.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 비짜루속 식물로 가는 엽상지가 닮았지만, 비짜루는 덩굴이 아니라 곧게 서는 풀이고 어린순을 나물로 먹는다.",
+      "name": "비짜루",
+      "points": [
+        "천문동은 줄기가 1~2m까지 덩굴로 뻗는다.",
+        "비짜루는 줄기가 40~120cm 높이로 곧게 서고 가시가 없다.",
+        "천문동은 바닷가 가까운 남·서해안과 섬에 주로 자란다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "이름이 비슷한 다른 식물의 덩이뿌리로, 말린 약재끼리 이름을 혼동하기 쉽다.",
+      "name": "맥문동",
+      "points": [
+        "천문동 말린 뿌리는 길이 5~15cm, 지름 5~20mm로 크고 반투명하다.",
+        "맥문동 말린 뿌리는 길이 1~2.5cm, 지름 3~5mm로 작다.",
+        "천문동은 처음 달다가 나중에 약간 쓰고, 맥문동은 약간 달고 끈적하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Pharmacological Research - Modern Chinese Medicine",
+        "note": "천문동의 자원 분포, 약리 연구, 품질 관리 현황을 정리하고 임상 근거가 부족하다고 지적한 리뷰다.",
+        "title": "Research status and prospects of Chinese medicine herb Asparagus cochinchinensis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.prmcm.2025.100625",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Plant Science",
+        "note": "천문동을 포함한 비짜루속 25종의 엽록체 유전체를 비교해 종 구별에 쓸 수 있는 표지를 찾은 연구다.",
+        "title": "Plastid genome comparison and phylogenetic analyses of the Chinese group of medicinal species and related taxa within Asparagus genus",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fpls.2025.1508898",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "노화 촉진 생쥐(SAMP8)에 천문동 다당류를 먹였을 때 인지 관련 지표와 장내 미생물 변화를 관찰한 연구다.",
+        "title": "Acid-assisted polysaccharides extracted from Asparagus cochinchinensis protect against Alzheimer's disease by regulating the microbiota-gut-brain axis",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fnut.2024.1496306",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Microbiology",
+        "note": "천문동 재배지 토양의 세균 군집을 분석한 재배 관련 연구다.",
+        "title": "Integrating metagenomics and culturomics to uncover the soil bacterial community in Asparagus cochinchinensis cultivation",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fmicb.2024.1467864",
+        "year": "2024"
+      },
+      {
+        "journal": "Ecology and Evolution",
+        "note": "기후 시나리오별 천문동 재배 적지 변화를 예측하고 성분 함량과 기후의 관계를 살핀 연구다.",
+        "title": "Assessment of suitable region of Asparagus cochinchinensis (Lour.) Merr. under different climatic conditions in China by the MaxEnt model and HPLC analysis",
+        "type": "기타",
+        "url": "https://doi.org/10.1002/ece3.70354",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 리뷰, 동물 실험, 재배·분류 연구가 중심이다. 2025년 리뷰는 사포닌과 다당류에 대한 약리 연구를 정리하면서 작용 기전과 임상 근거가 아직 부족하다고 지적했다. 2023년 이후 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "천문동",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 천문동(天門冬)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055872"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 천문동주(天門冬酒)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055874"
+      }
+    ],
+    "text": "한방에서는 천문동 뿌리를 성질이 차고 맛이 달면서 약간 쓴 약재로 보고, 끈끈한 가래가 나오는 오래된 기침 등에 써 왔다고 정리돼 있다. 몸이 차고 장이 약해 설사하는 사람에게는 쓰지 않는다고 적고 있다. 옛 문헌에는 천문동 즙으로 빚는 천문동주도 전한다."
+  },
+  "updatedAt": 1792703340527
+}

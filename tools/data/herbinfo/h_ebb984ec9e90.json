@@ -1,0 +1,173 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "과일(果部)",
+    "easy": [
+      "늘 먹으면 여러 가지 치질(五痔)에 쓰고 몸속 기생충(三蟲)을 없앤다고 적었다.",
+      "먹으면 촌백충(조충)을 다스린다고 적었다.",
+      "열매 크기는 올리브(橄欖)만 하고 껍질은 자갈색으로 잘 부서진다고 생김새를 적었다."
+    ],
+    "han": "榧實(榧子)",
+    "has": true,
+    "ki": "甘，平，澀，無毒",
+    "kiKo": "맛은 달고 떫으며 성질은 평(平)하고 독이 없다.",
+    "old": "",
+    "orig": "常食，治五痔，去三蟲蠱毒，鬼疰惡毒。食之，療寸白蟲。",
+    "sources": [
+      {
+        "title": "위키문헌 本草綱目/果之三 (榧實)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%B8%89"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "9~10월입니다. 비자나무는 꽃가루받이 이듬해 가을에 열매가 익으므로, 녹색 열매가 다 익은 가을에 거둡니다.",
+      "q": "비자는 언제 거두나요?"
+    },
+    {
+      "a": "녹색 육질 겉껍질을 벗겨 씨만 말린 뒤, 단단한 껍질을 깨거나 살짝 볶아 씁니다. 한꺼번에 많이 먹지는 않습니다.",
+      "q": "비자는 어떻게 손질하나요?"
+    },
+    {
+      "a": "열매 색과 잎 끝을 보면 됩니다. 비자는 녹색 살이 씨를 완전히 감싼 2cm 넘는 타원형 열매에 잎끝이 찔릴 만큼 딱딱하고, 주목은 끝이 트인 새빨간 작은 열매에 잎이 부드럽습니다. 주목 씨와 잎은 독성이 있어 먹으면 안 됩니다.",
+      "q": "주목 열매와 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 됩니다. 제주 평대리 비자나무 숲은 천연기념물로 지정된 보호 구역이므로 열매를 따거나 줍지 말고, 재배하거나 허가된 곳에서 거둔 것을 구입하세요.",
+      "q": "제주 비자림에서 열매를 주워도 되나요?"
+    },
+    {
+      "a": "확인이 필요합니다. 식약처 식품원료 목록에서 비자(비자나무 씨)의 등재 여부와 사용 조건을 이번에 직접 확인하지 못했으므로, 식품으로 팔거나 가공하기 전에 식품안전나라의 식품원료 목록을 확인하세요.",
+      "q": "비자는 식품원료로 등록되어 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 씨의 단단한 껍질을 깨 속살을 살짝 볶아 먹거나 약재로 쓴다.",
+    "eng": "Japanese torreya",
+    "family": "주목과",
+    "grade": "",
+    "habitat": "늘푸른 큰키나무로 전라북도 내장산 이남에서 제주도에 걸쳐 자라며(주로 제주·남부), 일본 혼슈~규슈에도 분포한다. 제주 구좌읍 평대리 비자나무 숲(비자림)은 천연기념물로 지정·보호되는 곳이므로 그 안에서 열매를 따거나 줍지 않는다.",
+    "look": {
+      "flower": "암수딴그루로 4~5월에 꽃가루받이가 이루어진다.",
+      "fruit": "꽃가루받이 이듬해 9~10월에 길이 2.3cm 안팎의 타원형 열매가 익는데, 녹색 육질 껍질이 씨 전체를 감싸 열매처럼 보인다. 속의 씨는 익으면 짙은 갈색이다.",
+      "leaf": "길이 1~2.5cm의 짧고 딱딱한 선형 잎이 깃털처럼 두 줄로 달리며, 끝이 바늘처럼 뾰족해 손으로 쥐면 찔린다. 잎 뒷면에 좁은 기공선 2줄이 뚜렷하다.",
+      "stem": "높이 25m까지 자라는 나무로, 나무껍질은 회갈색이며 오래되면 얕게 갈라져 얇은 조각으로 벗겨진다."
+    },
+    "parts": "씨(종자). 가을에 익은 열매의 살(육질 겉껍질)을 벗겨 낸 씨를 쓴다.",
+    "prep": "가을에 거둔 열매의 육질 겉껍질을 벗겨 씨를 말린 뒤, 껍질을 깨거나 살짝 볶아서 쓴다. 한 번에 많이 먹지 않는다(다량 복용은 피하라고 적혀 있다).",
+    "sci": "Torreya nucifera (L.) Siebold & Zucc.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목 - 비자나무 Torreya nucifera",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4996"
+      },
+      {
+        "title": "최찬헌 외 (2019) 비자의 항균 및 알레르기성 접촉 피부염 개선 작용 연구. 동의생리병리학회지 33(6)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201911863196695.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 제주 평대리 비자나무 숲",
+        "url": "https://encykorea.aks.ac.kr/Article/E0051468"
+      },
+      {
+        "title": "Park et al. (2025) Seasonal and Regional Effects on the Yield and Bioactive Constituents of Torreya nucifera Essential Oils in South Korea. Plants",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12610738"
+      },
+      {
+        "title": "식품의약품안전처 웹진(2025.08) - 식용 불가 농·임산물과 식품원료 확인 방법",
+        "url": "https://mfds.go.kr/webzine/202508/sub04.html"
+      }
+    ],
+    "store": "",
+    "taste": "고서에는 단맛과 떫은맛이 있다고 적었다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목 - 주목과(Taxaceae) 속 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4991"
+    },
+    {
+      "title": "한국의 수목 - 비자나무 Torreya nucifera",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4996"
+    },
+    {
+      "title": "한국의 수목 - 개비자나무 Cephalotaxus harringtonia",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4959"
+    },
+    {
+      "title": "한국의 수목 - 주목속(Taxus)",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4992"
+    },
+    {
+      "title": "Purdue University - Yew (Japanese) toxic plant",
+      "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/yew.html"
+    },
+    {
+      "title": "Taxus cuspidata - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taxus_cuspidata"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "주목(Taxus cuspidata)은 잎 모양이 비슷하지만 씨가 끝이 열린 새빨간 육질 껍질에 싸여 있고, 붉은 살을 뺀 씨와 잎에 독성 알칼로이드(탁신)가 있어 먹으면 위험하다.",
+      "name": "주목나무",
+      "points": [
+        "비자 잎은 짧고(1~2.5cm) 딱딱하며 끝이 찔릴 만큼 날카롭고, 주목 잎은 그보다 부드럽다.",
+        "비자 열매는 녹색 육질 껍질이 씨를 완전히 감싸고, 주목은 끝이 트인 새빨간 컵 모양 살 속에 씨가 드러나 보인다.",
+        "비자 열매는 길이 2cm가 넘는 타원형이고, 주목의 붉은 열매는 지름 1cm 안팎으로 작다.",
+        "주목은 씨에 독성이 가장 강하므로 붉은 열매를 씹거나 씨를 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "개비자나무(Cephalotaxus harringtonia)는 다른 과의 늘푸른 떨기나무로 잎과 열매가 비슷하지만 비자로 쓰지 않으므로 섞이면 안 된다.",
+      "name": "개비자나무",
+      "points": [
+        "비자나무는 높이 25m까지 크는 큰키나무이고, 개비자나무는 3m 안팎의 떨기나무다.",
+        "비자 잎은 1~2.5cm로 짧고 끝이 손을 찌를 만큼 단단하며, 개비자나무 잎은 2.5~4cm로 더 길다.",
+        "잎 뒷면을 보면 비자는 기공선이 좁고, 개비자나무는 넓은 회색빛 기공선 2줄이 있다.",
+        "개비자나무는 경기도~전라도의 어둡고 습한 숲 속에 자라고, 비자나무는 내장산 이남~제주에 자란다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "제주·진주·화순의 비자나무 잎 정유를 계절별로 분석해 수율은 지역에 따라 달랐고 리모넨·카렌이 주성분이었다고 보고했다.",
+        "title": "Seasonal and Regional Effects on the Yield and Bioactive Constituents of Torreya nucifera Essential Oils in South Korea",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14213370",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 연구는 많지 않고, 국내 비자나무 잎 정유의 성분과 수율을 지역·계절별로 비교한 연구가 대표적이다. 씨 추출물의 항염·항균 작용은 그 이전의 세포·동물 실험에서 보고된 수준이라 사람에게서의 효과는 확인되지 않았다."
+  },
+  "name": "비자",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "최찬헌 외 (2019) 비자의 항균 및 알레르기성 접촉 피부염 개선 작용 연구. 동의생리병리학회지 33(6)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201911863196695.pdf"
+      }
+    ],
+    "text": "한의학 자료에서 비자는 성질이 평하고 맛이 달며, 기생충을 없애고 체한 것을 내리며 장을 윤택하게 해 변비·치질 등에 써 왔다고 정리한다. 가을에 거둔 씨를 말려 깨거나 살짝 볶아 썼고, 많이 먹는 것은 피하라고 했다."
+  },
+  "updatedAt": 1792400388863
+}

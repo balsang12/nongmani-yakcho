@@ -1,0 +1,158 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "칡뿌리(葛根) 항목 아래에 칡꽃을 따로 두고, 술독을 푸는 데 주로 쓴다고 적었다.",
+      "칡꽃과 팥꽃을 같은 양으로 가루 내어 먹으면 술을 마셔도 취하지 않는다는 『본초』의 말을 옮겨 적었다."
+    ],
+    "han": "葛根 (아래 花 항목)",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "츩불휘",
+    "orig": "花 主消酒毒. 葛花與小豆花等分, 爲末服, 飮酒不知醉. 《本草》",
+    "sources": [
+      {
+        "title": "동의보감 탕액편 권3 草部 葛根 - 한국한의학연구원 내손안에 동의보감",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2513"
+      }
+    ],
+    "verified": true,
+    "warn": "'츩불휘'와 성미(性平 味甘 無毒)는 뿌리(葛根)에 대한 기록이며, 꽃 항목에는 성미가 따로 적혀 있지 않다. 옛 기록의 쓰임은 효능을 보증하지 않는다."
+  },
+  "faq": [
+    {
+      "a": "8월 무렵 핍니다. 붉은 보랏빛 나비 모양 꽃이 위로 선 꽃송이에 많이 달립니다.",
+      "q": "칡꽃은 언제 피나요?"
+    },
+    {
+      "a": "피는 시기와 꽃송이 방향을 보면 됩니다. 등나무꽃은 5월 무렵 길게 아래로 늘어지고, 칡꽃은 8월에 위를 향해 섭니다. 등나무는 씨 등에 독성이 있다고 알려져 있으니 헷갈리면 먹지 마세요.",
+      "q": "칡꽃과 등나무꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "털이 있는 큰 작은잎 3장으로 된 겹잎이 달린 덩굴이면 칡입니다. 꽃이 진 뒤에는 긴 털로 덮인 납작한 꼬투리가 달립니다.",
+      "q": "칡꽃이 달린 덩굴은 어떻게 알아보나요?"
+    },
+    {
+      "a": "네, 갈화(葛花)라고 부릅니다. 『동의보감』에도 칡뿌리 항목 아래 꽃이 따로 실려 있습니다.",
+      "q": "칡꽃은 한약 이름이 따로 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "kudzu flower",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "전국 산과 들에 흔히 자라는 덩굴식물이다. 번식력이 강해 주변 나무를 덮어 말라 죽게 하므로 일부 지역에서는 제거하기도 한다.",
+    "look": {
+      "flower": "8월에 붉은 보랏빛 나비 모양 꽃이 10~25cm 꽃대에 많이 모여 곧게 선 송이(총상꽃차례)로 핀다. 꽃 하나는 길이 2cm 안팎이다.",
+      "fruit": "납작하고 넓은 선형 꼬투리(길이 4~9cm)가 달리며 퍼진 긴 털로 덮인다. 씨는 9~10월에 익는다.",
+      "leaf": "작은잎 3장으로 된 겹잎이며, 작은잎은 마름모꼴~달걀꼴로 길이 10~15cm, 털이 있고 가장자리가 밋밋하거나 셋으로 얕게 갈라진다.",
+      "stem": "10m 넘게 뻗는 덩굴로, 겨울에는 윗부분이 말라 죽고 뿌리는 굵고 깊게 들어간다."
+    },
+    "parts": "꽃(생약명 갈화, 葛花)",
+    "prep": "",
+    "sci": "Pueraria lobata (Willd.) Ohwi",
+    "season": {
+      "collect": [
+        8
+      ],
+      "flower": [
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "칡 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0058556"
+      },
+      {
+        "title": "칡 - 농사로(농촌진흥청)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=27&pageSize=10&pageUnit=6&cntntsNo=204901&sType=sCntntsSj"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "등나무 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017123"
+    },
+    {
+      "title": "Wisteria spp. - Fire Effects Information System (USDA Forest Service)",
+      "url": "https://www.fs.usda.gov/database/feis/plants/vine/wisspp/all.html"
+    },
+    {
+      "title": "아까시나무 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0034428"
+    },
+    {
+      "title": "칡 - 한국민족문화대백과사전",
+      "url": "https://encykorea.aks.ac.kr/Article/E0058556"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "같은 콩과 덩굴로 보라색 꽃송이가 비슷해 보이지만, 꽃 피는 때와 꽃송이 방향, 잎 모양이 다르다. 미국 산림청 자료는 등나무류의 꽃·잎·열매·씨를 독성 부위로 들고, 씨를 먹으면 구역·구토·복통·설사가 난다고 적었다.",
+      "name": "등나무",
+      "points": [
+        "등나무는 5월 무렵 연보라색 꽃이 피고, 칡꽃은 8월에 핀다.",
+        "등나무 꽃송이는 30~40cm로 길게 아래로 늘어지고, 칡꽃 송이는 10~25cm로 위를 향해 선다.",
+        "등나무 잎은 작은잎 13~19장이 깃털처럼 붙은 겹잎이고, 칡 잎은 큰 작은잎 3장뿐이다.",
+        "등나무 꼬투리는 벨벳 같은 갈색 털로 덮이고 씨 사이가 잘록하다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "콩과 나무로 나비 모양 꽃이 송이로 달리지만 꽃 색이 흰색이고 피는 시기가 이르다. 줄기에 가시가 있는 나무라 덩굴인 칡과 쉽게 구별된다.",
+      "name": "아까시나무",
+      "points": [
+        "아까시나무 꽃은 흰색에 밑부분이 노르스름하고 향이 강하며, 칡꽃은 붉은 보라색이다.",
+        "아까시나무는 5~6월, 칡은 8월에 꽃이 핀다.",
+        "아까시나무는 턱잎이 변한 가시가 있는 곧게 선 나무이고, 칡은 가시 없는 덩굴이다.",
+        "아까시나무 잎은 작은잎 9~19장의 깃꼴겹잎이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "칡 전체의 역사·성분·작용을 정리한 리뷰로, 꽃은 옛 문헌에서 술 해독에 쓰였다는 맥락에서 다룬다.",
+        "title": "Unveiling the power of Pueraria lobata: a comprehensive exploration of its medicinal and edible potentials",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1578472",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "칡꽃의 성분과 실험 연구를 모은 리뷰로, 많은 성분이 아직 연구되지 않았고 임상 연구가 더 필요하다고 정리했다.",
+        "title": "Oriental traditional herbal Medicine--Puerariae Flos: A systematic review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.jep.2022.116089",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 칡꽃의 성분(플라보노이드·사포닌 등)과 술 관련 작용, 간 보호 작용을 다룬 실험 연구를 정리한 리뷰들이다. 대부분 세포·동물 실험 단계이며, 2023년 이후 칡꽃만을 대상으로 한 사람 연구는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "칡꽃",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "칡 - 한국민족문화대백과사전",
+        "url": "https://encykorea.aks.ac.kr/Article/E0058556"
+      },
+      {
+        "title": "칡 - 농사로(농촌진흥청)",
+        "url": "https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS04103&pageIndex=27&pageSize=10&pageUnit=6&cntntsNo=204901&sType=sCntntsSj"
+      }
+    ],
+    "text": "민간에서는 칡꽃이 술독을 없앤다고 하여 약으로 썼다는 기록이 있다. 칡꽃은 갈화(葛花)라는 생약 이름으로도 불린다."
+  },
+  "updatedAt": 1792487178150
+}

@@ -1,0 +1,139 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "",
+    "bu": "",
+    "easy": [],
+    "han": "",
+    "has": false,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "네, 어린잎은 익히지 않고 쌈으로 먹을 수 있습니다. 쓴맛이 있어 김치나 무침으로도 많이 먹습니다.",
+      "q": "왕고들빼기는 날로 먹을 수 있나요?"
+    },
+    {
+      "a": "키와 잎 모양을 보면 됩니다. 왕고들빼기는 1~2m까지 크고 잎이 길쭉하게 깊이 갈라지며 뒷면이 희고, 고들빼기는 80cm 안팎으로 작고 줄기잎 밑이 줄기를 감쌉니다.",
+      "q": "고들빼기와 어떻게 구별하나요?"
+    },
+    {
+      "a": "재배 품종 '선향'은 잎의 갈라짐이 적고 잎맥에 자줏빛이 돕니다. 야생 왕고들빼기는 잎이 좁고 깊게 갈라집니다.",
+      "q": "야생 왕고들빼기와 재배 품종은 어떻게 다른가요?"
+    },
+    {
+      "a": "7~9월에 연한 노란색 꽃이 핍니다. 나물로는 꽃이 피기 전 어린잎을 씁니다.",
+      "q": "꽃은 언제 피나요?"
+    }
+  ],
+  "id": {
+    "eat": "봄에 어린잎을 쌈채소로 먹거나 김치, 무침으로 먹는다.",
+    "eng": "Indian lettuce",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "전국의 산과 들, 길가에 저절로 나는 한두해살이풀이다.",
+    "look": {
+      "flower": "7~9월에 원추꽃차례에 지름 약 2cm의 연한 노란색 혀꽃 머리가 많이 달린다.",
+      "fruit": "열매는 납작한 달걀 모양의 검은 수과이며 흰 갓털이 붙는다.",
+      "leaf": "줄기잎은 어긋나며 길이 10~30cm의 길쭉한 피침형이고 깃 모양으로 깊게 갈라지며 뒷면이 희다. 뿌리잎은 꽃이 필 무렵 없어진다.",
+      "stem": "줄기는 1~2m까지 곧게 자라고 식물 전체에 털이 없다."
+    },
+    "parts": "어린잎(어린순)",
+    "prep": "어린잎은 익히지 않고 생으로 쌈을 싸 먹을 수 있다. 맛이 쌉쌀하다.",
+    "sci": "Lactuca indica L.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "김재경 외(2021) 베이비 산채 왕고들빼기 '선향'의 수경재배 연구, 생물환경조절학회지 30(1)",
+        "url": "https://koreascience.or.kr/article/JAKO202109960884198.pdf"
+      },
+      {
+        "title": "권혜정 외(2015) 왕고들빼기 선향과 야생종의 수확시기별 일반성분 및 생리활성, 한국식품영양과학회지 44(3)",
+        "url": "https://koreascience.kr/article/JAKO201510534325584.pdf"
+      },
+      {
+        "title": "위키백과 '왕고들빼기' (원색한국식물도감·국가생물종지식정보시스템 인용)",
+        "url": "https://ko.wikipedia.org/wiki/왕고들빼기"
+      }
+    ],
+    "store": "",
+    "taste": "쌉쌀한 쓴맛에 약간 떫은맛이 있다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 '고들빼기'",
+      "url": "https://encykorea.aks.ac.kr/Article/E0003397"
+    },
+    {
+      "title": "위키백과 '왕고들빼기' (원색한국식물도감·국가생물종지식정보시스템 인용)",
+      "url": "https://ko.wikipedia.org/wiki/왕고들빼기"
+    },
+    {
+      "title": "천상욱·강종구(2013) 고들빼기 부위별 메탄올 추출물의 폴리페놀 함량 및 항산화성, 한국작물학회지 58(1)",
+      "url": "https://www.koreascience.or.kr/article/JAKO201318641442327.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이름과 쓴맛이 비슷해 혼동하지만 속이 다른 식물이다. 키와 줄기잎 모양으로 구별한다.",
+      "name": "고들빼기",
+      "points": [
+        "왕고들빼기는 1~2m까지 크고, 고들빼기는 80cm 안팎으로 작다.",
+        "고들빼기 줄기잎은 달걀 모양이고 밑부분이 넓어 줄기를 감싼다.",
+        "왕고들빼기 줄기잎은 길쭉한 피침형으로 깃 모양으로 깊게 갈라지고 뒷면이 희다.",
+        "고들빼기 줄기는 붉은 자줏빛을 띤다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Chemistry: X",
+        "note": "뿌리·줄기·잎·꽃·씨를 수확 시기별로 분석해 66개 성분을 확인했고, 꽃봉오리 시기 잎에 치코릭산이 가장 많았다고 보고했다.",
+        "title": "Chemical profile and quantitative comparison of constituents in different medicinal parts of Lactuca indica during varied harvest periods using UPLC-MS/MS method",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.fochx.2023.101031",
+        "year": "2023"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "플라보노이드 추출 조건을 비교한 연구로, 부위 가운데 꽃에서 함량과 시험관 항산화 활성이 높게 나왔다고 보고했다.",
+        "title": "Optimization of ultrasonic-assisted extraction of flavonoids from Lactuca indica L. cv. Mengzao and their antioxidant properties",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fnut.2023.1065662",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 중국 재배품종(Mengzao)의 부위별·수확 시기별 성분 분석과 추출법을 다룬 실험실 연구다. 항산화 등은 시험관 수준의 결과일 뿐이며, 사람 대상 근거는 찾지 못했다."
+  },
+  "name": "왕고들빼기",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "권혜정 외(2015) 왕고들빼기 선향과 야생종의 수확시기별 일반성분 및 생리활성, 한국식품영양과학회지 44(3)",
+        "url": "https://koreascience.kr/article/JAKO201510534325584.pdf"
+      },
+      {
+        "title": "김재경 외(2021) 베이비 산채 왕고들빼기 '선향'의 수경재배 연구, 생물환경조절학회지 30(1)",
+        "url": "https://koreascience.or.kr/article/JAKO202109960884198.pdf"
+      }
+    ],
+    "text": "민간에서는 고채, 황고채, 활혈초 같은 이름으로 불렸고, 붓기를 가라앉히거나 열을 내리는 데 썼다고 국내 연구에 소개되어 있다. 동의학에서는 위를 튼튼히 하고 소화를 돕거나 열을 내리는 데 썼다고 전한다."
+  },
+  "updatedAt": 1792529979983
+}

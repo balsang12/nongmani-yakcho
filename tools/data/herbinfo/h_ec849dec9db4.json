@@ -1,0 +1,118 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "채소(菜部)",
+    "easy": [],
+    "han": "石耳",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "東醫寶鑑「湯液篇」의 本草 분류에 대한 연구 (오재근·김용진, KCI)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      }
+    ],
+    "verified": false,
+    "warn": "탕액편 채부에 목이(木耳) 등과 함께 石耳가 실린 것은 연구 논문으로 확인했으나, 원문은 읽지 못해 내용은 옮기지 않았다. 옛 기록의 石耳가 오늘날 유통되는 석이와 같은 종인지도 따로 확인이 필요하다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 곰팡이와 조류가 함께 사는 지의류입니다. 흔히 석이버섯이라고 부르지만 버섯과는 다른 생물입니다.",
+      "q": "석이는 버섯인가요?"
+    },
+    {
+      "a": "석이는 바위에, 목이는 나무에 붙어 자랍니다. 석이는 아랫면이 검고 짧은 헛뿌리가 빽빽하며, 물에 불리면 회록색을 띱니다.",
+      "q": "석이와 목이는 어떻게 구별하나요?"
+    },
+    {
+      "a": "따뜻한 물에 불린 뒤 붙어 있는 이끼와 이물질을 떼어 내고 씁니다. 손질한 것은 그늘에 말려 두거나 가루로 내어 쓰기도 합니다.",
+      "q": "말린 석이는 어떻게 손질하나요?"
+    },
+    {
+      "a": "깊은 산 계곡이나 산꼭대기 부근의 그늘진 바위와 절벽에 붙어 자랍니다.",
+      "q": "석이는 어디서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "찹쌀과 섞어 떡을 만들거나, 백숙 등 여러 한식 요리의 재료로 쓴다. 전통술인 석로주를 담글 때도 쓴다.",
+    "eng": "",
+    "family": "석이과",
+    "grade": "",
+    "habitat": "깊은 산의 계곡이나 산꼭대기 부근, 그늘진 바위와 절벽에 붙어 자란다. 버섯이 아니라 곰팡이와 조류가 함께 사는 지의류다.",
+    "look": {
+      "flower": "윗면은 광택 없는 황갈색~갈색이고, 아랫면은 흑갈색~검은색이며 짧은 헛뿌리가 빽빽하다.",
+      "fruit": "마르면 단단하게 말려 있다가 물에 담그면 회록색을 띠며 부드럽게 풀어진다.",
+      "leaf": "갓 대신 귀처럼 생긴 납작한 지의체가 바위에 붙어 있다. 지름은 대개 3~10cm 정도의 둥근 꼴이고 가죽처럼 질기다."
+    },
+    "parts": "지의체 전체(말려서 유통)",
+    "prep": "말린 것을 따뜻한 물에 불린 뒤 붙어 있는 이끼와 이물질을 떼어 낸다. 손질 후 그늘에 말려 두거나 가루로 내어 쓰기도 한다.",
+    "sci": "Umbilicaria esculenta (Miyoshi) Minks",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "국립수목원 웹진 Vol.123 (석이)",
+        "url": "https://www.forest.go.kr/kna/webzine/2020/vol_123/s2.html"
+      },
+      {
+        "title": "석이 - 위키백과",
+        "url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%9D%B4"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "국립수목원 웹진 Vol.123 (석이)",
+      "url": "https://www.forest.go.kr/kna/webzine/2020/vol_123/s2.html"
+    },
+    {
+      "title": "석이 - 위키백과",
+      "url": "https://ko.wikipedia.org/wiki/%EC%84%9D%EC%9D%B4"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "말린 상태의 모양이 비슷해 석이를 '석이버섯'이라 부르며 목이와 혼동하기 쉽지만, 목이는 나무에서 나는 버섯이고 석이는 바위에 붙어 자라는 지의류다.",
+      "name": "목이",
+      "points": [
+        "석이는 바위에, 목이는 죽은 나무에 붙어 자란다.",
+        "석이 아랫면은 검고 짧은 헛뿌리가 빽빽하다.",
+        "석이는 물에 불리면 회록색을 띤다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Agricultural and Food Chemistry",
+        "note": "약물로 장염을 일으킨 쥐에게 석이 다당류를 먹였을 때 장과 간의 손상 지표가 어떻게 달라지는지 살펴본 연구다.",
+        "title": "Study on the Protective Effect and Mechanism of Umbilicaria esculenta Polysaccharide in DSS-Induced Mice Colitis and Secondary Liver Injury",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1021/acs.jafc.4c00290",
+        "year": "2024"
+      }
+    ],
+    "summary": "2023년 이후 석이(Umbilicaria esculenta)를 다룬 연구로 확인한 것은 석이 다당류의 효과를 쥐 장염 모델에서 살펴본 동물 실험 1편뿐이다. 사람을 대상으로 한 연구는 확인하지 못했으므로, 먹어서 효과가 있다고 말할 근거는 아직 없다."
+  },
+  "name": "석이",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "국립수목원 웹진 Vol.123 (석이)",
+        "url": "https://www.forest.go.kr/kna/webzine/2020/vol_123/s2.html"
+      }
+    ],
+    "text": "국립수목원 웹진은 『동의보감』에 석이가 약재로 실려 있고, 성질이 차며 맛은 쓰고 달고 독이 없다고 적혀 있다고 소개했다. 먹을거리로는 떡, 석로주, 백숙 같은 한식에 써 왔다."
+  },
+  "updatedAt": 1792487178150
+}

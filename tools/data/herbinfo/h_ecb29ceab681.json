@@ -1,0 +1,200 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "芎藭",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "대한한의학원전학회지 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (오재근·김용진, 2010; 卷二 草部 목록에 柴胡·芎藭 수록)",
+        "url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483647"
+      },
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
+        "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 천궁(川芎)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055792"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 권2 草部 목록에 芎藭이 실려 있음은 학술 논문의 목록으로 확인했지만, 원문은 이번에 직접 읽지 못해 성미·우리말 이름을 옮기지 않았다. 백과사전은 천궁의 향명을 '궁궁이'로 소개하지만, 오늘날 식물 이름 '궁궁이'는 Angelica polymorpha라는 다른 자생식물이므로 옛 이름과 현재 식물명을 혼동하지 않아야 한다. 또 옛 芎藭과 오늘날 재배하는 일천궁·토천궁이 어떻게 대응하는지는 단정할 수 없다."
+  },
+  "faq": [
+    {
+      "a": "아닙니다. '궁궁이'는 천궁의 옛 우리말 이름으로 쓰였지만, 오늘날 식물 이름으로 궁궁이는 당귀속의 Angelica polymorpha라는 별개의 자생식물입니다. 약재 천궁은 재배하는 Cnidium officinale의 뿌리줄기입니다.",
+      "q": "궁궁이와 천궁은 같은 식물인가요?"
+    },
+    {
+      "a": "길이 5~10cm, 지름 3~5cm쯤의 단단한 덩어리로 겉이 회갈색~어두운 갈색이고 특유의 향이 진한 것을 고릅니다. 햇볕에 말린 것이 향이 더 많다고 합니다.",
+      "q": "좋은 천궁은 어떻게 고르나요?"
+    },
+    {
+      "a": "잎과 줄기가 누렇게 변하는 10월 하순~11월 상순에 캡니다. 꽃은 8~9월에 흰색으로 핍니다.",
+      "q": "천궁은 언제 캐나요?"
+    },
+    {
+      "a": "완전히 말려 밀봉해 둡니다. 오래 둘 것은 65~75℃ 물에 15분 담갔다 말리면 보관성은 좋아지지만 향이 줄어듭니다.",
+      "q": "천궁은 어떻게 보관하나요?"
+    },
+    {
+      "a": "일천궁은 일본 계통으로 국내에서 주로 재배하며 뿌리줄기가 여러 개 덩어리로 붙어 있고, 토천궁은 중국 원산으로 키가 더 크고 뿌리줄기가 낱개로 떨어져 있습니다. 수입품은 원산지와 기원 식물 표시를 확인하세요.",
+      "q": "일천궁과 토천궁은 어떻게 다른가요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 뿌리줄기를 한약재로 쓰고, 어린순은 나물로 먹는다고 소개된다. 향이 강해 옷장에 넣어 좀을 막는 데도 썼다.",
+    "eng": "",
+    "family": "산형과",
+    "grade": "말린 뿌리줄기는 길이 5~10cm, 지름 3~5cm의 불규칙한 덩어리로 겉이 회갈색~어두운 갈색이고, 특이한 향과 약간 쓴맛이 있어야 한다. 회분 6.0% 이하, 산불용성 회분 1.0% 이하 기준이 있으며, 햇볕에 말린 것이 건조기 건조품보다 향이 많아 품질이 좋다고 한다.",
+    "habitat": "중국 원산으로 알려진 재배식물이며, 국내 재배지에서는 생산성이 좋은 일본 계통 '일천궁'을 주로 기른다. 추위에 강하고 더위에 약해 한여름 최고기온이 30℃를 넘지 않는 산간지나 해발 400m 안팎 준고랭지가 알맞고, 부식질이 많고 물빠짐이 좋은 땅을 좋아한다. 일천궁은 씨를 맺지 않아 뿌리줄기를 나눠 번식한다.",
+    "look": {
+      "flower": "8월(일천궁은 9월 중순께부터)에 가지 끝과 원줄기 끝에 흰 꽃이 큰 우산 모양으로 모여 핀다.",
+      "fruit": "일천궁은 열매를 맺지 않는다.",
+      "leaf": "잎은 어긋나고 두 번 깃꼴로 갈라진 겹잎이며, 작은잎 가장자리에 날카로운 톱니가 있다.",
+      "root": "땅속줄기가 덩어리 모양이며, 일천궁은 여러 개가 한 덩어리로 붙어 있다. 말린 것은 길이 5~10cm, 지름 3~5cm의 울퉁불퉁한 덩어리로 겉이 회갈색~어두운 갈색이다.",
+      "smell": "뿌리줄기에서 강하고 특이한 향이 난다.",
+      "stem": "여러해살이풀로 높이 30~60cm이며 곧게 서고 가지가 갈라진다."
+    },
+    "parts": "뿌리줄기(약재 川芎). 어린순은 나물로 먹는다고 소개된다. 식약처 식품원료 목록에서 어느 부위가 식품 원료로 되는지는 이번 조사에서 확인하지 못했다.",
+    "prep": "잎과 줄기가 누렇게 변하는 10월 하순~11월 상순, 맑은 날이 2~3일 이어진 뒤에 캔다. 잔뿌리를 떼고 씻어 햇볕이나 50℃ 안팎의 건조기에서 말리며, 햇볕에 말린 것이 향이 많다. 얼면 품질이 떨어지고, 약재로 썰 때는 3~5mm 두께가 알맞다.",
+    "sci": "Cnidium officinale Makino",
+    "season": {
+      "collect": [
+        10,
+        11
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "산림청 임산물 재배 자료 - 약초류: 천궁",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_12.pdf"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 천궁(川芎)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055792"
+      }
+    ],
+    "store": "완전히 말려 밀봉해 둔다. 오래 둘 것은 65~75℃ 물에 15분 담갔다가 완전히 말려 밀봉하면 보관성이 좋아지지만 향은 줄어든다.",
+    "taste": "특이한 향이 강하고 맛은 약간 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "산림청 임산물 재배 자료 - 약초류: 천궁",
+      "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/imsan_04_12.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 천궁(川芎)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0055792"
+    },
+    {
+      "title": "Plants of the World Online - Angelica polymorpha Maxim.",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:837735-1"
+    },
+    {
+      "title": "서울신문 - 봄철 독초 주의보 (식약처·국립수목원 자료 인용, 2026)",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "판매 목록에서 '궁궁이'를 천궁의 다른 이름으로 두었지만, 이는 옛 우리말 이름(향명)일 뿐이다. 오늘날 식물 이름 체계에서 궁궁이는 당귀속의 Angelica polymorpha Maxim.로, 한국·중국·일본에 자생하는 별개의 식물이며 재배 천궁(Cnidium officinale)과 속부터 다르다. '궁궁이'라는 이름으로 산에서 캔 뿌리를 천궁 약재로 팔거나 사면 안 된다.",
+      "name": "궁궁이",
+      "points": [
+        "천궁은 밭에서 기르는 재배식물이고, 궁궁이는 산에 자생하는 야생식물이다.",
+        "국내 재배 천궁(일천궁)은 열매를 맺지 않아 뿌리줄기로 번식한다. 씨가 달린 '천궁'은 다른 식물일 수 있다.",
+        "천궁 약재는 덩어리 모양 뿌리줄기이고 강하고 특이한 향이 있다. 기원이 다른 뿌리는 천궁 규격에 맞지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "토천궁(Ligusticum chuanxiong)은 중국 원산으로 중국에서 川芎으로 쓰는 식물이다. 일천궁보다 키가 크고 재배가 까다로워 국내 재배는 드물며, 수입 천궁은 이쪽일 수 있다.",
+      "name": "토천궁",
+      "points": [
+        "일천궁 뿌리줄기는 여러 개가 덩어리로 붙어 있고, 토천궁은 낱개로 떨어져 있다.",
+        "토천궁은 키가 60~85cm 이상으로 일천궁(30~60cm)보다 크다.",
+        "토천궁에는 리구스티리드 같은 성분이 더 많다고 알려져 향과 성분 구성이 다를 수 있으므로, 원산지와 기원 식물 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "흰 꽃이 우산 모양으로 피고 잎이 깃꼴로 갈라지는 산형과 독초로, 굵은 땅속줄기가 있어 산형과 약초의 뿌리·새순과 헷갈릴 수 있다. 확실하지 않은 산형과 식물은 먹지 않는다.",
+      "name": "독미나리",
+      "points": [
+        "독미나리 땅속줄기는 죽순처럼 생겼고 자른 면이 사다리처럼 칸칸이 나뉜다. 천궁 뿌리줄기는 울퉁불퉁한 덩어리다.",
+        "독미나리는 화학약품 같은 불쾌한 냄새가 나고, 천궁은 특유의 강한 향이 난다.",
+        "독미나리 잎은 톱니가 깊게 팬다.",
+        "천궁은 밭에서 기르는 재배품이므로 야생에서 캔 '천궁'은 사지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "BMC Plant Biology",
+        "note": "콜히친 처리로 천궁 4배체를 만들어 잎 형태와 뿌리의 페룰산 함량을 2배체와 비교한 육종 연구다.",
+        "title": "In vitro induction of tetraploids and their morphological and phenolic acid content in Cnidium officinale",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s12870-026-09456-z",
+        "year": "2026"
+      },
+      {
+        "journal": "Scientific Reports",
+        "note": "천궁을 포함한 산형과 약용식물 12종을 엽록체 DNA 마커로 구별하는 방법을 개발한 감별 연구다.",
+        "title": "Development of plastome-based HRM markers for the authentication of 12 major medicinal herbs in the Apiaceae family",
+        "type": "기타",
+        "url": "https://doi.org/10.1038/s41598-026-47346-4",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "주로 토천궁(Ligusticum chuanxiong) 성분 센큐놀라이드의 편두통 관련 세포·동물 연구를 정리했고, 개별 성분의 사람 대상 시험은 없다고 밝혔다.",
+        "title": "Senkyunolides: a promising natural compounds for the treatment of migraine headaches",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fnut.2026.1750201",
+        "year": "2026"
+      },
+      {
+        "journal": "BMC Genomics",
+        "note": "더위에 약한 천궁이 고온에서 어떤 유전자 발현 변화를 보이는지 분석한 재배·유전 연구다.",
+        "title": "De novo transcriptome assembly and gene expression analysis of Cnidium officinale under high-temperature conditions",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s12864-025-12051-5",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Natural Medicines",
+        "note": "천궁 뿌리줄기에서 분리한 성분 일부가 간세포 실험에서 세포 내 중성지방 대사를 촉진하는 활성을 보였다는 예비 연구다.",
+        "title": "Alkylphthalides with intracellular triglyceride metabolism-promoting activity from the rhizomes of Cnidium officinale Makino",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1007/s11418-024-01799-x",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 천궁 뿌리줄기의 프탈라이드(센큐놀라이드 등) 성분에 대한 세포 실험, 그리고 품종 개량·재배 환경·유전자 감별 같은 기초 연구가 중심이다. 센큐놀라이드에 관한 리뷰도 근거는 대부분 세포·동물 실험이며, 개별 성분의 사람 대상 임상시험은 없다고 정리했다."
+  },
+  "name": "천궁",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 천궁(川芎)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055792"
+      }
+    ],
+    "text": "천궁 뿌리줄기는 약성이 온화한 약재로, 피를 잘 돌게 하고 통증을 덜어 두통에 자주 썼으며, 부인과에서 월경 불순·월경통·산후 복통 등에 썼다고 정리된다. 해산 전후에 쓰는 궁귀탕이 대표 처방이며, 황련과 함께 쓰는 것을 꺼리고 오래 먹으면 원기를 해칠 수 있다고 했다. 민간에서는 옷장에 넣어 좀을 막는 데도 썼다."
+  },
+  "updatedAt": 1792703340527
+}

@@ -1,0 +1,170 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "식품 원료로 쓸 수 있는지 먼저 확인이 필요합니다. 식약처가 인정한 것은 특정 업체의 '황칠나무잎·줄기추출물'(건강기능식품 개별인정형 원료, 제2024-40호)이고, 잎·가지 자체의 일반 식품원료 등재 여부는 확인되지 않았습니다.",
+      "q": "황칠나무 잎이나 가지를 차로 끓여 먹어도 되나요?"
+    },
+    {
+      "a": "남·서해안의 섬과 제주도 등 따뜻한 해안 지역에서 자랍니다. 자생지 북쪽 끝은 충남 보령 외연도, 내륙 북한계는 해남 두륜산이며, 그보다 북쪽에서도 광주·전주 등에 심은 나무는 잘 자랍니다.",
+      "q": "황칠나무는 어디서 자라나요?"
+    },
+    {
+      "a": "황칠나무는 나이에 따라 잎 모양이 달라집니다. 어린 나무나 새순의 잎은 3~5갈래로 깊게 갈라지고, 다 자란 나무의 잎은 갈라지지 않은 달걀 모양입니다.",
+      "q": "같은 나무인데 잎 모양이 왜 다른가요?"
+    },
+    {
+      "a": "자라는 모양과 가시를 보면 됩니다. 송악은 공기뿌리로 타고 오르는 덩굴이고 잎이 3~6cm로 작으며, 엄나무(음나무)는 가지에 가시가 많고 겨울에 잎이 지는 나무입니다. 황칠나무는 가시 없이 곧게 서는 늘푸른나무입니다.",
+      "q": "송악이나 엄나무와는 어떻게 구별하나요?"
+    },
+    {
+      "a": "6~10월에 나오며 8월 중순~9월 중순에 가장 많습니다. 수액을 늘리려고 약품을 쓰면 나무가 2~3년 안에 죽을 수 있어 권장되지 않습니다.",
+      "q": "황칠(노란 수액)은 언제 나오나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Korean dendropanax",
+    "family": "두릅나무과",
+    "grade": "",
+    "habitat": "남·서해안의 섬과 제주도를 중심으로 자라는 늘푸른큰키나무다. 해안 가까운 습한 산비탈과 골짜기, 유기물이 많고 물 빠짐이 좋은 땅을 좋아하며 그늘에도 잘 견딘다. 자생지는 동쪽 거제 갈곶도, 서쪽 신안 소흑산도, 북쪽 보령 외연도, 내륙 북한계 해남 두륜산까지이고, 섬·육지에서는 해발 50~400m, 제주에서는 약 950m까지 자란다.",
+    "look": {
+      "flower": "7~8월 가지 끝에 황백색 작은 꽃이 우산 모양(산형) 꽃차례로 모여 핀다. 꽃잎과 수술은 각 5개다.",
+      "fruit": "길이 7~11mm의 타원형 열매로 가을부터 초겨울(9월 말~12월)에 걸쳐 검게 익는다.",
+      "leaf": "잎은 어긋나고 털이 없으며 반들거린다. 어린 나무나 새순의 잎은 3~5갈래로 깊게 갈라지고, 다 자란 나무의 잎은 갈라지지 않은 달걀 모양에 가장자리가 밋밋하다. 잎자루는 3~5cm이고 잎 뒷면에 세 줄 잎맥이 뚜렷하다.",
+      "smell": "수액(황칠)의 정유 성분은 예로부터 안식향이라 하여 향료로 귀하게 여겨졌다.",
+      "stem": "높이 15m까지 자라는 늘푸른나무로 어린 가지는 녹색에 털이 없다. 줄기에 상처를 내면 노란 수액이 나온다."
+    },
+    "parts": "잎·줄기(가지), 줄기에서 나오는 노란 수액(황칠). 잎·줄기를 일반 식품 원료로 쓸 수 있는지는 확인이 필요하다(식약처가 개별 인정한 것은 특정 업체의 '황칠나무잎·줄기추출물' 건강기능식품 원료이며, 일반 식품원료 등재 여부는 확인하지 못했다).",
+    "prep": "잎·줄기를 일반 식품 원료로 쓸 수 있는지 확인이 필요한 품목이므로, 확인 전에는 잎·가지를 임의로 달여 먹거나 차로 마시라고 권하지 않는다.",
+    "sci": "Dendropanax morbiferus H.Lév.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - 황칠나무",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5045"
+      },
+      {
+        "title": "국립산림과학원 - 황칠나무 (특용수 자료)",
+        "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_05_10.pdf"
+      },
+      {
+        "title": "황칠나무(Dendropanax morbifera)의 부정근 유도 및 기내증식조건 (식물생명공학회지, 2009)",
+        "url": "https://koreascience.or.kr/article/JAKO200903538424665.pdf"
+      },
+      {
+        "title": "식품안전나라 - 황칠나무잎·줄기추출물(㈜휴온스엔, 제2024-40호)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?menu_grp=MENU_NEW01&menu_no=2660&bbs_no=bbs987&nticmatr_yn=N&bbs_type_cd=01&ans_yn=N&ntctxt_no=1102288"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 황칠나무",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5045"
+    },
+    {
+      "title": "Flora of Korea - 송악 Hedera rhombea",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5054"
+    },
+    {
+      "title": "Flora of Korea - 음나무 Kalopanax septemlobus",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5056"
+    },
+    {
+      "title": "국립산림과학원 - 황칠나무 (특용수 자료)",
+      "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_05_10.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "송악(Hedera rhombea)은 같은 두릅나무과의 늘푸른 덩굴식물로, 남부 해안과 섬에서 황칠나무와 같은 곳에 자라고 어린 잎이 얕게 3~5갈래로 갈라져 헷갈릴 수 있다. 식용으로 확인된 자료가 없다.",
+      "name": "송악",
+      "points": [
+        "송악은 줄기에서 공기뿌리를 내어 나무나 바위를 타고 오르는 덩굴이고, 황칠나무는 곧게 서는 나무다.",
+        "송악 잎은 길이 3~6cm로 작고, 황칠나무 잎은 10~20cm로 훨씬 크다.",
+        "송악은 9~11월에 꽃이 피고 열매가 이듬해 5~7월에 검게 익으며, 황칠나무는 7~8월에 꽃이 피고 그해 가을~초겨울에 열매가 익는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "음나무(엄나무, Kalopanax septemlobus)도 두릅나무과로 잎이 손바닥처럼 갈라져 갈라진 황칠나무 어린잎과 헷갈릴 수 있다. 쓰임과 관리 기준이 다른 별개 식물이다.",
+      "name": "엄나무",
+      "points": [
+        "음나무는 가을에 잎이 지는 나무이고 가지에 날카로운 가시가 많으며, 황칠나무는 늘푸르고 가지가 매끈하다.",
+        "음나무 잎은 5~7(9)갈래로 갈라지고 가장자리에 톱니가 있으며 지름 10~30cm로 크고, 황칠나무 잎은 갈라지지 않거나 3~5갈래이며 가장자리가 밋밋하다.",
+        "음나무 잎자루는 7~20cm로 길고, 황칠나무 잎자루는 3~5cm다.",
+        "음나무는 전국에 자라고, 황칠나무 자생지는 남·서해안 섬과 제주 등 따뜻한 해안 지역에 한정된다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Nutrients",
+        "note": "잎 추출 분획을 알코올에 노출된 간세포와 급성 알코올 간 손상 생쥐에 써 보니 산화 스트레스 지표와 간 수치가 낮아졌다고 보고한 세포·동물 연구다.",
+        "title": "Dietary Polyphenols from Dendropanax morbifera Leaves Ameliorate Alcohol-Induced Liver Injury Through Regulation of Oxidative Stress and Nrf2 Signaling",
+        "type": "동물 실험",
+        "url": "https://mdpi-res.com/d_attachment/nutrients/nutrients-18-01902/article_deploy/nutrients-18-01902.pdf",
+        "year": "2026"
+      },
+      {
+        "journal": "Life",
+        "note": "황칠나무 성분·추출·분석법 연구를 정리하고 컴퓨터 예측으로 작용 표적 후보를 제시한 리뷰로, 예측 결과는 실험 검증이 필요하다고 밝혔다.",
+        "title": "Unifying Phytochemistry, Analytics, and Target Prediction to Advance Dendropanax morbifera Bioactive Discovery",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2075-1729/16/1/100",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Alzheimer's Disease",
+        "note": "주관적 인지 저하를 느끼는 성인 85명을 12주간 추출물군과 위약군으로 나눠 비교했으며, 추출물군에서 주의력·기억력 검사 점수가 더 좋아졌고 이상반응은 보고되지 않았다.",
+        "title": "The effects of Dendropanax morbiferus on cognitive function and cerebral cortical thickness: A randomized, double-blind, placebo-controlled trial",
+        "type": "사람 대상",
+        "url": "https://pure.ewha.ac.kr/en/publications/the-effects-of-dendropanax-morbiferus-on-cognitive-function-and-c/",
+        "year": "2025"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "황칠나무 추출물의 미백·항염·항균 효과를 다룬 연구 16편을 묶어 분석했는데, 모두 세포·세균 실험이라 사람에게 그대로 적용하기는 어렵다.",
+        "title": "Dendropanax morbifera Extracts for Cosmetic Applications: Systematic Review and Meta-Analysis",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1467-3045/46/12/808/html",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 대부분 세포·동물 실험과 그 결과를 묶은 리뷰이며, 잎 추출물의 항산화·간 보호·피부 관련 작용 등이 실험실 수준에서 보고되었다. 사람 대상으로는 주관적 인지 저하를 느끼는 성인 85명에게 12주간 추출물을 먹인 무작위 대조시험 1건이 확인되었으나, 규모가 작아 근거는 아직 제한적이다."
+  },
+  "name": "황칠나무",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "국립산림과학원 - 황칠나무 (특용수 자료)",
+        "url": "https://nifos.forest.go.kr/kfs/images/data/down/imsan/imsan_05_10.pdf"
+      },
+      {
+        "title": "황칠나무(Dendropanax morbifera)의 부정근 유도 및 기내증식조건 (식물생명공학회지, 2009)",
+        "url": "https://koreascience.or.kr/article/JAKO200903538424665.pdf"
+      },
+      {
+        "title": "Dendropanax Morbiferus and Other Species from the Genus Dendropanax: Therapeutic Potential of Its Traditional Uses, Phytochemistry, and Pharmacology (Antioxidants, 2020)",
+        "url": "https://www.mdpi.com/2076-3921/9/10/962"
+      }
+    ],
+    "text": "황칠나무 줄기에 상처를 내 받은 노란 수액(황칠)은 투명한 금빛 천연 도료로, 예로부터 갑옷과 왕실 물품 등 목공예·금속·가죽·종이에 칠하는 데 써 왔다. 민간에서는 잎·뿌리·씨앗·줄기를 여러 질환에 쓰는 약재로 이용해 왔다고 학술 문헌에 정리되어 있다."
+  },
+  "updatedAt": 1792789248964
+}
