@@ -1,0 +1,163 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 가시연은 환경부 지정 멸종위기 야생생물 Ⅱ급이라 허가 없이 자생지 개체를 채취하거나 훼손·유통하면 법 위반입니다. 열매나 씨도 마찬가지입니다.",
+      "q": "야생 가시연을 따도 되나요?"
+    },
+    {
+      "a": "가시연의 씨를 말린 약재 이름입니다. 대한민국약전에 '검인(芡仁)'으로 실려 있습니다.",
+      "q": "감인(검인)은 무엇인가요?"
+    },
+    {
+      "a": "가시를 보면 됩니다. 가시연은 잎·잎자루·꽃받침까지 억센 가시로 덮이고 잎이 물 위에 납작하게 뜨지만, 연꽃은 가시가 없고 잎과 꽃이 물 위로 높이 솟습니다.",
+      "q": "가시연과 연꽃은 어떻게 다른가요?"
+    },
+    {
+      "a": "대개 7~9월입니다. 씨로만 번식하는 한해살이라 해마다 개체 수 차이가 크고, 어떤 해에는 거의 나지 않기도 합니다.",
+      "q": "꽃은 언제 볼 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "씨앗(검인)을 절구에 찧어 가루를 내 떡을 만들어 먹는다.",
+    "eng": "Prickly water lily",
+    "family": "수련과",
+    "grade": "",
+    "habitat": "오래된 저수지·연못·늪처럼 물이 고인 곳에 사는 물풀로, 우리나라 같은 온대에서는 싹튼 해에 씨를 맺고 죽는 한해살이로 자란다. 국내에서는 전북 정읍·임실·완주·고창 등지의 자생지가 알려져 있고, 씨로만 번식하며 해에 따라 거의 나지 않기도 한다. 환경부 지정 멸종위기 야생생물 Ⅱ급이며(2005년 지정), 법에 따라 허가 없이 야생 개체를 채취·훼손·유통할 수 없다.",
+    "look": {
+      "flower": "7~9월에 가시 돋친 꽃자루 끝에 자줏빛 꽃이 물 위로 올라와 핀다. 꽃받침에 가시가 특히 빽빽하며, 낮에 열렸다가 밤에 닫힌다.",
+      "fruit": "열매 속에 둥근 씨가 들며, 겉껍질은 검은색이다.",
+      "leaf": "처음 나오는 잎은 작은 화살 모양이고, 자라면 물 위에 둥글게 뜨는 큰 잎(지름 20~120cm, 큰 것은 1m 넘게)이 된다. 잎 윗면은 주름지고 윤이 나며 뒷면은 짙은 자주색이고, 튀어나온 잎맥 위에 가시가 있다.",
+      "stem": "잎자루·꽃자루를 비롯해 식물 전체에 억센 가시가 돋는다. 뿌리줄기는 짧고 수염뿌리가 많다."
+    },
+    "parts": "씨(약재 이름 감인·검인 芡仁)",
+    "prep": "멸종위기 야생생물이므로 자생지의 잎·꽃·열매·씨를 따거나 캐면 안 된다(허가 없는 채취·훼손·유통 금지). 시중의 감인은 말린 씨를 약재·식품으로 다루며, 가시가 억세므로 생식물을 맨손으로 만지지 않는다.",
+    "sci": "Euryale ferox Salisb.",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "환경부(기후에너지환경부) 생태정보 - 가시연 (멸종위기 2급)",
+        "url": "https://mcee.go.kr/smg/web/meecoinfo/meEcoInfoUserView.do?info_seq=159&menuId=872"
+      },
+      {
+        "title": "국립생태원 - 멸종위기 야생생물 II급 가시연 개화",
+        "url": "https://www.nie.re.kr/nie/bbs/BMSR00029/view.do?boardId=695962085&menuNo=200098"
+      },
+      {
+        "title": "야생생물 보호 및 관리에 관한 법률 제14조 (멸종위기 야생생물의 포획·채취 등의 금지)",
+        "url": "https://korea.legal/wiki/%ec%95%bc%ec%83%9d%ec%83%9d%eb%ac%bc-%eb%b3%b4%ed%98%b8-%eb%b0%8f-%ea%b4%80%eb%a6%ac%ec%97%90-%ea%b4%80%ed%95%9c-%eb%b2%95%eb%a5%a0-%ec%a0%9c14%ec%a1%b0/"
+      },
+      {
+        "title": "식품의약품안전처 대한민국약전 생약 사진자료 - 검인(芡仁) Euryale Seed",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_10.pdf"
+      },
+      {
+        "title": "이석우 외 (2016) 정원 내 가시연꽃 도입을 위한 기초연구 - 한국전통조경학회지",
+        "url": "https://koreascience.or.kr/article/JAKO201625749460347.page"
+      }
+    ],
+    "store": "말린 씨(감인)는 습기를 피해 밀봉해 서늘한 곳에 둔다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "환경부(기후에너지환경부) 생태정보 - 가시연 (멸종위기 2급)",
+      "url": "https://mcee.go.kr/smg/web/meecoinfo/meEcoInfoUserView.do?info_seq=159&menuId=872"
+    },
+    {
+      "title": "국립생태원 - 멸종위기 야생생물 II급 가시연 개화",
+      "url": "https://www.nie.re.kr/nie/bbs/BMSR00029/view.do?boardId=695962085&menuNo=200098"
+    },
+    {
+      "title": "한국교육신문 - 관곡지 연꽃테마파크 수생식물(연꽃·수련 구별, 국립생물자원관 인용, 2022)",
+      "url": "https://hangyo.com/mobile/article.html?no=96581"
+    },
+    {
+      "title": "서울신문 - 서울식물원 물속식물 전시(가시연꽃·빅토리아수련, 2026)",
+      "url": "https://m.go.seoul.co.kr/news/2026/08/13/20260813500225"
+    },
+    {
+      "title": "사이언스타임즈(한국과학창의재단) - 연못과 함께 사라지는 수생식물 순채 (2015)",
+      "url": "https://www.sciencetimes.co.kr/news/%ec%97%b0%eb%aa%bb%ea%b3%bc-%ed%95%a8%ea%bb%98-%ec%82%ac%eb%9d%bc%ec%a7%80%eb%8a%94-%ec%88%98%ec%83%9d%ec%8b%9d%eb%ac%bc-%ec%88%9c%ec%b1%84/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 물가 식물이라 이름과 씨 약재(연자육과 감인)가 헷갈리지만, 연꽃은 잎과 꽃이 물 위로 높이 솟고 가시가 없다.",
+      "name": "연꽃",
+      "points": [
+        "연꽃은 잎과 꽃이 물 위 30cm 이상 높이 솟아오르고, 가시연 잎은 물 위에 납작하게 뜬다.",
+        "가시연은 잎·잎자루·꽃받침까지 가시로 덮여 있지만, 연꽃 잎에는 가시가 없다.",
+        "가시연 잎 뒷면은 짙은 자주색이고 윗면이 울퉁불퉁 주름진다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "잎과 꽃이 물 위에 떠서 가시연의 어린 개체나 작은 잎과 헷갈릴 수 있다. 가시의 유무로 쉽게 구별된다.",
+      "name": "수련",
+      "points": [
+        "수련은 잎·꽃자루에 가시가 없고, 가시연은 식물 전체에 억센 가시가 있다.",
+        "수련 잎은 한쪽이 깊게 갈라진 둥근 잎이고, 다 자란 가시연 잎은 갈라짐 없이 둥글며 지름이 훨씬 크다(20~120cm).",
+        "관상용 빅토리아수련은 외국산으로, '큰가시연꽃'이라고도 불리지만 우리 자생 가시연과는 다른 식물이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "오래된 연못에 사는 잎이 물에 뜨는 물풀이며, 순채 역시 멸종위기 야생생물 Ⅱ급이라 자생지에서 채취하면 안 된다.",
+      "name": "순채",
+      "points": [
+        "순채 잎은 길이 8~12cm 정도의 작은 타원형이고 가장자리가 밋밋하며, 잎자루가 잎 뒷면 가운데에 방패처럼 붙는다.",
+        "순채 새싹은 우무 같은 끈적한 물질에 싸여 돋고, 가시연에는 이런 점액질 대신 가시가 있다.",
+        "순채 꽃은 지름 2cm 정도의 작은 짙은 보라색이고 5~7월에 피며, 가시연 꽃은 7~9월에 가시 돋친 꽃자루 끝에 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Metabolites",
+        "note": "가공 방법이 다른 가시연 씨의 성분 차이를 질량분석으로 비교해 구별할 수 있는지 살핀 성분 분석 연구다.",
+        "title": "Profiling and Discrimination of Euryale Ferox Seeds from Different Processing Methods Using Liquid Chromatography High-Resolution Mass Spectrometry Combined with Molecular Networking and Statistical Analysis",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/metabo15040225",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "가시연 씨의 전통 쓰임, 성분, 실험에서 보고된 작용을 정리한 문헌 리뷰로, 근거의 대부분은 사람 대상이 아닌 실험 연구다.",
+        "title": "The Ethnopharmacological, Phytochemical, and Pharmacological Review of Euryale ferox Salisb.: A Chinese Medicine Food Homology",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules28114399",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 씨의 성분(다당류·폴리페놀·토코페롤 등)과 가공법에 따른 차이를 분석한 것이다. 항산화·혈당 관련 작용 등이 보고되었지만 대부분 실험실·동물 연구를 모은 것으로, 사람에게서 효과가 확인된 수준은 아니다."
+  },
+  "name": "가시연",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "식품의약품안전처 대한민국약전 생약 사진자료 - 검인(芡仁) Euryale Seed",
+        "url": "https://www.mfds.go.kr/files/upload/herbmed/photo_data/KP_10.pdf"
+      },
+      {
+        "title": "Euryale ferox Salisb. 민족약리·성분·약리 리뷰 (Molecules, 2023)",
+        "url": "https://www.mdpi.com/1420-3049/28/11/4399/reprints"
+      }
+    ],
+    "text": "가시연의 씨는 식품의약품안전처가 관리하는 대한민국약전에 생약 '검인(芡仁)'으로 실려 있다. 중국에서는 씨를 2천 년 가까이 귀한 식품이자 약재로 써 온 '약식동원(藥食同源)' 재료로 소개된다."
+  },
+  "updatedAt": 1792962021102
+}

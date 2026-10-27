@@ -1,0 +1,162 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "자귀나무 껍질을 합환피라는 이름으로 실었고, 오장을 편안하게 하고 마음을 이롭게 해 근심을 덜어 준다고 적었다.",
+      "『의학입문』을 인용해 폐옹으로 고름을 토하는 데 쓰고, 벌레를 없애며 힘줄과 뼈를 잇고 종기를 삭이는 데 쓴다고 적었다.",
+      "나무는 오동나무와 비슷하고 가지가 매우 부드러우며, 잎이 아주 잘고 촘촘한데 해 질 무렵 잎이 오므라들어 '합혼(合昏)'이라고도 부른다고 적었다.",
+      "5월에 누르스름한 흰빛 꽃이 피고 꽃잎 위가 실 같은 털처럼 생겼으며, 껍질과 잎은 때를 가리지 않고 채취한다고 적었다.",
+      "뜰에 심어 두면 사람이 성내지 않게 된다는 옛말도 함께 소개했다."
+    ],
+    "han": "合歡皮",
+    "has": true,
+    "ki": "性平味甘無毒",
+    "kiKo": "성질은 평(平)하고 맛은 달며 독이 없다.",
+    "old": "자괴나모겁질",
+    "orig": "性平, 味甘, 無毒. 主安五藏, 利心志, 令人歡樂無憂. … 其葉至暮而合, 故一名合昏. … 不拘時月, 採皮及葉用.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 목부 2.54 合歡皮",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2708"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "식품으로 써도 되는지 확인하지 못했으므로 권하지 않습니다. 식약처 식품원료 목록에서 사용 가능 여부를 먼저 확인하고, 약재로 쓰려면 한의사와 상의하세요.",
+      "q": "자귀나무 껍질(합환피)을 차로 끓여 먹어도 되나요?"
+    },
+    {
+      "a": "6~7월에 핍니다. 가지 끝에 위쪽이 붉고 아래쪽이 흰 긴 수술이 모여 분홍 솔처럼 보입니다.",
+      "q": "자귀나무 꽃은 언제 피나요?"
+    },
+    {
+      "a": "아닙니다. 영어로 자귀나무를 'mimosa'라 부르기도 하지만, 미모사는 건드리면 잎이 바로 접히는 가시 있는 풀이고 자귀나무는 키 3~5m의 나무입니다.",
+      "q": "자귀나무와 미모사는 같은 식물인가요?"
+    },
+    {
+      "a": "정상입니다. 자귀나무 작은잎은 밤이나 비 올 때 접히며, 『동의보감』에도 해 질 무렵 잎이 오므라든다고 적혀 있습니다.",
+      "q": "자귀나무 잎이 밤에 접히는 게 정상인가요?"
+    },
+    {
+      "a": "작은잎 크기를 봅니다. 자귀나무 작은잎은 폭 2.5~4mm로 가늘고, 왕자귀나무는 길이 15~26mm, 폭 8~11mm로 큽니다.",
+      "q": "자귀나무와 왕자귀나무는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "잎을 달여 차로 마시고, 말린 꽃은 물에 달여 마시거나 소주에 담가 술로 마신다.",
+    "eng": "Silk tree (Persian silk tree)",
+    "family": "콩과",
+    "grade": "",
+    "habitat": "국내에서는 경기·충청·전라·경상 등 중부 이남에 분포하는 잎 지는 작은 나무로, 높이 3~5m 정도까지 자라고 큰 가지가 넓게 퍼진다.",
+    "look": {
+      "flower": "6~7월 가지 끝에 15~20송이가 모여 피며, 길이 약 3cm의 실 같은 수술이 위쪽은 붉고 아래쪽은 희어 분홍 솔처럼 보인다.",
+      "fruit": "길이 15cm 안팎의 납작한 꼬투리가 9월 말~10월 초에 익고 안에 씨가 여러 개 들어 있다.",
+      "leaf": "잎은 어긋나며 두 번 갈라지는 깃꼴겹잎이고, 작은잎은 길이 6~15mm의 낫 모양으로 좌우가 비대칭이다. 밤이나 비 올 때 작은잎이 서로 포개지듯 접힌다.",
+      "stem": "나무껍질은 짙은 회녹색이며 나이가 들면 세로 줄무늬가 생긴다. 어린 가지는 털이 없고 모가 져 있다."
+    },
+    "parts": "나무껍질(한약재 합환피). 꽃도 한방에서 쓰인다고 알려져 있으나 식품 사용 가능 부위는 확인하지 못했다.",
+    "prep": "자귀나무(합환피)는 식약처 식품원료 목록에서 사용 가능 부위를 확인하지 못했다. 식품으로 쓸 수 있는지 확인되기 전에는 차·즙 등으로 먹지 말고, 약재로 쓰려면 한의사 등 전문가와 상의한다.",
+    "sci": "Albizia julibrissin Durazz.",
+    "season": {
+      "collect": [],
+      "flower": [
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Woody Plants of Korea (한국의 수목) - 자귀나무 Albizia julibrissin",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5248"
+      },
+      {
+        "title": "The Woody Plants of Korea (한국의 수목) - 자귀나무속 Albizia",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5247"
+      },
+      {
+        "title": "Wikipedia - Albizia julibrissin",
+        "url": "https://en.wikipedia.org/wiki/Albizia_julibrissin"
+      },
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 목부 2.54 合歡皮",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2708"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "The Woody Plants of Korea (한국의 수목) - 자귀나무속 Albizia",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5247"
+    },
+    {
+      "title": "The Woody Plants of Korea (한국의 수목) - 자귀나무 Albizia julibrissin",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5248"
+    },
+    {
+      "title": "Wikipedia - Albizia julibrissin",
+      "url": "https://en.wikipedia.org/wiki/Albizia_julibrissin"
+    },
+    {
+      "title": "Wikipedia - Mimosa pudica",
+      "url": "https://en.wikipedia.org/wiki/Mimosa_pudica"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "왕자귀나무(Albizia kalkora)는 같은 자귀나무속 나무로 국내에서는 목포 유달산과 그 주변에만 자란다. 작은잎 크기로 가장 쉽게 구별한다.",
+      "name": "왕자귀나무",
+      "points": [
+        "자귀나무 작은잎은 폭 2.5~4mm로 가늘고, 왕자귀나무 작은잎은 길이 15~26mm, 폭 8~11mm로 훨씬 크다.",
+        "자귀나무는 2차 작은잎 수가 더 많고 촘촘하게 달린다.",
+        "자귀나무는 중부 이남 여러 지역에 널리 자라고, 왕자귀나무는 국내 분포가 목포 일대로 좁다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "미국 등에서 자귀나무를 'mimosa'라고도 부르지만, 미모사(Mimosa pudica)는 다른 속의 풀이다. 미모신이라는 독성 알칼로이드를 지니므로 먹지 않는다.",
+      "name": "미모사",
+      "points": [
+        "미모사는 키 30cm 안팎의 풀이고, 자귀나무는 키 3~5m의 나무다.",
+        "미모사는 손으로 건드리면 잎이 곧바로 접히고, 자귀나무는 밤이나 비 올 때 천천히 접힌다.",
+        "미모사는 줄기와 잎자루에 가시가 있고, 꽃이 지름 1cm 정도의 둥근 분홍·보라 꽃송이다.",
+        "미모사 꼬투리는 1~2cm로 짧고 가장자리에 가시가 있으며, 자귀나무 꼬투리는 15cm 안팎으로 길고 납작하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "2004~2024년 연구를 모아 자귀나무 유래 성분(사포닌·플라보노이드·리그난)과 보고된 활성을 정리한 리뷰로, 대부분 세포·동물 실험 결과다.",
+        "title": "Pharmacological Spectrum of Substances Derived from Albizia julibrissin Durazz",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ijms26167778",
+        "year": "2025"
+      },
+      {
+        "journal": "Chinese Herbal Medicines",
+        "note": "자귀나무와 이를 넣은 처방이 우울 관련 경로에 작용할 가능성을 동물 실험과 일부 처방 임상 자료로 정리한 서술형 리뷰다.",
+        "title": "Molecular basis and mechanism of action of Albizia julibrissin in depression treatment and clinical application of its formulae",
+        "type": "리뷰",
+        "url": "https://europepmc.org/article/MED/37265761",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 주로 자귀나무 껍질·꽃에 든 사포닌(쥴리브로사이드), 플라보노이드, 리그난 성분이 우울·불안 관련 지표나 종양세포 등에 미치는 영향을 살폈다. 근거는 대부분 세포·동물 실험이고, 사람 자료는 중국 처방 단위 임상 연구가 일부 요약된 정도라 효과를 단정하기 어렵다."
+  },
+  "name": "자귀나무",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792919652818
+}

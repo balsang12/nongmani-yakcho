@@ -1,0 +1,150 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네, 망태버섯(Phallus indusiatus)은 식용버섯이며 중국에서 재배해 말린 것이 팔립니다. 보통 냄새 나는 갓 끝과 밑동 대주머니를 떼고 대 부분을 먹습니다.",
+      "q": "망태버섯은 먹을 수 있나요?"
+    },
+    {
+      "a": "다른 종일 가능성이 큽니다. 노란 망사 치마가 있는 것은 노랑망태버섯(Phallus luteus)이고, 식용 여부를 확인할 자료가 부족하니 따서 먹지 마세요.",
+      "q": "산에서 본 노란 망사 버섯도 망태버섯인가요?"
+    },
+    {
+      "a": "갓 끝을 덮은 녹갈색 포자 점액 때문입니다. 이 냄새로 파리를 불러 포자를 퍼뜨리며, 손질할 때 이 부분을 떼어 냅니다.",
+      "q": "망태버섯에서 왜 고약한 냄새가 나나요?"
+    },
+    {
+      "a": "포장의 원산지와 수입·판매업체 표시를 먼저 확인하세요. 비슷한 재배종이 같은 이름으로 팔릴 수 있고 말린 상태로는 종을 가리기 어렵기 때문입니다.",
+      "q": "말린 망태버섯은 어떻게 고르나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 것을 물에 불려 망과 머리 부분을 떼어 내고 썰어 수프나 국물 요리에 넣는다.",
+    "eng": "Bamboo fungus, Veiled lady, Basket stinkhorn",
+    "family": "말뚝버섯과(Phallaceae, 말뚝버섯목)",
+    "grade": "",
+    "habitat": "열대·아열대에 널리 나며, 아시아에서는 대나무 숲의 기름진 땅이나 썩은 나무 부스러기 위에 큰 비 뒤 하나씩 또는 무리로 난다. 중국에서는 1979년부터 상업 재배를 해 와 시장의 말린 망태버섯은 대부분 재배품이다. 국내 숲에서 흔히 보이는 노란 망사 버섯은 노랑망태버섯(Phallus luteus)으로 다른 종이다.",
+    "look": {
+      "fruit": "처음에는 지름 6cm 안팎의 흰색~담갈색 알 모양으로 땅에 묻혀 있다가, 알이 터지면서 몇 시간 만에 높이 25cm까지 자란다. 종 모양의 갓(1.5~4cm) 표면은 그물처럼 울퉁불퉁하고 녹갈색의 끈적한 포자 점액으로 덮인다. 갓 아래로 흰 그물 망사 치마가 길게 드리운다.",
+      "smell": "갓 끝 포자 점액에서 썩은 냄새 같은 강한 악취가 나 파리가 꼬인다.",
+      "stem": "대는 흰색 원통형으로 속이 비고 스펀지처럼 구멍이 많으며, 밑동에는 터진 알 껍질이 대주머니로 남는다."
+    },
+    "parts": "자실체 가운데 주로 대(줄기). 냄새 나는 갓 끝의 포자 점액, 망사 치마, 밑동 대주머니는 보통 떼어 낸다.",
+    "prep": "갓 끝의 냄새 나는 포자 점액과 밑동 대주머니를 떼어 내고 대를 깨끗이 씻는다. 말린 것은 미지근한 물에 불려 씻어 쓴다. 야생에서 본 망사 버섯은 종을 확인하기 어렵고 노랑망태버섯 등과 헷갈리므로 함부로 먹지 않는다.",
+    "sci": "Phallus indusiatus Vent. (이명 Dictyophora indusiata)",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Phallus indusiatus (Wikipedia, 형태·재배 참고)",
+        "url": "https://en.wikipedia.org/wiki/Phallus_indusiatus"
+      },
+      {
+        "title": "위키백과 - 망태말뚝버섯",
+        "url": "https://ko.wikipedia.org/wiki/%EB%A7%9D%ED%83%9C%EB%A7%90%EB%9A%9D%EB%B2%84%EC%84%AF"
+      },
+      {
+        "title": "Kumar & Xu(2025) New Insights into Chemical Profiles and Health-Promoting Effects of Edible Mushroom Dictyophora indusiata: A Review, Journal of Fungi 11(1)",
+        "url": "https://doi.org/10.3390/jof11010075"
+      },
+      {
+        "title": "Phallus luteus (Wikipedia, 분포·이명 참고)",
+        "url": "https://en.wikipedia.org/wiki/Phallus_luteus"
+      }
+    ],
+    "store": "자실체는 몇 시간 만에 녹듯 시들므로 생것은 바로 손질한다. 보통 말린 상태로 습기 없이 밀봉해 보관한다.",
+    "taste": "날것은 갓 끝 점액에서 악취가 난다. 먹는 부분인 대는 속이 비고 스펀지 같은 조직이다."
+  },
+  "lookSources": [
+    {
+      "title": "Phallus indusiatus (Wikipedia, 형태·재배 참고)",
+      "url": "https://en.wikipedia.org/wiki/Phallus_indusiatus"
+    },
+    {
+      "title": "Phallus luteus (Wikipedia, 분포·이명 참고)",
+      "url": "https://en.wikipedia.org/wiki/Phallus_luteus"
+    },
+    {
+      "title": "정종천 외(2001) 흰돌기망태버섯(가칭)의 일반성분 및 항미생물활성, 한국균학회지 29(2)",
+      "url": "https://koreascience.or.kr/article/JAKO200104637436244.do"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Phallus luteus(이명 Dictyophora indusiata f. lutea). 한국·중국·일본 등 아시아에 널리 나는 종으로 갓과 망사 치마가 노란색이다. 식용 여부는 확인된 자료가 부족하다.",
+      "name": "노랑망태버섯",
+      "points": [
+        "노랑망태버섯은 망사 치마와 갓이 노란색~주황색이고, 망태버섯은 망사 치마가 흰색이다.",
+        "둘 다 갓 끝에 녹갈색 악취 점액이 있어 냄새로는 구별되지 않는다.",
+        "산에서 본 망사 버섯은 색만으로 종을 단정하기 어려우니 따서 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Phallus echinovolvatus(Dictyophora echinovolvata). 흰 망사 치마가 있어 망태버섯과 아주 닮았고, 높은 온도에서 잘 자라 재배되는 종이다. 말린 수입품은 겉모습으로 종을 가리기 어렵다.",
+      "name": "흰돌기망태버섯",
+      "points": [
+        "알(대주머니) 겉에 흰 바늘 같은 돌기가 덮여 있으면 흰돌기망태버섯이다.",
+        "말려 파는 대만 보고는 망태버섯과 구별할 수 없으므로 포장의 학명·원산지 표시를 확인한다.",
+        "수입 건조품은 원산지와 수입·판매업체 표시가 분명한 것을 고른다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "중국에서는 1979년부터 망태버섯류를 상업 재배해 말린 것을 아시아 시장에 판다. 망태버섯 말고도 흰돌기망태버섯, Phallus rubrovolvatus 같은 여러 재배종이 있어 같은 이름으로 팔릴 수 있다.",
+      "name": "중국산 건조 망태버섯",
+      "points": [
+        "포장의 원산지와 수입·판매업체 정보를 확인한다.",
+        "포장 없이 원산지를 알 수 없는 낱개 건조품은 피한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food & Medicine Homology",
+        "note": "증기 폭쇄로 얻은 다당류를 염증을 유도한 쥐에게 주어 장 점막 장벽 유전자, 염증 물질, 장내 미생물 변화를 살폈다.",
+        "title": "Steam-exploded Dictyophora indusiata polysaccharide protect against inflammation by regulating gut barrier, microbiota and metabolites",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.26599/FMH.2026.9420107",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition",
+        "note": "항생제로 설사를 일으킨 쥐 21마리에게 물에 녹지 않는 다당류를 주어 장내 미생물 다양성과 염증 지표 변화를 관찰했다.",
+        "title": "Restoration of antibiotic associated diarrhea induced gut microbiota disorder by using Dictyophora indusiata water-insoluble polysaccharides in C57BL/6J mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fnut.2025.1607365",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Fungi",
+        "note": "다당류·테르페노이드 등 성분과 여러 건강 관련 연구를 정리했으며, 근거 대부분이 실험실·동물 연구라 추가 연구가 필요하다고 했다.",
+        "title": "New Insights into Chemical Profiles and Health-Promoting Effects of Edible Mushroom Dictyophora indusiate (Vent ex. Pers.) Fischer: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/jof11010075",
+        "year": "2025"
+      }
+    ],
+    "summary": "망태버섯(Dictyophora indusiata)의 다당류에 대해 항산화·항염·장내 미생물 조절 같은 작용이 보고됐지만, 대부분 시험관·세포·동물(쥐) 실험 결과다. 2025년 리뷰는 성분과 건강 관련 연구를 정리하면서 다당류 외 성분 연구가 부족하다고 지적했다. 사람 대상 임상 연구는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "망태버섯",
+  "st": "ok",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "Kumar & Xu(2025) New Insights into Chemical Profiles and Health-Promoting Effects of Edible Mushroom Dictyophora indusiata: A Review, Journal of Fungi 11(1)",
+        "url": "https://doi.org/10.3390/jof11010075"
+      }
+    ],
+    "text": "망태버섯은 중국에서 대나무 숲에 나는 귀한 식재료이자 전통 약용버섯으로 여겨져 왔고, 지금은 남부 지방에서 재배한다. 보통 대 부분만 진미로 먹고 갓·망사·대주머니는 버린다. 이런 쓰임은 전해 오는 것일 뿐 효과가 확인된 것은 아니다."
+  },
+  "updatedAt": 1793005462003
+}

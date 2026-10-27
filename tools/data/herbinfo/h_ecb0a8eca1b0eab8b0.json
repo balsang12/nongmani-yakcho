@@ -1,0 +1,155 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "잎 색과 향으로 구별합니다. 차조기는 잎 앞뒤나 뒷면이 짙은 자줏빛인 경우가 많고 향이 더 진하며, 깻잎은 대개 녹색입니다. 다만 둘은 같은 종의 변종이고 녹색 차조기 품종도 있어, 판매처 표시를 함께 확인하는 것이 좋습니다.",
+      "q": "차조기와 깻잎(들깨)은 어떻게 구별하나요?"
+    },
+    {
+      "a": "네, 같은 식물을 가리킵니다. 차조기(차즈기)의 잎과 연한 줄기 끝을 말린 한약재 이름이 자소엽(紫蘇葉)이며, 소엽이라고도 부릅니다.",
+      "q": "자소엽, 소엽, 차조기는 같은 것인가요?"
+    },
+    {
+      "a": "잎은 여름부터 꽃이 피기 전후인 9월까지 거둡니다. 국내 재배 시험에서는 7월 하순·8월 하순·9월 하순에 잎을 수확했고, 꽃은 9월 초 무렵 피었습니다.",
+      "q": "차조기는 언제 거두나요?"
+    },
+    {
+      "a": "향신 채소처럼 적당히 먹는 것이 좋습니다. 잎 향 성분인 페릴라케톤은 소 같은 가축에서 폐 손상을 일으킨 기록이 있고, 2025년 리뷰는 사람의 잎 섭취 안전량을 하루 5g 이하로 추정했습니다.",
+      "q": "차조기 잎을 많이 먹어도 되나요?"
+    },
+    {
+      "a": "생잎은 마르지 않게 키친타월로 감싸 밀폐한 뒤 냉장하고 되도록 빨리 씁니다. 오래 두려면 그늘에서 말려 밀폐 용기에 보관합니다.",
+      "q": "차조기 잎은 어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "잎을 고기 쌈채소로 먹거나 장아찌·튀김을 하고, 채 썰어 회무침이나 비빔밥에 넣는다.",
+    "eng": "Shiso (purple perilla)",
+    "family": "꿀풀과",
+    "grade": "",
+    "habitat": "중국 원산으로 들깨와 같은 종에 속하는 한해살이풀이며, 우리나라에서는 주로 밭에 심어 기른다. 물빠짐이 나쁜 점토나 너무 메마른 모래땅을 피해 기른다.",
+    "look": {
+      "flower": "늦여름에 줄기와 가지 끝에 작은 연보라색(품종에 따라 흰색) 입술 모양 꽃이 이삭처럼 달린다.",
+      "fruit": "꽃받침 안에 작은 둥근 씨(소견과)가 들어 있다.",
+      "leaf": "잎은 마주나고 잎자루가 길며 넓은 달걀꼴에 가장자리에 톱니가 있다. 앞뒷면이 모두 자줏빛이거나, 앞은 짙은 녹색이고 뒷면이 자줏빛인 것이 많다.",
+      "smell": "잎을 비비면 들깨잎보다 진하고 톡 쏘는 독특한 향이 난다.",
+      "stem": "줄기는 네모지고 곧게 서며 가지를 친다. 식물 전체가 자줏빛을 띠는 경우가 많다."
+    },
+    "parts": "잎과 연한 줄기 끝(약재명 자소엽), 씨",
+    "prep": "잎을 흐르는 물에 씻어 물기를 턴다. 약재(자소엽)로 쓸 것은 그늘에서 말린다. 향 성분 가운데 페릴라케톤은 많이 먹으면 해로울 수 있다는 연구가 있으므로, 향신 채소처럼 적당량만 쓴다.",
+    "sci": "Perilla frutescens var. crispa (Benth.) Deane ex Bailey",
+    "season": {
+      "collect": [
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국육종학회지 - 항염증 기능성 차조기 신품종 '안티스페릴' (한국원자력연구원, 2023)",
+        "url": "https://doi.org/10.9787/KJBS.2023.55.3.254"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 up-to-date - 자소엽",
+        "url": "https://www.kmcric.com/database/herb_list?id=99&search_word=%EC%9E%90%EC%86%8C%EC%97%BD"
+      },
+      {
+        "title": "한국약용작물학회지 - 국내 수집 자소(Perilla frutescens)의 정유 성분과 화학형 (2004)",
+        "url": "https://koreascience.or.kr/article/JAKO200403042356880.page"
+      },
+      {
+        "title": "GBIF - Perilla frutescens var. crispa (Benth.) Deane ex Bailey",
+        "url": "https://www.gbif.org/species/7733494"
+      }
+    ],
+    "store": "생잎은 마르지 않게 키친타월로 싸서 밀폐해 냉장하고 빨리 쓴다. 말린 잎은 습기와 빛을 피해 밀폐 보관한다.",
+    "taste": "잎에서 들깨와 비슷하면서도 더 진하고 독특한 향이 나며, 맛은 맵고 성질은 따뜻한 약재로 분류된다."
+  },
+  "lookSources": [
+    {
+      "title": "한국육종학회지 - 항염증 기능성 차조기 신품종 '안티스페릴' (한국원자력연구원, 2023)",
+      "url": "https://doi.org/10.9787/KJBS.2023.55.3.254"
+    },
+    {
+      "title": "제주특별자치도농업기술원 - 엽채류(들깨잎) 재배 자료",
+      "url": "https://agri.jeju.go.kr/files/board/%EC%97%BD%EC%B1%84%EB%A5%98(%EB%93%A4%EA%B9%A8%EC%9E%8E).pdf"
+    },
+    {
+      "title": "한국약용작물학회지 - 국내 수집 자소(Perilla frutescens)의 정유 성분과 화학형 (2004)",
+      "url": "https://koreascience.or.kr/article/JAKO200403042356880.page"
+    },
+    {
+      "title": "MSD/Merck Veterinary Manual - Perilla ketone toxicosis (purple mint) in cattle",
+      "url": "https://www.merckvetmanual.com/respiratory-system/respiratory-diseases-of-cattle/4-ipomeanol-toxicity-moldy-sweet-potato-and-perilla-ketone-toxicity-purple-mint-toxicity-in-cattle"
+    },
+    {
+      "title": "Comprehensive Review of Perilla frutescens (Foods, 2025)",
+      "url": "https://doi.org/10.3390/foods14071252"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "차조기와 들깨(깻잎)는 같은 종(Perilla frutescens) 안의 다른 변종이라 생김새가 매우 비슷하다. 둘 다 먹는 식물이지만, 잎 색과 향으로 구별하고 이름을 바꿔 팔지 않는다.",
+      "name": "들깨",
+      "points": [
+        "잎 색을 본다. 차조기는 잎 앞뒤가 자줏빛이거나 뒷면이 짙은 자주색인 경우가 많고, 깻잎용 들깨는 대개 앞뒤 모두 녹색이거나 뒷면만 연한 자줏빛이다.",
+        "향을 맡는다. 차조기 잎은 깻잎보다 향이 진하고 톡 쏜다.",
+        "녹색 차조기 품종도 있으므로 잎 색만으로 확신하지 말고 판매처의 품종 표시를 확인한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Foods",
+        "note": "들깨속(차조기 포함) 식물의 성분·약리 연구와 식품 이용을 정리한 리뷰로, 페릴라케톤의 폐 독성 위험 때문에 잎 섭취 안전량을 하루 5g 이하로 추정했다.",
+        "title": "Comprehensive Review of Perilla frutescens: Chemical Composition, Pharmacological Mechanisms, and Industrial Applications in Food and Health Products",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods14071252",
+        "year": "2025"
+      },
+      {
+        "journal": "Antioxidants",
+        "note": "자줏빛 차조기(var. crispa f. purpurea) 등 세 변종의 잎 추출물로 항산화 성질과 암세포주 반응을 시험관에서 살펴본 연구로, 사람에게서 확인한 결과는 아니다.",
+        "title": "Assessing the Antioxidant Properties, In Vitro Cytotoxicity and Antitumoral Effects of Polyphenol-Rich Perilla leaves Extracts",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/antiox13010058",
+        "year": "2024"
+      },
+      {
+        "journal": "Korean Journal of Breeding Science",
+        "note": "국내에서 방사선 돌연변이 육종으로 이소에고마케톤 함량을 높인 차조기 신품종을 개발해 보고한 품종 등록 논문이다.",
+        "title": "A New Perilla frutescens var. crispa 'Antisperill' with Anti-Inflammatory Properties",
+        "type": "기타",
+        "url": "https://doi.org/10.9787/KJBS.2023.55.3.254",
+        "year": "2023"
+      }
+    ],
+    "summary": "차조기 잎의 향 성분은 페릴알데하이드·페릴라케톤 등 정유이며, 국내 수집종은 페릴알데하이드형과 페릴라케톤형이 대부분을 차지한다는 보고가 있다. 최근 연구는 주로 세포·동물 실험 수준이고, 2025년 리뷰는 페릴라케톤이 폐에 독성을 낼 수 있어 잎 섭취량을 하루 5g 이하로 추정하는 등 용량 관리가 필요하다고 정리했다."
+  },
+  "name": "차조기",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 up-to-date - 자소엽",
+        "url": "https://www.kmcric.com/database/herb_list?id=99&search_word=%EC%9E%90%EC%86%8C%EC%97%BD"
+      },
+      {
+        "title": "한국육종학회지 - 항염증 기능성 차조기 신품종 '안티스페릴' (한국원자력연구원, 2023)",
+        "url": "https://doi.org/10.9787/KJBS.2023.55.3.254"
+      }
+    ],
+    "text": "보라색 잎을 가진 차조기의 잎과 연한 줄기 끝을 말린 것을 한약재 '자소엽(紫蘇葉)'이라 부른다. 맛은 맵고 성질은 따뜻하며, 전통적으로 찬 기운으로 인한 감기 증상을 풀고 기운의 흐름을 도와 속을 편하게 하며, 생선·게를 먹고 탈이 났을 때 쓰는 약재로 정리되어 있다."
+  },
+  "updatedAt": 1792962021102
+}

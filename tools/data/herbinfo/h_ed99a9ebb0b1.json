@@ -1,0 +1,163 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部) — 탕액편 권3 木部 2.10",
+    "easy": [
+      "오장과 위장·창자에 뭉친 열, 황달, 치질에 쓴다고 적었다.",
+      "설사와 이질, 여성의 대하, 입안이 허는 데와 눈이 붉고 아픈 데에도 쓴다고 적었다.",
+      "산에 흔히 자라며, 음력 5~6월에 껍질을 벗겨 거친 겉껍질을 긁어내고 볕에 말린다고 적었다.",
+      "흔히 황백(黃柏)이라 부르며, 빛깔이 선명하게 노랗고 두꺼운 것이 좋다고 적었다."
+    ],
+    "han": "黃蘗",
+    "has": true,
+    "ki": "性寒, 味苦, 無毒.",
+    "kiKo": "성질은 차고 맛은 쓰며 독이 없다.",
+    "old": "황벽나못겁질",
+    "orig": "黃蘗 性寒, 味苦, 無毒. 主五藏腸胃中結熱, 黃疸, 腸痔. 療泄痢, 女子漏下赤白, 陰蝕瘡. 殺疳蟲, 疥癬, 治目熱赤痛, 口瘡, 除骨蒸勞熱. 生山中, 處處有之. 五月六月採皮, 去皺麄, 暴乾.《本草》 俗名黃柏, 鮮黃色厚者佳.《丹心》",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 木部 2.10 黃蘗",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2664"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아니요. 황백은 식품으로 먹거나 팔 수 없는 한약재라서 한약재로만 써야 합니다. 맛이 매우 쓰고 옛 기록에서도 성질이 차다고 했으니 임의로 달여 마시지 마세요.",
+      "q": "황백을 차로 끓여 마셔도 되나요?"
+    },
+    {
+      "a": "네. 황벽나무가 식물 이름이고, 그 나무껍질의 노란 속껍질을 말린 약재가 황백입니다. 동의보감에는 黃蘗(황벽)으로 실려 있고, 흔히 黃柏(황백)이라 부른다고 적혀 있습니다.",
+      "q": "황백과 황벽나무는 같은 것인가요?"
+    },
+    {
+      "a": "나무껍질의 두꺼운 코르크층을 벗기면 속이 선명한 노란색입니다. 잎은 마주나는 깃꼴겹잎(작은잎 5~13장)이고, 가을에 둥근 검은 열매가 겨울까지 달려 있습니다.",
+      "q": "황벽나무는 어떻게 알아보나요?"
+    },
+    {
+      "a": "천황백은 황피수(Phellodendron chinense)라는 다른 나무의 껍질입니다. 말린 조각으로는 구별이 어려우니 포장의 기원 식물명과 원산지 표시를 확인하세요.",
+      "q": "중국산 황백(천황백)과 국산은 어떻게 다른가요?"
+    },
+    {
+      "a": "동의보감은 음력 5~6월에 껍질을 벗겨 말린다고 적었고, 홍콩 중약재표준은 가을에 거둔다고 적었습니다.",
+      "q": "황백은 언제 채취하나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Amur cork tree (약재: Phellodendron bark)",
+    "family": "운향과(Rutaceae)",
+    "grade": "옛 기록(동의보감)은 빛깔이 선명한 노란색이고 두꺼운 것을 좋은 것으로 쳤다.",
+    "habitat": "황벽나무는 높이 10m 안팎의 갈잎큰키나무로, 우리나라에서는 함경·평안·강원·경기도와 울릉도 등에 자라며 중국 동북부·러시아 극동·일본에도 분포한다. 어릴 때 햇빛을 많이 필요로 하고, 물기가 있고 기름진 계곡이나 산기슭에서 잘 자란다.",
+    "look": {
+      "flower": "암수딴그루이며, 6월 무렵 가지 끝의 원뿔모양 꽃차례에 작은 꽃이 모여 핀다.",
+      "fruit": "열매는 둥근 핵과로 9월 하순에 검게 익고, 겨울까지 가지에 많이 남아 있다. 열매마다 씨가 5개 들어 있다.",
+      "leaf": "잎은 마주나는 홀수깃꼴겹잎으로 작은잎이 5~13장이며, 작은잎은 끝이 길게 뾰족한 달걀꼴이고 윗면에 윤기가 있으며 뒷면은 희끗하다.",
+      "smell": "말린 약재는 판자 모양이거나 얕은 홈통 모양의 조각으로, 속면과 꺾은 면이 노랗고 섬유질이 층층이 보인다. 냄새는 약하고 맛이 매우 쓰다.",
+      "stem": "나무껍질은 연한 회색 코르크층이 두껍게 발달해 깊게 갈라지고, 겉껍질을 벗기면 속껍질이 선명한 노란색이다."
+    },
+    "parts": "약재로 쓰는 부위: 황벽나무의 나무껍질에서 거친 겉껍질(코르크층)을 벗겨 낸 노란 속껍질(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 맛이 매우 쓰고 옛 기록에서도 성질이 차다고 했으므로, 한의사 처방 없이 함부로 달여 먹지 않는다.",
+    "sci": "Phellodendron amurense Rupr.",
+    "season": {
+      "collect": [
+        5,
+        6
+      ],
+      "flower": [
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - Phellodendron amurense (황벽나무)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5642"
+      },
+      {
+        "title": "홍콩 중약재표준(HKCMMS) 제1권 - Cortex Phellodendri Amurensis",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol1/pdf_e/Cortex_Phellodendri_Amurensis_v1_e.pdf"
+      },
+      {
+        "title": "위키백과 - 황벽나무",
+        "url": "https://ko.wikipedia.org/wiki/%ED%99%A9%EB%B2%BD%EB%82%98%EB%AC%B4"
+      }
+    ],
+    "store": "잘 말린 약재를 습기와 직사광선을 피해 밀폐 용기에 담아 서늘한 곳에 보관한다.",
+    "taste": "맛이 쓰고, 씹으면 끈적인다. 냄새는 약하다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - Phellodendron amurense (황벽나무)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5642"
+    },
+    {
+      "title": "홍콩 중약재표준(HKCMMS) 제1권 - Cortex Phellodendri Amurensis",
+      "url": "https://www.cmro.gov.hk/hkcmms/vol1/pdf_e/Cortex_Phellodendri_Amurensis_v1_e.pdf"
+    },
+    {
+      "title": "홍콩 중약재표준(HKCMMS) 제1권 - Cortex Phellodendri Chinensis",
+      "url": "https://www.cmro.gov.hk/hkcmms/vol1/pdf_e/Cortex_Phellodendri_Chinensis_v1_e.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Phellodendron chinense Schneid.(황피수)의 나무껍질. 중국에서 들여오는 황백 약재로, 중국·홍콩 기준서는 황벽나무 껍질(관황백)과 따로 구분해 싣는다.",
+      "name": "천황백",
+      "points": [
+        "홍콩 중약재표준 기준으로 천황백 조각은 두께 2~6mm, 황벽나무 껍질(관황백)은 2~8mm로 적혀 있다.",
+        "천황백은 꺾은 면이 짙은 노란색이고 바깥면에 피목 흔적이 보이기도 한다. 관황백은 바깥면에 회갈색 겉껍질이 조금 남아 있을 수 있다.",
+        "말린 조각만으로는 구별이 어려우므로 포장의 기원 식물명·원산지·수입 판매업체 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "Phellodendron molle Nakai 등. 예전에는 작은잎 뒷면에 털이 많은 털황벽, 작은잎이 3~5장인 섬황벽, 코르크층이 약한 넓은잎황벽을 따로 나누었으나 지금은 모두 황벽나무(P. amurense)에 포함한다.",
+      "name": "털황벽",
+      "points": [
+        "작은잎 뒷면의 털이 많고 적음은 같은 황벽나무 안의 차이로 본다.",
+        "나무껍질 속이 노랗고 잎이 마주나는 깃꼴겹잎이면 황벽나무 무리로 본다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "황벽나무 껍질의 분포·성분·품질관리·약리 연구를 정리하며, 작용 원리와 품질 기준은 더 연구가 필요하다고 보았다.",
+        "title": "An Updated and Comprehensive Review of Phellodendri amurensis Cortex: Ethnobotany, Geographical Distribution, Phytochemistry, Quality Control, and Pharmacology",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules31081318",
+        "year": "2026"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "실험실에서 황벽나무 추출물이 충치균(S. mutans)의 증식을 억제하는지 살펴본 연구다.",
+        "title": "Evaluating the Effectiveness of Phellodendron Amurense Ruprecht Extract as a Natural Anti-Caries Material",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ph17050603",
+        "year": "2024"
+      },
+      {
+        "journal": "Notulae Botanicae Horti Agrobotanici Cluj-Napoca",
+        "note": "줄기껍질 추출물의 성분을 분석하고, 쥐의 급성 염증 모델에서 염증·산화 지표 변화를 살폈다.",
+        "title": "Chemical composition and anti-inflammatory effect of Phellodendron amurense Rupr. stem bark extract",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.15835/nbha51313306",
+        "year": "2023"
+      }
+    ],
+    "summary": "황백의 주요 성분은 베르베린 등 알칼로이드로, 최근 리뷰는 약 170가지 성분과 항산화·항염 작용 연구를 정리했다. 최근 연구는 대부분 세포·동물 실험 수준이며, 이번 조사에서 사람 대상 임상 근거는 확인하지 못했다."
+  },
+  "name": "황백",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793048842816
+}

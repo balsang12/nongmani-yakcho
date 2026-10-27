@@ -1,0 +1,204 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "대체로 1~3월 사이, 짧게는 보름 정도만 받을 수 있습니다. 밤에는 영하로 내려가고 낮에는 영상 10℃ 안팎으로 오르는 일교차 큰 맑은 날에 많이 나오며, 최근에는 채취 시기가 앞당겨지는 추세입니다.",
+      "q": "고로쇠 수액은 언제 나오나요?"
+    },
+    {
+      "a": "받는 즉시 냉장 보관하고 되도록 빨리 마시는 것이 좋습니다. 쉽게 상하는 데다, 거르지 않은 수액은 저장 중 미생물이 늘고 탁해진다는 연구가 있습니다.",
+      "q": "고로쇠 수액은 어떻게 보관하나요?"
+    },
+    {
+      "a": "물처럼 그대로 마시거나, 밥을 짓거나 요리할 때 물 대신 씁니다.",
+      "q": "고로쇠 수액은 어떻게 먹나요?"
+    },
+    {
+      "a": "산지가 울릉도로 다르고, 연구에서 당도가 더 높게 측정됐으며 인삼 비슷한 향이 난다고 알려져 있습니다. 겉모습으로 수액을 구별하기는 어려우니 산지 표시를 확인하세요.",
+      "q": "우산고로쇠 수액은 일반 고로쇠 수액과 다른가요?"
+    },
+    {
+      "a": "아니요. 남의 산이나 국유림에서 허가 없이 수액을 받으면 산림 관련 법에 따라 처벌받을 수 있습니다. 국유림에서는 허가받고 교육을 이수한 사람만 채취합니다.",
+      "q": "아무 고로쇠나무에서나 수액을 받아도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "이른 봄 나무에서 받은 수액을 그대로 마시는 것이 대표적이다.",
+    "eng": "",
+    "family": "무환자나무과(예전 분류로는 단풍나무과)",
+    "grade": "수액은 일교차가 크고 맑은 날(밤 영하, 낮 영상 10℃ 안팎)에 많이 나오며, 채취 적기인 3월 수액보다 4월 늦게 받은 수액이 세균 수와 탁도가 더 높았다는 연구가 있다. 신선한 것을 바로 냉장 상태로 유통·보관하는 것이 품질 유지에 중요하다. 정식 허가 구역에서 교육받은 채취자가 받은 수액인지 확인하는 것이 좋다.",
+    "habitat": "한반도 전역의 산에서 자라며 골짜기부터 능선까지, 주로 습기가 있는 곳에 많다. 어린나무는 그늘에서도 잘 견딘다. 국유림 등에서 수액을 받으려면 허가가 필요하며, 국유림에서는 산림청과 보호협약을 맺은 주민 등이 교육을 받은 뒤 채취한다.",
+    "look": {
+      "flower": "4~5월 새 가지 끝에 연한 노란빛이 도는 녹색 꽃이 모여 핀다.",
+      "fruit": "날개 달린 열매 두 개가 붙은 모양이며 길이 4cm 안팎, 두 날개는 거의 나란하거나 직각으로 벌어진다.",
+      "leaf": "잎은 마주나고 손바닥 모양으로 5~7갈래(때로 그 이상) 얕게 갈라지며, 갈래 가장자리에 톱니가 없다. 잎 뒷면에 털이 없고 잎자루가 4~12cm로 길다.",
+      "stem": "가지에 털이 없고, 겨울눈은 마주나며 눈비늘(아린)이 여러 장이다. 수피는 세로로 깊게 갈라지지 않는 편이다."
+    },
+    "parts": "이른 봄 줄기에 구멍을 뚫어 받아 내는 수액(고로쇠물)",
+    "prep": "수액은 채취 뒤 거름 과정을 거쳐 깨끗한 용기에 담는다. 쉽게 상하므로 받는 즉시 차게 두고, 상온에 오래 두지 않는다. 시중 제품 중에는 살균·정제를 거쳐 유통되는 것도 있다.",
+    "sci": "Acer pictum var. mono (Maxim.) Maxim. ex Franch.",
+    "season": {
+      "collect": [
+        1,
+        2,
+        3
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목(Flora Korea) - 고로쇠나무 Acer pictum var. mono",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5004"
+      },
+      {
+        "title": "한국의 수목(Flora Korea) - 단풍나무속(Acer) 검색표",
+        "url": "https://florakorea.myspecies.info/en/node/4141"
+      },
+      {
+        "title": "산림청 임산물 자료 - 수액",
+        "url": "https://east.forest.go.kr/kfs/images/data/down/imsan/수액.pdf"
+      },
+      {
+        "title": "경향신문 - 고로쇠 수액 채취와 국유림 보호협약 주민 양여 (2025)",
+        "url": "https://www.khan.co.kr/article/202501301123001"
+      },
+      {
+        "title": "위키트리 - 고로쇠 수액 채취 시기·국립산림과학원 설명 (2025)",
+        "url": "https://www.wikitree.co.kr/articles/1019204"
+      },
+      {
+        "title": "경북일보 - 경북지역 고로쇠 수액 채취 본격 시작 (2025)",
+        "url": "https://kbmaeil.com/article/202502200909873"
+      },
+      {
+        "title": "뉴데일리 - 춘천국유림관리소 고로쇠 수액 채취 신청·교육 안내 (2006)",
+        "url": "https://www.newdaily.co.kr/site/data/html/2006/12/01/2006120100015.amp.html"
+      },
+      {
+        "title": "이창현 외, 한외여과법을 이용한 고로쇠 수액의 저장성 향상, 한국식품영양과학회지 39(3) (2010)",
+        "url": "https://koreascience.kr/article/JAKO201010250393232.do"
+      },
+      {
+        "title": "정수정 외, 한외여과 처리에 따른 채취시기별 고로쇠 수액의 품질특성, 한국식품영양과학회지 40(5) (2011)",
+        "url": "https://koreascience.or.kr/article/JAKO201116563335191.do"
+      },
+      {
+        "title": "문현식 외, 지리산 고로쇠나무의 수액 채취와 성분분석, Journal of Ecology and Environment 27(5) (2004)",
+        "url": "https://www.accesson.kr/jecoenv/v.27/5/263/5203?lang=ko"
+      },
+      {
+        "title": "문현식·권수덕, 고로쇠나무 수액 채취를 위한 적정 천공 크기와 천공 수, Journal of Ecology and Environment 29(3) (2006)",
+        "url": "https://accesson.kr/jecoenv/v.29/3/185/5282?lang=ko"
+      },
+      {
+        "title": "허진성·최현모(국립산림과학원), 고로쇠 수액 출수량과 기온 (한국작물학회 2020 포스터)",
+        "url": "https://koreascience.kr/article/CFKO202035438129340.pdf"
+      }
+    ],
+    "store": "쉽게 상하므로 바로 냉장 보관하고 되도록 빨리 마신다. 연구에서는 거르지 않은 수액을 저장하면 미생물이 늘고 산도·탁도가 올라갔으며, 한외여과한 수액은 -1~4℃ 저온에서 두 달 가까이 안정적으로 유지됐다.",
+    "taste": "약간 뿌옇고 은은한 단맛과 독특한 향이 있다. 단맛은 주로 자당(설탕 성분)에서 오며, 칼슘·칼륨 같은 무기질이 들어 있다."
+  },
+  "lookSources": [
+    {
+      "title": "한국의 수목(Flora Korea) - 단풍나무속(Acer) 검색표",
+      "url": "https://florakorea.myspecies.info/en/node/4141"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 털고로쇠나무 Acer pictum (우산고로쇠 이명 처리)",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5005"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 고로쇠나무 Acer pictum var. mono",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5004"
+    },
+    {
+      "title": "문현식·권수덕, 울릉도 자생 우산고로쇠나무의 수액채취와 주요성분, 한국약용작물학회지 12(3) (2004)",
+      "url": "https://db.koreascholar.com/Article/Detail/254960"
+    },
+    {
+      "title": "경북매일 - 울릉도 우산고로쇠 수액 출하 (2025)",
+      "url": "https://kbmaeil.com/article/202503030910818"
+    },
+    {
+      "title": "문현식 외, 지리산 고로쇠나무의 수액 채취와 성분분석, Journal of Ecology and Environment 27(5) (2004)",
+      "url": "https://www.accesson.kr/jecoenv/v.27/5/263/5203?lang=ko"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "우산고로쇠(Acer okamotoanum)는 울릉도에서만 자라는 고로쇠 무리로, 수액도 '우산고로쇠 수액'으로 따로 팔린다. 분류학적으로는 털고로쇠와 같은 종으로 보는 견해도 있을 만큼 고로쇠와 비슷하다.",
+      "name": "우산고로쇠",
+      "points": [
+        "울릉도 해발 약 400m 이상에서 자라며, 육지 고로쇠와는 산지가 다르다.",
+        "연구에서 우산고로쇠 수액의 당도는 약 3%로, 지리산 고로쇠 수액(당분 약 1.6%)보다 높게 측정됐다.",
+        "국립산림과학원은 우산고로쇠 수액에서 인삼 비슷한 향을 내는 미량 성분(피라진류)을 확인했다고 전해진다.",
+        "분류 자료에서는 우산고로쇠를 잎 뒷면에 털이 있는 털고로쇠에 포함시키며, 털 외에는 고로쇠와 뚜렷한 차이가 없다고 본다. 수액은 산지 표시로 확인하는 것이 현실적이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "산겨릅나무(Acer tegmentosum)는 같은 단풍나무속으로 잎이 손바닥 모양이라 고로쇠나무와 헷갈릴 수 있다. 잎 갈래의 톱니와 겨울눈으로 구별한다.",
+      "name": "산겨릅나무",
+      "points": [
+        "고로쇠나무 잎 갈래에는 톱니가 없고, 산겨릅나무 잎에는 톱니가 있다.",
+        "산겨릅나무 잎은 5갈래로 얕게 갈라지고, 고로쇠나무는 5~7갈래다.",
+        "산겨릅나무 겨울눈은 눈비늘이 2장이고, 고로쇠나무는 5~8장이다.",
+        "산겨릅나무는 꽃이 총상(이삭 모양) 꽃차례로 15~20개 달리고, 고로쇠나무는 산방꽃차례다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "단풍나무(Acer palmatum)와 당단풍나무 등도 손바닥 모양 잎이라 고로쇠나무와 헷갈리기 쉽다. 잎 갈래 수와 톱니를 보면 가릴 수 있다.",
+      "name": "단풍나무",
+      "points": [
+        "단풍나무 무리는 잎이 7~11갈래로 갈래 수가 많고, 고로쇠나무는 5~7갈래로 얕게 갈라진다.",
+        "고로쇠나무 잎 갈래 가장자리는 톱니가 없이 매끈하다.",
+        "단풍나무 겨울눈의 눈비늘은 4장이고, 고로쇠나무는 5~8장이다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Foods",
+        "note": "고로쇠나무 꽃가루를 먹인 꿀벌이 만든 로열젤리의 지질 성분 변화를 살핀 연구로, 수액과는 다른 주제다.",
+        "title": "Effects of Bee Pollen Derived from Acer mono Maxim. or Phellodendron amurense Rupr. on the Lipid Composition of Royal Jelly Secreted by Honeybees",
+        "type": "기타",
+        "url": "https://europepmc.org/article/MED/36766159",
+        "year": "2023"
+      },
+      {
+        "journal": "Molecular Biotechnology",
+        "note": "울릉도 특산 우산고로쇠의 엽록체 유전체를 해독해 다른 단풍나무류와의 계통 관계를 비교했다.",
+        "title": "Decoding the Chloroplast Genome of Korean endemic plant Acer okamotoanum: Comparative Genomics, Phylogenetic Relationships",
+        "type": "기타",
+        "url": "https://europepmc.org/article/MED/39907952",
+        "year": "2026"
+      }
+    ],
+    "summary": "2023~2026년 사이 고로쇠 수액 자체를 다룬 논문은 찾지 못했고, 고로쇠나무 꽃가루를 먹인 꿀벌의 로열젤리 성분 연구, 우산고로쇠의 엽록체 유전체 분석처럼 수액 건강 효과와 직접 관계없는 연구가 대부분이다. 수액의 뼈·면역 관련 효과로 알려진 내용은 2000년대 국립산림과학원 등의 동물실험에 근거한 것이며, 사람 대상 연구는 확인하지 못했다."
+  },
+  "name": "고로쇠",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "산림청 임산물 자료 - 수액",
+        "url": "https://east.forest.go.kr/kfs/images/data/down/imsan/수액.pdf"
+      },
+      {
+        "title": "사이언스타임즈 - 국립산림과학원·충북대 고로쇠 수액 동물실험 (2009)",
+        "url": "https://www.sciencetimes.co.kr/?p=68629"
+      }
+    ],
+    "text": "고로쇠 수액은 예부터 '뼈에 이로운 물'이라는 뜻의 골리수(骨利水)로 불렸다고 산림청 자료는 전한다. 경칩 무렵 수액을 마시며 한 해의 새 기운을 받는 풍습이 있었고, 물처럼 마시거나 음식에 썼다."
+  },
+  "updatedAt": 1792919652818
+}

@@ -1,0 +1,188 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "네, 시중에서 '벌나무'로 팔리는 것은 산겨릅나무(Acer tegmentosum)를 가리킵니다. 단풍나무과 나무로 녹회색 껍질에 흰 세로 줄무늬가 있는 것이 특징입니다.",
+      "q": "벌나무와 산겨릅나무는 같은 나무인가요?"
+    },
+    {
+      "a": "식약처가 2018년 식품원료로 인정했다고 학술 논문에 소개되어 있지만, 사용 가능한 부위와 조건은 직접 확인하지 못했습니다. 식품안전나라 식품원료 목록과 제품 표시를 확인하고 구입하세요.",
+      "q": "산겨릅나무는 식품으로 먹어도 되나요?"
+    },
+    {
+      "a": "잎이 3~5갈래로 얕게 갈라지고 털이 없으며 가장자리에 잔 겹톱니가 있으면 산겨릅나무입니다. 시닥나무·부게꽃나무·청시닥나무는 잎이 깊게 갈라지고, 고로쇠나무는 잎 갈래에 톱니가 없습니다.",
+      "q": "산겨릅나무와 다른 단풍나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "지리산 이북의 높은 산, 특히 백두대간의 계곡 주변에 드물게 자랍니다. 무분별한 껍질 채취로 자원이 줄고 있다는 지적이 있습니다.",
+      "q": "산겨릅나무는 어디에서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "가지를 물에 오래 달여 차로 마시며, 가공식품에는 가지 추출 농축액·분말을 정해진 양 이하로만 쓴다.",
+    "eng": "Manchurian striped maple",
+    "family": "단풍나무과",
+    "grade": "",
+    "habitat": "중국 동북부·극동러시아와 한반도에 분포하며, 국내에서는 지리산 이북 산지, 특히 강원도 등 백두대간의 높은 산 계곡 주변에 드물게 자란다. 약재용으로 줄기와 껍질을 많이 베어 내면서 서식지가 줄고 개체군이 쪼개지고 있다는 지적이 있어, 껍질을 벗기는 채취는 나무를 죽일 수 있다.",
+    "look": {
+      "flower": "4월 말~5월 중순 연노랑빛 녹색 꽃이 길이 8cm 안팎의 꽃차례에 15~20송이씩 아래로 늘어져 달린다.",
+      "fruit": "날개 달린 열매(시과)가 9월 말께 익으며, 두 날개가 거의 수평이나 둔각으로 벌어진다.",
+      "leaf": "잎은 마주나고 길이 7~16cm의 넓은 달걀 모양으로, 3~5갈래로 얕게 갈라지며 가장자리에 잔 겹톱니가 있다. 양면에 털이 없고 잎자루는 3~8cm다.",
+      "stem": "나무껍질은 녹회색 바탕에 흰 세로 줄무늬가 뚜렷하다. 어린 가지는 녹색이고 털이 없으며 줄무늬가 있다."
+    },
+    "parts": "줄기·가지와 나무껍질(시중에서 '벌나무'로 유통). 최근에는 어린 싹(유묘)도 연구되고 있다.",
+    "prep": "식약처가 산겨릅나무를 식품원료로 인정했다고 학술 논문에 소개되어 있으나(2018년), 사용할 수 있는 부위와 조건은 공식 목록에서 직접 확인하지 못했다. 구입 전 식품안전나라 식품원료 목록과 제품의 식품 표시를 확인한다.",
+    "sci": "Acer tegmentosum Maxim.",
+    "season": {
+      "collect": [],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "The Woody Plants of Korea (한국의 수목) - 산겨릅나무 Acer tegmentosum",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5008"
+      },
+      {
+        "title": "산림청 임산물 재배기술 - 산겨릅나무",
+        "url": "https://www.forest.go.kr/kfs/images/data/down/imsan/%EC%82%B0%EA%B2%A8%EB%A6%85%EB%82%98%EB%AC%B4.pdf"
+      },
+      {
+        "title": "위키백과 - 산겨릅나무",
+        "url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EA%B2%A8%EB%A6%85%EB%82%98%EB%AC%B4"
+      },
+      {
+        "title": "Wikipedia - Acer tegmentosum",
+        "url": "https://en.wikipedia.org/wiki/Acer_tegmentosum"
+      },
+      {
+        "title": "Horticulturae (2026) - Phenolic Profile of Acer tegmentosum Sprouts and Its Potential Relevance to In Vitro Antioxidant Activity",
+        "url": "https://doi.org/10.3390/horticulturae12030328"
+      },
+      {
+        "title": "환경일보 - 국립산림과학원, 산겨릅나무 유묘 연구 (2026)",
+        "url": "https://www.hkbs.co.kr/news/articleView.html?idxno=821429"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "The Woody Plants of Korea (한국의 수목) - 단풍나무속 Acer 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4998"
+    },
+    {
+      "title": "The Woody Plants of Korea (한국의 수목) - 산겨릅나무 Acer tegmentosum",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5008"
+    },
+    {
+      "title": "Wikipedia - Acer tegmentosum",
+      "url": "https://en.wikipedia.org/wiki/Acer_tegmentosum"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "시닥나무(Acer komarovii)는 같은 단풍나무속으로 높은 산에 함께 자라 잎 모양이 비슷하다. 잎이 갈라진 깊이와 뒷면 털로 구별한다.",
+      "name": "시닥나무",
+      "points": [
+        "산겨릅나무 잎은 얕게 갈라지고, 시닥나무 잎은 5갈래로 깊게 갈라진다.",
+        "시닥나무 잎 뒷면에는 갈색 털이 있고, 산겨릅나무 잎은 양면에 털이 없다.",
+        "시닥나무는 꽃이 한 꽃차례에 6~8(10)송이로 적고, 산겨릅나무는 15~20송이가 늘어져 달린다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "부게꽃나무(Acer caudatum var. ukurunduense)도 높은 산에 자라는 단풍나무속 나무다. 잎 갈래 수와 꽃 수로 구별한다.",
+      "name": "부게꽃나무",
+      "points": [
+        "부게꽃나무 잎은 7갈래 정도로 깊게 갈라지고, 산겨릅나무 잎은 3~5갈래로 얕게 갈라진다.",
+        "부게꽃나무는 흰색이나 노란색 털이 있고, 산겨릅나무 잎은 털이 없다.",
+        "부게꽃나무는 한 꽃차례에 꽃이 30~40송이로 많다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "청시닥나무(Acer barbinerve)는 잎이 깊게 갈라지는 단풍나무속 나무로, 꽃차례 모양과 가지의 털로 구별한다.",
+      "name": "청시닥나무",
+      "points": [
+        "청시닥나무 잎은 5갈래로 깊게 갈라진다.",
+        "청시닥나무는 꽃이 우산 모양에 가까운 산방꽃차례로 피고 어린 가지에 털이 있다. 산겨릅나무는 어린 가지에 털이 없다.",
+        "청시닥나무 열매에는 맥이 보인다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "고로쇠나무(Acer pictum var. mono)는 수액으로 잘 알려진 단풍나무속 나무로, 잎 갈래에 톱니가 있는지로 바로 구별된다.",
+      "name": "고로쇠",
+      "points": [
+        "고로쇠나무 잎 갈래 가장자리에는 톱니가 없고, 산겨릅나무 잎에는 잔 겹톱니가 있다.",
+        "고로쇠나무 겨울눈은 눈비늘이 5~8개이고, 산겨릅나무는 2개다.",
+        "고로쇠나무는 산방꽃차례로 피고, 산겨릅나무는 늘어지는 꽃차례로 핀다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Horticulturae",
+        "note": "떡잎 단계 어린 싹에서 페놀 성분 12가지를 확인하고 시험관 항산화 활성을 측정한 성분 분석 연구다.",
+        "title": "Phenolic Profile of Acer tegmentosum Sprouts and Its Potential Relevance to In Vitro Antioxidant Activity",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/horticulturae12030328",
+        "year": "2026"
+      },
+      {
+        "journal": "ChemistrySelect",
+        "note": "산겨릅나무 페놀 성분이 생쥐의 톡소포자충 유발 급성 간 손상 지표에 미치는 영향을 살폈다.",
+        "title": "Protective Effects of the Hepatoprotective Phenolic Compounds From Acer Tegmentosum Maxim on Toxoplasma-Induced Acute Liver Injury in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1002/slct.202506308",
+        "year": "2026"
+      },
+      {
+        "journal": "Archives of Biochemistry and Biophysics",
+        "note": "추출물이 생쥐의 급성 알코올 간 손상 지표와 장내 미생물 변화에 미치는 영향을 관찰한 동물 실험이다.",
+        "title": "Acer tegmeutosum Maxim extract alleviates acute alcohol-induced liver disease and regulates gut microbiota dysbiosis in mice",
+        "type": "동물 실험",
+        "url": "https://europepmc.org/article/MED/39832610",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "말린 가지 추출물과 그 발효물이 사람 혈관내피세포 염증 지표와 당뇨 생쥐 망막 지표에 미치는 영향을 살폈다.",
+        "title": "Acer tegmentosum Maxim and Bacillus subtilis-fermented products inhibit TNF-α-induced endothelial inflammation and vascular dysfunction of the retina: the role of tyrosol moiety in active compounds targeting Glu230 in SIRT1",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2024.1392179",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 산겨릅나무 가지·껍질 추출물이 간 손상, 혈관 염증 지표 등에 미치는 영향과 어린 싹의 페놀 성분을 다뤘다. 모두 세포·동물 실험이거나 성분 분석 수준이며, 사람 대상 연구는 찾지 못했다."
+  },
+  "name": "산겨릅나무",
+  "st": "limit",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Horticulturae (2026) - Phenolic Profile of Acer tegmentosum Sprouts and Its Potential Relevance to In Vitro Antioxidant Activity",
+        "url": "https://doi.org/10.3390/horticulturae12030328"
+      },
+      {
+        "title": "환경일보 - 국립산림과학원, 산겨릅나무 유묘 연구 (2026)",
+        "url": "https://www.hkbs.co.kr/news/articleView.html?idxno=821429"
+      },
+      {
+        "title": "위키백과 - 산겨릅나무",
+        "url": "https://ko.wikipedia.org/wiki/%EC%82%B0%EA%B2%A8%EB%A6%85%EB%82%98%EB%AC%B4"
+      }
+    ],
+    "text": "산겨릅나무는 예부터 간 질환에 쓰여 온 산림 약용 자원으로 소개되며, 주로 줄기와 나무껍질을 채취해 왔다. 껍질 섬유가 질겨 새끼 대신 쓰고 목재는 기구재로 쓰기도 했다."
+  },
+  "updatedAt": 1792919652818
+}

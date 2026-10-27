@@ -1,0 +1,177 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아니요, 날로 먹으면 안 됩니다. 생으로 먹으면 메스꺼움·구토·설사 같은 위장장애가 생길 수 있으니 반드시 속까지 충분히 익혀 드세요.",
+      "q": "뽕나무버섯을 날로 먹어도 되나요?"
+    },
+    {
+      "a": "뽕나무버섯은 대에 흰 막질 턱받이가 있고 주름이 희며 포자문이 흰색이지만, 노란다발은 턱받이가 없고 주름이 녹황색~자갈색입니다. 차이가 미세할 수 있으니 확실하지 않은 버섯은 먹지 마세요.",
+      "q": "뽕나무버섯과 노란다발은 어떻게 구별하나요?"
+    },
+    {
+      "a": "주로 늦여름부터 가을(8~10월)입니다. 나무 밑동이나 그루터기, 뿌리 근처에 다발로 납니다.",
+      "q": "뽕나무버섯 제철은 언제인가요?"
+    },
+    {
+      "a": "네, 그런 사례가 있습니다. 해외 중독 사례 집계와 일본 지자체 자료에 익힌 뽕나무버섯류를 먹고 복통·구토가 난 사례가 있고, 많이 먹으면 소화가 잘 안 될 수 있으니 처음에는 조금만 드세요.",
+      "q": "익혀 먹었는데도 배탈이 날 수 있나요?"
+    },
+    {
+      "a": "천마는 뽕나무버섯 무리의 균과 함께 살아가는 식물이라 천마 재배에 이 균을 이용합니다. 국내 연구(1994)는 천마 재배와 관련이 깊은 종(A. gallica)에 천마의 이름을 딴 영어 이름(Gastrodia mushroom)을 제안하기도 했습니다.",
+      "q": "뽕나무버섯과 천마는 어떤 관계인가요?"
+    }
+  ],
+  "id": {
+    "eat": "날것에는 독성이 있으므로 반드시 충분히 익혀 먹으며, 처음 먹을 때는 조금만 맛본다.",
+    "eng": "Honey mushroom, Honey fungus",
+    "family": "뿌리버섯과(Physalacriaceae)",
+    "grade": "",
+    "habitat": "여름부터 가을까지 살아 있거나 죽은 활엽수·침엽수의 뿌리 근처, 그루터기, 땅에 묻힌 나무에서 다발로 모여 난다. 나무껍질 밑에 검은 구두끈 같은 균사다발을 만들며 나무에 뿌리썩음병을 일으키는 병원균이기도 하고, 천마와 함께 사는 버섯으로 알려져 있다. 국내 조사(1994)에서는 뽕나무버섯속에 여러 종(A. gallica, A. ostoyae, A. tabescens, A. mellea)이 확인되었고 8월 초~10월 말에 버섯이 났으므로, 시장의 '뽕나무버섯'에는 같은 속의 다른 종이 섞여 있을 수 있다.",
+    "look": {
+      "fruit": "갓은 지름 3~10cm 정도로 어릴 때 반구형이다가 펴지며, 연한 갈색~황갈색이다. 갓 가운데는 짙은 갈색~검은 갈색의 가는 털·비늘이 있고 가장자리에는 방사상 줄이 있다. 주름은 흰색~크림색으로 대에 약간 내려붙고, 자라면 붉은 갈색 얼룩이 생긴다. 포자문은 흰색이다.",
+      "smell": "특별히 강한 냄새는 없다.",
+      "stem": "대는 길이 5~10cm 정도로 밑동이 굵어지거나 휘기도 한다. 대 위쪽에 흰색 막질 턱받이가 뚜렷하게 남고(가장자리가 노란빛을 띠기도 함), 턱받이 위는 희고 아래는 갈색이다."
+    },
+    "parts": "자실체(갓과 대). 대 아래쪽은 질겨서 보통 갓 위주로 먹는다.",
+    "prep": "날로 먹으면 안 된다. 일본 지자체(이시카와현)는 뽕나무버섯류(ナラタケ)를 생으로 먹으면 메스꺼움·설사 같은 위장장애가 생길 수 있다고 안내하고, 북미 중독 사례 집계에도 생 갓이나 덜 익힌 것을 먹고 구토·오한이 난 사례가 있다. 흙과 검불을 털고 질긴 대 아랫부분을 떼어 낸 뒤 씻어서 반드시 속까지 충분히 익혀 먹는다. 익혀 먹고도 탈이 난 사례가 있으므로 처음 먹거나 위장이 약한 사람·어린이는 많이 먹지 않는다.",
+    "sci": "Armillaria mellea (Vahl) P. Kumm.",
+    "season": {
+      "collect": [
+        8,
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 뽕나무버섯 (형태 기재, 농촌진흥청 『한국의 버섯』(2004) 인용)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%BD%95%EB%82%98%EB%AC%B4%EB%B2%84%EC%84%AF"
+      },
+      {
+        "title": "성재모 외(1994) 한국산 뽕나무버섯균의 종에 관한 연구, 한국식물병리학회지 10(4)",
+        "url": "https://koreascience.or.kr/article/JAKO199411920121237.page?lang=ko"
+      },
+      {
+        "title": "이시카와현 - 버섯 식중독 예방(ナラタケ 생식 시 위장장애 안내)",
+        "url": "https://www.pref.ishikawa.lg.jp/syoku_anzen/kinoko_tyuui.html"
+      },
+      {
+        "title": "이바라키현 임업기술센터 - 야생버섯 상담실(ナラタケ속 섭취 후 복통·구토 사례)",
+        "url": "https://www.pref.ibaraki.jp/nourinsuisan/ringyose/seikkinoko/sodan12.html"
+      },
+      {
+        "title": "North American Mycological Association - Summary of Mushroom Poisoning Reports 2018-2020",
+        "url": "https://namyco.org/wp-content/uploads/2023/08/2018-2020_Summary_of_Mushroom_Poisoning_Reports_Corrected_final.pdf"
+      },
+      {
+        "title": "Fungi on Wood (MushroomExpert) - Armillaria mellea",
+        "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Armillaria%20mellea.htm"
+      }
+    ],
+    "store": "생것은 쉽게 물러지므로 냉장해 되도록 빨리 익혀 먹는다.",
+    "taste": "살은 부드러운 육질이고 맛과 향이 순한 편이다."
+  },
+  "lookSources": [
+    {
+      "title": "제주 동부농업기술센터 - 노란다발버섯(Naematoloma fasciculare)",
+      "url": "https://agri.jeju.go.kr/dongbu/technologycenter/technology/special.htm?page=18&act=view&seq=14852"
+    },
+    {
+      "title": "일본 후생노동성 자연독 리스크 프로파일 - 노란다발(ニガクリタケ, Hypholoma fasciculare)",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000142698.html"
+    },
+    {
+      "title": "Missouri Department of Conservation - Big Laughing Gym (Gymnopilus junonius)",
+      "url": "https://mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim"
+    },
+    {
+      "title": "First Nature - Desarmillaria tabescens (Ringless Honey Fungus)",
+      "url": "https://www.first-nature.com/fungi/desarmillaria-tabescens.php"
+    },
+    {
+      "title": "성재모 외(1994) 한국산 뽕나무버섯균의 종에 관한 연구, 한국식물병리학회지 10(4)",
+      "url": "https://koreascience.or.kr/article/JAKO199411920121237.page?lang=ko"
+    },
+    {
+      "title": "Fungi on Wood (MushroomExpert) - Armillaria mellea",
+      "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Armillaria%20mellea.htm"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "Hypholoma fasciculare. 가을에 나무 그루터기·밑동에 노란빛 버섯이 다발로 나는 모습이 비슷해 헷갈릴 수 있는 독버섯이다. 일본 공공기관 자료도 뽕나무버섯류를 노란다발의 오인 대상으로 든다.",
+      "name": "노란다발",
+      "points": [
+        "턱받이: 뽕나무버섯은 대에 흰색 막질 턱받이가 뚜렷하고, 노란다발은 막질 턱받이 없이 섬유 흔적만 남는다.",
+        "주름 색: 뽕나무버섯은 흰색~크림색이고, 노란다발은 녹황색에서 자갈색으로 변한다.",
+        "포자문: 갓을 종이에 엎어 두면 뽕나무버섯은 흰색, 노란다발은 자갈색 가루가 떨어진다.",
+        "노란다발은 갓·주름·대가 모두 유황색~녹황색을 띤다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "Gymnopilus junonius. 활엽수 그루터기·줄기에 다발로 나고 대에 턱받이가 있어 뽕나무버섯과 닮았지만 독버섯이며 맛이 매우 쓰다.",
+      "name": "갈황색미치광이버섯",
+      "points": [
+        "포자문: 갈황색미치광이버섯은 주황~녹슨 갈색, 뽕나무버섯은 흰색이다.",
+        "주름: 갈황색미치광이버섯은 연노랑에서 녹슨 갈색이 되고, 뽕나무버섯은 흰색~크림색이다.",
+        "갓 색: 갈황색미치광이버섯은 주황빛 노랑~황갈색으로 더 밝고 크며(지름 7~18cm 정도), 뽕나무버섯은 갓 가운데에 짙은 털·비늘이 모여 있다.",
+        "갈황색미치광이버섯은 턱받이가 얇은 연노랑 막이나 띠 자국으로 남는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Desarmillaria tabescens(예전 이름 Armillaria tabescens). 같은 무리의 가까운 버섯으로 생김새가 매우 비슷하지만 턱받이가 없다. 이 무리 역시 먹고 탈이 난 사례가 있어 조심해야 한다.",
+      "name": "뽕나무버섯부치",
+      "points": [
+        "가장 큰 차이는 턱받이: 뽕나무버섯부치는 대에 턱받이가 없다.",
+        "뽕나무버섯부치는 평균적으로 조금 작고 갓이 황토 갈색~붉은 갈색으로 더 짙다.",
+        "국내 조사에서는 주로 소나무·참나무에서 8월 초중순에 나는 것으로 보고되었다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biology",
+        "note": "뽕나무버섯속의 생태(천마와의 공생 등), 다당류·세스퀴테르펜 성분, 종 판별과 인공재배 연구를 정리했다.",
+        "title": "Armillaria Species: Biological Complexity, Bioactive Metabolites and Molecular Foundations for Medicinal and Agricultural Applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/biology15120954",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
+        "note": "뽕나무버섯 산성 다당류가 면역 기능을 떨어뜨린 생쥐와 대식세포에서 면역 지표를 높였다고 보고한 전임상 연구다.",
+        "title": "UHPLC-MS-Based Metabolomics Reveal the Potential Mechanism of Armillaria mellea Acid Polysaccharide in and Its Effects on Cyclophosphamide-Induced Immunosuppressed Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/molecules28247944",
+        "year": "2023"
+      }
+    ],
+    "summary": "뽕나무버섯 무리의 다당류와 세스퀴테르펜(멜레올라이드 등) 성분에 관한 연구가 많으며, 면역·항산화 관련 결과는 주로 세포·동물 실험 수준이다. 사람 대상 효과 연구는 이번 조사에서 찾지 못했다. 한편 북미 중독 사례 집계에서는 익혀 먹었는데도 위장 증상이 난 사례가 보고되어, 식용 버섯이라도 사람에 따라 탈이 날 수 있다."
+  },
+  "name": "뽕나무버섯",
+  "st": "caution",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "성재모 외(1994) 한국산 뽕나무버섯균의 종에 관한 연구, 한국식물병리학회지 10(4)",
+        "url": "https://koreascience.or.kr/article/JAKO199411920121237.page?lang=ko"
+      },
+      {
+        "title": "Armillaria Species: Biological Complexity, Bioactive Metabolites and Molecular Foundations for Medicinal and Agricultural Applications (Biology, 2026)",
+        "url": "https://doi.org/10.3390/biology15120954"
+      }
+    ],
+    "text": "뽕나무버섯은 예부터 식용 야생버섯으로 채취되어 왔고, 균사가 천마·저령 같은 약용 식물·버섯과 함께 살아가 천마 재배에 이용된다. 2026년 리뷰는 이 무리 버섯이 식재료이자 약용 자원으로 쓰여 왔다고 정리했다. 본초강목 지(芝)류 원문을 확인한 범위에서는 뽕나무버섯에 해당하는 항목을 찾지 못했다."
+  },
+  "updatedAt": 1793005462003
+}

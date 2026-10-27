@@ -1,0 +1,192 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "그대로 씹어 먹는 버섯은 아닙니다. 나무처럼 단단하고 아린 맛이 있어, 흔히 말린 것을 잘게 썰어 물에 달여 씁니다.",
+      "q": "말굽버섯은 먹을 수 있나요?"
+    },
+    {
+      "a": "말굽버섯은 회색 띠가 있는 말발굽 모양 갓과 아랫면 구멍면이 있고, 차가버섯은 갓 없이 숯처럼 갈라진 검은 덩어리입니다. 둘 다 자작나무에 날 수 있어 모양으로 확인해야 합니다.",
+      "q": "말굽버섯과 차가버섯은 어떻게 다른가요?"
+    },
+    {
+      "a": "모양이 비슷한 딱딱한 버섯이라 헷갈릴 수 있습니다. 상황은 아랫면과 속살이 노란색이고 구멍이 촘촘하지만, 말굽버섯은 속살이 갈색이고 노란 가장자리가 없습니다.",
+      "q": "말굽버섯을 상황버섯이라고 파는 경우도 있나요?"
+    },
+    {
+      "a": "잔나비불로초는 납작한 선반 모양에 아랫면이 흰색이라 긁으면 갈색 자국이 남고, 말굽버섯은 두툼한 말발굽 모양에 아랫면이 갈색입니다.",
+      "q": "말굽버섯과 잔나비불로초는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "말린 자실체를 잘게 썰어 물에 달여 차로만 마신다.",
+    "eng": "Tinder fungus, Hoof fungus",
+    "family": "구멍장이버섯과(Polyporaceae)",
+    "grade": "",
+    "habitat": "자작나무·너도밤나무·참나무 등 활엽수의 살아 있거나 죽은 줄기에 붙어 여러 해 자라며, 나무를 하얗게 썩힌다. 북반구 온대~한대에 널리 분포한다.",
+    "look": {
+      "fruit": "대 없이 나무 줄기에 옆으로 붙는 말발굽 모양으로, 폭 5~45cm까지 자란다. 윗면은 딱딱한 껍질에 회색~회갈색 동심원 띠가 있다. 아랫면 구멍면은 어릴 때 크림색이고 자라면 갈색이 되며, 둥근 구멍이 1mm에 2~5개 있다. 속살은 계피색 갈색의 질긴 섬유질이다.",
+      "smell": "약간 과일 같은 냄새가 난다.",
+      "stem": "대가 없다."
+    },
+    "parts": "자실체(나무에 붙어 자라는 딱딱한 말굽 모양 부분, 주로 말린 것). 음식으로 씹어 먹는 버섯이 아니다.",
+    "prep": "나무처럼 단단하고 아린 맛이 있어 날로든 익혀서든 그대로 먹는 버섯이 아니다. 흔히 말린 것을 잘게 썰어 물에 우려 쓴다.",
+    "sci": "Fomes fomentarius (L.) Fr.",
+    "season": {
+      "collect": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Wikipedia - Fomes fomentarius (형태·기주·이용 참고)",
+        "url": "https://en.wikipedia.org/wiki/Fomes_fomentarius"
+      },
+      {
+        "title": "MushroomExpert - Fomes fomentarius",
+        "url": "https://mushroomexpert.com/fomes_fomentarius.html"
+      },
+      {
+        "title": "Chemical Constituents and Pharmacology of Fomes fomentarius: A Systematic Review (Records of Natural Products, 2025)",
+        "url": "https://acgpubs.org/article/records-of-natural-products/2025/4-july-august/chemical-constituents-and-pharmacology-of-fomes-fomentarius-a-systematic-review"
+      },
+      {
+        "title": "박정근 외(2013) 말굽버섯 자실체에서 분리한 항보체 활성 다당체의 화학적 분석, Microbiology and Biotechnology Letters 41(2)",
+        "url": "https://koreascience.kr/article/JAKO201321241028823.do"
+      }
+    ],
+    "store": "충분히 말려 습기를 막는 밀폐용기에 담아 서늘한 곳에 둔다.",
+    "taste": "살은 맵고 아린 맛이 나며 약간 과일 같은 냄새가 난다고 기재된다. 나무처럼 단단하다."
+  },
+  "lookSources": [
+    {
+      "title": "MushroomExpert - Fomes fomentarius",
+      "url": "https://mushroomexpert.com/fomes_fomentarius.html"
+    },
+    {
+      "title": "Wikipedia - Fomes fomentarius (형태·기주·이용 참고)",
+      "url": "https://en.wikipedia.org/wiki/Fomes_fomentarius"
+    },
+    {
+      "title": "First Nature - Fomitopsis pinicola (Red-belted Bracket)",
+      "url": "https://first-nature.com/fungi/fomitopsis-pinicola.php"
+    },
+    {
+      "title": "소나무잔나비버섯(Fomitopsis pinicola) 인공재배를 위한 균사 배양적 특성 (earticle)",
+      "url": "https://www.earticle.net/Article/A193263"
+    },
+    {
+      "title": "Introduction to Distribution and Ecology of Sterile Conks of Inonotus obliquus (Mycobiology, 2008)",
+      "url": "https://koreascience.kr/article/JAKO200805441020439.pdf"
+    },
+    {
+      "title": "Species clarification for the medicinally valuable 'sanghuang' mushroom (Botanical Studies, 2012)",
+      "url": "https://ejournal.sinica.edu.tw/bbas/content/2012/1/Bot531-13.pdf"
+    },
+    {
+      "title": "Ganoderma applanatum - NC State Extension",
+      "url": "https://ncslg.cals.ncsu.edu/ganoderma-applanatum-pers-pat"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Inonotus obliquus. 같은 자작나무 줄기에 나는 경우가 있어 혼동될 수 있지만, 차가버섯은 갓이 없는 검은 덩어리(균핵)다.",
+      "name": "차가버섯",
+      "points": [
+        "말굽버섯은 말발굽 모양 갓과 회색 동심원 띠가 있고, 차가버섯은 숯처럼 갈라진 불규칙한 검은 덩어리다.",
+        "말굽버섯은 아랫면에 갈색 구멍면이 있고, 차가버섯 균핵에는 구멍면이 없다.",
+        "속살은 말굽버섯이 계피색 갈색 섬유질, 차가버섯이 노란 갈색 코르크질이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Ganoderma applanatum. 활엽수에 선반처럼 붙는 대형 다년생 버섯으로 회색 윗면이 비슷하다.",
+      "name": "잔나비불로초",
+      "points": [
+        "잔나비불로초는 납작한 선반 모양이고, 말굽버섯은 두툼한 말발굽 모양이다.",
+        "잔나비불로초 아랫면은 신선할 때 흰색이고 긁으면 짙은 갈색 자국이 남는다. 말굽버섯 아랫면은 갈색 구멍면이다.",
+        "잔나비불로초 윗면에는 갈색 포자 가루가 덮여 있는 경우가 많다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Sanghuangporus 등. 값비싼 상황버섯과 모양이 비슷한 딱딱한 다년생 버섯이라 대용품으로 섞이지 않도록 구별해야 한다.",
+      "name": "상황",
+      "points": [
+        "상황은 어린 가장자리와 아랫면 구멍면, 속살이 노란색~황금색이다. 말굽버섯은 노란 가장자리가 없고 속살이 갈색이다.",
+        "상황은 구멍이 1mm에 6~8개로 촘촘하고, 말굽버섯은 2~5개로 성기다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Fomitopsis pinicola. 회색 말발굽 모양이라 말굽버섯과 매우 닮았으며, 주로 침엽수(때로 자작나무)에 난다.",
+      "name": "소나무잔나비버섯",
+      "points": [
+        "소나무잔나비버섯은 가장자리 근처에 주황~붉은 띠가 거의 항상 있고, 말굽버섯에는 붉은 띠가 없다.",
+        "오래된 소나무잔나비버섯은 붉은 띠가 흐려 헷갈리기 쉬우니 기주 나무도 함께 본다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "모로코산 말굽버섯 추출물의 페놀 성분을 분석하고 시험관에서 항산화·항균 활성을 확인했으며, 기준 약물보다는 약했다.",
+        "title": "Bioactive Compounds and Pharmacological Properties of the Polypore Fomes fomentarius, a Medicinal Wild Mushroom Collected from Morocco",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/ijms26189215",
+        "year": "2025"
+      },
+      {
+        "journal": "Records of Natural Products",
+        "note": "말굽버섯 성분 100여 종과 보고된 생리활성을 정리하고, 작용 원리는 아직 잘 밝혀지지 않았다고 보았다.",
+        "title": "Chemical Constituents and Pharmacology of Fomes fomentarius: A Systematic Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.25135/rnp.521.2503.3466",
+        "year": "2025"
+      },
+      {
+        "journal": "Lilloa",
+        "note": "말굽버섯 무리의 쓰임을 정리하면서 유전자 분석상 숨은 계통이 여럿 있어 종 구분을 더 정확히 해야 한다고 지적했다.",
+        "title": "Fomes: A comprehensive review of traditional and modern biotechnological applications in medicine, food, and materials",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/775ec9ec3c6e4f04af9efaaf0f5d3146",
+        "year": "2024"
+      }
+    ],
+    "summary": "말굽버섯에서 스테로이드·트리테르펜·다당류 등 100가지가 넘는 성분이 보고되었고, 항산화·항균·항염 등 작용은 대부분 시험관·동물 실험 결과다. 사람 대상 연구는 이번 조사에서 찾지 못했다. 최근 분류 연구에서는 '말굽버섯'으로 불리던 것 안에 여러 숨은 종이 있어, 기존에 알려진 쓰임 일부는 다른 종에 해당할 수 있다고 지적했다."
+  },
+  "name": "말굽버섯",
+  "st": "limit",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "Wikipedia - Fomes fomentarius (형태·기주·이용 참고)",
+        "url": "https://en.wikipedia.org/wiki/Fomes_fomentarius"
+      },
+      {
+        "title": "Chemical Constituents and Pharmacology of Fomes fomentarius: A Systematic Review (Records of Natural Products, 2025)",
+        "url": "https://acgpubs.org/article/records-of-natural-products/2025/4-july-august/chemical-constituents-and-pharmacology-of-fomes-fomentarius-a-systematic-review"
+      }
+    ],
+    "text": "말굽버섯의 말린 살은 불이 잘 붙어 유럽에서 오래전부터 부싯깃으로 썼고, 18~19세기에는 피를 멎게 하는 드레싱으로도 썼다. 중국에서는 '화균지(Hua jun zhi)'라는 이름으로 민간에서 소화불량 등에 썼다고 2025년 리뷰가 정리했다. 본초강목 지(芝)류 원문을 확인한 범위에서는 말굽버섯에 해당하는 항목을 찾지 못했다."
+  },
+  "updatedAt": 1793005462003
+}

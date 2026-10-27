@@ -1,0 +1,169 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "과일(果部) 杏 항목의 核仁",
+    "easy": [
+      "살구씨를 기침하며 기운이 치밀어 오르고 목에서 소리가 나는 증상, 목이 붓고 막히는 증상에 쓴다고 적었다.",
+      "약으로 쓸 때는 뜨거운 물에 담가 껍질과 뾰족한 끝을 벗기고 누렇게 볶는다고 적었다.",
+      "산에서 나는 살구(山杏)의 씨는 약으로 쓰기에 알맞지 않다고 적었다."
+    ],
+    "han": "杏核仁",
+    "has": true,
+    "ki": "甘、苦，溫、冷利，有小毒。",
+    "kiKo": "맛은 달고 쓰며, 성질은 따뜻하고 차게 잘 통하게 하며, 독이 조금 있다.",
+    "old": "",
+    "orig": "核仁 氣味：甘、苦，溫、冷利，有小毒。兩仁者殺人，可以毒狗。主治：咳逆上氣雷鳴，喉痺，下氣，產乳金瘡，寒心奔豚（《本經》）。修治：弘景曰︰凡用杏仁，以湯浸去皮尖，炒黃。集解：山杏不堪入藥。",
+    "sources": [
+      {
+        "title": "本草綱目/果之一 杏 (위키문헌)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%B8%80"
+      }
+    ],
+    "verified": true,
+    "warn": "독이 조금 있다고 적었고, 씨 안에 알맹이가 두 개 든 것은 사람을 죽일 수 있으며 개를 독살하는 데 쓸 수 있다고 경고했다."
+  },
+  "faq": [
+    {
+      "a": "아니요. 행인은 식품으로 먹거나 팔 수 없는 한약재이고, 씨의 아미그달린이 분해되면 시안화수소가 생겨 중독될 수 있습니다. 어린이가 살구씨 15~20알을 먹고 의식을 잃은 사례도 보고되었습니다.",
+      "q": "살구씨(행인)를 날로 먹어도 되나요?"
+    },
+    {
+      "a": "어린이는 아주 적은 양도 위험합니다. 유럽식품안전청(EFSA)은 작은 날 살구씨 기준으로 성인은 3알, 유아는 반 알 정도가 한 번에 먹어도 되는 안전 기준의 한계라고 평가했습니다.",
+      "q": "몇 알 정도면 위험한가요?"
+    },
+    {
+      "a": "모양과 씨껍질 무늬를 봅니다. 행인은 심장 모양으로 통통하고 관다발 무늬가 그물처럼 갈라지며, 도인은 길쭉하고 납작하며 무늬가 나란히 뻗습니다.",
+      "q": "행인과 도인(복숭아씨)은 어떻게 구별하나요?"
+    },
+    {
+      "a": "여름에 열매가 잘 익으면 따서 과육과 단단한 껍데기를 벗기고 씨를 햇볕에 말립니다. 국내 살구는 대개 6~7월에 익습니다.",
+      "q": "행인은 언제 거두나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Apricot kernel (Armeniacae Semen)",
+    "family": "장미과(Rosaceae)",
+    "grade": "",
+    "habitat": "살구나무는 과수로 널리 심는 갈잎 작은키나무로 높이 5m 안팎까지 자란다. 중국 약전도 살구나무·시베리아살구·개살구 등 여러 살구 무리의 씨를 같은 약재로 인정한다.",
+    "look": {
+      "flower": "살구나무는 4월에 연분홍빛 꽃이 피며 꽃잎은 5장이다.",
+      "fruit": "열매는 7월 무렵 노란색~노란빛 붉은색으로 익는다. 약재인 씨는 심장 모양이고 씨눈 쪽이 약간 비대칭이며, 겉은 누런 갈색~짙은 갈색이다. 씨껍질 표면의 관다발 무늬가 그물처럼 잔가지를 친다."
+    },
+    "parts": "약재로 쓰는 부위: 잘 익은 열매의 씨(속씨)(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 씨에 든 아미그달린(시안배당체)이 몸속 효소에 분해되면 시안화수소(청산)가 생긴다. 짧은 시간에 많이 먹으면 시안 중독으로 구토·의식 저하·호흡 억제가 올 수 있고, 어린이는 몇 알만으로도 위험하다. 날 살구씨를 먹거나 갈아 즙·가루로 먹지 않는다.",
+    "sci": "Prunus armeniaca var. ansu Maxim. (살구나무) 등 — 대한민국약전 기원: 살구나무, 개살구나무(P. mandshurica var. glabra), 시베리아살구(P. sibirica), P. armeniaca의 씨",
+    "season": {
+      "collect": [
+        6,
+        7
+      ],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "이승호 외(2014) 행인과 도인의 감별기준, 대한본초학회지 29(4)",
+        "url": "https://koreascience.or.kr/article/JAKO201423366169500.pdf"
+      },
+      {
+        "title": "Tang 외(2024) Armeniacae semen amarum: a review on its botany, phytochemistry, pharmacology, clinical application, toxicology and pharmacokinetics, Frontiers in Pharmacology",
+        "url": "https://doi.org/10.3389/fphar.2024.1290888"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 살구",
+        "url": "https://encykorea.aks.ac.kr/Article/E0026409"
+      },
+      {
+        "title": "Food Safety News(2016) EFSA warns of cyanide risk from eating raw apricot kernels",
+        "url": "https://www.foodsafetynews.com/2016/05/efsa-warns-of-cyanide-risk-from-eating-raw-apricot-kernals"
+      },
+      {
+        "title": "Ekinci 외(2019) Cyanide intoxication by apricot kernels: A case report and literature review, Emergency Care Journal",
+        "url": "https://pagepressjournals.org/index.php/ecj/article/view/8256"
+      }
+    ],
+    "store": "충분히 말려 습기와 벌레를 피해 밀폐 용기에 넣고 서늘한 곳에 둔다. 어린이 손이 닿지 않는 곳에 보관한다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "이승호 외(2014) 행인과 도인의 감별기준, 대한본초학회지 29(4)",
+      "url": "https://koreascience.or.kr/article/JAKO201423366169500.pdf"
+    },
+    {
+      "title": "Tang 외(2024) Armeniacae semen amarum: a review on its botany, phytochemistry, pharmacology, clinical application, toxicology and pharmacokinetics, Frontiers in Pharmacology",
+      "url": "https://doi.org/10.3389/fphar.2024.1290888"
+    },
+    {
+      "title": "식약처 웹진(2019.3) 의약품용 한약재 수입 단계 안전관리",
+      "url": "https://www.mfds.go.kr/webzine/201903/sub06.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Prunus persica(복사나무)·P. davidiana(산복사)의 씨는 도인(桃仁)이라는 다른 약재다. 같은 벚나무속 씨라 겉모습이 비슷해 오래 혼동되어 왔고, 도인에도 아미그달린이 들어 있다.",
+      "name": "복숭아",
+      "points": [
+        "행인은 심장 모양으로 통통하고, 도인은 길쭉한 타원형으로 납작한 편이다(산복사 씨는 더 둥글다).",
+        "씨껍질 관다발 무늬가 그물처럼 잔가지를 치면 행인, 가지 없이 나란히 뻗으면 도인이다.",
+        "색(누런 갈색~짙은 갈색)과 크기만으로는 구별이 어렵다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Prunus mume(매실나무)의 씨도 같은 벚나무속 씨로 시안배당체가 있다. 살구씨와 섞이면 겉모습만으로 가리기 어렵다.",
+      "name": "매실",
+      "points": [
+        "대한민국약전의 행인 기원종(살구나무·개살구나무·시베리아살구 등)에 매실나무는 들어 있지 않다.",
+        "말린 속씨만으로는 구별이 어려우므로 출처가 분명한 의약품용 한약재만 쓴다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "행인은 여러 살구 무리 종의 씨를 함께 쓰고, 말린 씨 상태로는 원산지·기원종을 눈으로 구별하기 어렵다.",
+      "name": "수입 행인",
+      "points": [
+        "포장의 원산지·제조(수입)업체 표시를 확인한다.",
+        "의약품용 수입 한약재는 수입 단계에서 관능검사와 중금속·잔류농약·이산화황·곰팡이독소 검사를 받으므로, 의약품용 한약재 유통 경로로 구한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Advances in Pharmacological and Pharmaceutical Sciences",
+        "note": "쓴 살구씨 추출물이 쥐에서 통증·염증 지표와 상처 회복에 영향을 주는지 살핀 실험 연구다.",
+        "title": "Analgesic, Antioxidant, Anti-Inflammatory, and Wound-Treating Actions of Bitter Apricot Kernel Extract",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1155/2024/5574259",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "행인의 기원·성분·약리·독성을 정리했으며, 아미그달린이 분해되어 생기는 시안화수소로 많이 먹으면 중독될 수 있다고 짚었다.",
+        "title": "Armeniacae semen amarum: a review on its botany, phytochemistry, pharmacology, clinical application, toxicology and pharmacokinetics",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1290888",
+        "year": "2024"
+      }
+    ],
+    "summary": "행인의 주성분인 아미그달린과 지방유를 중심으로 기침·염증 관련 작용이 주로 세포·동물 실험에서 연구되고 있으며, 같은 성분이 시안 중독의 원인이라는 독성 연구도 함께 이루어진다. 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "행인",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "김대식·윤창열(2007) 東醫寶鑑 單方에 관한 연구, 大田大學校 韓醫學硏究所 論文集 16(2)",
+        "url": "https://koreascience.kr/article/JAKO200727742023441.pdf"
+      }
+    ],
+    "text": "동의보감 탕액편 과일 부(果部)에도 살구씨(杏仁·杏核仁) 항목이 있어, 성질이 따뜻하고 맛이 달고 쓰며 독이 있다(조금 있다고도 함)고 적었고 씨 알맹이가 두 개인 것은 사람을 죽인다고 경고했다고 연구 논문에 소개되어 있다. 동의보감 원문은 이번에 직접 대조하지 못했다."
+  },
+  "updatedAt": 1793048842816
+}

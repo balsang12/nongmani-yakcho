@@ -1,0 +1,169 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "식품으로 먹는 것은 권하지 않습니다. 잎(측백엽)과 씨(백자인)는 한약재로 쓰이며, 식품원료로 쓸 수 있는지는 식약처 식품원료목록에서 먼저 확인해야 합니다.",
+      "q": "측백나무 잎이나 씨를 먹어도 되나요?"
+    },
+    {
+      "a": "잎 뒷면을 보면 됩니다. 편백은 흰 숨구멍 무늬가 Y자, 화백은 W자나 흰 점 모양이며, 측백나무는 납작한 잔가지가 세로로 서고 열매가 뿔처럼 울퉁불퉁합니다.",
+      "q": "측백나무와 편백은 어떻게 구별하나요?"
+    },
+    {
+      "a": "9월 무렵 익습니다. 달걀 모양 열매가 벌어지면 날개 없는 어두운 갈색 씨가 나옵니다.",
+      "q": "측백나무 열매(씨)는 언제 익나요?"
+    },
+    {
+      "a": "대구 도동, 안동 구리, 영양 감천리 등의 측백나무 자생지는 천연기념물이라 채취할 수 없습니다. 다른 곳도 산 주인의 허락이 필요합니다.",
+      "q": "산에서 측백나무를 채취해도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "잎(측백엽)만 햇볕에 말려 차로 우리거나 달여 마신다.",
+    "eng": "Chinese arborvitae (Oriental arborvitae)",
+    "family": "측백나무과",
+    "grade": "",
+    "habitat": "중국 북부 원산이거나 널리 심어진 것으로 보며, 국내에서는 대구 도동, 단양 영천리, 안동 구리, 울진 등의 가파른 바위산·절벽에 자생지가 있다. 대구 도동 측백나무 숲, 안동 구리 측백나무 자생지, 영양 감천리 측백수림은 천연기념물로 지정되어 있어 채취가 금지된다.",
+    "look": {
+      "flower": "4월 무렵 가지 끝에 작은 수꽃 구화수가 달린다.",
+      "fruit": "열매(구과)는 달걀 모양으로 길이 1.5~2cm이고 9월에 익는다. 두툼한 실편이 8장이며 겉이 뿔처럼 울퉁불퉁하다. 씨는 어두운 갈색의 달걀 모양으로 길이 약 5mm이며 날개가 거의 없다.",
+      "leaf": "작은 비늘 모양 잎이 마주 겹쳐 납작한 가지를 이루며, 잎끝이 뾰족하다. 납작한 잔가지가 수평이 아니라 세로(위쪽)로 서는 경향이 있다.",
+      "stem": "늘푸른 큰키나무로 25m까지 자라지만 정원·묘지에서는 작게 키운 것이 많다. 수피는 회갈색으로 세로로 길게 갈라지고, 굵은 가지는 붉은 갈색이다."
+    },
+    "parts": "잎이 달린 어린 가지(한약재명 측백엽)와 씨(한약재명 백자인)",
+    "prep": "잎(측백엽)과 씨(백자인)는 한약재로 쓰인다. 식약처 식품원료로 쓸 수 있는지 여부와 부위는 이번 조사에서 공공 자료로 확인하지 못했으므로, 식품으로 먹는 것은 권하지 않는다. 쓰려면 식약처 식품원료목록을 먼저 확인하고, 약재로는 한의사와 상담한다.",
+    "sci": "Platycladus orientalis (L.) Franco",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국의 수목(Flora Korea) - 측백나무 Platycladus orientalis",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4968"
+      },
+      {
+        "title": "한국의 수목(Flora Korea) - 측백나무속(Platycladus)",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/4967"
+      },
+      {
+        "title": "매일신문 [이종민의 나무오디세이] 측백나무 (2023)",
+        "url": "https://www.imaeil.com/page/view/2023021410214029687"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "매일신문 [이종민의 나무오디세이] 측백나무 (2023)",
+      "url": "https://www.imaeil.com/page/view/2023021410214029687"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 눈측백속(Thuja) 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4969"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 측백나무 Platycladus orientalis",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4968"
+    },
+    {
+      "title": "한국의 수목(Flora Korea) - 측백나무속(Platycladus)",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4967"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "편백(Chamaecyparis obtusa)은 같은 측백나무과로 비늘잎이 비슷해 헷갈린다. 잎 뒷면의 흰 기공선 모양으로 구별한다.",
+      "name": "편백",
+      "points": [
+        "편백은 잎 뒷면의 흰 숨구멍 무늬가 Y자 모양이다.",
+        "측백나무는 납작한 잔가지가 세로로 서는 경향이 있다.",
+        "측백나무 열매는 겉이 뿔처럼 울퉁불퉁한 달걀 모양이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "화백(Chamaecyparis pisifera)도 편백과 같은 속으로 비늘잎이 측백나무와 비슷하다. 잎 뒷면 무늬로 가린다.",
+      "name": "화백",
+      "points": [
+        "화백은 잎 뒷면 숨구멍 무늬가 W자이거나 흰 점처럼 보인다.",
+        "측백나무 잔가지는 세로로 서고, 열매가 울퉁불퉁한 달걀 모양이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "서양측백(Thuja occidentalis)은 북미에서 들여온 나무로 생울타리로 많이 심어 측백나무와 혼동된다.",
+      "name": "서양측백",
+      "points": [
+        "서양측백은 가지가 사방으로 퍼지고 잎이 넓은 편이다.",
+        "서양측백은 큰키나무로, 잎이 원가지에 떨어져 붙고 끝이 뾰족하며 뒷면이 흰색이나 청회색이다.",
+        "측백나무 열매의 씨앗 실편은 6~8장, 눈측백속(서양측백·눈측백)은 8~10장이며, 측백나무 씨에는 날개가 거의 없다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "눈측백(Thuja koraiensis)은 설악산·오대산 같은 높은 산에서 자라는 키 작은 나무로, 이름과 잎 모양이 측백나무와 비슷하다.",
+      "name": "눈측백",
+      "points": [
+        "눈측백은 관목으로 가지가 땅 위에 수평으로 퍼지며 자란다.",
+        "눈측백 잎은 2~4mm로 짧고 끝이 둔하며, 뒷면에 뚜렷한 흰 무늬가 있다.",
+        "측백나무는 낮은 지대의 바위산·절벽이나 정원에서 곧게 자라는 큰키나무다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Phytochemistry Reviews",
+        "note": "측백나무의 성분·약리·안전성 연구를 정리했으며, 사람 대상 임상 근거는 아직 제한적이라고 보았다.",
+        "title": "A comprehensive review of mechanistic insights into Platycladus orientalis (L.) Franco: integration of phytochemistry and pharmacology",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s11101-026-10270-6",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "측백나무 잎에서 얻은 세포밖 소포를 생쥐 코로 넣었을 때 불안·우울 유사 행동과 수면 지표 변화를 살폈다.",
+        "title": "Therapeutic potential of extracellular vesicles derived from Platycladus Orientalis leaf in treating anxiety, depression, and insomnia",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1693106",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Science and Human Wellness",
+        "note": "백자인의 정유와 사포닌이 불면 모델 생쥐의 수면 관련 지표에 미치는 영향을 관찰했다.",
+        "title": "Essential oil and saponin from Semen Platycladi exert sedative-hypnotic effect on ICR mice by regulating multi-targets of serotonergic and GABAergic system",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.26599/FSHW.2024.9250415",
+        "year": "2025"
+      },
+      {
+        "journal": "Chemistry & Biodiversity",
+        "note": "잎 추출물과 정유의 성분을 분석하고 시험관·컴퓨터 모의실험으로 항산화·효소 억제 활성을 살폈다.",
+        "title": "Chemical Constituents, Antioxidant, and Enzyme Inhibitory Potentials Supported by In-Silico Studies of the n-Hexane Extract and Essential Oil of Platycladus orientalis (L.) Franco Leaves",
+        "type": "기타",
+        "url": "https://europepmc.org/article/MED/39462973",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 측백나무 잎·씨 성분의 항산화·항염·신경 관련 작용을 살핀 실험실·동물 실험이 대부분이며, 2026년 리뷰도 임상 근거가 부족하다고 정리했다. 동물·세포 수준 결과이므로 사람에게 같은 효과가 있다고 볼 수 없다."
+  },
+  "name": "측백나무",
+  "st": "limit",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Lim JX et al., A comprehensive review of mechanistic insights into Platycladus orientalis (L.) Franco, Phytochemistry Reviews (2026)",
+        "url": "https://doi.org/10.1007/s11101-026-10270-6"
+      }
+    ],
+    "text": "측백나무는 동아시아 전통 의학에서 쓰여 온 약용식물로, 잎·씨를 달임약이나 고약, 정유 형태로 썼다. 잎은 한약재 측백엽, 씨는 백자인이라 부른다."
+  },
+  "updatedAt": 1792919652818
+}

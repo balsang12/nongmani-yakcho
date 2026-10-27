@@ -1,0 +1,171 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 시장의 방풍나물은 대개 갯기름나물이고, 갯방풍은 해안 모래사구에 낮게 퍼져 자라는 다른 식물입니다. 갯방풍은 키가 5~30cm로 작고 털이 많으며, 갯기름나물은 30~100cm로 곧게 서고 잎이 분백색을 띱니다.",
+      "q": "갯방풍과 방풍나물은 같은 것인가요?"
+    },
+    {
+      "a": "연한 잎과 잎자루를 나물로 먹습니다. 국립해양생물자원관 자료는 연한 잎자루를 식품원료 등록 부위로 소개합니다. 뿌리는 해방풍(북사삼)이라는 한약재로 다뤄지므로, 정확한 사용 가능 부위는 식품안전나라 '식품원료 목록'에서 확인하는 것이 좋습니다.",
+      "q": "갯방풍은 어느 부위를 먹나요?"
+    },
+    {
+      "a": "캐지 않는 것이 좋습니다. 효능 소문으로 무분별한 채취가 이어져 한때 자생지가 크게 줄었고, 동해시처럼 자생지를 보호구역으로 정한 곳도 있습니다. 시중에는 울진·영덕 등 재배단지에서 나온 잎이 유통됩니다.",
+      "q": "바닷가 모래밭에서 갯방풍을 캐도 되나요?"
+    },
+    {
+      "a": "같은 약재가 아닙니다. 한약재 방풍의 기원은 Saposhnikovia divaricata의 뿌리이고, 해방풍은 갯방풍 뿌리입니다. 이름이 비슷해 섞여 유통되므로 약재를 살 때는 기원식물 표시를 확인해야 합니다.",
+      "q": "해방풍 뿌리를 방풍 약재로 써도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "연한 잎자루를 소금물에 데쳐 나물로 무치거나 장아찌로 담근다. 뿌리는 식품으로 쓰지 않는다.",
+    "eng": "",
+    "family": "산형과(미나리과)",
+    "grade": "",
+    "habitat": "우리나라 모든 해안의 만조선 바깥 모래땅과 해안사구에 자라는 여러해살이풀이며, 극동러시아·중국·일본·북아메리카 서부에도 분포한다. 국내 조사에서 자생지는 만조선에서 30m 안팎 떨어진 해발 3~4m 정도의 사구에 많았고, 약알칼리성에 유기물이 적은 모래흙이었다. 동해안 자생지가 서남해안보다 넓고 개체 밀도도 높았다. 요즘 시장에 나오는 잎은 주로 경북 울진·영덕, 강원 고성 등의 재배단지에서 나온다. 효능 소문으로 무분별하게 캐 가는 바람에 한때 사라질 위기에 놓였다는 지자체 설명이 있고, 동해시는 2019년 해안식물 자생지를 보호구역으로 정해 울타리를 쳤다. 자생지에서 캐지 말고 재배품을 사는 것이 좋다.",
+    "look": {
+      "flower": "5~7월에 흰 꽃이 우산 모양 겹꽃차례에 촘촘히 모여 핀다.",
+      "fruit": "달걀 모양의 열매에 털이 많고, 가장자리에 날개처럼 튀어나온 모서리가 있다.",
+      "leaf": "아래쪽 잎은 긴 잎자루 끝에 작은잎이 3장씩 한두 번 갈라진 겹잎이다. 작은잎은 두껍고 반들거리는 가죽질이며 가장자리에 불규칙한 톱니가 있고, 잎자루는 자줏빛을 띤다.",
+      "root": "말린 약재(해방풍)는 뿌리줄기에 짧고 가는 가로주름이 고리처럼 있고, 자른 면의 껍질 쪽은 연한 젖빛~연노랑이다.",
+      "stem": "높이 5~30cm로 낮으며, 마디 사이가 짧고 밑에서 가지가 갈라져 모래 위에 비스듬히 눕듯 자란다. 식물 전체에 털이 많다."
+    },
+    "parts": "연한 잎자루와 어린 잎(식품원료로 등록된 부위로 소개됨). 뿌리·뿌리줄기는 한약재 해방풍(북사삼)으로 쓰인다.",
+    "prep": "연한 잎과 잎자루를 모래가 남지 않게 깨끗이 씻어 쓴다.",
+    "sci": "Glehnia littoralis F.Schmidt ex Miq.",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "국립해양생물자원관 해양생명자원 통합정보시스템(MBRIS) - 갯방풍(Glehnia littoralis)",
+        "url": "https://www.mbris.kr/pub/marine/tsearch/tsearchDetail.do?spcTxnId=270000007155"
+      },
+      {
+        "title": "김성민 외(2005), 갯방풍의 지리적 분포와 자생지 특성, 한국약용작물학회지 13(4)",
+        "url": "https://db.koreascholar.com/Article/Detail/255043"
+      },
+      {
+        "title": "강희경 외(2017), 국내 중서부지역 갯방풍의 자생지 생육환경에 따른 재배적성 고찰, 한국약용작물학회지 25(2)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201718155359250.page"
+      },
+      {
+        "title": "조현솔·홍선미(2023), 해방풍 유산균 발효물의 항균 및 항산화 증진 효과, 한국산학기술학회논문지 24(2)",
+        "url": "https://www.kais99.org/jkais/journal/Vol24No02/vol24no02p10.pdf"
+      },
+      {
+        "title": "경향신문 - 동해시 해안식물 자생지 보호구역 조성 (2019)",
+        "url": "https://www.khan.co.kr/article/201903051059001"
+      },
+      {
+        "title": "세계일보 - 영덕·울진 해방풍 재배단지 조성 (2015)",
+        "url": "https://www.segye.com/newsView/20151129001381"
+      },
+      {
+        "title": "주인경 외(2019), 방풍류 약재의 신경세포보호효과 및 아세틸콜린에스터라제 저해 효과 비교, 대한본초학회지 34(5)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201928965447488.pdf"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "주인경 외(2019), 방풍류 약재의 신경세포보호효과 및 아세틸콜린에스터라제 저해 효과 비교, 대한본초학회지 34(5)",
+      "url": "https://www.koreascience.or.kr/article/JAKO201928965447488.pdf"
+    },
+    {
+      "title": "김소준 외(2008), 방풍의 화학 성분, 생약학회지 39(4)",
+      "url": "https://koreascience.kr/article/JAKO200804748558593.pdf"
+    },
+    {
+      "title": "국립해양생물자원관 해양생명자원 통합정보시스템(MBRIS) - 갯방풍(Glehnia littoralis)",
+      "url": "https://www.mbris.kr/pub/marine/tsearch/tsearchDetail.do?spcTxnId=270000007155"
+    },
+    {
+      "title": "Wikipedia - Peucedanum japonicum",
+      "url": "https://en.wikipedia.org/wiki/Peucedanum_japonicum"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "시장에서 '방풍나물'로 파는 것은 대개 갯기름나물이다. 둘 다 바닷가 산형과 식물로 이름이 섞여 쓰이고, 뿌리는 각각 해방풍·식방풍이라는 약재로 방풍 대용으로 유통된다. 먹는 나물이라 해롭지는 않지만 다른 식물이다.",
+      "name": "방풍나물",
+      "points": [
+        "갯기름나물은 키 30~100cm로 곧게 서고 거의 털이 없다. 갯방풍은 5~30cm로 모래 위에 낮게 퍼지고 전체에 털이 많다.",
+        "갯기름나물 잎은 흰 가루를 바른 듯 분백색을 띠고 작은잎이 넓은 달걀꼴이다. 갯방풍 작은잎은 두껍고 반들거리며 잎자루가 자줏빛이다.",
+        "갯방풍은 해안 모래사구에 자라고, 갯기름나물은 바닷가 바위틈·풀밭 등에서도 자란다.",
+        "말린 뿌리를 자르면 식방풍(갯기름나물)은 갈색 고리 모양 형성층이 뚜렷하고, 해방풍(갯방풍)은 껍질 쪽이 연한 젖빛이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "한약재 '방풍'의 기원은 Saposhnikovia divaricata라는 다른 식물의 뿌리이며, 국내 재배가 적어 대부분 수입된다. 해방풍(갯방풍 뿌리)이 이름과 쓰임이 비슷해 방풍과 섞여 유통되므로, 뿌리 약재를 살 때는 기원식물을 확인해야 한다. 방풍 뿌리는 식품으로 팔 수 없는 한약재다.",
+      "name": "방풍",
+      "points": [
+        "방풍 약재는 뿌리 윗부분에 촘촘한 고리 모양 가로주름과 갈색 털 같은 잎집 흔적이 남아 있다.",
+        "방풍 뿌리 자른 면은 껍질 쪽이 회갈색이고 갈라진 틈이 여러 개 있으며, 속(목부)이 노랗다. 해방풍은 껍질 쪽이 연한 젖빛~연노랑이고 속이 비교적 치밀하다.",
+        "갯방풍 잎은 나물로 팔리지만, '방풍'이라는 이름의 뿌리 약재는 식품이 아니다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "갯방풍 뿌리 다당류의 추출·정제 방법과 보고된 면역·항산화 작용을 정리한 리뷰로, 구조와 작용의 관계는 더 연구가 필요하다고 했다.",
+        "title": "Extraction, Purification, Structure, and Bioactivities of Polysaccharides from Glehnia littoralis: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules30214173",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "영덕산 갯방풍 잎 추출물이 사람 치주인대 세포와 쥐의 실험적 치주염 모델에서 염증 지표와 뼈 손실을 줄였다는 세포·동물 실험이다.",
+        "title": "Ameliorating Effect of Glehnia littoralis Extract on Periodontitis Through Regulation of 11β-Hydroxysteroid Dehydrogenase Type 1 in an Experimental Periodontitis Model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/molecules30142903",
+        "year": "2025"
+      },
+      {
+        "journal": "Applied Biological Chemistry",
+        "note": "먹는 부위인 잎·줄기에서 페놀 성분 16가지를 한꺼번에 재는 분석법을 만든 연구로, 지상부가 뿌리보다 이 성분이 훨씬 많았다고 보고했다.",
+        "title": "Development and application of a high-performance liquid chromatography diode-array detection (HPLC–DAD) method for the simultaneous quantification of phenolic compounds in the aerial part of Glehnia littoralis",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s13765-024-00884-9",
+        "year": "2024"
+      }
+    ],
+    "summary": "갯방풍 연구는 주로 뿌리(북사삼)의 다당류·쿠마린류 성분을 대상으로 면역 조절, 항산화, 항염 작용을 살폈고, 최근에는 나물로 먹는 잎·줄기의 페놀 성분 분석과 잎 추출물 실험도 나온다. 대부분 세포·동물 실험이거나 문헌 리뷰 수준이며, 사람에게서 효과가 확인된 것은 아니다."
+  },
+  "name": "갯방풍",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "임현진 외(2016), 고지방식이 마우스에서 갯방풍 부탄올 분획물의 심혈관 보호 효과, 생약학회지 47(1)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201612460475990.pdf"
+      },
+      {
+        "title": "주인경 외(2019), 방풍류 약재의 신경세포보호효과 및 아세틸콜린에스터라제 저해 효과 비교, 대한본초학회지 34(5)",
+        "url": "https://www.koreascience.or.kr/article/JAKO201928965447488.pdf"
+      },
+      {
+        "title": "김소준 외(2008), 방풍의 화학 성분, 생약학회지 39(4)",
+        "url": "https://koreascience.kr/article/JAKO200804748558593.pdf"
+      }
+    ],
+    "text": "갯방풍의 뿌리는 북사삼(北沙參)·해방풍·빈방풍이라는 이름의 약재로 쓰이며, 한의학 문헌에서는 음(陰)을 보하고 폐를 맑게 하며 가래와 기침을 다스리는 데 써 왔다고 소개된다. 우리나라에서는 해방풍이 이름과 쓰임이 비슷해 한약재 방풍 대신 섞여 쓰이기도 했다. 『동의보감』의 防風은 다른 기원식물(Saposhnikovia)에 해당하므로 갯방풍의 옛 기록으로 볼 수 없고, 갯방풍에 해당하는 고서 원문은 이번 조사에서 확인하지 못했다."
+  },
+  "updatedAt": 1792962021102
+}

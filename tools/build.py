@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""농마니 약초 백과 — 정적 사이트 생성기
+"""농마니 산야초사전 — 정적 사이트 생성기
 
 입력: base.json (앱의 품목 사전·고서 기록), data/ (앱 저장소 herbinfo 문서 JSON들)
 출력: out/ (GitHub Pages에 그대로 올리는 HTML·sitemap·robots·llms.txt)
@@ -15,14 +15,15 @@ ap.add_argument("--src", default=os.path.join(os.path.dirname(__file__), "base.j
 ap.add_argument("--out", default=os.path.join(os.path.dirname(__file__), "out"))
 a = ap.parse_args()
 BASE = a.base.rstrip("/")
-SITE = "농마니 약초 백과"
+SITE = "농마니 산야초사전"
+MARKET = "https://nongmani.com/app/"
 TODAY = datetime.date.today().isoformat()
 
 E = lambda s: html.escape(str(s or ""), quote=True)
 base = json.load(open(a.src, encoding="utf8"))
 HERBS, CLASSIC = base["herbs"], base["classic"]
-ST = {"ok": "식용 원료", "caution": "식용 · 주의", "check": "식품원료 확인 필요", "hanyak": "한약재 전용 · 판매 불가", "ban": "독초 · 먹으면 위험"}
-ST_ORDER = ["ok", "caution", "check", "hanyak", "ban"]
+ST = {"ok": "✅ 먹을 수 있어요", "caution": "⚠️ 주의해서 먹어요", "limit": "🍵 정해진 방법으로 먹어요", "check": "🔍 확인 중이에요", "hanyak": "💊 한약재 · 판매 안 해요", "ban": "☠️ 독초 · 먹으면 안 돼요"}
+ST_ORDER = ["ok", "caution", "limit", "check", "hanyak", "ban"]
 
 # herbinfo 문서 읽기 (ArtifactData out_dir 형식 또는 단순 JSON)
 INFO = {}
@@ -92,6 +93,9 @@ def none_note(n):
             return c
     return None
 
+def josa(n, a, b):
+    c = n[-1] if n else ""
+    return n + (a if "가" <= c <= "힣" and (ord(c) - 0xAC00) % 28 else b)
 slug = lambda n: urllib.parse.quote(n)
 url = lambda path: f"{BASE}/{path}"
 herb_path = lambda n: f"yakcho/{slug(n)}/"
@@ -126,14 +130,15 @@ def rich(n):
     return score >= 2
 
 CSS = """
-:root{--bg:#F4F6F1;--surface:#FFFFFF;--sunk:#E8EDE3;--line:#D3DCCD;--ink:#15201A;--muted:#566659;--pine:#2B5B41;--pine-ink:#fff;--pine-soft:#DAE9DE;--gold:#8A5B0B;--gold-soft:#F4E7CC;--gold-deep:#6E4705;--berry:#A3324A;--berry-soft:#F6E0E5;--display:"Gowun Batang","Nanum Myeongjo",serif;--body:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif}
+:root{--bg:#F4F6F1;--surface:#FFFFFF;--sunk:#E8EDE3;--line:#D3DCCD;--ink:#15201A;--muted:#566659;--pine:#16824A;--pine-ink:#fff;--pine-soft:#DAE9DE;--gold:#8A5B0B;--gold-soft:#F4E7CC;--gold-deep:#6E4705;--berry:#A3324A;--berry-soft:#F6E0E5;--display:"Gowun Batang","Nanum Myeongjo",serif;--body:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif}
 @media (prefers-color-scheme:dark){:root{--bg:#111712;--surface:#19221B;--sunk:#222D24;--line:#334036;--ink:#E5ECE4;--muted:#9AAA9D;--pine:#7BBA94;--pine-ink:#0D1910;--pine-soft:#213628;--gold:#E2B45E;--gold-soft:#352A16;--gold-deep:#F0C878;--berry:#E57F95;--berry-soft:#3A2128;color-scheme:dark}}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 var(--body)}
 a{color:var(--pine)}h1,h2,h3{font-family:var(--display);line-height:1.3;text-wrap:balance}
 .wrap{max-width:860px;margin:0 auto;padding-inline:16px}
 header.top{background:var(--surface);border-bottom:1px solid var(--line)}
 header.top .wrap{display:flex;gap:12px;align-items:center;justify-content:space-between;padding-block:12px;flex-wrap:wrap}
-.logo{font-family:var(--display);font-weight:700;font-size:21px;color:var(--pine);text-decoration:none}.logo i{font-style:normal;color:var(--gold)}
+.logo{font-family:var(--body);font-weight:800;font-size:21px;letter-spacing:-.04em;color:#17A356;text-decoration:none}.logo i{font-style:normal;color:#C8901A;background:linear-gradient(180deg,#F0BE34,#D9A01E 50%,#B07A0C);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}.logo span{font-weight:700;color:var(--ink);margin-left:6px;font-size:17px;letter-spacing:-.02em}
+.buy{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between;border:1.5px solid var(--pine);background:var(--pine-soft);border-radius:12px;padding:12px 16px;margin:14px 0}.buy a.go{background:var(--pine);color:var(--pine-ink);text-decoration:none;font-weight:700;padding:9px 16px;border-radius:10px;white-space:nowrap}
 nav.top a{margin-left:14px;font-size:14px;color:var(--muted);text-decoration:none}nav.top a:first-child{margin-left:0}
 main{padding-block:20px 60px}
 .crumb{font-size:13px;color:var(--muted)}.crumb a{color:var(--muted)}
@@ -182,11 +187,11 @@ def page(path, title, desc, body, jsonld=None, index=True, crumbs=None):
 <title>{E(title)}</title><meta name="description" content="{E(desc)}">{'' if index else '<meta name="robots" content="noindex,follow">'}
 <link rel="canonical" href="{E(canon)}"><meta property="og:title" content="{E(title)}"><meta property="og:description" content="{E(desc)}"><meta property="og:type" content="article"><meta property="og:url" content="{E(canon)}"><meta property="og:locale" content="ko_KR">
 <base href="{E(BASE)}/"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=Noto+Sans+KR:wght@400;700&display=swap">
-{VERIFY if path == "" else ""}<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#2B5B41"><link rel="icon" href="icon.svg" type="image/svg+xml">
+{VERIFY if path == "" else ""}<link rel="manifest" href="manifest.webmanifest"><meta name="theme-color" content="#16824A"><link rel="icon" href="icon.svg" type="image/svg+xml">
 <style>{CSS}</style>{ld}</head><body>
-<header class="top"><div class="wrap"><a class="logo" href="./">농부와 <i>심마니</i> 약초 백과</a><nav class="top"><a href="./">전체 약초</a><a href="dokcho/">독초 구별</a><a href="jecheol/">제철 달력</a></nav></div></header>
+<header class="top"><div class="wrap"><a class="logo" href="./">농<i>마니</i><span>산야초사전</span></a><nav class="top"><a href="./">전체 산야초</a><a href="dokcho/">독초 구별</a><a href="jecheol/">제철 달력</a><a href="{MARKET}">농마니 장터 ›</a></nav></div></header>
 <main class="wrap">{cr}{body}</main>
-<footer><div class="wrap">{SITE}는 산나물·약초를 사고파는 '농부와 심마니'가 만드는 한국 약초 정보 모음입니다. 옛 의서의 기록과 연구를 소개할 뿐 효능을 보장하거나 치료를 권하지 않습니다. 몸이 불편하면 한의사·의사와 상의하세요. 마지막 업데이트 {TODAY}.</div></footer>
+<footer><div class="wrap">{SITE}은 농부와 심마니가 산야초를 직접 사고파는 <a href="https://nongmani.com/">농마니</a>가 만드는 한국 산나물·약초 정보 모음입니다. 옛 의서의 기록과 연구를 소개할 뿐 효능을 보장하거나 치료를 권하지 않습니다. 몸이 불편하면 한의사·의사와 상의하세요. 마지막 업데이트 {TODAY}.</div></footer>
 <script>if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{{}})</script>
 </body></html>"""
     dp = urllib.parse.unquote(path)
@@ -235,7 +240,7 @@ for h in HERBS:
         parts.append(f'<p class="note">지역에서 부르는 이름: {E(", ".join(lnames))}</p>')
     phs = PHOTOS.get(n, [])
     if phs:
-        parts.append('<div class="gal">' + "".join(f'<figure><img src="{E(x["file"])}" alt="{E(n)} {E(x.get("part",""))} 사진{(" — " + E(x.get("caption"))) if x.get("caption") else ""}" loading="lazy" width="400" height="300"><figcaption>{E(x.get("part",""))}{(" · " + E(x.get("caption"))) if x.get("caption") else ""} · 사진 {E(x.get("credit") or "농부와 심마니 판매자")}{(' · <a href="' + E(x["srcUrl"]) + '" rel="noopener">원본·라이선스</a>') if str(x.get("srcUrl","")).startswith("https://commons.wikimedia.org/") else ""}</figcaption></figure>' for x in phs[:12]) + '</div>')
+        parts.append('<div class="gal">' + "".join(f'<figure><img src="{E(x["file"])}" alt="{E(n)} {E(x.get("part",""))} 사진{(" — " + E(x.get("caption"))) if x.get("caption") else ""}" loading="lazy" width="400" height="300"><figcaption>{E(x.get("part",""))}{(" · " + E(x.get("caption"))) if x.get("caption") else ""} · 사진 {E(x.get("credit") or "농마니 판매자")}{(' · <a href="' + E(x["srcUrl"]) + '" rel="noopener">원본·라이선스</a>') if str(x.get("srcUrl","")).startswith("https://commons.wikimedia.org/") else ""}</figcaption></figure>' for x in phs[:12]) + '</div>')
     rv = meta_.get("review") or []
     parts.append('<div class="box trust">' + ("".join(f'<div><span class="chip ok">{E(r.get("area"))} 확인</span><b>{E(r.get("name"))}</b><span class="note">{E(r.get("title",""))} · {E(r.get("date",""))}</span></div>' for r in rv) if rv else '<span class="note">아직 전문가 검수를 받지 않은 자료입니다. 아래 출처를 함께 확인하세요.</span>') + '</div>')
     # 한 줄 요약 (AI가 인용하기 좋은 첫 문단)
@@ -277,7 +282,10 @@ for h in HERBS:
             parts.append(f'<div class="box {"bad" if bad else ""}"><h3 style="margin:0">{E(n)} vs {link_name(l.get("name",""))} <span class="chip {"hot" if bad else "gold"}">{E(l.get("danger","비슷함"))}</span></h3>{f"<p>{E(l.get(chr(104)+chr(111)+chr(119)))}</p>" if l.get("how") else ""}{f"<ul class=check>{pts}</ul>" if pts else ""}</div>')
         parts.append(srcs(i.get("lookSources")) + '<p class="note">조금이라도 애매하면 먹지 마세요. 산나물 독초 사고는 대부분 비슷해 보여서 생깁니다.</p>')
     if not ban and (idn.get("prep") or idn.get("store") or idn.get("eat") or idn.get("grade")):
-        parts.append(f'<h2>좋은 {E(n)} 고르는 법·손질·보관</h2><dl class="facts box">' + "".join(f"<dt>{lab}</dt><dd>{E(idn[k])}</dd>" for k, lab in [("grade","고르는 법"),("prep","손질"),("store","보관"),("eat","먹는 법")] if idn.get(k)) + "</dl>")
+        eat_lab = "전통적 쓰임" if h["st"] == "hanyak" else "먹는 법"
+        parts.append(f'<h2>{E(n)} {"고르는 법·손질·전통적 쓰임" if h["st"] == "hanyak" else "먹는 법·고르는 법·손질·보관"}</h2><dl class="facts box">' + "".join(f"<dt>{lab}</dt><dd>{E(idn[k])}</dd>" for k, lab in [("eat",eat_lab),("grade","고르는 법"),("prep","손질"),("store","보관")] if idn.get(k)) + "</dl>" + ('<p class="note">한약재는 한의사와 상의해서 쓰세요. 식품으로는 팔 수 없습니다.</p>' if h["st"] == "hanyak" else '<p class="note">정해진 부위와 방법(차·달임 등)으로만 드세요.</p>' if h["st"] == "limit" else ""))
+    if h["st"] in ("ok", "caution", "limit", "check"):
+        parts.append(f'<div class="buy"><div><b>산지에서 바로 받는 {E(n)}</b><div class="note">농부·심마니가 직접 올린 {E(josa(n, "을", "를"))} 농마니 장터에서 찾아보세요.</div></div><a class="go" href="{MARKET}?q={urllib.parse.quote(n)}">장터에서 {E(n)} 찾기 ›</a></div>')
     if c:
         parts.append(f'<h2>옛 의서의 기록 — {E(c.get("book","동의보감 탕액편"))}</h2>')
         if c.get("ki"): parts.append(f'<div class="box gold"><b>성질과 맛</b><div class="han" style="font-size:18px">{E(c["ki"])}</div>{E(c.get("kiKo",""))}</div>')
@@ -319,16 +327,21 @@ for h in HERBS:
     if rel:
         parts.append(f'<h2>같은 분류의 다른 {E(h["cat"])}</h2><div class="grid">' + "".join(f'<a href="{herb_path(r)}">{E(r)}</a>' for r in rel) + "</div>")
 
-    title = f'{n} 구별법·생김새·{"독성" if ban else "제철·옛 기록"} | {SITE}' if lk else f'{n} — {"독초 안내" if ban else "생김새·제철·옛 기록·최근 연구"} | {SITE}'
-    desc = (" ".join(lead) or f"{n}의 생김새, 비슷한 식물 구별법, 제철, 손질법, 동의보감 기록과 최근 연구를 정리했습니다.")[:155]
+    if ban:
+        title = f'{n}: 독초 구별법·증상 | {SITE}'
+    elif lk:
+        title = f'{n}: 생김새·{"전통적 쓰임" if h["st"] == "hanyak" else "먹는 법"}·{"비슷한 독초" if any("독" in str(l.get("danger","")) for l in lk) else "비슷한 식물"} 구별 | {SITE}'
+    else:
+        title = f'{n}: 생김새·제철·{"전통적 쓰임" if h["st"] == "hanyak" else "먹는 법"} | {SITE}'
+    desc = ((" ".join(lead) or f"{n}의 생김새, 비슷한 식물 구별법, 제철, 손질법, 동의보감 기록과 최근 연구.") + f" {SITE}")[:155]
     ld = [{"@context": "https://schema.org", "@type": "WebPage", "name": f"{n} — {SITE}", "inLanguage": "ko", "dateModified": TODAY, "url": url(herb_path(n)), "description": desc,
            "about": {"@type": "Taxon", "name": idn.get("sci") or n, "alternateName": [n] + h["alias"] + lnames, "taxonRank": "species"} if idn.get("sci") else {"@type": "Thing", "name": n, "alternateName": h["alias"] + lnames},
            "isPartOf": {"@type": "WebSite", "name": SITE, "url": BASE + "/"},
-           **({"image": [{"@type": "ImageObject", "contentUrl": url(x["file"]), "caption": f'{n} {x.get("part","")}'.strip(), "creditText": x.get("credit") or "농부와 심마니", "creator": {"@type": "Organization", "name": x.get("credit") or "농부와 심마니"}} for x in PHOTOS.get(n, [])[:6]]} if PHOTOS.get(n) else {})},
-          {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "전체 약초", "item": BASE + "/"}, {"@type": "ListItem", "position": 2, "name": n, "item": url(herb_path(n))}]}]
+           **({"image": [{"@type": "ImageObject", "contentUrl": url(x["file"]), "caption": f'{n} {x.get("part","")}'.strip(), "creditText": x.get("credit") or "농마니", "creator": {"@type": "Organization", "name": x.get("credit") or "농마니"}} for x in PHOTOS.get(n, [])[:6]]} if PHOTOS.get(n) else {})},
+          {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "산야초사전", "item": BASE + "/"}, {"@type": "ListItem", "position": 2, "name": n, "item": url(herb_path(n))}]}]
     if faq:
         ld.append({"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": q.get("q"), "acceptedAnswer": {"@type": "Answer", "text": q.get("a")}} for q in faq if q.get("q") and q.get("a")]})
-    u = page(herb_path(n), title, desc, "".join(parts), ld, index=rich(n), crumbs=[("전체 약초", "./"), (n, None)])
+    u = page(herb_path(n), title, desc, "".join(parts), ld, index=rich(n), crumbs=[("산야초사전", "./"), (n, None)])
     if u: SITEMAP.append((u, i.get("updatedAt")))
 
 # 독초 구별 가이드
@@ -346,7 +359,7 @@ if LOOK_PAIRS:
         body.append(f'<div class="box bad"><h3 style="margin:0">{link_name(n)} vs {link_name(l.get("name",""))}</h3>{f"<p>{E(l.get(chr(104)+chr(111)+chr(119)))}</p>" if l.get("how") else ""}{f"<ul>{pts}</ul>" if pts else ""}</div>')
 body.append(f'<h2>먹으면 위험한 독성 식물 {len(bans)}가지</h2><div class="grid">' + "".join(f'<a href="{herb_path(h["name"])}">{E(h["name"])}<small>{E(h["note"])}</small></a>' for h in bans) + "</div>")
 body.append('<p class="note">먹었다면 바로 119에 신고하거나 응급실로 가세요. 먹고 남은 식물을 함께 가져가면 도움이 됩니다.</p>')
-u = page("dokcho/", f"독초와 산나물 구별법 총정리 | {SITE}", "곰취와 동의나물, 산마늘과 박새처럼 헷갈리기 쉬운 산나물과 독초를 구별하는 방법을 정리했습니다.", "".join(body), [{"@context": "https://schema.org", "@type": "WebPage", "name": "독초와 산나물 구별법", "inLanguage": "ko", "dateModified": TODAY}], crumbs=[("전체 약초", "./"), ("독초 구별", None)])
+u = page("dokcho/", f"독초와 산나물 구별법 총정리 | {SITE}", "곰취와 동의나물, 산마늘과 박새처럼 헷갈리기 쉬운 산나물과 독초를 구별하는 방법을 정리했습니다.", "".join(body), [{"@context": "https://schema.org", "@type": "WebPage", "name": "독초와 산나물 구별법", "inLanguage": "ko", "dateModified": TODAY}], crumbs=[("산야초사전", "./"), ("독초 구별", None)])
 SITEMAP.append((u, None))
 
 # 제철 달력
@@ -354,22 +367,22 @@ mb = ['<h1>달마다 제철 산나물·약초</h1><p><strong>몇 월에 어떤 �
 for m in range(1, 13):
     if BY_MONTH[m]:
         mb.append(f'<h2><a href="jecheol/{m}/">{m}월 제철</a></h2><div class="grid">' + "".join(f'<a href="{herb_path(n)}">{E(n)}</a>' for n in BY_MONTH[m]) + "</div>")
-        u = page(f"jecheol/{m}/", f"{m}월 제철 산나물·약초 {len(BY_MONTH[m])}가지 | {SITE}", f"{m}월에 채취하는 산나물과 약초: " + ", ".join(BY_MONTH[m][:12]), f'<h1>{m}월 제철 산나물·약초</h1><p><strong>{m}월에 캐는 산나물·약초는 {", ".join(BY_MONTH[m])}입니다.</strong></p><div class="grid">' + "".join(f'<a href="{herb_path(n)}">{E(n)}</a>' for n in BY_MONTH[m]) + '</div><p class="note">채취 전에는 꼭 비슷한 독초와의 구별법을 확인하세요. <a href="dokcho/">독초 구별법 보기</a></p>', index=len(BY_MONTH[m]) >= 3, crumbs=[("전체 약초", "./"), ("제철 달력", "jecheol/"), (f"{m}월", None)])
+        u = page(f"jecheol/{m}/", f"{m}월 제철 산나물·약초 {len(BY_MONTH[m])}가지 | {SITE}", f"{m}월에 채취하는 산나물과 약초: " + ", ".join(BY_MONTH[m][:12]), f'<h1>{m}월 제철 산나물·약초</h1><p><strong>{m}월에 캐는 산나물·약초는 {", ".join(BY_MONTH[m])}입니다.</strong></p><div class="grid">' + "".join(f'<a href="{herb_path(n)}">{E(n)}</a>' for n in BY_MONTH[m]) + '</div><p class="note">채취 전에는 꼭 비슷한 독초와의 구별법을 확인하세요. <a href="dokcho/">독초 구별법 보기</a></p>', index=len(BY_MONTH[m]) >= 3, crumbs=[("산야초사전", "./"), ("제철 달력", "jecheol/"), (f"{m}월", None)])
         if u: SITEMAP.append((u, None))
 if len(mb) == 1: mb.append('<p class="note">제철 자료를 모으는 중입니다.</p>')
-u = page("jecheol/", f"달마다 제철 산나물·약초 달력 | {SITE}", "1월부터 12월까지 달마다 채취하는 산나물과 약초를 정리했습니다.", "".join(mb), index=any(BY_MONTH.values()), crumbs=[("전체 약초", "./"), ("제철 달력", None)])
+u = page("jecheol/", f"달마다 제철 산나물·약초 달력 | {SITE}", "1월부터 12월까지 달마다 채취하는 산나물과 약초를 정리했습니다.", "".join(mb), index=any(BY_MONTH.values()), crumbs=[("산야초사전", "./"), ("제철 달력", None)])
 if u: SITEMAP.append((u, None))
 
 # 홈 (전체 목록)
-hb = [f'<h1>한국 산나물·약초 {len(HERBS)}가지 백과</h1><p><strong>산나물과 약초의 생김새, 헷갈리는 독초와 구별하는 법, 제철과 손질법, 동의보감 같은 옛 의서의 기록과 최근 연구까지 한곳에 모았습니다.</strong></p>',
+hb = [f'<h1>농마니 산야초사전 <span class="note" style="font-size:.55em">산나물·약초 {len(HERBS)}가지</span></h1><p><strong>산나물과 약초의 생김새, 먹는 법, 헷갈리는 독초와 구별하는 법, 제철과 손질법, 동의보감 같은 옛 의서의 기록과 최근 연구까지 한곳에 모았습니다.</strong></p>',
       '<input class="search" id="q" placeholder="이름·다른 이름으로 찾기 (예: 딱주, 명이)" aria-label="약초 찾기">']
 for st in ST_ORDER:
     g = [h for h in HERBS if h["st"] == st]
     hb.append(f'<h2>{ST[st]} <span class="note">{len(g)}가지</span></h2><div class="grid">' + "".join(f'<a href="{herb_path(h["name"])}" data-k="{E(" ".join([h["name"]] + h["alias"] + local_names(h["name"])))}">{E(h["name"])}<small>{E(", ".join(h["alias"]) or h["cat"])}</small></a>' for h in g) + "</div>")
 hb.append('<script>document.getElementById("q").addEventListener("input",e=>{const q=e.target.value.trim();document.querySelectorAll(".grid a[data-k]").forEach(a=>{a.hidden=q&&!a.dataset.k.includes(q)})})</script>')
-ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE + "/", "inLanguage": "ko", "description": "한국 산나물·약초의 생김새, 독초 구별법, 제철, 옛 의서 기록, 최근 연구"},
-      {"@context": "https://schema.org", "@type": "ItemList", "name": "한국 산나물·약초 목록", "numberOfItems": len(HERBS), "itemListElement": [{"@type": "ListItem", "position": k + 1, "name": h["name"], "url": url(herb_path(h["name"]))} for k, h in enumerate(HERBS)]}]
-u = page("", f"{SITE} — 한국 산나물·약초 {len(HERBS)}가지 생김새·독초 구별법·제철", f"한국 산나물·약초 {len(HERBS)}가지의 생김새, 독초와 구별하는 법, 제철, 손질법, 동의보감 기록과 최근 연구를 정리한 백과입니다.", "".join(hb), ld)
+ld = [{"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE + "/", "inLanguage": "ko", "alternateName": ["산야초사전", "농마니 산야초 사전", "농마니 약초 백과"], "publisher": {"@type": "Organization", "name": "농마니", "url": "https://nongmani.com/"}, "description": "한국 산나물·약초의 생김새, 먹는 법, 독초 구별법, 제철, 옛 의서 기록, 최근 연구"},
+      {"@context": "https://schema.org", "@type": "ItemList", "name": "농마니 산야초사전 목록", "numberOfItems": len(HERBS), "itemListElement": [{"@type": "ListItem", "position": k + 1, "name": h["name"], "url": url(herb_path(h["name"]))} for k, h in enumerate(HERBS)]}]
+u = page("", f"{SITE} — 산나물·약초 {len(HERBS)}가지 생김새·먹는 법·독초 구별", f"농마니 산야초사전: 한국 산나물·약초 {len(HERBS)}가지의 생김새, 먹는 법, 독초와 구별하는 법, 제철, 손질법, 동의보감 기록과 최근 연구를 정리했습니다.", "".join(hb), ld)
 SITEMAP.insert(0, (u, None))
 
 # sitemap / robots / llms.txt / 404
@@ -382,11 +395,11 @@ open(os.path.join(a.out, "sitemap.xml"), "w", encoding="utf8").write(sm)
 open(os.path.join(a.out, "robots.txt"), "w", encoding="utf8").write(
     "# 검색 엔진과 AI 검색 로봇 모두 환영합니다\n" + "".join(f"User-agent: {b}\nAllow: /\n\n" for b in ["*", "Googlebot", "Google-Extended", "Bingbot", "Yeti", "Daum", "GPTBot", "OAI-SearchBot", "ChatGPT-User", "ClaudeBot", "Claude-SearchBot", "Claude-User", "PerplexityBot", "Perplexity-User"]) + f"Sitemap: {BASE}/sitemap.xml\n")
 rich_list = [h for h in HERBS if rich(h["name"])]
-llms = [f"# {SITE}", "", f"> 한국 산나물·약초 {len(HERBS)}가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 {sum(1 for h in HERBS if h["st"]=="ban")}가지는 위험 안내만 싣는다.", "",
+llms = [f"# {SITE}", "", f"> 한국 산나물·약초 {len(HERBS)}가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 산야초 사전. 효능을 보장하지 않으며 독초 {sum(1 for h in HERBS if h["st"]=="ban")}가지는 위험 안내만 싣는다.", "",
         "## 안내", f"- [전체 약초 목록]({BASE}/): 구분별 {len(HERBS)}가지", f"- [독초와 산나물 구별법]({BASE}/dokcho/): 헷갈리기 쉬운 짝과 구별 포인트", f"- [제철 달력]({BASE}/jecheol/): 달마다 채취하는 산나물·약초", "", "## 약초"]
 llms += [f"- [{h['name']}]({url(herb_path(h['name']))}): {ST[h['st']]}" + (f", 다른 이름 {', '.join(h['alias'])}" if h["alias"] else "") for h in rich_list]
 open(os.path.join(a.out, "llms.txt"), "w", encoding="utf8").write("\n".join(llms) + "\n")
-page("404.html", f"찾는 페이지가 없습니다 | {SITE}", "", '<h1>찾는 페이지가 없습니다</h1><p><a href="./">전체 약초 목록으로 가기</a></p>', index=False)
+page("404.html", f"찾는 페이지가 없습니다 | {SITE}", "", '<h1>찾는 페이지가 없습니다</h1><p><a href="./">산야초사전 첫 화면으로 가기</a></p>', index=False)
 open(os.path.join(a.out, ".nojekyll"), "w").write("")
 # 검색엔진 소유 확인 파일 등 그대로 올릴 파일 (tools/static/)
 st_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "static")
@@ -402,6 +415,6 @@ self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(ks=>Promise.
 self.addEventListener("fetch",e=>{const r=e.request;if(r.method!=="GET"||new URL(r.url).origin!==location.origin)return;
  e.respondWith(fetch(r).then(res=>{const cp=res.clone();caches.open(C).then(c=>c.put(r,cp));return res}).catch(()=>caches.match(r).then(m=>m||caches.match("./"))))});
 """)
-open(os.path.join(a.out, "manifest.webmanifest"), "w", encoding="utf8").write(json.dumps({"name": SITE, "short_name": "약초 백과", "lang": "ko", "start_url": scope, "scope": scope, "display": "standalone", "background_color": "#F4F6F1", "theme_color": "#2B5B41", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}, ensure_ascii=False))
+open(os.path.join(a.out, "manifest.webmanifest"), "w", encoding="utf8").write(json.dumps({"name": SITE, "short_name": "산야초사전", "lang": "ko", "start_url": scope, "scope": scope, "display": "standalone", "background_color": "#F4F6F1", "theme_color": "#16824A", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml"}]}, ensure_ascii=False))
 open(os.path.join(a.out, "icon.svg"), "w", encoding="utf8").write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#2B5B41"/><path d="M32 52V24" stroke="#F4E7CC" stroke-width="4" stroke-linecap="round"/><path d="M32 30c-10 0-16-7-16-16 10 0 16 6 16 16zM32 36c10 0 16-7 16-16-10 0-16 6-16 16z" fill="#E2B45E"/></svg>')
 print(f"pages: {len(HERBS)} herbs, indexed {len(SITEMAP)}, info docs {len(INFO)}, out={a.out}")

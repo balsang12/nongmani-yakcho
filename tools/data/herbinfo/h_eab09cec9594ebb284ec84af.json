@@ -1,0 +1,118 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "갓과 주름살 색을 보세요. 노란다발은 갓이 등황색~녹황색이고 주름살이 황색~녹황색이며, 개암버섯은 갓이 황갈색~적갈색이고 주름살이 황갈색~자갈색입니다. 둘이 같은 그루터기에 나기도 하니 하나라도 의심되면 먹지 마세요.",
+      "q": "개암버섯과 노란다발은 어떻게 구별하나요?"
+    },
+    {
+      "a": "가을입니다. 밤을 주울 무렵 밤나무·참나무 같은 활엽수의 죽은 나무나 그루터기에 다발로 납니다.",
+      "q": "개암버섯 제철은 언제인가요?"
+    },
+    {
+      "a": "먹고 5~10시간쯤 뒤 메스꺼움·구토·설사가 나고 마비나 시력 이상이 생길 수 있습니다. 증상이 생기면 바로 병원에 가고 남은 버섯을 가져가세요.",
+      "q": "노란다발을 먹으면 어떻게 되나요?"
+    },
+    {
+      "a": "아니요, 익혀 먹으세요. 야생 버섯은 익혀 먹는 것이 기본이며, 끓이거나 익혀도 노란다발 같은 독버섯의 독은 없어지지 않으니 종 확인이 먼저입니다.",
+      "q": "개암버섯을 날로 먹어도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "된장국이나 된장찌개에 넣어 반드시 익혀 먹는다.",
+    "eng": "Brick cap, Brick tuft",
+    "family": "독청버섯과(Strophariaceae)",
+    "grade": "",
+    "habitat": "가을에 밤나무·참나무 등 활엽수의 죽은 나무, 그루터기, 땅에 묻힌 나무에서 여러 개가 다발로 모여 난다. 한국을 비롯한 동아시아, 유럽, 북아메리카에 분포한다.",
+    "look": {
+      "fruit": "갓은 지름 3.5~8cm로, 반구형에서 편평하게 펴지며 가운데가 약간 볼록하다. 색은 황갈색~적갈색(벽돌색)이고 가장자리 쪽이 옅으며, 가장자리에 흰 솜털 같은 비늘조각이 붙는다. 주름살은 대에 붙고 촘촘하며, 처음 연한 노란색~황백색에서 황갈색~자갈색으로 변한다.",
+      "smell": "특별한 냄새는 없다.",
+      "stem": "대는 길이 5.6~11cm의 원통형으로 위쪽은 젖빛~연노랑, 아래쪽은 황토색~적갈색이다. 자라면 속이 비고 밑동에서 여러 개가 붙는다. 턱받이는 보통 없다."
+    },
+    "parts": "자실체(버섯 전체)",
+    "prep": "맹독성 노란다발과 같은 곳(활엽수 그루터기)에 다발로 나고 생김새가 비슷하므로, 한 포기씩 갓·주름살 색을 확인하고 조금이라도 의심되면 버린다. 밑동의 나무 부스러기와 흙을 떼고 씻어 반드시 익혀 먹는다. 쓴맛이 강한 것은 먹지 않는다. 외국 도감에서는 식용 여부를 두고 의견이 갈리고 맛보기만 해도 배탈이 날 수 있다고 적기도 하므로 처음 먹을 때는 조금만 먹는다.",
+    "sci": "Hypholoma lateritium (Schaeff.) P. Kumm. (이명 Hypholoma sublateritium, Naematoloma sublateritium)",
+    "season": {
+      "collect": [
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 개암버섯 (농촌진흥청 『한국의 버섯』 2004 인용)",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B0%9C%EC%95%94%EB%B2%84%EC%84%AF"
+      },
+      {
+        "title": "농촌진흥청: 노란다발·개암버섯 구별 (쿠키뉴스 2018)",
+        "url": "https://www.kukinews.com/article/view/kuk201807100274"
+      },
+      {
+        "title": "First Nature - Hypholoma lateritium (Brick Tuft)",
+        "url": "https://www.first-nature.com/fungi/hypholoma-lateritium.php"
+      },
+      {
+        "title": "MushroomExpert - Hypholoma sublateritium",
+        "url": "https://www.mushroomexpert.com/hypholoma_sublateritium.html"
+      }
+    ],
+    "store": "생것은 냉장해 빨리 먹는다.",
+    "taste": "순하거나 약간 쓴맛이 있고, 향은 뚜렷하지 않다."
+  },
+  "lookSources": [
+    {
+      "title": "농촌진흥청: 노란다발·개암버섯 구별 (쿠키뉴스 2018)",
+      "url": "https://www.kukinews.com/article/view/kuk201807100274"
+    },
+    {
+      "title": "First Nature - Hypholoma fasciculare (Sulphur Tuft)",
+      "url": "https://www.first-nature.com/fungi/hypholoma-fasciculare.php"
+    },
+    {
+      "title": "MushroomExpert - Hypholoma fasciculare",
+      "url": "https://mushroomexpert.com/fungionwood/gilled%20fungi/species%20pages/Hypholoma%20fasciculare.htm"
+    },
+    {
+      "title": "First Nature - Hypholoma lateritium (Brick Tuft)",
+      "url": "https://www.first-nature.com/fungi/hypholoma-lateritium.php"
+    },
+    {
+      "title": "산림청 보도자료(2021): 독흰갈대버섯 등 식용버섯과 닮은 독버섯 주의, 우리나라 독버섯 생태도감",
+      "url": "https://m.korea.kr/news/pressReleaseView.do?newsId=156470167"
+    },
+    {
+      "title": "국립수목원·국립원예특작과학원 독버섯 주의 당부 (YTN 2023)",
+      "url": "https://www.ytn.co.kr/_ln/0103_202309251630018514"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "Hypholoma fasciculare. 같은 속의 독버섯으로 활엽수 그루터기에 다발로 나 개암버섯과 생김새가 비슷해 중독 사고가 잦다. 먹으면 5~10시간 뒤 메스꺼움·구토·설사가 나타나고 마비나 시력 이상이 올 수 있다.",
+      "name": "노란다발",
+      "points": [
+        "노란다발 갓은 등황색~녹황색(유황빛 노랑)이고, 개암버섯 갓은 황갈색~적갈색(벽돌색)이다.",
+        "노란다발 주름살은 황색~녹황색이고 자라면 올리브색을 띠며, 개암버섯 주름살은 연노랑에서 황갈색~자갈색으로 변하고 녹색을 띠지 않는다.",
+        "노란다발은 맛이 매우 쓰다. 다만 개암버섯도 약간 쓸 수 있어 맛으로만 가리면 안 된다.",
+        "개암버섯 갓 표면에는 얇은 비늘조각이 있어 오돌토돌하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [],
+    "summary": "개암버섯에 대해서는 버섯에서 트리테르펜 성분을 분리해 하등동물(윤형동물) 실험에 쓴 연구 등 기초 연구가 있을 뿐, 효능을 다룬 사람 대상 연구는 없다. 2023~2026년 논문은 이번 조사에서 확인하지 못했다."
+  },
+  "name": "개암버섯",
+  "st": "caution",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793005462003
+}

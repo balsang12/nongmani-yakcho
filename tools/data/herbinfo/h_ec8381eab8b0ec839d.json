@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "나무(木部)",
+    "easy": [
+      "허리 아픔, 어린아이 등이 뻣뻣한 증상, 종기에 쓴다고 적었다.",
+      "살을 채우고 머리털과 이를 단단하게 하며 태아를 안정시킨다고 적었다.",
+      "도홍경은 사람들이 이것을 속단(續斷)이라 부르며 섞어 쓰지만 둘은 다른 약이라고 적었다."
+    ],
+    "han": "桑上寄生",
+    "has": true,
+    "ki": "苦，平，無毒。",
+    "kiKo": "맛은 쓰고 성질은 고르며 독이 없다.",
+    "old": "",
+    "orig": "桑上寄生 氣味：苦，平，無毒。主治：腰痛，小兒背強，癰腫，充肌膚，堅發齒，長須眉，安胎（《本經》）。集解：（弘景曰）俗呼為續斷用之，而《本經》續斷別在上品，主療不同，市人混雜無識者。（時珍曰）世俗多以雜樹上者充之，氣性不同，恐反有害也。",
+    "sources": [
+      {
+        "title": "本草綱目/木之四 桑上寄生 (위키문헌)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9C%A8%E4%B9%8B%E5%9B%9B"
+      }
+    ],
+    "verified": true,
+    "warn": "이시진은 세상에서 뽕나무가 아닌 다른 나무에 붙은 기생 식물로 대신하는 일이 많은데, 성질이 달라 오히려 해로울 수 있다고 경고했다."
+  },
+  "faq": [
+    {
+      "a": "아니요. 상기생은 식품으로 먹거나 팔 수 없는 한약재이므로 한약재로만 써야 합니다.",
+      "q": "상기생을 차로 끓여 마셔도 되나요?"
+    },
+    {
+      "a": "아닙니다. 겨우살이(Viscum)는 곡기생이라는 다른 약재이고, 상기생은 꼬리겨우살이과 Taxillus chinensis의 잎 달린 가지입니다. 잎자루가 있고 어린잎에 갈색 털이 있으면 상기생 쪽입니다.",
+      "q": "겨우살이와 상기생은 같은 약재인가요?"
+    },
+    {
+      "a": "아닙니다. 약재는 주로 뽕나무에 붙은 것을 쓰며, 기주에 따라 성분과 독성이 달라진다는 연구가 있고 본초강목도 다른 나무의 것은 해로울 수 있다고 적었습니다.",
+      "q": "어느 나무에 붙은 것이든 상관없나요?"
+    },
+    {
+      "a": "겨울부터 이듬해 봄 사이에 잎 달린 가지를 잘라 말리거나 쪄서 말립니다.",
+      "q": "언제 거두나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Taxilli Herba (Chinese taxillus herb)",
+    "family": "꼬리겨우살이과(Loranthaceae)",
+    "grade": "",
+    "habitat": "다른 나무 가지에 붙어 사는 반기생 떨기나무로, 중국 남부·남서부(광시·푸젠·타이완·윈난·광둥 등)와 동남아시아의 해발 20~400m 평지·낮은 산 상록활엽수림에 자란다. 약재는 주로 뽕나무(Morus alba)에 붙은 것을 쓴다. 국내 자생 기록은 이번 조사에서 확인하지 못했다.",
+    "look": {
+      "fruit": "열매는 타원형이고 노란빛 초록색이며 겉이 오돌토돌하다.",
+      "leaf": "잎은 가죽질의 달걀형~타원형으로 길이 3~8cm, 너비 2~5cm이고 짧은 잎자루가 있으며 가장자리가 밋밋하다. 어린잎에는 갈색 잔털(별모양 털)이 있고, 가운데 맥 하나가 뚜렷하다.",
+      "smell": "냄새는 거의 없다.",
+      "stem": "약재 줄기는 원기둥 모양으로 지름 2~15mm, 적갈색이나 회갈색이며 가는 세로줄과 작게 도드라진 갈색 껍질눈이 많다. 단단해 잘 부러지지 않고, 자른 면의 심은 대개 가운데에 있다."
+    },
+    "parts": "약재로 쓰는 부위: 잎이 달린 줄기가지(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 붙어 자란 나무(기주)에 따라 성분과 독성이 달라져, 협죽도 등 일부 기주에서 난 것은 동물 실험에서 간 손상이 보고되었다.",
+    "sci": "Taxillus chinensis (DC.) Danser",
+    "season": {
+      "collect": [
+        12,
+        1,
+        2,
+        3
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Hong Kong Chinese Materia Medica Standards Vol.3 - Herba Taxilli",
+        "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Herba_Taxilli_v3_e.pdf"
+      },
+      {
+        "title": "Qin 외(2022) Taxillus chinensis (DC.) Danser: a comprehensive review on botany, traditional uses, phytochemistry, pharmacology, and toxicology, Chinese Medicine 17:136",
+        "url": "https://doi.org/10.1186/s13020-022-00694-5"
+      },
+      {
+        "title": "CMRO 혼동하기 쉬운 중약 감별 - Herba Taxilli vs Herba Visci",
+        "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/023_HT_vs_HV_en.pdf"
+      }
+    ],
+    "store": "충분히 말려 습기를 피해 통풍이 잘되는 서늘한 곳에 밀폐해 보관한다.",
+    "taste": "맛은 담담하고 약간 떫다."
+  },
+  "lookSources": [
+    {
+      "title": "CMRO 혼동하기 쉬운 중약 감별 - Herba Taxilli vs Herba Visci",
+      "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/ech_search/023_HT_vs_HV_en.pdf"
+    },
+    {
+      "title": "Hong Kong Chinese Materia Medica Standards Vol.3 - Herba Taxilli",
+      "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Herba_Taxilli_v3_e.pdf"
+    },
+    {
+      "title": "Qin 외(2022) Taxillus chinensis (DC.) Danser: a comprehensive review on botany, traditional uses, phytochemistry, pharmacology, and toxicology, Chinese Medicine 17:136",
+      "url": "https://doi.org/10.1186/s13020-022-00694-5"
+    },
+    {
+      "title": "위키백과 - 참나무겨우살이",
+      "url": "https://ko.wikipedia.org/wiki/%EC%B0%B8%EB%82%98%EB%AC%B4%EA%B2%A8%EC%9A%B0%EC%82%B4%EC%9D%B4"
+    },
+    {
+      "title": "식약처 웹진(2019.3) 의약품용 한약재 수입 단계 안전관리",
+      "url": "https://www.mfds.go.kr/webzine/201903/sub06.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Viscum coloratum (= Viscum album var. coloratum). 약재로는 곡기생(槲寄生)이라 부르는 다른 약재로, 시장에서 상기생과 섞여 품질 문제가 생기는 일이 있다.",
+      "name": "겨우살이",
+      "points": [
+        "겨우살이 줄기는 황갈색에 세로 주름이 뚜렷하고 마디가 부풀며 잘 부러진다. 상기생 줄기는 적갈색·회갈색에 갈색 껍질눈이 많고 단단하다.",
+        "겨우살이 잎은 자루가 없는 긴 타원상 피침형이고 털이 없다. 상기생 잎은 자루가 있는 달걀형·타원형이고 어린잎에 갈색 털이 있다.",
+        "겨우살이 잎은 굵은 맥이 5줄(가운데 3줄이 뚜렷)이고, 상기생은 가운데 맥 하나가 뚜렷하다.",
+        "자른 면의 심이 한쪽으로 치우쳐 있으면 겨우살이, 대개 가운데에 있으면 상기생이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Taxillus yadoriki. 상기생과 같은 참나무겨우살이속의 국내 식물로, 제주도의 구실잣나무·동백나무·후박나무 등 늘푸른나무에 붙어 자란다.",
+      "name": "참나무겨우살이",
+      "points": [
+        "잎 뒷면에 적갈색 털이 빽빽하고, 잎 길이는 3~6cm다.",
+        "제주도에서만 자라므로, 국내 산에서 딴 기생 식물을 상기생이라 하는 경우 기원식물을 확인해야 한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "상기생은 비슷한 꼬리겨우살이과 식물(Scurrula parasitica, Taxillus balansae 등)과 혼동되기 쉽고, 기주에 따라 독성이 다르다는 보고가 있다.",
+      "name": "수입 상기생",
+      "points": [
+        "포장의 원산지와 수입·판매업체 표시를 확인한다.",
+        "본초강목도 다른 나무에 붙은 기생 식물로 대신 파는 일이 많고 성질이 달라 해로울 수 있다고 경고했다.",
+        "의약품용 수입 한약재는 수입 단계에서 관능·유해물질 검사를 받으므로, 의약품용 한약재 유통 경로로 구한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "상기생 추출물과 성분 하나(4-indolecarbaldehyde)가 시험관에서 세균 막 투과성을 높여 항균 작용을 보였다고 보고했다.",
+        "title": "Antibacterial Activity and Mechanism of Taxillus chinensis (DC.) Danser and Its Active Ingredients",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms251910246",
+        "year": "2024"
+      }
+    ],
+    "summary": "상기생은 플라보노이드 등 성분의 항균·항염 작용과, 붙어 자란 나무에 따라 성분과 간 독성이 달라지는 문제가 주로 세포·동물 실험 수준에서 연구되고 있다. 최근 3년 안의 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "상기생",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793048842816
+}

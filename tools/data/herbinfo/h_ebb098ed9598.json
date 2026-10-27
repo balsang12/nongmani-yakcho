@@ -1,0 +1,221 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [],
+    "han": "半夏",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "동의보감(東醫寶鑑) 탕액편 권03 (한국한의학연구원 한의고전명저총서)",
+        "url": "https://mediclassics.kr/books/8/volume/22"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "안 됩니다. 반하는 식품으로 먹거나 팔 수 없는 한약재이고, 날것은 입과 목을 심하게 자극합니다. 맛을 보려고 씹지도 마세요.",
+      "q": "반하를 캐서 먹어도 되나요?"
+    },
+    {
+      "a": "덩이줄기 속의 옥살산칼슘 바늘 모양 결정과 그에 붙은 단백질이 입안과 목 점막을 찌르고 자극하기 때문입니다. 그래서 한방에서는 생강 등으로 법제한 것을 씁니다.",
+      "q": "날반하를 씹으면 왜 입이 아린가요?"
+    },
+    {
+      "a": "덩이줄기 크기와 모양으로 봅니다. 반하는 지름 1~1.5cm의 공 모양이고 위쪽 가운데가 오목하며, 천남성은 지름 2~2.5cm로 더 크고 조금 납작합니다. 썬 것이나 가루는 구별이 어려우니 출처가 분명한 한약재만 구하세요.",
+      "q": "반하와 천남성은 어떻게 구별하나요?"
+    },
+    {
+      "a": "작은잎 3장짜리 잎이 뿌리에서 바로 올라오고, 잎자루나 잎 밑에 작은 알눈이 달려 있으며, 5~7월에 녹색 불염포에서 가늘고 긴 꼬리가 위로 뻗어 나옵니다. 약재로 오인해 캐 먹지 마세요.",
+      "q": "밭에 난 반하는 어떻게 알아보나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Crow-dipper",
+    "family": "천남성과(Araceae)",
+    "grade": "",
+    "habitat": "전국의 밭과 들에 흔히 자라는 여러해살이풀로, 밭의 잡초로 나는 경우가 많다. 중국·일본에도 분포하며 풀밭·이차림·묵은 땅·경작지에서 자란다.",
+    "look": {
+      "flower": "5~7월에 길이 5~7cm인 녹색(드물게 자줏빛) 불염포가 꽃차례를 감싼다. 꽃차례 끝에 길이 6~8cm의 가늘고 긴 꼬리 같은 부속체가 위로 뻗어 나온다.",
+      "fruit": "7~9월에 씨가 하나 든 달걀 모양 장과가 노란빛 도는 녹색~흰색으로 익는다.",
+      "leaf": "뿌리에서 긴 잎자루(15~20cm)가 2~5개 올라오고, 잎몸은 길쭉한 작은잎 3장으로 갈라진다(가끔 5장). 잎자루 중간이나 잎몸 밑부분에 작은 알눈(주아)이 달리는 것이 특징이다.",
+      "root": "땅속에 지름 1~2cm의 둥근 덩이줄기가 있다. 말린 약재는 흰색~엷은 노란색 공 모양으로, 위쪽 가운데 오목한 줄기 자국 둘레에 갈색 점 같은 뿌리 자국이 촘촘하다.",
+      "smell": "냄새는 거의 없다.",
+      "stem": "땅위줄기 없이 꽃줄기만 25~35cm 높이로 올라온다."
+    },
+    "parts": "약재로 쓰는 부위: 겉껍질과 수염뿌리를 벗겨 말린 덩이줄기(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 날것은 옥살산칼슘과 단백질로 된 바늘 모양 결정(침상결정) 때문에 입안과 목 점막을 심하게 자극하므로 절대 날로 씹거나 맛보지 않는다. 한방에서는 생강·백반 등으로 법제(가공)해 독성을 줄인 것을 쓰며, 날것을 먹는 것은 신중해야 한다고 적는다. 오두·초오·부자와 함께 쓰지 않는다고 알려져 있고, 임신 중에는 주의한다.",
+    "sci": "Pinellia ternata (Thunb.) Breitenb.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        5,
+        6,
+        7
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 반하",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B0%98%ED%95%98"
+      },
+      {
+        "title": "CATE Araceae - Pinellia ternata",
+        "url": "https://cate-araceae.myspecies.info/taxonomy/term/2737/descriptions"
+      },
+      {
+        "title": "Flora of China - Pinellia",
+        "url": "https://www.iplant.cn/foc/pdf/Pinellia.pdf"
+      },
+      {
+        "title": "5000yan - Banxia (Pinellia Rhizome)",
+        "url": "https://en.5000yan.com/chinese-herbs/roots-rhizomes/pinellia-rhizome.html"
+      },
+      {
+        "title": "Fueki T 외(2022) Oxalic acid in ginger specifically denatures the acrid raphides in the unprocessed dried tuber of Pinellia ternata, Acupuncture and Herbal Medicine 2(1)",
+        "url": "https://journal.hep.com.cn/ahm/EN/Y2022/V2/I1/33"
+      },
+      {
+        "title": "홍콩이공대학교 중약 자료 - Pinellia Tuber (半夏)",
+        "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/pinella-tuber"
+      }
+    ],
+    "store": "충분히 말려 습기와 벌레를 피해 서늘하고 건조한 곳에 밀폐해 보관한다. 어린이 손에 닿지 않게 둔다.",
+    "taste": "맵고, 날것을 씹으면 혀가 저리고 목이 따갑다."
+  },
+  "lookSources": [
+    {
+      "title": "최영성 외(2007) 반하, 수반하 및 천남성의 형태 감별에 관한 연구, 대한본초학회지 22(2)",
+      "url": "https://www.koreascience.or.kr/article/JAKO200736038278244.page?lang=ko"
+    },
+    {
+      "title": "조지은 외(2013) HPLC-PDA를 이용한 반하, 호장남성, 수반하의 분류 및 함량분석, 대한본초학회지 28(5)",
+      "url": "https://www.koreascience.or.kr/article/JAKO201330258585108.pdf"
+    },
+    {
+      "title": "김홍준 외(2002) 형태적 특징과 유전자분석을 통한 반하 감별 연구, 한국한의학연구원논문집 8(1)",
+      "url": "https://koreascience.or.kr/article/JAKO200203041595223.page"
+    },
+    {
+      "title": "Flora of China - Pinellia",
+      "url": "https://www.iplant.cn/foc/pdf/Pinellia.pdf"
+    },
+    {
+      "title": "5000yan - Shuibanxia (Typhonium flagelliforme)",
+      "url": "https://en.5000yan.com/chinese-herbs/roots-rhizomes/shuibanxia.html"
+    },
+    {
+      "title": "botanic.jp - 大半夏(Pinellia tripartita)",
+      "url": "https://botanic.jp/plants-aa/oohang.htm"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "Arisaema 속(천남성과). 같은 천남성과로 덩이줄기 속 조직(전분·점액세포·침상결정)이 반하와 비슷해 조직만으로는 구별이 어렵다. 독성이 강한 독초다.",
+      "name": "천남성",
+      "points": [
+        "반하 덩이줄기는 거의 공 모양에 지름 1~1.5cm이고, 천남성은 조금 납작한 원형에 지름 2~2.5cm로 더 크다.",
+        "반하는 위쪽 가운데가 오목하고 그 둘레에 곰보 같은 뿌리 자국이 있다. 천남성은 위쪽에 덜 자란 곁눈 자국과 뿌리 자국이 있다.",
+        "썰거나 가루로 만든 것은 눈으로 구별하기 어려우므로, 원형 그대로이거나 출처가 분명한 한약재만 구한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Typhonium flagelliforme(천남성과)의 덩이줄기. 반하와 생김새가 비슷해 반하 위품으로 시장에 섞이는 것으로 보고됐다. 이것도 혀가 저리고 목을 자극하는 매운맛이 있다.",
+      "name": "수반하",
+      "points": [
+        "반하는 거의 공 모양이고, 수반하는 타원형~원뿔 모양으로 세로로 길쭉하다(지름 0.5~1.5cm, 높이 0.8~3cm).",
+        "반하는 위쪽 가운데가 오목하지만, 수반하는 위쪽이 둥글게 솟고 아래쪽 끝이 뾰족한 편이다.",
+        "포장의 약재명과 원산지·기원식물 표시를 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Pinellia pedatisecta(천남성과)의 덩이줄기. 반하 위품으로 시장에 섞여 유통되는 것으로 보고됐다. 덩이줄기에 독이 있다.",
+      "name": "호장남성",
+      "points": [
+        "호장남성 잎은 늘 새발 모양으로 6~11장의 작은잎으로 갈라지고, 반하는 3장(가끔 5장)이다.",
+        "호장남성 덩이줄기는 지름 4cm까지 크고 둘레에 작은 혹 같은 덩이가 붙어 있다.",
+        "호장남성에는 반하 같은 알눈(주아)이 없다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Pinellia tripartita(천남성과). 반하와 같은 속으로 잎과 꽃이 비슷하며, 한국·일본에 자란다. 반하 약재의 기원식물이 아니다.",
+      "name": "대반하",
+      "points": [
+        "대반하는 잎자루와 잎몸에 알눈(주아)이 달리지 않는다. 반하는 알눈이 있다.",
+        "대반하 잎은 작은잎이 따로 떨어지지 않고 한 장이 세 갈래로 깊게 갈라진 모양이다.",
+        "대반하 덩이줄기는 지름 2.5cm 안팎으로 반하보다 조금 크다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Toxicology and Applied Pharmacology",
+        "note": "반하 렉틴이 면역세포에 들어가 미토콘드리아 손상과 염증 반응을 일으킬 수 있다고 보고한 독성 연구다.",
+        "title": "Pinellia ternata lectin induces mitochondrial damage and inflammation in RAW264.7 cells via mannose receptor-mediated endocytosis",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.taap.2026.117970",
+        "year": "2026"
+      },
+      {
+        "journal": "Medicine (Baltimore)",
+        "note": "2004~2025년 반하 연구 동향을 문헌 계량 방법으로 정리한 리뷰다.",
+        "title": "Visual analysis of research status and hotspots of Pinellia ternata from 2004 to 2025: A bibliometric review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1097/md.0000000000049572",
+        "year": "2026"
+      },
+      {
+        "journal": "Phytochemical Analysis",
+        "note": "날반하와 법제반하의 다당류 차이와 면역세포 반응을 비교한 실험 연구다.",
+        "title": "Polysaccharides as the Key Differentiator in Raw and Processed Pinellia ternata Tubers: Immunostimulatory Effects and Mechanism of Action",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1002/pca.70032",
+        "year": "2026"
+      },
+      {
+        "journal": "Phytomedicine",
+        "note": "백반으로 법제한 반하의 맛 지표 성분을 기기 분석과 전자혀로 찾으려 한 품질 연구다.",
+        "title": "An effective strategy for exploring the taste markers in alum-processed Pinellia ternata tuber based on the analysis of substance and taste by LC-MS and electronic tongue",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.phymed.2025.156509",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 날반하의 매운 자극 원인인 침상결정과 그 안의 반하 렉틴, 그리고 법제 전후 성분 차이를 밝히는 데 집중돼 있다. 이번에 확인한 2023~2026년 논문은 세포 실험과 성분 분석, 문헌 계량 분석 수준이며, 사람 대상 임상 근거는 확인하지 못했다."
+  },
+  "name": "반하",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "홍콩이공대학교 중약 자료 - Pinellia Tuber (半夏)",
+        "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/pinella-tuber"
+      },
+      {
+        "title": "5000yan - Banxia (Pinellia Rhizome)",
+        "url": "https://en.5000yan.com/chinese-herbs/roots-rhizomes/pinellia-rhizome.html"
+      }
+    ],
+    "text": "한의학 자료에서 반하는 맛이 맵고 성질이 따뜻하며 독이 있는 약으로 분류된다. 생강으로 법제한 것과 백반 등으로 법제한 것을 나누어 쓰고, 날것은 주로 겉에 바르는 데만 쓴다고 적는다. 오두·초오·부자 계열 약재와 함께 쓰지 않는다고 한다."
+  },
+  "updatedAt": 1793048842816
+}

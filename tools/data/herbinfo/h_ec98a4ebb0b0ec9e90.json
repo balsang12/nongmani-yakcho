@@ -1,0 +1,162 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "과일(果部) 鹽麩子 항목 안의 언급 (五倍子 본 항목은 蟲部)",
+    "easy": [
+      "붉나무(鹽麩子) 잎 위에 벌레가 있어 오배자가 맺히며, 음력 8월에 거둔다고 적었다.",
+      "오배자의 자세한 내용은 벌레 부(蟲部)에 따로 실었다고 밝혔다.",
+      "붉나무 열매와 오배자는 먼저 신장과 간으로 가서 물(水)의 기운을 돕는다고 적었다."
+    ],
+    "han": "五倍子",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "鹽麩子 集解：葉上有蟲，結成五倍子，八月取之。詳見蟲部。發明：鹽麩、五倍先走腎、肝，有救水之功。",
+    "sources": [
+      {
+        "title": "本草綱目/果之四 鹽麩子 (위키문헌)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E5%9B%9B"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 붉나무 잎에 진딧물(오배자면충)이 기생해 생긴 벌레혹입니다.",
+      "q": "오배자는 열매인가요?"
+    },
+    {
+      "a": "아니요. 오배자는 식품으로 먹거나 팔 수 없는 한약재이므로, 한약재로만 써야 합니다.",
+      "q": "오배자를 차나 음식으로 먹어도 되나요?"
+    },
+    {
+      "a": "국내 조사에서는 6월부터 생기기 시작해 9월 초에 다 자랐고, 9월 하순부터 속의 진딧물이 빠져나왔습니다.",
+      "q": "오배자는 언제 생기나요?"
+    },
+    {
+      "a": "붉나무는 작은잎 가장자리에 톱니가 있고 작은잎 사이 잎줄기에 날개가 있습니다. 개옻나무는 옻독이 있으니, 확실히 모르면 만지지 마세요.",
+      "q": "붉나무와 개옻나무는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Chinese gall, Galla Rhois",
+    "family": "기주식물 붉나무: 옻나무과(Anacardiaceae)",
+    "grade": "",
+    "habitat": "붉나무가 자라는 한국·일본·중국의 산과 들에서 붉나무 잎에 진딧물의 일종인 오배자면충이 기생해 생긴다. 국내 조사에서는 벌레혹의 절반 이상이 겹잎의 작은잎 사이 날개 부분에 붙어 있었다. 중국에서는 붉나무 외에 다른 Rhus 속 나무에서도 오배자를 얻는다.",
+    "look": {
+      "flower": "붉나무 꽃은 8~9월에 노르스름한 흰색으로 피며, 암수딴그루다.",
+      "fruit": "오배자는 붉나무 잎의 날개 부분에 생기는 벌레혹으로, 6월부터 생기기 시작해 8월 중순 이후 빠르게 커지고 9월 초에 다 자란다. 속에는 진딧물이 들어 있다가 9월 하순부터 날개 달린 진딧물이 밖으로 빠져나온다.",
+      "leaf": "기주식물 붉나무는 작은잎 7~13장이 달린 겹잎이고, 작은잎 가장자리에 톱니가 있으며 작은잎 사이 잎줄기에 날개가 붙어 있다. 가을 단풍이 유난히 붉다."
+    },
+    "parts": "약재로 쓰는 부위: 붉나무 잎에 생긴 벌레혹(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 타닌 함량이 매우 높아 떫은맛이 강하다.",
+    "sci": "Rhus javanica L. (붉나무)에 오배자면충(Schlechtendalia chinensis)이 만든 벌레혹",
+    "season": {
+      "collect": [
+        9
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "이원구 외(1999) 오배자면충의 충영 내 생태, 한국생태학회지 22(5)",
+        "url": "https://koreascience.or.kr/article/JAKO199911922413200.page"
+      },
+      {
+        "title": "위키백과 - 붉나무",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B6%89%EB%82%98%EB%AC%B4"
+      },
+      {
+        "title": "홍콩이공대학교 중약 자료 - Chinese Gall (五倍子)",
+        "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-gall"
+      }
+    ],
+    "store": "충분히 말려 습기를 피해 밀폐해 보관한다.",
+    "taste": "떫고 신맛이 강하다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - Toxicodendron trichocarpum (개옻나무)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5027"
+    },
+    {
+      "title": "위키백과 - 붉나무",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B6%89%EB%82%98%EB%AC%B4"
+    },
+    {
+      "title": "홍콩이공대학교 중약 자료 - Chinese Gall (五倍子)",
+      "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-gall"
+    },
+    {
+      "title": "식약처 웹진(2019.3) 의약품용 한약재 수입 단계 안전관리",
+      "url": "https://www.mfds.go.kr/webzine/201903/sub06.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "Toxicodendron trichocarpum. 붉나무처럼 깃꼴겹잎에 가을 단풍이 붉어 산에서 오배자를 따려다 헷갈리기 쉽다. 옻 성분이 있어 만지면 피부염(옻독)이 생길 수 있다.",
+      "name": "개옻나무",
+      "points": [
+        "붉나무는 작은잎 가장자리에 톱니가 있고 작은잎 사이 잎줄기에 날개가 있다. 개옻나무 작은잎은 가장자리가 밋밋하거나 톱니가 2~3개뿐이다.",
+        "개옻나무는 가지를 자르면 진(유액)이 나온다.",
+        "개옻나무 열매는 납작하고 둥근 연한 갈색이며 털이 있다. 붉나무 열매는 둥글고 노란빛을 띤 붉은색이며 짠맛 나는 흰 가루가 덮여 있다.",
+        "오배자 벌레혹은 붉나무 잎에 생기므로, 나무를 확실히 모르면 손대지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Rhus javanica. 오배자가 생기는 나무 자체로, 잎·열매·껍질은 오배자와 다른 것이다.",
+      "name": "붉나무",
+      "points": [
+        "오배자는 붉나무 잎에 생긴 벌레혹이고, 붉나무 열매는 지름이 작은 둥근 열매로 흰 가루가 덮여 있다.",
+        "벌레혹이 아닌 붉나무 잎·가지·열매를 오배자라며 파는 경우가 없는지 확인한다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "중국에서는 붉나무(Rhus chinensis) 외에 Rhus potaninii 등 다른 Rhus 속 나무 잎의 벌레혹도 오배자로 쓴다. 말린 상태로는 국산과 구별하기 어렵다.",
+      "name": "중국산 수입 오배자",
+      "points": [
+        "포장의 원산지와 수입·판매업체 표시를 확인한다.",
+        "의약품용 수입 한약재는 수입 단계에서 중금속·잔류농약 등 검사를 받으므로, 출처가 분명한 한약재 유통 경로로 구한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Clinical Oral Investigations",
+        "note": "세포와 생쥐 충치 모델에서 오배자가 충치균 증식과 염증 지표를 낮추는 변화를 보였다고 보고했다.",
+        "title": "MALAT1/miR-181b axis mediates the anti-bacterial and anti-inflammatory effects of Galla chinensis in the progression of dental caries",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1007/s00784-025-06535-7",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Microbiology",
+        "note": "생쥐에서 오배자 유래 성분이 진통제 과량으로 생긴 간 손상 지표와 장내 미생물 구성에 미치는 영향을 살폈다.",
+        "title": "Galla chinensis alleviated liver damage induced by acetaminophen by regulating intestinal microbiota",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fmicb.2025.1589946",
+        "year": "2025"
+      }
+    ],
+    "summary": "오배자는 가수분해형 타닌(갈로타닌) 함량이 매우 높아, 추출물의 항균·충치균 억제 작용 등이 연구되고 있다. 최근 연구는 세포·동물 실험 수준이며, 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "오배자",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793005462003
+}

@@ -1,0 +1,136 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아니요, 날로 먹으면 안 됩니다. 생으로 먹으면 위장 장애를 일으킬 수 있어 반드시 충분히 익혀 먹어야 합니다.",
+      "q": "갓버섯(큰갓버섯)을 날로 먹어도 되나요?"
+    },
+    {
+      "a": "독흰갈대버섯은 문지르거나 상처를 내면 붉은 갈색으로 변하고, 큰갓버섯은 대에 뱀 껍질 같은 갈색 무늬와 위아래로 움직이는 두 겹 턱받이가 있습니다. 하지만 두 버섯이 같은 풀밭에 섞여 나고 전문가도 헷갈리므로, 확실하지 않으면 먹지 마세요.",
+      "q": "큰갓버섯과 독흰갈대버섯은 어떻게 구별하나요?"
+    },
+    {
+      "a": "심한 구토·설사·복통이 생기고, 국내에서는 급성 간부전으로 간이식을 받은 사례도 보고됐습니다. 야생 버섯을 먹고 증상이 생기면 바로 병원에 가고 남은 버섯을 가져가세요.",
+      "q": "독흰갈대버섯을 먹으면 어떻게 되나요?"
+    },
+    {
+      "a": "먹지 마세요. 갓 지름이 몇 cm 정도인 작은 갓버섯류(솜갓버섯, 밤색갓버섯 등)에는 아마톡신을 가진 맹독종이 있습니다.",
+      "q": "작은 갓버섯도 먹을 수 있나요?"
+    }
+  ],
+  "id": {
+    "eat": "날것으로 먹으면 탈이 나므로 반드시 익혀 먹으며, 구이나 볶음으로 조리한다.",
+    "eng": "Parasol mushroom",
+    "family": "주름버섯과(Agaricaceae)",
+    "grade": "",
+    "habitat": "늦여름~가을에 탁 트인 풀밭, 숲 가장자리, 산길가 땅 위에 하나씩 또는 흩어져 난다. 국내 표본 재검토 연구(2019)에서 전국에 분포하는 것으로 확인됐다. 맹독성 독흰갈대버섯과 같은 곳에서 섞여 나기도 한다.",
+    "look": {
+      "fruit": "갓은 지름 10~20cm로 크다. 어릴 때는 달걀 모양이었다가 우산처럼 펴지며 가운데가 볼록하고 진한 갈색이다. 흰 바탕 표면이 갈라져 갈색 비늘조각이 흩어진다. 주름살은 대에서 떨어져 있고 촘촘하며, 흰색에서 연한 크림색이 된다.",
+      "stem": "대는 길이 16~28cm로 가늘고 길며, 밑동은 둥글게 부푼다. 표면에 갈색 비늘이 뱀 껍질 같은 얼룩무늬를 이룬다. 위쪽에 두 겹으로 된 큰 턱받이가 있는데, 다 자라면 대를 따라 위아래로 움직인다."
+    },
+    "parts": "자실체(주로 갓, 대는 질겨서 잘 쓰지 않음)",
+    "prep": "날로 먹으면 안 된다. 생으로 먹으면 위장 장애를 일으킬 수 있으므로 반드시 충분히 익혀 먹는다. 질긴 대는 떼고 갓만 흙을 털어 손질한다. 맹독성 독흰갈대버섯과 겉모습이 비슷하고 같은 곳에 섞여 나므로, 전문가가 확인하지 않은 야생 갓버섯은 먹지 않는다.",
+    "sci": "Macrolepiota procera (Scop.) Singer",
+    "season": {
+      "collect": [
+        8,
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Cho et al.(2019) Macrolepiota in Korea: New Records and a New Species, Mycobiology 47(4)",
+        "url": "https://doi.org/10.1080/12298093.2019.1663122"
+      },
+      {
+        "title": "위키백과 - 큰갓버섯",
+        "url": "https://ko.wikipedia.org/wiki/%ED%81%B0%EA%B0%93%EB%B2%84%EC%84%AF"
+      },
+      {
+        "title": "MushroomExpert - Macrolepiota procera (형태 참고)",
+        "url": "https://www.mushroomexpert.com/macrolepiota_procera.html"
+      },
+      {
+        "title": "Heavy Metals and Associated Risks of Wild Edible Mushrooms Consumption, Journal of Fungi 10(12) (2024)",
+        "url": "https://doi.org/10.3390/jof10120844"
+      }
+    ],
+    "store": "살이 물러 쉽게 상하므로 냉장해 빨리 먹는다.",
+    "taste": "익혀 먹으면 맛이 좋다."
+  },
+  "lookSources": [
+    {
+      "title": "김소연 외(2018) Mushroom Poisoning by Macrolepiota neomastoidea, 대한소화기학회지 71(2)",
+      "url": "https://doi.org/10.4166/kjg.2018.71.2.94"
+    },
+    {
+      "title": "Cho et al.(2019) Macrolepiota in Korea: New Records and a New Species, Mycobiology 47(4)",
+      "url": "https://doi.org/10.1080/12298093.2019.1663122"
+    },
+    {
+      "title": "제주 공원 잔디밭 흰갈대버섯 군락, 큰갓버섯과 혼동 주의 (YTN 2025)",
+      "url": "https://www.ytn.co.kr/_ln/0103_202509161033421894"
+    },
+    {
+      "title": "한라산국립공원관리사무소 독버섯 주의보: 큰갓버섯과 독버섯 혼생 (경향신문 2015)",
+      "url": "https://khan.co.kr/article/201509151611541"
+    },
+    {
+      "title": "산림청 보도자료(2021): 독흰갈대버섯 등 식용버섯과 닮은 독버섯 주의, 우리나라 독버섯 생태도감",
+      "url": "https://m.korea.kr/news/pressReleaseView.do?newsId=156470167"
+    },
+    {
+      "title": "국립수목원 『우리나라 독버섯 생태도감』(2021) 솜갓버섯 항목 (인하대 DSpace 게시)",
+      "url": "https://data.inu.ac.kr/items/ee8ec3b7-76ed-46e1-8e78-cb98fd626bba/full"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "Chlorophyllum neomastoideum(이명 Macrolepiota neomastoidea). 큰갓버섯과 생김새가 비슷하고 같은 곳에 섞여 난다. 국내에서 큰갓버섯으로 잘못 알고 먹은 가족이 심한 위장 증상을 보이고 한 명은 급성 간부전으로 간이식을 받은 사례가 있다.",
+      "name": "독흰갈대버섯",
+      "points": [
+        "독흰갈대버섯은 버섯을 문지르거나 상처를 내면 붉은 갈색으로 변한다.",
+        "큰갓버섯의 갓 비늘은 초콜릿 같은 갈색이고, 대에 갈색 비늘이 뱀 껍질 같은 얼룩무늬를 이룬다.",
+        "큰갓버섯의 턱받이는 두 겹으로 크고 다 자라면 대를 따라 위아래로 움직인다.",
+        "두 버섯이 같은 풀밭에 함께 나므로 한 곳에서 땄다고 안심하지 말고, 의심되면 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "Lepiota clypeolaria. 같은 갓버섯 무리로, 갈색 비늘이 덮인 갓과 턱받이가 있어 어린 큰갓버섯과 헷갈릴 수 있다. 아마톡신 중독을 일으킨다고 국립수목원 독버섯 도감에 실려 있다.",
+      "name": "솜갓버섯",
+      "points": [
+        "솜갓버섯은 갓 지름 4~7cm로 큰갓버섯(10~20cm)보다 훨씬 작다.",
+        "솜갓버섯의 대는 턱받이 아래가 솜털처럼 보송보송하고, 턱받이는 일찍 떨어진다.",
+        "작은 갓버섯류는 맹독종이 많으니 크기가 작은 '갓버섯'은 절대 먹지 않는다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Journal of Fungi",
+        "note": "루마니아 6곳에서 모은 야생 식용버섯과 흙의 중금속을 재어 보니 큰갓버섯이 카드뮴·크롬을 상대적으로 많이 모아 주의가 필요하다고 보았다.",
+        "title": "Heavy Metals and Associated Risks of Wild Edible Mushrooms Consumption: Transfer Factor, Carcinogenic Risk, and Health Risk Index",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/jof10120844",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 연구는 주로 야생 큰갓버섯의 영양 성분과 중금속 축적을 다룬다. 2024년 루마니아 조사에서는 야생 식용버섯 6종 가운데 큰갓버섯이 흙에 비해 카드뮴·크롬을 많이 모으는 편이라 섭취 위험 요인으로 지적됐다. 효능에 관한 사람 대상 연구는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "갓버섯",
+  "st": "caution",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793005462003
+}

@@ -1,0 +1,161 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아니요. 우리나라에서 여정실은 식품으로 먹거나 팔 수 없는 한약재이므로 한약재로만 써야 합니다.",
+      "q": "여정실(광나무 열매)을 차나 술로 먹어도 되나요?"
+    },
+    {
+      "a": "아닙니다. 여정실은 광나무·당광나무 열매이고, 쥐똥나무 열매는 비슷하게 생긴 다른 나무의 열매로 위품으로 섞인 사례가 보고되었습니다. 나무가 늘푸른지, 잎자루가 긴지 확인하세요.",
+      "q": "쥐똥나무 열매와 여정실은 같은 건가요?"
+    },
+    {
+      "a": "광나무는 겨울에도 두껍고 윤기 나는 잎이 붙어 있고 잎자루가 5~12mm입니다. 쥐똥나무는 잎이 얇아 가을에 지고 잎자루가 1~2mm로 매우 짧습니다.",
+      "q": "광나무와 쥐똥나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "열매가 검은 자주색으로 잘 익은 늦가을~겨울에 거둡니다. 광나무 열매는 10월 무렵부터 익습니다.",
+      "q": "여정실은 언제 거두나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Ligustrum fruit (Ligustri Lucidi Fructus)",
+    "family": "물푸레나무과(Oleaceae)",
+    "grade": "",
+    "habitat": "광나무는 우리나라 남해안 일대와 일본·타이완 등에 자라는 늘푸른떨기나무다. 당광나무(L. lucidum)는 중국 남부 원산의 늘푸른나무로 우리나라에는 귀화해 자란다. 한국 약재 기준은 두 종의 열매를 모두 여정실로 인정하지만, 중국 유통품은 L. lucidum 열매만 쓴다.",
+    "look": {
+      "flower": "새 가지 끝에 흰 꽃이 꽃송이로 무리 지어 핀다(광나무는 7~8월). 광나무는 꽃부리 대롱이 갈래 조각과 길이가 비슷하거나 조금 길다.",
+      "fruit": "열매는 핵과로 10월 무렵 익는다. 광나무 열매는 긴 타원형으로 굽지 않고, 당광나무 열매는 조금 굽은 콩팥 모양이다. 말린 약재는 길이 5~8.5mm의 콩팥 모양~달걀꼴로 겉이 검은 자주색~회흑색이며 쭈글쭈글하고, 속에 콩팥 모양의 기름진 씨가 1개 들어 있다.",
+      "leaf": "잎은 마주나고 넓은 달걀꼴이며 두껍고 광택이 있다. 겨울에도 잎이 지지 않는다. 잎자루는 광나무 5~12mm, 당광나무 10~20mm로 더 길다.",
+      "stem": "광나무는 높이 3~5m의 떨기나무이고, 당광나무는 10m 안팎까지 자라는 큰키나무다."
+    },
+    "parts": "약재로 쓰는 부위: 광나무·당광나무의 잘 익은 열매를 말린 것(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 생울타리에 흔한 쥐똥나무 열매와 혼동되거나 섞여 쓰인 사례가 보고되었으니, 길가·정원에서 딴 검은 열매를 여정실로 쓰지 않는다.",
+    "sci": "Ligustrum japonicum Thunb. (광나무) 또는 Ligustrum lucidum W.T.Aiton (당광나무·제주광나무)",
+    "season": {
+      "collect": [
+        11,
+        12
+      ],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 광나무",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%82%98%EB%AC%B4"
+      },
+      {
+        "title": "Wikipedia - Ligustrum lucidum",
+        "url": "https://en.wikipedia.org/wiki/Ligustrum_lucidum"
+      },
+      {
+        "title": "Flora of Korea - 쥐똥나무속(Ligustrum) 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5454"
+      },
+      {
+        "title": "Hong Kong Chinese Materia Medica Standards Vol.3 - Fructus Ligustri Lucidi",
+        "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Fructus_Ligustri_Lucidi_v3_e.pdf"
+      },
+      {
+        "title": "Kim SY 외, Comparison of antioxidant effects and phytochemical contents between Jeju native Ligustrum species and Chinese Ligustri Fructus, J. Evid. Based Herb. Med. 7(1)",
+        "url": "https://accesson.kr/jebhm/assets/pdf/58618/journal-7-1-1.pdf"
+      }
+    ],
+    "store": "충분히 말린 뒤 습기와 벌레를 피해 서늘하고 건조한 곳에 밀폐해 보관한다.",
+    "taste": "단맛에 약간 쓰고 떫다."
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 쥐똥나무속(Ligustrum) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5454"
+    },
+    {
+      "title": "Kim SY 외, Comparison of antioxidant effects and phytochemical contents between Jeju native Ligustrum species and Chinese Ligustri Fructus, J. Evid. Based Herb. Med. 7(1)",
+      "url": "https://accesson.kr/jebhm/assets/pdf/58618/journal-7-1-1.pdf"
+    },
+    {
+      "title": "Hong Kong Chinese Materia Medica Standards Vol.3 - Fructus Ligustri Lucidi",
+      "url": "https://cmro.gov.hk/hkcmms/vol3/pdf_e/Fructus_Ligustri_Lucidi_v3_e.pdf"
+    },
+    {
+      "title": "위키백과 - 광나무",
+      "url": "https://ko.wikipedia.org/wiki/%EA%B4%91%EB%82%98%EB%AC%B4"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Ligustrum obtusifolium. 같은 속의 잎 지는 떨기나무로, 열매가 여정실과 매우 비슷해 혼동되거나 위품으로 섞여 쓰인 일이 잦다고 보고되었다.",
+      "name": "쥐똥나무",
+      "points": [
+        "광나무·당광나무는 늘푸른나무라 겨울에도 두껍고 윤기 나는 잎이 붙어 있고, 쥐똥나무는 잎이 얇고 가을에 진다.",
+        "쥐똥나무 잎자루는 1~2mm로 아주 짧고, 광나무는 5~12mm, 당광나무는 10~20mm다.",
+        "쥐똥나무 꽃은 꽃부리 대롱이 갈래 조각보다 2배 이상 길다.",
+        "제주 자생종 비교 연구에서 쥐똥나무 열매의 올레아놀산 함량(4.02mg/g)은 수입 여정실(56.32mg/g)보다 훨씬 낮았다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "중국 유통 여정실은 당광나무(L. lucidum) 열매만 쓰며 중국에서는 광나무(L. japonicum) 열매를 위품으로 본다. 국내 기준은 두 종을 모두 인정하므로, 수입품·국산품 모두 기원 표시를 확인하는 것이 좋다.",
+      "name": "중국산 수입 여정실",
+      "points": [
+        "당광나무 열매는 조금 굽은 콩팥 모양, 광나무 열매는 굽지 않은 긴 타원형이다.",
+        "같은 연구에서 올레아놀산 함량은 제주 당광나무 열매가 가장 높고(72.19mg/g) 광나무 열매는 낮았다(10.72mg/g).",
+        "포장의 기원식물·원산지·제조업체 표시가 있는 한약재 유통품을 고른다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Bioresources and Bioprocessing",
+        "note": "쥐똥나무속 식물의 주요 성분과 약리 작용, 지속 가능한 원료 공급 방안을 정리한 리뷰다.",
+        "title": "Valorization of ligustrum species: biosynthesis, metabolic engineering, and pharmacology of bioactive compounds",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s40643-026-01042-3",
+        "year": "2026"
+      },
+      {
+        "journal": "Asian Pacific Journal of Tropical Biomedicine",
+        "note": "광나무에서 분리한 리구스트로사이드가 흑색종 세포에서 멜라닌 생성을 줄이는 변화를 보였다고 보고했다.",
+        "title": "Ligustroside derived from Ligustrum japonicum inhibits melanogenesis via blocking the MAPK and PKA/CREB signaling pathways",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.4103/apjtb.apjtb_568_24",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "당광나무 열매에서 분리된 206가지 성분과 뼈·간 보호 등 연구된 작용을 정리한 리뷰다.",
+        "title": "A review of botany, phytochemistry, pharmacology, and applications of the herb with the homology of medicine and food: Ligustrum lucidum W.T. Aiton",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1330732",
+        "year": "2024"
+      }
+    ],
+    "summary": "여정실에는 올레아놀산·우르솔산 같은 트리테르페노이드와 이리도이드 배당체, 페닐에타노이드 등이 들어 있어 항산화·항염·뼈 건강 관련 작용이 주로 세포·동물 실험에서 연구된다. 최근 자료는 리뷰와 실험실 연구 중심이며, 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "여정실",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "Wikipedia - Ligustrum lucidum",
+        "url": "https://en.wikipedia.org/wiki/Ligustrum_lucidum"
+      },
+      {
+        "title": "Frontiers in Pharmacology (2024) A review of botany, phytochemistry, pharmacology, and applications of Ligustrum lucidum W.T. Aiton (DOAJ)",
+        "url": "https://doaj.org/article/c5a8c6031f8a4801a180dec71c9062ab"
+      }
+    ],
+    "text": "여정실은 중국 전통의학에서 '여정자(女貞子)'라는 이름으로 간과 신장을 보한다고 여겨 써 온 약재로, 이명·어지럼증·이른 흰머리·허리와 무릎이 시큰거리는 증상 등에 썼다고 전해진다. 중국약전(2020)에는 이지환(二至丸) 등 이 약재를 넣은 처방이 100가지 넘게 실려 있다. 이번 조사에서 『동의보감』 탕액편의 女貞實 항목은 원문으로 확인하지 못했다."
+  },
+  "updatedAt": 1793048842816
+}

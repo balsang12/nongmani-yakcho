@@ -1,0 +1,173 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部), 탕액편 권3",
+    "easy": [],
+    "han": "白鮮",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 탕액편 권3 (해당 항목 원문은 확인 못 함)",
+        "url": "https://mediclassics.kr/books/8/volume/22"
+      }
+    ],
+    "verified": false,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "아니요. 백선은 식품으로 먹거나 팔 수 없는 한약재이며, 백선 뿌리 달인 물을 마시고 독성 간염이 생기거나 간부전으로 사망한 사례가 보고되었습니다. 식약처도 인터넷·시장에서 파는 백선 뿌리 제품을 사 먹지 말라고 안내합니다.",
+      "q": "백선피나 '봉삼'을 달여 먹어도 되나요?"
+    },
+    {
+      "a": "아닙니다. 봉삼·봉황삼은 운향과 식물인 백선의 뿌리를 부르는 이름으로, 두릅나무과인 산삼·인삼과는 다른 식물입니다.",
+      "q": "'봉삼'은 산삼의 한 종류인가요?"
+    },
+    {
+      "a": "작은잎 5~9장이 달린 깃꼴겹잎, 5~6월에 피는 연분홍 꽃송이, 별 모양 열매가 특징이고, 잎과 꽃차례를 만지면 기름샘 때문에 역한 냄새가 납니다.",
+      "q": "백선은 어떻게 알아보나요?"
+    },
+    {
+      "a": "뿌리에서 벗긴 껍질을 말린 것으로, 둥글게 말린 대롱 모양이고 바깥은 회백색~연한 회황색이며 양 누린내 같은 냄새가 납니다.",
+      "q": "백선피 약재는 어떤 모양인가요?"
+    },
+    {
+      "a": "바로 병원에 가세요. 보고된 증례에서는 황달 같은 간 기능 이상 증상이 주로 나타났으니, 먹은 약재 이름과 남은 것을 가져가 알리는 것이 좋습니다.",
+      "q": "먹은 뒤 몸에 이상이 생기면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Densefruit pittany root bark (Dictamni Radicis Cortex)",
+    "family": "운향과(Rutaceae)",
+    "grade": "",
+    "habitat": "시베리아 남동부에서 중국·한국에 걸쳐 자생하며, 우리나라 산에서 흔히 자라는 여러해살이풀이다. 약재(백선피)는 주로 중국 북부(허베이·랴오닝·헤이룽장·지린·내몽골·산둥)에서 난다.",
+    "look": {
+      "flower": "5~6월에 줄기 윗부분의 꽃차례에 연한 분홍색 꽃이 아래에서 위로 피어 올라간다.",
+      "fruit": "열매는 별 모양으로 갈라지는 삭과다.",
+      "leaf": "잎은 어긋나고, 작은잎 5~9장이 깃털처럼 달린 겹잎이다.",
+      "root": "땅속에 길고 굵은 뿌리가 있으며, 이 뿌리를 '봉삼'이라 부르기도 한다. 약재는 뿌리에서 벗긴 껍질을 말린 것으로, 둥글게 말린 대롱 모양이고 바깥은 회백색~연한 회황색이다.",
+      "smell": "잎·꽃차례·꽃자루에 기름샘이 많아 약간 역겨운 독특한 냄새가 난다. 말린 뿌리껍질에서도 양 누린내 같은 냄새가 난다."
+    },
+    "parts": "약재로 쓰는 부위: 백선의 뿌리껍질(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 백선 뿌리 달인 물을 마시고 독성 간염이 생긴 사례가 국내에서 여러 건 보고되었고, 간부전으로 사망한 증례도 있다. 산에서 캔 뿌리를 '봉삼'이라며 달여 먹지 않는다.",
+    "sci": "Dictamnus dasycarpus Turcz.",
+    "season": {
+      "collect": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 백선 (식물)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%84%A0_(%EC%8B%9D%EB%AC%BC)"
+      },
+      {
+        "title": "Wikipedia - Dictamnus dasycarpus",
+        "url": "https://en.wikipedia.org/wiki/Dictamnus_dasycarpus"
+      },
+      {
+        "title": "홍콩 위생서 정부중약검측센터 - 피류 중약 음편 감별 소책자(白鮮皮)",
+        "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/feature/12_BXP_tc.pdf"
+      },
+      {
+        "title": "5000yan Chinese Herbs - Baixianpi (Dictamnus Root Bark)",
+        "url": "https://en.5000yan.com/chinese-herbs/barks/dictamnus-root-bark.html"
+      },
+      {
+        "title": "코메디닷컴 - 산삼보다 좋은 '백선'?...잘못하면 '간' 망친다 (2023, 식약처 안내·대한내과학회지 증례 인용)",
+        "url": "https://kormedi.com/1629672/"
+      }
+    ],
+    "store": "충분히 말린 뒤 습기와 벌레를 피해 서늘하고 건조한 곳에 밀폐해 보관한다.",
+    "taste": "약간 쓰고, 양 누린내 같은 특이한 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "코메디닷컴 - 산삼보다 좋은 '백선'?...잘못하면 '간' 망친다 (2023, 식약처 안내·대한내과학회지 증례 인용)",
+      "url": "https://kormedi.com/1629672/"
+    },
+    {
+      "title": "위키백과 - 백선 (식물)",
+      "url": "https://ko.wikipedia.org/wiki/%EB%B0%B1%EC%84%A0_(%EC%8B%9D%EB%AC%BC)"
+    },
+    {
+      "title": "Jang JS 외(2008) Four cases of toxic liver injury associated with Dictamnus dasycarpus, Clinical and Molecular Hepatology 14(2)",
+      "url": "https://e-cmh.org/journal/view.php?number=788"
+    },
+    {
+      "title": "Wikipedia - Dictamnus albus",
+      "url": "https://en.wikipedia.org/wiki/Dictamnus_albus"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "Panax ginseng. 백선 뿌리가 '봉삼·봉황삼'이라는 이름으로 산삼보다 좋다는 소문과 함께 거래되어 삼 종류로 오해받는다. 백선은 운향과, 산삼은 두릅나무과로 전혀 다른 식물이다.",
+      "name": "산삼",
+      "points": [
+        "백선 잎은 작은잎 5~9장이 깃털처럼 마주 붙은 겹잎이고, 산삼은 줄기 끝에 손바닥 모양(작은잎 5장) 겹잎이 돌려난다.",
+        "백선은 잎과 꽃차례를 만지면 기름샘 때문에 역한 냄새가 난다.",
+        "백선은 5~6월 연한 분홍색 꽃이 길게 이어 피고, 열매는 별 모양으로 갈라진다.",
+        "'봉삼'이라는 이름으로 파는 뿌리는 삼이 아니라 백선일 수 있고, 식품으로 팔 수 없다(식약처)."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Current Nutrition & Food Science",
+        "note": "백선피의 성분·작용 연구를 정리하면서 약으로 쓰기 전에 안전성을 철저히 평가해야 한다고 강조했다.",
+        "title": "Functional Properties and Quality Control of Cortex Dictamni: A Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.2174/0115734013345775241113092201",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "생쥐 아토피피부염 모델에서 백선피 추출물이 피부 장벽 지표와 증상에 미치는 영향을 살폈다.",
+        "title": "Dictamnus dasycarpus Turcz. Root Bark Improves Skin Barrier Function and Symptoms of Atopic Dermatitis in Mice",
+        "type": "동물 실험",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11641830/",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Pharmaceutical Sciences (药学前沿)",
+        "note": "약 228가지 성분과 여러 약리 작용을 정리하고, 딕탐닌·프락시넬론·리모닌을 간 독성 원인 후보로 꼽았다.",
+        "title": "Research progress on chemical constituents, pharmacological effects and toxicity of Dictamni cortex",
+        "type": "리뷰",
+        "url": "https://doi.org/10.12173/j.issn.2097-4922.202406157",
+        "year": "2024"
+      },
+      {
+        "journal": "Academic Journal of Chinese PLA Medical School",
+        "note": "생쥐에서 백선피 주성분 딕탐닌에 의한 간 손상이 암컷에서 더 두드러질 수 있다는 결과와 그 기전 가설을 제시했다.",
+        "title": "Gender differences in dictamnin-induced liver injury in mice based on transcriptome and DNA methylation",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.12435/j.issn.2095-5227.2024.114",
+        "year": "2024"
+      }
+    ],
+    "summary": "백선피는 딕탐닌 같은 퀴놀린 알칼로이드와 리모노이드가 주성분으로, 항염·가려움 완화 작용이 동물·세포 실험에서 연구된다. 한편 딕탐닌·프락시넬론 등이 간 독성의 원인 후보로 지목되며, 국내에서 뿌리 달인 물을 마신 뒤 독성 간염이 생긴 사람 증례가 보고되었다. 효능에 대한 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+  },
+  "name": "백선피",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793048842816
+}

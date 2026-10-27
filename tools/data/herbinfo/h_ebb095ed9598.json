@@ -1,0 +1,160 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아닙니다. 우리 박하는 Mentha canadensis이고 페퍼민트는 서양에서 들여온 잡종(Mentha × piperita)입니다. 박하는 위쪽 잎겨드랑이마다 작은 꽃이 층층이 둘러 달리고, 페퍼민트는 줄기 끝에 꽃이 이삭처럼 모여 핍니다.",
+      "q": "박하와 페퍼민트는 같은 식물인가요?"
+    },
+    {
+      "a": "꽃은 7~9월에 흰색·연보라색으로 핍니다. 잎은 자라는 여름 동안 딸 수 있고, 따뜻한 남부 재배지에서는 한 해에 세 번 정도 베어 거둔다고 합니다.",
+      "q": "박하는 언제 꽃이 피고 언제 따나요?"
+    },
+    {
+      "a": "꽃과 잎 모양을 보면 됩니다. 배초향은 줄기 끝에 보라색 꽃이 길쭉한 이삭으로 빽빽하게 피고, 박하는 작은 꽃이 위쪽 잎겨드랑이마다 둘러 달립니다. 둘 다 먹는 식물이라 섞여도 해롭지는 않습니다.",
+      "q": "배초향(방아잎)과는 어떻게 구별하나요?"
+    },
+    {
+      "a": "습기와 빛을 피해 밀폐 용기에 담아 서늘한 곳에 둡니다. 향 성분이 날아가기 쉬우므로 너무 오래 두지 않는 것이 좋습니다. 생잎은 젖은 키친타월에 싸서 냉장하고 며칠 안에 씁니다.",
+      "q": "말린 박하는 어떻게 보관하나요?"
+    },
+    {
+      "a": "박하를 부르던 옛 우리말 이름입니다. 한국민족문화대백과사전은 조선 시대에 박하를 '영생'이라 불렀다고 소개합니다.",
+      "q": "'영생이'는 무슨 뜻인가요?"
+    }
+  ],
+  "id": {
+    "eat": "잎을 말려 차로 우려 마시며, 예전에는 어린잎을 나물로 무쳐 먹기도 했다.",
+    "eng": "Japanese mint (corn mint)",
+    "family": "꿀풀과",
+    "grade": "",
+    "habitat": "전국의 들, 냇가·도랑가, 습지 가장자리, 밭 주변처럼 축축하고 볕이 드는 낮은 곳에 자라며 북부 지방에 더 흔하다. 땅속줄기로 퍼져 무리를 이루고, 뿌리가 얕아 가뭄에 약하다. 정원에서도 많이 기른다.",
+    "look": {
+      "flower": "7~9월에 흰색 또는 연보라색 작은 꽃이 위쪽 잎겨드랑이마다 빙 둘러 층층이 달린다. 꽃부리는 4~5mm로 작고 수술 4개가 꽃 밖으로 나온다.",
+      "fruit": "작은 달걀 모양의 분과로 익는다.",
+      "leaf": "잎은 마주나고 긴 타원형으로 양끝이 좁으며 길이 2~5cm, 너비 1~2.5cm 정도다. 가장자리에 날카로운 톱니가 있고 양면에 기름점(유점)이 있다.",
+      "root": "땅속줄기가 옆으로 뻗으며 마디에서 새 포기가 올라온다.",
+      "smell": "잎을 비비면 멘톨 특유의 맑고 시원한 향이 강하게 난다.",
+      "stem": "줄기는 네모지고 곧게 50~100cm까지 서며 잔털이 있다. 어린 줄기는 붉은 자줏빛을 띠기도 한다."
+    },
+    "parts": "잎과 어린 줄기(지상부), 꽃",
+    "prep": "잎과 줄기 끝을 따서 흐르는 물에 가볍게 씻는다. 차나 약재로 쓸 것은 그늘에서 말린다. 날잎은 음료·디저트·요리의 향 내기에 조금씩 쓴다.",
+    "sci": "Mentha canadensis L.",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 박하",
+        "url": "https://encykorea.aks.ac.kr/Article/E0021342"
+      },
+      {
+        "title": "서울식물원 식물정보 - 박하",
+        "url": "https://botanicpark.seoul.go.kr/front/plants/plantsIntroView.do?plt_sn=387&page=1"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 up-to-date - 박하",
+        "url": "https://www.kmcric.com/database/herb_list?id=78&search_word=%EB%B0%95%ED%95%98"
+      },
+      {
+        "title": "위키백과 - 박하 (형태 보조 자료)",
+        "url": "https://ko.wikipedia.org/wiki/%EB%B0%95%ED%95%98"
+      }
+    ],
+    "store": "생잎은 젖은 키친타월에 싸서 밀폐해 냉장하고 며칠 안에 쓴다. 말린 것은 습기와 빛을 피해 밀폐 용기에 둔다.",
+    "taste": "맛은 맵고 성질은 서늘한 편이며, 멘톨이 많아 씹거나 비비면 입과 코가 시원해지는 강한 박하 향이 난다."
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 박하",
+      "url": "https://encykorea.aks.ac.kr/Article/E0021342"
+    },
+    {
+      "title": "Wikipedia - Mentha canadensis (분포·이명 보조 자료)",
+      "url": "https://en.wikipedia.org/wiki/Mentha_canadensis"
+    },
+    {
+      "title": "Wikipedia - Peppermint (형태 보조 자료)",
+      "url": "https://en.wikipedia.org/wiki/Peppermint"
+    },
+    {
+      "title": "EMA 평가보고서 - Mentha x piperita L., folium (superseded)",
+      "url": "https://www.ema.europa.eu/en/documents/herbal-report/superseded-assessment-report-mentha-x-piperita-l-folium_en.pdf"
+    },
+    {
+      "title": "국립수목원 7월 '우리의 정원식물' 배초향 선정 (라이브뉴스, 국립수목원 발표 인용)",
+      "url": "https://www.livesnews.com/news/article.html?no=62377"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "서양에서 들여온 다른 종(워터민트와 스피어민트의 잡종)으로 우리 박하와 향이 비슷해 '박하'로 섞여 팔리기 쉽다. 먹어도 해롭지 않지만 같은 식물이 아니므로 이름을 바꿔 쓰지 않는다.",
+      "name": "페퍼민트",
+      "points": [
+        "꽃이 달리는 자리를 본다. 우리 박하는 위쪽 잎겨드랑이마다 꽃이 층층이 둘러 달리고, 페퍼민트는 줄기 끝에 꽃이 모여 굵고 뭉툭한 이삭 모양을 만든다.",
+        "페퍼민트 잎은 짙은 녹색에 잎맥이 붉은빛을 띠는 경우가 많고 길이 4~9cm로 우리 박하 잎(2~5cm)보다 큰 편이다.",
+        "페퍼민트는 잡종이라 대개 씨를 맺지 못해 포기나누기·꺾꽂이로만 늘린다. '페퍼민트 씨앗'으로 팔리는 것은 이름이 의심스럽다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 꿀풀과로 잎과 꽃에서 박하처럼 상쾌한 향이 나서 헷갈린다. 경상도에서는 '방아잎'으로 부르며 먹는 식물이라 섞여도 해롭지 않지만, 꽃 달리는 모양이 다르다.",
+      "name": "배초향",
+      "points": [
+        "배초향은 7월부터 가을까지 줄기 끝에 보라색 꽃이 길쭉한 이삭 모양으로 빽빽하게 핀다. 박하는 잎겨드랑이마다 작은 꽃이 둘러 달린다.",
+        "배초향은 꽃이 줄기 끝에 몰려 피어 멀리서도 보라색 이삭이 눈에 띄고, 박하는 잎 사이사이에 작은 꽃이 숨듯이 달린다.",
+        "어린잎이 헷갈리면 꽃이 필 때 다시 확인한다. 둘 다 먹는 식물이라 섞여도 해롭지는 않다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Science & Nutrition",
+        "note": "박하 잎 추출물을 먹인 생쥐에서 해열진통제(파라세타몰)로 생긴 간 손상 지표가 덜 올라갔다는 동물 실험으로, 사람에게 적용할 수 있는지는 확인되지 않았다.",
+        "title": "Antioxidant and Hepatotoxicity Ameliorative Potential of Mentha canadensis Leaves Against Paracetamol-Induced Hepatic Damage in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1002/fsn3.71279",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients",
+        "note": "박하속 식물의 정유 성분이 종·화학형에 따라 어떻게 달라지는지 정리하고, 건강 관련 근거 대부분이 세포·동물 연구라 사람 대상 시험이 더 필요하다고 짚은 리뷰다.",
+        "title": "Mentha Essential Oils: Unraveling Chemotype-Dependent Biosynthesis and Assessing Evidence for Health-Promoting Activities",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu17203258",
+        "year": "2025"
+      }
+    ],
+    "summary": "박하(Mentha canadensis)의 주성분은 멘톨·멘톤 등 정유이며, 최근 연구는 대부분 세포·동물 실험 수준이다. 2025년 박하속 정유 리뷰도 건강 효과의 근거가 주로 실험실·동물 연구에서 나왔고 사람 대상 임상 근거는 부족하다고 정리했다."
+  },
+  "name": "박하",
+  "st": "ok",
+  "traditional": {
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 박하",
+        "url": "https://encykorea.aks.ac.kr/Article/E0021342"
+      },
+      {
+        "title": "한의약융합연구정보센터(KMCRIC) 생약 up-to-date - 박하",
+        "url": "https://www.kmcric.com/database/herb_list?id=78&search_word=%EB%B0%95%ED%95%98"
+      }
+    ],
+    "text": "한국민족문화대백과사전은 박하를 고려 때 이두로 '방하(芳荷)', 조선 시대에는 '영생'이라 불렀고, 고려의 『향약구급방』에 약으로 쓴 기록이 있다고 소개한다. 성질은 서늘하고 맛은 매운 약재로, 전통적으로 소화를 돕고 감기·두통·치통·목 아픔 등에 썼다고 적고 있다. 한약재로는 지상부를 말린 것을 '박하(薄荷)'라 하며, 풍열을 흩고 머리와 눈을 맑게 하는 데 쓴다고 정리되어 있다."
+  },
+  "updatedAt": 1792962021102
+}

@@ -1,6 +1,6 @@
-# 농마니 약초 백과
+# 농마니 산야초사전
 
-> 한국 산나물·약초 339가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 백과. 효능을 보장하지 않으며 독초 49가지는 위험 안내만 싣는다.
+> 한국 산나물·약초 339가지의 생김새, 독초와 구별하는 법, 제철·손질법, 『동의보감』 등 옛 의서 기록, 최근 연구를 정리한 한국어 산야초 사전. 효능을 보장하지 않으며 독초 51가지는 위험 안내만 싣는다.
 
 ## 안내
 - [전체 약초 목록](https://nongmani.com/nongmani-yakcho/): 구분별 339가지
@@ -8,276 +8,316 @@
 - [제철 달력](https://nongmani.com/nongmani-yakcho/jecheol/): 달마다 채취하는 산나물·약초
 
 ## 약초
-- [고사리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%82%AC%EB%A6%AC/): 식용 · 주의
-- [고비](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%B9%84/): 식용 · 주의
-- [참취](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EC%B7%A8/): 식용 원료, 다른 이름 취나물, 취
-- [곰취](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%B0%EC%B7%A8/): 식용 · 주의
-- [참나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EB%82%98%EB%AC%BC/): 식용 원료
-- [산마늘](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%A7%88%EB%8A%98/): 식용 · 주의, 다른 이름 명이, 명이나물
-- [두릅](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EB%A6%85/): 식용 · 주의, 다른 이름 참두릅, 두릅순
-- [엄나무순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%84%EB%82%98%EB%AC%B4%EC%88%9C/): 식용 · 주의, 다른 이름 개두릅, 음나무순
-- [땅두릅](https://nongmani.com/nongmani-yakcho/yakcho/%EB%95%85%EB%91%90%EB%A6%85/): 식용 · 주의, 다른 이름 독활순
-- [오가피순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EA%B0%80%ED%94%BC%EC%88%9C/): 식용 원료, 다른 이름 오갈피순
-- [다래순](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A4%EB%9E%98%EC%88%9C/): 식용 원료
-- [미역취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EC%97%AD%EC%B7%A8/): 식용 원료
-- [수리취](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EB%A6%AC%EC%B7%A8/): 식용 원료
-- [곤드레](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A4%EB%93%9C%EB%A0%88/): 식용 원료, 다른 이름 고려엉겅퀴
-- [곤달비](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A4%EB%8B%AC%EB%B9%84/): 식용 원료
-- [어수리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%B4%EC%88%98%EB%A6%AC/): 식용 원료
-- [산부추](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%B6%80%EC%B6%94/): 식용 원료
-- [달래](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%AC%EB%9E%98/): 식용 원료
-- [냉이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%83%89%EC%9D%B4/): 식용 원료
-- [쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EC%91%A5/): 식용 · 주의, 다른 이름 약쑥, 참쑥
-- [머위](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A8%B8%EC%9C%84/): 식용 원료, 다른 이름 머윗대
-- [원추리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9B%90%EC%B6%94%EB%A6%AC/): 식용 · 주의
-- [비비추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EB%B9%84%EC%B6%94/): 식용 원료
-- [씀바귀](https://nongmani.com/nongmani-yakcho/yakcho/%EC%94%80%EB%B0%94%EA%B7%80/): 식용 원료
-- [고들빼기](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%93%A4%EB%B9%BC%EA%B8%B0/): 식용 원료
-- [돌나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%82%98%EB%AC%BC/): 식용 원료, 다른 이름 돈나물
-- [질경이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%88%EA%B2%BD%EC%9D%B4/): 식용 원료
-- [민들레](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%BC%EB%93%A4%EB%A0%88/): 식용 원료
-- [쇠비름](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%B9%84%EB%A6%84/): 식용 원료
-- [방풍나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A9%ED%92%8D%EB%82%98%EB%AC%BC/): 식용 원료, 다른 이름 갯기름나물, 식방풍
-- [우산나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%82%B0%EB%82%98%EB%AC%BC/): 식용 원료
-- [홑잎나물](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%91%EC%9E%8E%EB%82%98%EB%AC%BC/): 식용 원료, 다른 이름 화살나무순
-- [참죽순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EC%A3%BD%EC%88%9C/): 식용 원료, 다른 이름 참죽나물, 가죽나물
-- [눈개승마](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%88%EA%B0%9C%EC%8A%B9%EB%A7%88/): 식용 원료, 다른 이름 삼나물
-- [전호](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A0%84%ED%98%B8/): 식용 원료
-- [모시대](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EC%8B%9C%EB%8C%80/): 식용 원료
-- [누리대](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%84%EB%A6%AC%EB%8C%80/): 식용 원료
-- [고추나무순](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%B4%EC%88%9C/): 식용 원료
-- [산초잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%B4%88%EC%9E%8E/): 식용 원료, 다른 이름 초피잎
-- [엉겅퀴](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%89%EA%B2%85%ED%80%B4/): 식품원료 확인 필요
-- [도라지](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%84%EB%9D%BC%EC%A7%80/): 식용 원료, 다른 이름 약도라지, 백도라지
-- [더덕](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8D%94%EB%8D%95/): 식용 원료, 다른 이름 산더덕
-- [잔대](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%94%EB%8C%80/): 식용 원료, 다른 이름 딱주, 사삼
-- [칡](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%A1/): 식용 원료, 다른 이름 칡뿌리, 갈근
-- [마](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88/): 식용 원료, 다른 이름 산약, 참마
-- [둥굴레](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%A5%EA%B5%B4%EB%A0%88/): 식용 원료, 다른 이름 옥죽, 황정, 각시둥굴레
-- [우엉](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%97%89/): 식용 원료
-- [돼지감자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%BC%EC%A7%80%EA%B0%90%EC%9E%90/): 식용 원료, 다른 이름 뚱딴지
-- [삼채](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EC%B1%84/): 식용 원료, 다른 이름 뿌리부추
-- [아슈와간다](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%8A%88%EC%99%80%EA%B0%84%EB%8B%A4/): 식품원료 확인 필요, 다른 이름 아쉬와간다, 아쉬아간다, 인도인삼, 위타니아
-- [세인트존스워트](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%B8%EC%9D%B8%ED%8A%B8%EC%A1%B4%EC%8A%A4%EC%9B%8C%ED%8A%B8/): 식품원료 확인 필요, 다른 이름 서양고추나물
-- [야콘](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%BC%EC%BD%98/): 식용 원료
-- [여주](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EC%A3%BC/): 식용 원료, 다른 이름 쓴오이, 비터멜론
-- [비트](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%ED%8A%B8/): 식용 원료, 다른 이름 비트루트, 레드비트
-- [아티초크](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%ED%8B%B0%EC%B4%88%ED%81%AC/): 식용 원료
-- [블루베리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC/): 식용 원료
-- [마카](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EC%B9%B4/): 식품원료 확인 필요, 다른 이름 마카뿌리
-- [로즈마리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A1%9C%EC%A6%88%EB%A7%88%EB%A6%AC/): 식용 원료, 다른 이름 로즈메리
-- [라벤더](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9D%BC%EB%B2%A4%EB%8D%94/): 식용 원료, 다른 이름 잉글리시라벤더
-- [레몬밤](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A0%88%EB%AA%AC%EB%B0%A4/): 식용 원료, 다른 이름 멜리사
-- [페퍼민트](https://nongmani.com/nongmani-yakcho/yakcho/%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8/): 식용 원료, 다른 이름 서양박하
-- [캐모마일](https://nongmani.com/nongmani-yakcho/yakcho/%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC/): 식용 원료, 다른 이름 카모마일, 저먼캐모마일
-- [바질](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%94%EC%A7%88/): 식용 원료, 다른 이름 스위트바질
-- [스테비아](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8A%A4%ED%85%8C%EB%B9%84%EC%95%84/): 식용 원료, 다른 이름 스테비아잎
-- [레몬그라스](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A0%88%EB%AA%AC%EA%B7%B8%EB%9D%BC%EC%8A%A4/): 식용 원료, 다른 이름 레몬글라스, 레몬그래스
-- [모링가](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EB%A7%81%EA%B0%80/): 식용 원료, 다른 이름 모링가잎, 드럼스틱
-- [히비스커스](https://nongmani.com/nongmani-yakcho/yakcho/%ED%9E%88%EB%B9%84%EC%8A%A4%EC%BB%A4%EC%8A%A4/): 식품원료 확인 필요, 다른 이름 로젤, 히비스커스차
-- [사프란](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%AC%ED%94%84%EB%9E%80/): 식용 원료, 다른 이름 샤프란
-- [연근](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EA%B7%BC/): 식용 원료
-- [생강](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%9D%EA%B0%95/): 식용 원료
-- [산삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%82%BC/): 식용 원료, 다른 이름 자연삼, 천종산삼, 지종산삼
-- [산양삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%96%91%EC%82%BC/): 식용 원료, 다른 이름 장뇌삼
-- [인삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B8%EC%82%BC/): 식용 원료, 다른 이름 수삼, 홍삼
-- [황기](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EA%B8%B0/): 식품원료 확인 필요, 다른 이름 단너삼
-- [당귀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%B9%EA%B7%80/): 식품원료 확인 필요, 다른 이름 참당귀
-- [감초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EC%B4%88/): 식품원료 확인 필요
-- [천마](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EB%A7%88/): 식품원료 확인 필요
-- [하수오](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EC%88%98%EC%98%A4/): 식품원료 확인 필요, 다른 이름 적하수오
-- [백수오](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EC%88%98%EC%98%A4/): 식품원료 확인 필요, 다른 이름 큰조롱, 은조롱
-- [작약](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%91%EC%95%BD/): 식품원료 확인 필요, 다른 이름 함박꽃
-- [지황](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%ED%99%A9/): 식품원료 확인 필요, 다른 이름 생지황, 숙지황
-- [우슬](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%8A%AC/): 식품원료 확인 필요, 다른 이름 쇠무릎
-- [오가피](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EA%B0%80%ED%94%BC/): 식품원료 확인 필요, 다른 이름 오갈피, 가시오가피
-- [삽주](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BD%EC%A3%BC/): 식품원료 확인 필요, 다른 이름 백출, 창출
-- [독활](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%ED%99%9C/): 식품원료 확인 필요
-- [강활](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%95%ED%99%9C/): 식품원료 확인 필요
-- [삼지구엽초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EC%A7%80%EA%B5%AC%EC%97%BD%EC%B4%88/): 식품원료 확인 필요, 다른 이름 음양곽
-- [하고초](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EA%B3%A0%EC%B4%88/): 식품원료 확인 필요, 다른 이름 꿀풀
-- [금은화](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B8%88%EC%9D%80%ED%99%94/): 식품원료 확인 필요, 다른 이름 인동, 인동초, 인동덩굴
-- [겨우살이](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B2%A8%EC%9A%B0%EC%82%B4%EC%9D%B4/): 식품원료 확인 필요, 다른 이름 곡기생
-- [엄나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%84%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 음나무, 해동피
-- [생강나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%9D%EA%B0%95%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 동박나무
-- [구절초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EC%A0%88%EC%B4%88/): 식품원료 확인 필요
-- [삼백초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EB%B0%B1%EC%B4%88/): 식품원료 확인 필요
-- [어성초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%B4%EC%84%B1%EC%B4%88/): 식품원료 확인 필요, 다른 이름 약모밀
-- [개똥쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%98%A5%EC%91%A5/): 식품원료 확인 필요, 다른 이름 청호
-- [인진쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B8%EC%A7%84%EC%91%A5/): 식품원료 확인 필요, 다른 이름 사철쑥
-- [쇠뜨기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%9C%A8%EA%B8%B0/): 식품원료 확인 필요
-- [익모초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B5%EB%AA%A8%EC%B4%88/): 식품원료 확인 필요
-- [화살나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%94%EC%82%B4%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 귀전우
-- [오미자](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EB%AF%B8%EC%9E%90/): 식용 원료
-- [구기자](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EA%B8%B0%EC%9E%90/): 식용 원료
-- [꾸지뽕](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BE%B8%EC%A7%80%EB%BD%95/): 식용 원료, 다른 이름 꾸지뽕열매
-- [마가목](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EA%B0%80%EB%AA%A9/): 식품원료 확인 필요, 다른 이름 마가목열매
-- [헛개](https://nongmani.com/nongmani-yakcho/yakcho/%ED%97%9B%EA%B0%9C/): 식품원료 확인 필요, 다른 이름 헛개열매, 지구자
-- [산수유](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%88%98%EC%9C%A0/): 식용 · 주의
-- [대추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8C%80%EC%B6%94/): 식용 원료, 다른 이름 산대추
-- [복분자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B5%EB%B6%84%EC%9E%90/): 식용 원료
-- [산딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%94%B8%EA%B8%B0/): 식용 원료
-- [머루](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A8%B8%EB%A3%A8/): 식용 원료, 다른 이름 산머루
-- [다래](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A4%EB%9E%98/): 식용 원료, 다른 이름 토종다래
-- [으름](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%BC%EB%A6%84/): 식용 원료, 다른 이름 으름열매
-- [돌배](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%B0%B0/): 식용 원료
-- [아로니아](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EB%A1%9C%EB%8B%88%EC%95%84/): 식용 원료
-- [오디](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EB%94%94/): 식용 원료
-- [보리수](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B4%EB%A6%AC%EC%88%98/): 식용 원료, 다른 이름 보리수열매
-- [산사](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%82%AC/): 식용 원료, 다른 이름 산사자, 산사나무열매
-- [모과](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EA%B3%BC/): 식용 원료
-- [개복숭아](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%B3%B5%EC%88%AD%EC%95%84/): 식용 · 주의, 다른 이름 돌복숭아
-- [매실](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A4%EC%8B%A4/): 식용 · 주의
-- [도토리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%84%ED%86%A0%EB%A6%AC/): 식용 원료
-- [잣](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%A3/): 식용 원료
-- [밤](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A4/): 식용 원료, 다른 이름 산밤
-- [호두](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%B8%EB%91%90/): 식용 원료
-- [산초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%B4%88/): 식용 원료, 다른 이름 초피, 제피
-- [은행](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%80%ED%96%89/): 식용 · 주의
-- [결명자](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B2%B0%EB%AA%85%EC%9E%90/): 식용 원료
-- [탱자](https://nongmani.com/nongmani-yakcho/yakcho/%ED%83%B1%EC%9E%90/): 식품원료 확인 필요, 다른 이름 지실
-- [개다래](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%8B%A4%EB%9E%98/): 식품원료 확인 필요, 다른 이름 충영
-- [비자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EC%9E%90/): 식품원료 확인 필요
-- [뽕잎](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%95%EC%9E%8E/): 식용 원료
-- [감잎](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EC%9E%8E/): 식용 원료
-- [연잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EC%9E%8E/): 식용 원료
-- [연꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EA%BD%83/): 식용 원료
-- [녹차](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B9%EC%B0%A8/): 식용 원료, 다른 이름 작설차
-- [솔잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%94%EC%9E%8E/): 식용 원료
-- [감국](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EA%B5%AD/): 식용 원료, 다른 이름 국화, 산국
-- [진달래꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83/): 식용 · 주의, 다른 이름 참꽃
-- [아카시아꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%B9%B4%EC%8B%9C%EC%95%84%EA%BD%83/): 식용 원료
-- [매화](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A4%ED%99%94/): 식용 원료
-- [칡꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%A1%EA%BD%83/): 식품원료 확인 필요
-- [목련꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A9%EB%A0%A8%EA%BD%83/): 식품원료 확인 필요, 다른 이름 신이
-- [조릿대](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A1%B0%EB%A6%BF%EB%8C%80/): 식품원료 확인 필요
-- [비파잎](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%ED%8C%8C%EC%9E%8E/): 식품원료 확인 필요
-- [송이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%A1%EC%9D%B4/): 식용 원료, 다른 이름 송이버섯
-- [능이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%A5%EC%9D%B4/): 식용 원료, 다른 이름 능이버섯
-- [표고](https://nongmani.com/nongmani-yakcho/yakcho/%ED%91%9C%EA%B3%A0/): 식용 원료, 다른 이름 표고버섯
-- [목이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A9%EC%9D%B4/): 식용 원료, 다른 이름 목이버섯
-- [느타리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%90%ED%83%80%EB%A6%AC/): 식용 원료, 다른 이름 느타리버섯
-- [노루궁뎅이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%A3%A8%EA%B6%81%EB%8E%85%EC%9D%B4/): 식용 원료, 다른 이름 노루궁뎅이버섯
-- [영지](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%81%EC%A7%80/): 식용 원료, 다른 이름 영지버섯
-- [상황](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%81%ED%99%A9/): 식용 원료, 다른 이름 상황버섯
-- [꽃송이버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EC%86%A1%EC%9D%B4%EB%B2%84%EC%84%AF/): 식용 원료
-- [석이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%9D%EC%9D%B4/): 식용 원료, 다른 이름 석이버섯
-- [싸리버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8B%B8%EB%A6%AC%EB%B2%84%EC%84%AF/): 식용 · 주의
-- [차가버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%A8%EA%B0%80%EB%B2%84%EC%84%AF/): 식품원료 확인 필요, 다른 이름 차가
-- [박새](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%95%EC%83%88/): 독초 · 먹으면 위험
-- [여로](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EB%A1%9C/): 독초 · 먹으면 위험
-- [은방울꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%80%EB%B0%A9%EC%9A%B8%EA%BD%83/): 독초 · 먹으면 위험
-- [동의나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%99%EC%9D%98%EB%82%98%EB%AC%BC/): 독초 · 먹으면 위험
-- [미국자리공](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EA%B5%AD%EC%9E%90%EB%A6%AC%EA%B3%B5/): 독초 · 먹으면 위험, 다른 이름 자리공, 상륙
-- [산괴불주머니](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EA%B4%B4%EB%B6%88%EC%A3%BC%EB%A8%B8%EB%8B%88/): 독초 · 먹으면 위험
-- [지리강활](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EB%A6%AC%EA%B0%95%ED%99%9C/): 독초 · 먹으면 위험
-- [독미나리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EB%AF%B8%EB%82%98%EB%A6%AC/): 독초 · 먹으면 위험
-- [독우산광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EC%9A%B0%EC%82%B0%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): 독초 · 먹으면 위험
-- [개나리광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%82%98%EB%A6%AC%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): 독초 · 먹으면 위험
-- [화경버섯](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%94%EA%B2%BD%EB%B2%84%EC%84%AF/): 독초 · 먹으면 위험
-- [노란다발](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%9E%80%EB%8B%A4%EB%B0%9C/): 독초 · 먹으면 위험
-- [미나리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EB%82%98%EB%A6%AC/): 식용 · 주의, 다른 이름 돌미나리
-- [비름](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EB%A6%84/): 식용 원료, 다른 이름 참비름
-- [명아주](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%85%EC%95%84%EC%A3%BC/): 식용 원료, 다른 이름 는쟁이
-- [개미취](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%AF%B8%EC%B7%A8/): 식용 원료
-- [단풍취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A8%ED%92%8D%EC%B7%A8/): 식용 원료, 다른 이름 괴발딱취
-- [병풍취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%91%ED%92%8D%EC%B7%A8/): 식용 원료, 다른 이름 병풍쌈
-- [왕고들빼기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%99%95%EA%B3%A0%EB%93%A4%EB%B9%BC%EA%B8%B0/): 식용 원료
-- [섬쑥부쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%AC%EC%91%A5%EB%B6%80%EC%9F%81%EC%9D%B4/): 식용 원료, 다른 이름 부지갱이
-- [쑥부쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%91%A5%EB%B6%80%EC%9F%81%EC%9D%B4/): 식용 원료
-- [비짜루](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EC%A7%9C%EB%A3%A8/): 식용 원료
-- [꽃다지](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EB%8B%A4%EC%A7%80/): 식용 원료
-- [파드득나물](https://nongmani.com/nongmani-yakcho/yakcho/%ED%8C%8C%EB%93%9C%EB%93%9D%EB%82%98%EB%AC%BC/): 식용 원료, 다른 이름 삼엽채
-- [황새냉이](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EC%83%88%EB%83%89%EC%9D%B4/): 식용 원료
-- [지칭개](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EC%B9%AD%EA%B0%9C/): 식용 원료
-- [뽀리뱅이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%80%EB%A6%AC%EB%B1%85%EC%9D%B4/): 식용 원료
-- [광대나물](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B4%91%EB%8C%80%EB%82%98%EB%AC%BC/): 식품원료 확인 필요
-- [별꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%84%EA%BD%83/): 식용 원료
-- [쇠별꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%B3%84%EA%BD%83/): 식용 원료
-- [꽃마리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EB%A7%88%EB%A6%AC/): 식용 원료
-- [돌단풍](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%8B%A8%ED%92%8D/): 식용 원료
-- [풀솜대](https://nongmani.com/nongmani-yakcho/yakcho/%ED%92%80%EC%86%9C%EB%8C%80/): 식용 원료, 다른 이름 지장보살
-- [얼레지](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%BC%EB%A0%88%EC%A7%80/): 식용 · 주의
-- [두메부추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EB%A9%94%EB%B6%80%EC%B6%94/): 식용 원료
-- [수영](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EC%98%81/): 식용 · 주의, 다른 이름 시금초
-- [소리쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%8C%EB%A6%AC%EC%9F%81%EC%9D%B4/): 식용 · 주의
-- [메꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A9%94%EA%BD%83/): 식용 원료
-- [닭의장풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%AD%EC%9D%98%EC%9E%A5%ED%92%80/): 식용 원료, 다른 이름 달개비
-- [자운영](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%90%EC%9A%B4%EC%98%81/): 식용 원료
-- [고마리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%A7%88%EB%A6%AC/): 식용 원료
-- [마타리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%ED%83%80%EB%A6%AC/): 식용 원료
-- [뚝갈](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9A%9D%EA%B0%88/): 식용 원료
-- [번행초](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B2%88%ED%96%89%EC%B4%88/): 식용 원료
-- [조뱅이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A1%B0%EB%B1%85%EC%9D%B4/): 식용 원료
-- [죽순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A3%BD%EC%88%9C/): 식용 원료, 다른 이름 맹종죽순
-- [순채](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%9C%EC%B1%84/): 식품원료 확인 필요
-- [아주까리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%A3%BC%EA%B9%8C%EB%A6%AC/): 식용 · 주의, 다른 이름 피마자
-- [고추냉이](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%B6%94%EB%83%89%EC%9D%B4/): 식용 원료, 다른 이름 와사비
-- [만삼](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%8C%EC%82%BC/): 식품원료 확인 필요
-- [소경불알](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%8C%EA%B2%BD%EB%B6%88%EC%95%8C/): 식품원료 확인 필요, 다른 이름 알더덕
-- [양하](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%91%ED%95%98/): 식용 원료
-- [울금](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B8%EA%B8%88/): 식용 원료
-- [토란](https://nongmani.com/nongmani-yakcho/yakcho/%ED%86%A0%EB%9E%80/): 식용 · 주의
-- [곰보배추](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%B0%EB%B3%B4%EB%B0%B0%EC%B6%94/): 식품원료 확인 필요, 다른 이름 배암차즈기, 뱀차즈기
-- [환삼덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%98%EC%82%BC%EB%8D%A9%EA%B5%B4/): 식품원료 확인 필요
-- [여뀌](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EB%80%8C/): 식품원료 확인 필요, 다른 이름 버들여뀌
-- [맥문동](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A5%EB%AC%B8%EB%8F%99/): 식품원료 확인 필요, 다른 이름 소엽맥문동
-- [천문동](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EB%AC%B8%EB%8F%99/): 식품원료 확인 필요
-- [지치](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EC%B9%98/): 식품원료 확인 필요, 다른 이름 자초, 자근
-- [하늘타리](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EB%8A%98%ED%83%80%EB%A6%AC/): 식품원료 확인 필요, 다른 이름 과루, 과루인, 천화분
-- [청미래덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%AD%EB%AF%B8%EB%9E%98%EB%8D%A9%EA%B5%B4/): 식품원료 확인 필요, 다른 이름 망개, 토복령
-- [느릅나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%90%EB%A6%85%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 유근피
-- [시호](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8B%9C%ED%98%B8/): 식품원료 확인 필요, 다른 이름 참시호
-- [천궁](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EA%B6%81/): 식품원료 확인 필요, 다른 이름 궁궁이
-- [구릿대](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EB%A6%BF%EB%8C%80/): 식품원료 확인 필요, 다른 이름 백지
-- [고본](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%B3%B8/): 식품원료 확인 필요
-- [백작약](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EC%9E%91%EC%95%BD/): 식품원료 확인 필요
-- [산작약](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%9E%91%EC%95%BD/): 식품원료 확인 필요
-- [현삼](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%84%EC%82%BC/): 식품원료 확인 필요
-- [단삼](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A8%EC%82%BC/): 식품원료 확인 필요
-- [고삼](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%82%BC/): 식품원료 확인 필요, 다른 이름 도둑놈의지팡이
-- [지모](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EB%AA%A8/): 식품원료 확인 필요
-- [황금](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EA%B8%88/): 식품원료 확인 필요, 다른 이름 속썩은풀
-- [깽깽이풀](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B9%BD%EA%B9%BD%EC%9D%B4%ED%92%80/): 식품원료 확인 필요
-- [승마](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8A%B9%EB%A7%88/): 식품원료 확인 필요, 다른 이름 촛대승마, 눈빛승마
-- [위령선](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%84%EB%A0%B9%EC%84%A0/): 식품원료 확인 필요, 다른 이름 으아리
-- [두충](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EC%B6%A9/): 식품원료 확인 필요, 다른 이름 두충나무
-- [뽕나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%95%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 상백피, 상지, 산뽕나무
-- [닥나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A5%EB%82%98%EB%AC%B4/): 식품원료 확인 필요
-- [노박덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%B0%95%EB%8D%A9%EA%B5%B4/): 식품원료 확인 필요
-- [회화나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%9A%8C%ED%99%94%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 괴화
-- [골담초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A8%EB%8B%B4%EC%B4%88/): 식품원료 확인 필요
-- [누리장나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%84%EB%A6%AC%EC%9E%A5%EB%82%98%EB%AC%B4/): 식품원료 확인 필요, 다른 이름 취오동
-- [쥐똥나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A5%90%EB%98%A5%EB%82%98%EB%AC%B4/): 식품원료 확인 필요
-- [황칠나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EC%B9%A0%EB%82%98%EB%AC%B4/): 식품원료 확인 필요
-- [쥐다래](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A5%90%EB%8B%A4%EB%9E%98/): 식용 원료
-- [개암](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%95%94/): 식용 원료, 다른 이름 개암나무
-- [고욤](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%9A%A4/): 식용 원료, 다른 이름 고욤나무
-- [앵두](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%B5%EB%91%90/): 식용 원료
-- [줄딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A4%84%EB%94%B8%EA%B8%B0/): 식용 원료
-- [멍석딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A9%8D%EC%84%9D%EB%94%B8%EA%B8%B0/): 식용 원료
-- [유자](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%A0%EC%9E%90/): 식용 원료
-- [살구](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B4%EA%B5%AC/): 식용 · 주의
-- [찔레](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%94%EB%A0%88/): 식품원료 확인 필요, 다른 이름 찔레꽃, 영실
-- [가래](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%80%EB%9E%98/): 식품원료 확인 필요, 다른 이름 가래나무
-- [차풀](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%A8%ED%92%80/): 식품원료 확인 필요
-- [바위솔](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%94%EC%9C%84%EC%86%94/): 식품원료 확인 필요, 다른 이름 와송
-- [돌외](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EC%99%B8/): 식품원료 확인 필요, 다른 이름 덩굴차, 교고람
-- [용담](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%A9%EB%8B%B4/): 식품원료 확인 필요, 다른 이름 초룡담
-- [마디풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EB%94%94%ED%92%80/): 식품원료 확인 필요, 다른 이름 편축
-- [택사](https://nongmani.com/nongmani-yakcho/yakcho/%ED%83%9D%EC%82%AC/): 식품원료 확인 필요
-- [창포](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%BD%ED%8F%AC/): 식품원료 확인 필요, 다른 이름 석창포
-- [부들](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%80%EB%93%A4/): 식품원료 확인 필요, 다른 이름 포황
-- [갈대](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%88%EB%8C%80/): 식품원료 확인 필요, 다른 이름 노근
-- [띠](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9D%A0/): 식품원료 확인 필요, 다른 이름 백모근
-- [동충하초](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%99%EC%B6%A9%ED%95%98%EC%B4%88/): 식품원료 확인 필요, 다른 이름 번데기동충하초
-- [개옻나무](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%98%BB%EB%82%98%EB%AC%B4/): 독초 · 먹으면 위험
-- [삿갓나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BF%EA%B0%93%EB%82%98%EB%AC%BC/): 독초 · 먹으면 위험
-- [미나리아재비](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EB%82%98%EB%A6%AC%EC%95%84%EC%9E%AC%EB%B9%84/): 독초 · 먹으면 위험
-- [컴프리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%BB%B4%ED%94%84%EB%A6%AC/): 독초 · 먹으면 위험, 다른 이름 컴프리잎
-- [카바](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%B4%EB%B0%94/): 독초 · 먹으면 위험, 다른 이름 카바카바
-- [센나](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%BC%EB%82%98/): 독초 · 먹으면 위험, 다른 이름 센나잎, 센나엽
-- [요힘베](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%94%ED%9E%98%EB%B2%A0/): 독초 · 먹으면 위험, 다른 이름 요힘빈
-- [수선화](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EC%84%A0%ED%99%94/): 독초 · 먹으면 위험
-- [마귀광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EA%B7%80%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): 독초 · 먹으면 위험
-- [독흰갈대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%ED%9D%B0%EA%B0%88%EB%8C%80%EB%B2%84%EC%84%AF/): 독초 · 먹으면 위험
+- [고사리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%82%AC%EB%A6%AC/): ⚠️ 주의해서 먹어요
+- [고비](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%B9%84/): ⚠️ 주의해서 먹어요
+- [참취](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EC%B7%A8/): ✅ 먹을 수 있어요, 다른 이름 취나물, 취
+- [곰취](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%B0%EC%B7%A8/): ⚠️ 주의해서 먹어요
+- [참나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요
+- [산마늘](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%A7%88%EB%8A%98/): ⚠️ 주의해서 먹어요, 다른 이름 명이, 명이나물
+- [두릅](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EB%A6%85/): ⚠️ 주의해서 먹어요, 다른 이름 참두릅, 두릅순
+- [엄나무순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%84%EB%82%98%EB%AC%B4%EC%88%9C/): ⚠️ 주의해서 먹어요, 다른 이름 개두릅, 음나무순
+- [땅두릅](https://nongmani.com/nongmani-yakcho/yakcho/%EB%95%85%EB%91%90%EB%A6%85/): ⚠️ 주의해서 먹어요, 다른 이름 독활순
+- [오가피순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EA%B0%80%ED%94%BC%EC%88%9C/): ✅ 먹을 수 있어요, 다른 이름 오갈피순
+- [다래순](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A4%EB%9E%98%EC%88%9C/): ✅ 먹을 수 있어요
+- [미역취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EC%97%AD%EC%B7%A8/): ✅ 먹을 수 있어요
+- [수리취](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EB%A6%AC%EC%B7%A8/): ✅ 먹을 수 있어요
+- [곤드레](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A4%EB%93%9C%EB%A0%88/): ✅ 먹을 수 있어요, 다른 이름 고려엉겅퀴
+- [곤달비](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A4%EB%8B%AC%EB%B9%84/): ✅ 먹을 수 있어요
+- [어수리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%B4%EC%88%98%EB%A6%AC/): ✅ 먹을 수 있어요
+- [산부추](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%B6%80%EC%B6%94/): ✅ 먹을 수 있어요
+- [달래](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%AC%EB%9E%98/): ✅ 먹을 수 있어요
+- [냉이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%83%89%EC%9D%B4/): ✅ 먹을 수 있어요
+- [쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EC%91%A5/): ⚠️ 주의해서 먹어요, 다른 이름 약쑥, 참쑥
+- [머위](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A8%B8%EC%9C%84/): ✅ 먹을 수 있어요, 다른 이름 머윗대
+- [원추리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9B%90%EC%B6%94%EB%A6%AC/): ⚠️ 주의해서 먹어요
+- [비비추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EB%B9%84%EC%B6%94/): ✅ 먹을 수 있어요
+- [씀바귀](https://nongmani.com/nongmani-yakcho/yakcho/%EC%94%80%EB%B0%94%EA%B7%80/): ✅ 먹을 수 있어요
+- [고들빼기](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%93%A4%EB%B9%BC%EA%B8%B0/): ✅ 먹을 수 있어요
+- [돌나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요, 다른 이름 돈나물
+- [질경이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%88%EA%B2%BD%EC%9D%B4/): ✅ 먹을 수 있어요
+- [민들레](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%BC%EB%93%A4%EB%A0%88/): ✅ 먹을 수 있어요
+- [쇠비름](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%B9%84%EB%A6%84/): ✅ 먹을 수 있어요
+- [방풍나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A9%ED%92%8D%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요, 다른 이름 갯기름나물, 식방풍
+- [우산나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%82%B0%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요
+- [홑잎나물](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%91%EC%9E%8E%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요, 다른 이름 화살나무순
+- [참죽순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%B8%EC%A3%BD%EC%88%9C/): ✅ 먹을 수 있어요, 다른 이름 참죽나물, 가죽나물
+- [눈개승마](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%88%EA%B0%9C%EC%8A%B9%EB%A7%88/): ✅ 먹을 수 있어요, 다른 이름 삼나물
+- [전호](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A0%84%ED%98%B8/): ✅ 먹을 수 있어요
+- [모시대](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EC%8B%9C%EB%8C%80/): ✅ 먹을 수 있어요
+- [누리대](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%84%EB%A6%AC%EB%8C%80/): 🔍 확인 중이에요
+- [고추나무순](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%B6%94%EB%82%98%EB%AC%B4%EC%88%9C/): ✅ 먹을 수 있어요
+- [산초잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%B4%88%EC%9E%8E/): ✅ 먹을 수 있어요, 다른 이름 초피잎
+- [엉겅퀴](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%89%EA%B2%85%ED%80%B4/): ✅ 먹을 수 있어요
+- [도라지](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%84%EB%9D%BC%EC%A7%80/): ✅ 먹을 수 있어요, 다른 이름 약도라지, 백도라지
+- [더덕](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8D%94%EB%8D%95/): ✅ 먹을 수 있어요, 다른 이름 산더덕
+- [잔대](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%94%EB%8C%80/): ✅ 먹을 수 있어요, 다른 이름 딱주, 사삼
+- [칡](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%A1/): ✅ 먹을 수 있어요, 다른 이름 칡뿌리, 갈근
+- [마](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88/): ✅ 먹을 수 있어요, 다른 이름 산약, 참마
+- [둥굴레](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%A5%EA%B5%B4%EB%A0%88/): ✅ 먹을 수 있어요, 다른 이름 옥죽, 황정, 각시둥굴레
+- [우엉](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%97%89/): ✅ 먹을 수 있어요
+- [돼지감자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%BC%EC%A7%80%EA%B0%90%EC%9E%90/): ✅ 먹을 수 있어요, 다른 이름 뚱딴지
+- [삼채](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EC%B1%84/): ✅ 먹을 수 있어요, 다른 이름 뿌리부추
+- [아슈와간다](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%8A%88%EC%99%80%EA%B0%84%EB%8B%A4/): 🔍 확인 중이에요, 다른 이름 아쉬와간다, 아쉬아간다, 인도인삼, 위타니아
+- [세인트존스워트](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%B8%EC%9D%B8%ED%8A%B8%EC%A1%B4%EC%8A%A4%EC%9B%8C%ED%8A%B8/): 🍵 정해진 방법으로 먹어요, 다른 이름 서양고추나물
+- [야콘](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%BC%EC%BD%98/): ✅ 먹을 수 있어요
+- [여주](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EC%A3%BC/): ✅ 먹을 수 있어요, 다른 이름 쓴오이, 비터멜론
+- [비트](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%ED%8A%B8/): ✅ 먹을 수 있어요, 다른 이름 비트루트, 레드비트
+- [아티초크](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%ED%8B%B0%EC%B4%88%ED%81%AC/): ✅ 먹을 수 있어요
+- [블루베리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B8%94%EB%A3%A8%EB%B2%A0%EB%A6%AC/): ✅ 먹을 수 있어요
+- [마카](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EC%B9%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 마카뿌리
+- [로즈마리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A1%9C%EC%A6%88%EB%A7%88%EB%A6%AC/): ✅ 먹을 수 있어요, 다른 이름 로즈메리
+- [라벤더](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9D%BC%EB%B2%A4%EB%8D%94/): ✅ 먹을 수 있어요, 다른 이름 잉글리시라벤더
+- [레몬밤](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A0%88%EB%AA%AC%EB%B0%A4/): ✅ 먹을 수 있어요, 다른 이름 멜리사
+- [페퍼민트](https://nongmani.com/nongmani-yakcho/yakcho/%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8/): ✅ 먹을 수 있어요, 다른 이름 서양박하
+- [캐모마일](https://nongmani.com/nongmani-yakcho/yakcho/%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC/): ✅ 먹을 수 있어요, 다른 이름 카모마일, 저먼캐모마일
+- [바질](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%94%EC%A7%88/): ✅ 먹을 수 있어요, 다른 이름 스위트바질
+- [스테비아](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8A%A4%ED%85%8C%EB%B9%84%EC%95%84/): ✅ 먹을 수 있어요, 다른 이름 스테비아잎
+- [레몬그라스](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A0%88%EB%AA%AC%EA%B7%B8%EB%9D%BC%EC%8A%A4/): ✅ 먹을 수 있어요, 다른 이름 레몬글라스, 레몬그래스
+- [모링가](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EB%A7%81%EA%B0%80/): ✅ 먹을 수 있어요, 다른 이름 모링가잎, 드럼스틱
+- [히비스커스](https://nongmani.com/nongmani-yakcho/yakcho/%ED%9E%88%EB%B9%84%EC%8A%A4%EC%BB%A4%EC%8A%A4/): 🍵 정해진 방법으로 먹어요, 다른 이름 로젤, 히비스커스차
+- [사프란](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%AC%ED%94%84%EB%9E%80/): ✅ 먹을 수 있어요, 다른 이름 샤프란
+- [연근](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EA%B7%BC/): ✅ 먹을 수 있어요
+- [생강](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%9D%EA%B0%95/): ✅ 먹을 수 있어요
+- [산삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%82%BC/): ✅ 먹을 수 있어요, 다른 이름 자연삼, 천종산삼, 지종산삼
+- [산양삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%96%91%EC%82%BC/): ✅ 먹을 수 있어요, 다른 이름 장뇌삼
+- [인삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B8%EC%82%BC/): ✅ 먹을 수 있어요, 다른 이름 수삼, 홍삼
+- [황기](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EA%B8%B0/): ✅ 먹을 수 있어요, 다른 이름 단너삼
+- [당귀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%B9%EA%B7%80/): ✅ 먹을 수 있어요, 다른 이름 참당귀
+- [감초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EC%B4%88/): 🍵 정해진 방법으로 먹어요
+- [천마](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EB%A7%88/): ✅ 먹을 수 있어요
+- [하수오](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EC%88%98%EC%98%A4/): 💊 한약재 · 판매 안 해요, 다른 이름 적하수오
+- [백수오](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EC%88%98%EC%98%A4/): 🍵 정해진 방법으로 먹어요, 다른 이름 큰조롱, 은조롱
+- [작약](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%91%EC%95%BD/): 🍵 정해진 방법으로 먹어요, 다른 이름 함박꽃
+- [지황](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%ED%99%A9/): 🍵 정해진 방법으로 먹어요, 다른 이름 생지황, 숙지황
+- [우슬](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B0%EC%8A%AC/): ✅ 먹을 수 있어요, 다른 이름 쇠무릎
+- [오가피](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EA%B0%80%ED%94%BC/): ✅ 먹을 수 있어요, 다른 이름 오갈피, 가시오가피
+- [삽주](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BD%EC%A3%BC/): 🍵 정해진 방법으로 먹어요, 다른 이름 백출, 창출
+- [독활](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%ED%99%9C/): ✅ 먹을 수 있어요
+- [강활](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%95%ED%99%9C/): 💊 한약재 · 판매 안 해요
+- [삼지구엽초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EC%A7%80%EA%B5%AC%EC%97%BD%EC%B4%88/): 🍵 정해진 방법으로 먹어요, 다른 이름 음양곽
+- [하고초](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EA%B3%A0%EC%B4%88/): ✅ 먹을 수 있어요, 다른 이름 꿀풀
+- [금은화](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B8%88%EC%9D%80%ED%99%94/): 🍵 정해진 방법으로 먹어요, 다른 이름 인동, 인동초, 인동덩굴
+- [겨우살이](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B2%A8%EC%9A%B0%EC%82%B4%EC%9D%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 곡기생
+- [엄나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%84%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 음나무, 해동피
+- [생강나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%9D%EA%B0%95%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 동박나무
+- [구절초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EC%A0%88%EC%B4%88/): 🍵 정해진 방법으로 먹어요
+- [삼백초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BC%EB%B0%B1%EC%B4%88/): 🍵 정해진 방법으로 먹어요
+- [어성초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%B4%EC%84%B1%EC%B4%88/): 🍵 정해진 방법으로 먹어요, 다른 이름 약모밀
+- [개똥쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%98%A5%EC%91%A5/): 🍵 정해진 방법으로 먹어요, 다른 이름 청호
+- [인진쑥](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B8%EC%A7%84%EC%91%A5/): ✅ 먹을 수 있어요, 다른 이름 사철쑥
+- [쇠뜨기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%9C%A8%EA%B8%B0/): ✅ 먹을 수 있어요
+- [익모초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%B5%EB%AA%A8%EC%B4%88/): 🍵 정해진 방법으로 먹어요
+- [화살나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%94%EC%82%B4%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 귀전우
+- [오미자](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EB%AF%B8%EC%9E%90/): ✅ 먹을 수 있어요
+- [구기자](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EA%B8%B0%EC%9E%90/): ✅ 먹을 수 있어요
+- [꾸지뽕](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BE%B8%EC%A7%80%EB%BD%95/): ✅ 먹을 수 있어요, 다른 이름 꾸지뽕열매
+- [마가목](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EA%B0%80%EB%AA%A9/): ✅ 먹을 수 있어요, 다른 이름 마가목열매
+- [헛개](https://nongmani.com/nongmani-yakcho/yakcho/%ED%97%9B%EA%B0%9C/): ✅ 먹을 수 있어요, 다른 이름 헛개열매, 지구자
+- [산수유](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%88%98%EC%9C%A0/): ⚠️ 주의해서 먹어요
+- [대추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8C%80%EC%B6%94/): ✅ 먹을 수 있어요, 다른 이름 산대추
+- [복분자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B5%EB%B6%84%EC%9E%90/): ✅ 먹을 수 있어요
+- [산딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EB%94%B8%EA%B8%B0/): ✅ 먹을 수 있어요
+- [머루](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A8%B8%EB%A3%A8/): ✅ 먹을 수 있어요, 다른 이름 산머루
+- [다래](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A4%EB%9E%98/): ✅ 먹을 수 있어요, 다른 이름 토종다래
+- [으름](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%BC%EB%A6%84/): ✅ 먹을 수 있어요, 다른 이름 으름열매
+- [돌배](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%B0%B0/): ✅ 먹을 수 있어요
+- [아로니아](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EB%A1%9C%EB%8B%88%EC%95%84/): ✅ 먹을 수 있어요
+- [오디](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EB%94%94/): ✅ 먹을 수 있어요
+- [보리수](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B4%EB%A6%AC%EC%88%98/): ✅ 먹을 수 있어요, 다른 이름 보리수열매
+- [산사](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%82%AC/): ✅ 먹을 수 있어요, 다른 이름 산사자, 산사나무열매
+- [모과](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A8%EA%B3%BC/): ✅ 먹을 수 있어요
+- [개복숭아](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%B3%B5%EC%88%AD%EC%95%84/): ⚠️ 주의해서 먹어요, 다른 이름 돌복숭아
+- [매실](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A4%EC%8B%A4/): ⚠️ 주의해서 먹어요
+- [도토리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%84%ED%86%A0%EB%A6%AC/): ✅ 먹을 수 있어요
+- [잣](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%A3/): ✅ 먹을 수 있어요
+- [밤](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A4/): ✅ 먹을 수 있어요, 다른 이름 산밤
+- [호두](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%B8%EB%91%90/): ✅ 먹을 수 있어요
+- [산초](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%B4%88/): ✅ 먹을 수 있어요, 다른 이름 초피, 제피
+- [은행](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%80%ED%96%89/): ⚠️ 주의해서 먹어요
+- [결명자](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B2%B0%EB%AA%85%EC%9E%90/): ✅ 먹을 수 있어요
+- [탱자](https://nongmani.com/nongmani-yakcho/yakcho/%ED%83%B1%EC%9E%90/): ✅ 먹을 수 있어요, 다른 이름 지실
+- [개다래](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%8B%A4%EB%9E%98/): ✅ 먹을 수 있어요, 다른 이름 충영
+- [비자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EC%9E%90/): ✅ 먹을 수 있어요
+- [뽕잎](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%95%EC%9E%8E/): ✅ 먹을 수 있어요
+- [감잎](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EC%9E%8E/): ✅ 먹을 수 있어요
+- [연잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EC%9E%8E/): ✅ 먹을 수 있어요
+- [연꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%B0%EA%BD%83/): ✅ 먹을 수 있어요
+- [녹차](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B9%EC%B0%A8/): ✅ 먹을 수 있어요, 다른 이름 작설차
+- [솔잎](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%94%EC%9E%8E/): ✅ 먹을 수 있어요
+- [감국](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%90%EA%B5%AD/): ✅ 먹을 수 있어요, 다른 이름 국화, 산국
+- [진달래꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%84%EB%8B%AC%EB%9E%98%EA%BD%83/): ⚠️ 주의해서 먹어요, 다른 이름 참꽃
+- [아카시아꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%B9%B4%EC%8B%9C%EC%95%84%EA%BD%83/): ✅ 먹을 수 있어요
+- [매화](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A4%ED%99%94/): ✅ 먹을 수 있어요
+- [칡꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%A1%EA%BD%83/): 🍵 정해진 방법으로 먹어요
+- [목련꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A9%EB%A0%A8%EA%BD%83/): ✅ 먹을 수 있어요, 다른 이름 신이
+- [조릿대](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A1%B0%EB%A6%BF%EB%8C%80/): 🍵 정해진 방법으로 먹어요
+- [비파잎](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%ED%8C%8C%EC%9E%8E/): 🍵 정해진 방법으로 먹어요
+- [송이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%A1%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 송이버섯
+- [능이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%A5%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 능이버섯
+- [표고](https://nongmani.com/nongmani-yakcho/yakcho/%ED%91%9C%EA%B3%A0/): ✅ 먹을 수 있어요, 다른 이름 표고버섯
+- [목이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A9%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 목이버섯
+- [느타리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%90%ED%83%80%EB%A6%AC/): ✅ 먹을 수 있어요, 다른 이름 느타리버섯
+- [노루궁뎅이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%A3%A8%EA%B6%81%EB%8E%85%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 노루궁뎅이버섯
+- [영지](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%81%EC%A7%80/): ✅ 먹을 수 있어요, 다른 이름 영지버섯
+- [상황](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%81%ED%99%A9/): ✅ 먹을 수 있어요, 다른 이름 상황버섯
+- [꽃송이버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EC%86%A1%EC%9D%B4%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요
+- [석이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%9D%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 석이버섯
+- [싸리버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8B%B8%EB%A6%AC%EB%B2%84%EC%84%AF/): ⚠️ 주의해서 먹어요
+- [차가버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%A8%EA%B0%80%EB%B2%84%EC%84%AF/): 🍵 정해진 방법으로 먹어요, 다른 이름 차가
+- [오배자](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%A4%EB%B0%B0%EC%9E%90/): 💊 한약재 · 판매 안 해요
+- [까마중](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B9%8C%EB%A7%88%EC%A4%91/): 💊 한약재 · 판매 안 해요, 다른 이름 용규, 까마중열매
+- [행인](https://nongmani.com/nongmani-yakcho/yakcho/%ED%96%89%EC%9D%B8/): 💊 한약재 · 판매 안 해요, 다른 이름 살구씨
+- [상기생](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%81%EA%B8%B0%EC%83%9D/): 💊 한약재 · 판매 안 해요, 다른 이름 뽕나무겨우살이
+- [애기똥풀](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%A0%EA%B8%B0%EB%98%A5%ED%92%80/): 💊 한약재 · 판매 안 해요, 다른 이름 백굴채
+- [백선피](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EC%84%A0%ED%94%BC/): 💊 한약재 · 판매 안 해요, 다른 이름 백선
+- [방풍](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A9%ED%92%8D/): 💊 한약재 · 판매 안 해요, 다른 이름 방풍뿌리
+- [여정실](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EC%A0%95%EC%8B%A4/): 💊 한약재 · 판매 안 해요, 다른 이름 광나무열매
+- [황백](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EB%B0%B1/): 💊 한약재 · 판매 안 해요, 다른 이름 황벽나무, 황벽
+- [목통](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%A9%ED%86%B5/): 💊 한약재 · 판매 안 해요, 다른 이름 으름덩굴줄기
+- [반하](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%98%ED%95%98/): 💊 한약재 · 판매 안 해요
+- [박새](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%95%EC%83%88/): ☠️ 독초 · 먹으면 안 돼요
+- [여로](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EB%A1%9C/): ☠️ 독초 · 먹으면 안 돼요
+- [은방울꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9D%80%EB%B0%A9%EC%9A%B8%EA%BD%83/): ☠️ 독초 · 먹으면 안 돼요
+- [동의나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%99%EC%9D%98%EB%82%98%EB%AC%BC/): ☠️ 독초 · 먹으면 안 돼요
+- [미국자리공](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EA%B5%AD%EC%9E%90%EB%A6%AC%EA%B3%B5/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 자리공, 상륙
+- [산괴불주머니](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EA%B4%B4%EB%B6%88%EC%A3%BC%EB%A8%B8%EB%8B%88/): ☠️ 독초 · 먹으면 안 돼요
+- [투구꽃](https://nongmani.com/nongmani-yakcho/yakcho/%ED%88%AC%EA%B5%AC%EA%BD%83/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 초오
+- [지리강활](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EB%A6%AC%EA%B0%95%ED%99%9C/): ☠️ 독초 · 먹으면 안 돼요
+- [독미나리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EB%AF%B8%EB%82%98%EB%A6%AC/): ☠️ 독초 · 먹으면 안 돼요
+- [독우산광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EC%9A%B0%EC%82%B0%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [개나리광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%82%98%EB%A6%AC%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [화경버섯](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%94%EA%B2%BD%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [노란다발](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%9E%80%EB%8B%A4%EB%B0%9C/): ☠️ 독초 · 먹으면 안 돼요
+- [미나리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EB%82%98%EB%A6%AC/): ⚠️ 주의해서 먹어요, 다른 이름 돌미나리
+- [비름](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EB%A6%84/): ✅ 먹을 수 있어요, 다른 이름 참비름
+- [명아주](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AA%85%EC%95%84%EC%A3%BC/): ✅ 먹을 수 있어요, 다른 이름 는쟁이
+- [개미취](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%AF%B8%EC%B7%A8/): ✅ 먹을 수 있어요
+- [단풍취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A8%ED%92%8D%EC%B7%A8/): ✅ 먹을 수 있어요, 다른 이름 괴발딱취
+- [병풍취](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%91%ED%92%8D%EC%B7%A8/): ✅ 먹을 수 있어요, 다른 이름 병풍쌈
+- [왕고들빼기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%99%95%EA%B3%A0%EB%93%A4%EB%B9%BC%EA%B8%B0/): ✅ 먹을 수 있어요
+- [섬쑥부쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%AC%EC%91%A5%EB%B6%80%EC%9F%81%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 부지갱이
+- [쑥부쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%91%A5%EB%B6%80%EC%9F%81%EC%9D%B4/): ✅ 먹을 수 있어요
+- [비짜루](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B9%84%EC%A7%9C%EB%A3%A8/): ✅ 먹을 수 있어요
+- [꽃다지](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EB%8B%A4%EC%A7%80/): ✅ 먹을 수 있어요
+- [파드득나물](https://nongmani.com/nongmani-yakcho/yakcho/%ED%8C%8C%EB%93%9C%EB%93%9D%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요, 다른 이름 삼엽채
+- [황새냉이](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EC%83%88%EB%83%89%EC%9D%B4/): ✅ 먹을 수 있어요
+- [지칭개](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EC%B9%AD%EA%B0%9C/): ✅ 먹을 수 있어요
+- [뽀리뱅이](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%80%EB%A6%AC%EB%B1%85%EC%9D%B4/): ✅ 먹을 수 있어요
+- [광대나물](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B4%91%EB%8C%80%EB%82%98%EB%AC%BC/): ✅ 먹을 수 있어요
+- [별꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%84%EA%BD%83/): ✅ 먹을 수 있어요
+- [쇠별꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EC%87%A0%EB%B3%84%EA%BD%83/): ✅ 먹을 수 있어요
+- [꽃마리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EB%A7%88%EB%A6%AC/): ✅ 먹을 수 있어요
+- [돌단풍](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EB%8B%A8%ED%92%8D/): ✅ 먹을 수 있어요
+- [풀솜대](https://nongmani.com/nongmani-yakcho/yakcho/%ED%92%80%EC%86%9C%EB%8C%80/): ✅ 먹을 수 있어요, 다른 이름 지장보살
+- [얼레지](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%BC%EB%A0%88%EC%A7%80/): ⚠️ 주의해서 먹어요
+- [두메부추](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EB%A9%94%EB%B6%80%EC%B6%94/): ✅ 먹을 수 있어요
+- [수영](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EC%98%81/): ⚠️ 주의해서 먹어요, 다른 이름 시금초
+- [소리쟁이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%8C%EB%A6%AC%EC%9F%81%EC%9D%B4/): ⚠️ 주의해서 먹어요
+- [메꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A9%94%EA%BD%83/): ✅ 먹을 수 있어요
+- [닭의장풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%AD%EC%9D%98%EC%9E%A5%ED%92%80/): ✅ 먹을 수 있어요, 다른 이름 달개비
+- [자운영](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%90%EC%9A%B4%EC%98%81/): ✅ 먹을 수 있어요
+- [고마리](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%A7%88%EB%A6%AC/): ✅ 먹을 수 있어요
+- [마타리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%ED%83%80%EB%A6%AC/): ✅ 먹을 수 있어요
+- [뚝갈](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9A%9D%EA%B0%88/): ✅ 먹을 수 있어요
+- [번행초](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B2%88%ED%96%89%EC%B4%88/): ✅ 먹을 수 있어요
+- [조뱅이](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A1%B0%EB%B1%85%EC%9D%B4/): ✅ 먹을 수 있어요
+- [죽순](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A3%BD%EC%88%9C/): ✅ 먹을 수 있어요, 다른 이름 맹종죽순
+- [순채](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%9C%EC%B1%84/): 🔍 확인 중이에요
+- [아주까리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%84%EC%A3%BC%EA%B9%8C%EB%A6%AC/): ⚠️ 주의해서 먹어요, 다른 이름 피마자
+- [고추냉이](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%B6%94%EB%83%89%EC%9D%B4/): ✅ 먹을 수 있어요, 다른 이름 와사비
+- [만삼](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%8C%EC%82%BC/): 🍵 정해진 방법으로 먹어요
+- [소경불알](https://nongmani.com/nongmani-yakcho/yakcho/%EC%86%8C%EA%B2%BD%EB%B6%88%EC%95%8C/): 🔍 확인 중이에요, 다른 이름 알더덕
+- [양하](https://nongmani.com/nongmani-yakcho/yakcho/%EC%96%91%ED%95%98/): ✅ 먹을 수 있어요
+- [울금](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%B8%EA%B8%88/): ✅ 먹을 수 있어요
+- [토란](https://nongmani.com/nongmani-yakcho/yakcho/%ED%86%A0%EB%9E%80/): ⚠️ 주의해서 먹어요
+- [곰보배추](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%B0%EB%B3%B4%EB%B0%B0%EC%B6%94/): ✅ 먹을 수 있어요, 다른 이름 배암차즈기, 뱀차즈기
+- [환삼덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%98%EC%82%BC%EB%8D%A9%EA%B5%B4/): 🍵 정해진 방법으로 먹어요
+- [여뀌](https://nongmani.com/nongmani-yakcho/yakcho/%EC%97%AC%EB%80%8C/): ✅ 먹을 수 있어요, 다른 이름 버들여뀌
+- [맥문동](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%A5%EB%AC%B8%EB%8F%99/): 🍵 정해진 방법으로 먹어요, 다른 이름 소엽맥문동
+- [천문동](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EB%AC%B8%EB%8F%99/): 🍵 정해진 방법으로 먹어요
+- [지치](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EC%B9%98/): ✅ 먹을 수 있어요, 다른 이름 자초, 자근
+- [하늘타리](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%98%EB%8A%98%ED%83%80%EB%A6%AC/): 💊 한약재 · 판매 안 해요, 다른 이름 과루, 과루인, 천화분
+- [청미래덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%AD%EB%AF%B8%EB%9E%98%EB%8D%A9%EA%B5%B4/): ✅ 먹을 수 있어요, 다른 이름 망개, 토복령
+- [느릅나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8A%90%EB%A6%85%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 유근피
+- [시호](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8B%9C%ED%98%B8/): ✅ 먹을 수 있어요, 다른 이름 참시호
+- [천궁](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EA%B6%81/): 🍵 정해진 방법으로 먹어요, 다른 이름 궁궁이
+- [구릿대](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EB%A6%BF%EB%8C%80/): 💊 한약재 · 판매 안 해요, 다른 이름 백지
+- [고본](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%B3%B8/): 🍵 정해진 방법으로 먹어요
+- [백작약](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EC%9E%91%EC%95%BD/): 🍵 정해진 방법으로 먹어요
+- [산작약](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EC%9E%91%EC%95%BD/): 🔍 확인 중이에요
+- [현삼](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%84%EC%82%BC/): 💊 한약재 · 판매 안 해요
+- [단삼](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A8%EC%82%BC/): ✅ 먹을 수 있어요
+- [고삼](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%82%BC/): 💊 한약재 · 판매 안 해요, 다른 이름 도둑놈의지팡이
+- [지모](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EB%AA%A8/): 💊 한약재 · 판매 안 해요
+- [황금](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EA%B8%88/): ✅ 먹을 수 있어요, 다른 이름 속썩은풀
+- [깽깽이풀](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B9%BD%EA%B9%BD%EC%9D%B4%ED%92%80/): 🔍 확인 중이에요
+- [승마](https://nongmani.com/nongmani-yakcho/yakcho/%EC%8A%B9%EB%A7%88/): 💊 한약재 · 판매 안 해요, 다른 이름 촛대승마, 눈빛승마
+- [위령선](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%84%EB%A0%B9%EC%84%A0/): ✅ 먹을 수 있어요, 다른 이름 으아리
+- [두충](https://nongmani.com/nongmani-yakcho/yakcho/%EB%91%90%EC%B6%A9/): ✅ 먹을 수 있어요, 다른 이름 두충나무
+- [뽕나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%95%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 상백피, 상지, 산뽕나무
+- [닥나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8B%A5%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요
+- [노박덩굴](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%B0%95%EB%8D%A9%EA%B5%B4/): ✅ 먹을 수 있어요
+- [회화나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%9A%8C%ED%99%94%EB%82%98%EB%AC%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 괴화
+- [골담초](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A8%EB%8B%B4%EC%B4%88/): ✅ 먹을 수 있어요
+- [누리장나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%88%84%EB%A6%AC%EC%9E%A5%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 취오동
+- [쥐똥나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A5%90%EB%98%A5%EB%82%98%EB%AC%B4/): 💊 한약재 · 판매 안 해요
+- [황칠나무](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%A9%EC%B9%A0%EB%82%98%EB%AC%B4/): 🍵 정해진 방법으로 먹어요
+- [쥐다래](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A5%90%EB%8B%A4%EB%9E%98/): ✅ 먹을 수 있어요
+- [개암](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%95%94/): ✅ 먹을 수 있어요, 다른 이름 개암나무
+- [고욤](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EC%9A%A4/): ✅ 먹을 수 있어요, 다른 이름 고욤나무
+- [앵두](https://nongmani.com/nongmani-yakcho/yakcho/%EC%95%B5%EB%91%90/): ✅ 먹을 수 있어요
+- [줄딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A4%84%EB%94%B8%EA%B8%B0/): ✅ 먹을 수 있어요
+- [멍석딸기](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A9%8D%EC%84%9D%EB%94%B8%EA%B8%B0/): ✅ 먹을 수 있어요
+- [유자](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9C%A0%EC%9E%90/): ✅ 먹을 수 있어요
+- [살구](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B4%EA%B5%AC/): ⚠️ 주의해서 먹어요
+- [찔레](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%94%EB%A0%88/): ✅ 먹을 수 있어요, 다른 이름 찔레꽃, 영실
+- [가래](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%80%EB%9E%98/): ✅ 먹을 수 있어요, 다른 이름 가래나무
+- [차풀](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%A8%ED%92%80/): ✅ 먹을 수 있어요
+- [바위솔](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%94%EC%9C%84%EC%86%94/): ✅ 먹을 수 있어요, 다른 이름 와송
+- [돌외](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%8C%EC%99%B8/): ✅ 먹을 수 있어요, 다른 이름 덩굴차, 교고람
+- [용담](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%A9%EB%8B%B4/): 💊 한약재 · 판매 안 해요, 다른 이름 초룡담
+- [마디풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EB%94%94%ED%92%80/): ✅ 먹을 수 있어요, 다른 이름 편축
+- [택사](https://nongmani.com/nongmani-yakcho/yakcho/%ED%83%9D%EC%82%AC/): 💊 한약재 · 판매 안 해요
+- [창포](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%BD%ED%8F%AC/): 💊 한약재 · 판매 안 해요, 다른 이름 석창포
+- [부들](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%80%EB%93%A4/): 💊 한약재 · 판매 안 해요, 다른 이름 포황
+- [갈대](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%88%EB%8C%80/): ✅ 먹을 수 있어요, 다른 이름 노근
+- [띠](https://nongmani.com/nongmani-yakcho/yakcho/%EB%9D%A0/): ✅ 먹을 수 있어요, 다른 이름 백모근
+- [박주가리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%95%EC%A3%BC%EA%B0%80%EB%A6%AC/): 💊 한약재 · 판매 안 해요
+- [새삼](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%88%EC%82%BC/): 🍵 정해진 방법으로 먹어요, 다른 이름 토사자
+- [자귀나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%90%EA%B7%80%EB%82%98%EB%AC%B4/): ✅ 먹을 수 있어요, 다른 이름 합환피
+- [산겨릅나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EA%B2%A8%EB%A6%85%EB%82%98%EB%AC%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 벌나무
+- [고로쇠](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B3%A0%EB%A1%9C%EC%87%A0/): ✅ 먹을 수 있어요, 다른 이름 고로쇠나무
+- [측백나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B8%A1%EB%B0%B1%EB%82%98%EB%AC%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 측백엽, 백자인
+- [옻나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%98%BB%EB%82%98%EB%AC%B4/): 🍵 정해진 방법으로 먹어요, 다른 이름 참옻
+- [현호색](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%84%ED%98%B8%EC%83%89/): ☠️ 독초 · 먹으면 안 돼요
+- [피나물](https://nongmani.com/nongmani-yakcho/yakcho/%ED%94%BC%EB%82%98%EB%AC%BC/): ☠️ 독초 · 먹으면 안 돼요
+- [털머위](https://nongmani.com/nongmani-yakcho/yakcho/%ED%84%B8%EB%A8%B8%EC%9C%84/): 🔍 확인 중이에요
+- [해당화](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%B4%EB%8B%B9%ED%99%94/): ✅ 먹을 수 있어요
+- [배초향](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B0%EC%B4%88%ED%96%A5/): ✅ 먹을 수 있어요, 다른 이름 방아, 방아잎
+- [박하](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%95%ED%95%98/): ✅ 먹을 수 있어요, 다른 이름 영생이
+- [차조기](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B0%A8%EC%A1%B0%EA%B8%B0/): ✅ 먹을 수 있어요, 다른 이름 자소엽, 소엽
+- [함초](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%A8%EC%B4%88/): ✅ 먹을 수 있어요, 다른 이름 퉁퉁마디
+- [갯방풍](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%AF%EB%B0%A9%ED%92%8D/): ✅ 먹을 수 있어요
+- [가시연](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%80%EC%8B%9C%EC%97%B0/): ✅ 먹을 수 있어요, 다른 이름 가시연꽃
+- [밤버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%A4%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요
+- [잎새버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9E%8E%EC%83%88%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요
+- [꾀꼬리버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BE%80%EA%BC%AC%EB%A6%AC%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요
+- [까치버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B9%8C%EC%B9%98%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요
+- [망태버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%9D%ED%83%9C%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요, 다른 이름 망태말뚝버섯
+- [갓버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%93%EB%B2%84%EC%84%AF/): ⚠️ 주의해서 먹어요, 다른 이름 큰갓버섯
+- [개암버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%95%94%EB%B2%84%EC%84%AF/): ⚠️ 주의해서 먹어요
+- [뽕나무버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%BD%95%EB%82%98%EB%AC%B4%EB%B2%84%EC%84%AF/): ⚠️ 주의해서 먹어요
+- [구름버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B5%AC%EB%A6%84%EB%B2%84%EC%84%AF/): ✅ 먹을 수 있어요, 다른 이름 운지
+- [말굽버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%90%EA%B5%BD%EB%B2%84%EC%84%AF/): 🍵 정해진 방법으로 먹어요
+- [복령](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B5%EB%A0%B9/): 🍵 정해진 방법으로 먹어요, 다른 이름 백복령
+- [동충하초](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%99%EC%B6%A9%ED%95%98%EC%B4%88/): ✅ 먹을 수 있어요, 다른 이름 번데기동충하초
+- [개옻나무](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%98%BB%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요
+- [삿갓나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BF%EA%B0%93%EB%82%98%EB%AC%BC/): ☠️ 독초 · 먹으면 안 돼요
+- [미나리아재비](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EB%82%98%EB%A6%AC%EC%95%84%EC%9E%AC%EB%B9%84/): ☠️ 독초 · 먹으면 안 돼요
+- [컴프리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%BB%B4%ED%94%84%EB%A6%AC/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 컴프리잎
+- [카바](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%B4%EB%B0%94/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 카바카바
+- [센나](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%BC%EB%82%98/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 센나잎, 센나엽
+- [요힘베](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%94%ED%9E%98%EB%B2%A0/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 요힘빈
+- [수선화](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EC%84%A0%ED%99%94/): ☠️ 독초 · 먹으면 안 돼요
+- [마귀광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EA%B7%80%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [독흰갈대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%ED%9D%B0%EA%B0%88%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요

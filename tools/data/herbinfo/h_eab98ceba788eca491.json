@@ -1,0 +1,177 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "본초강목",
+    "bu": "풀(草部) 隰草類",
+    "easy": [
+      "고규(苦葵)·고채(苦菜)·천포초(天泡草) 같은 다른 이름을 함께 적었다.",
+      "싹은 피로를 풀고 허한 열과 부기를 내리는 데 쓴다고 적었다.",
+      "열을 식히고 뭉친 피를 흩는 데 쓴다고 이시진의 말로 덧붙였다.",
+      "씨(열매)는 음력 7월에 따며, 정종(疔腫, 부스럼)에 쓴다고 적었다."
+    ],
+    "han": "龍葵",
+    "has": true,
+    "ki": "苗：苦、微甘，滑，寒，無毒",
+    "kiKo": "싹(잎줄기)은 맛이 쓰고 조금 달며, 미끄럽고 성질이 차며 독이 없다고 했다.",
+    "old": "",
+    "orig": "龍葵 釋名 苦葵（《圖經》）、苦菜（《唐本》）、天泡草（《綱目》）…。苗 氣味 苦、微甘，滑，寒，無毒。主治 食之解勞少睡，去虛熱腫（《唐本》）。治風，補益男子元氣，婦人敗血（蘇頌）。消熱散血，壓丹石毒宜食之（時珍）。子（七月採之）主治 疔腫（《唐本》）。明目輕身甚良（甄權）。",
+    "sources": [
+      {
+        "title": "本草綱目/草之五 (위키문헌)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E8%8D%89%E4%B9%8B%E4%BA%94"
+      }
+    ],
+    "verified": true,
+    "warn": ""
+  },
+  "faq": [
+    {
+      "a": "권하지 않습니다. 까마중은 식품으로 먹거나 팔 수 없는 한약재이고, 솔라닌 등 독성 성분이 있으며 특히 덜 익은 초록 열매는 독성이 강합니다.",
+      "q": "까마중 열매를 따 먹어도 되나요?"
+    },
+    {
+      "a": "바로 병원에 가세요. 솔라닌 중독은 먹고 몇 시간 뒤 구토·복통·설사·어지럼 등으로 나타날 수 있으니, 먹은 식물을 가져가면 진료에 도움이 됩니다.",
+      "q": "까마중을 먹고 배가 아프면 어떻게 하나요?"
+    },
+    {
+      "a": "미국까마중은 열매가 반들반들 광택이 나고 꽃이 한 점에서 우산처럼 모여 달립니다. 까마중 열매는 광택이 약하고 꽃이 꽃대를 따라 떨어져 달립니다.",
+      "q": "까마중과 미국까마중은 어떻게 다른가요?"
+    },
+    {
+      "a": "까마중 전초를 말린 한약재 이름입니다. 한약재로만 쓰며 식품으로 팔 수 없습니다.",
+      "q": "용규는 무엇인가요?"
+    },
+    {
+      "a": "아닙니다. 키가 1~2m에 줄기가 붉은 자주색이고 열매가 길게 늘어진 송이로 달리면 독초인 미국자리공일 가능성이 큽니다.",
+      "q": "검은 열매가 송이로 늘어진 큰 풀도 까마중인가요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Black nightshade",
+    "family": "가지과(Solanaceae)",
+    "grade": "",
+    "habitat": "우리나라 전국에 흔히 자라는 풀이며, 세계의 온대와 열대에 널리 퍼져 있다. 남부지역 재배 조사에서는 8월 중순부터 9월 초까지 꽃이 피었다.",
+    "look": {
+      "flower": "지름 6~12mm 정도의 흰 꽃이 4~10송이씩 꽃대를 따라 조금씩 떨어져 달리고, 가운데 노란 꽃밥이 두드러진다.",
+      "fruit": "지름 6~10mm의 둥근 장과로, 녹색에서 검은 자주색으로 익으며 표면 광택이 거의 없거나 약하다.",
+      "leaf": "잎은 어긋나고 달걀 모양이며, 가장자리는 밋밋하거나 물결 모양 톱니가 있다.",
+      "stem": "높이 20~90cm로 자라며 가지가 옆으로 넓게 퍼지고, 줄기에 약간의 모가 진다."
+    },
+    "parts": "약재로 쓰는 부위: 전초(말린 것을 용규라 함)와 열매(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 솔라닌 등 글리코알칼로이드가 들어 있어 특히 덜 익은 초록 열매는 독성이 강하므로 먹지 않는다. 중독되면 몇 시간 뒤 구토·복통·설사·어지럼 등이 나타날 수 있다.",
+    "sci": "Solanum nigrum L.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 까마중",
+        "url": "https://ko.wikipedia.org/wiki/%EA%B9%8C%EB%A7%88%EC%A4%91"
+      },
+      {
+        "title": "최성규·서경순(2012) 까마중의 생육특성과 전초수량, 한국자원식물학회지 25(5)",
+        "url": "https://doi.org/10.7732/kjpr.2012.25.5.596"
+      },
+      {
+        "title": "Wikipedia - Solanum nigrum (독성 항목, IPCS 등 인용)",
+        "url": "https://en.wikipedia.org/wiki/Solanum_nigrum"
+      },
+      {
+        "title": "Knapp et al.(2019) A revision of the Morelloid Clade of Solanum, PhytoKeys 123 (Species-ID 요약)",
+        "url": "https://species-id.net/wiki/Solanum_nigrum"
+      }
+    ],
+    "store": "약재로 쓰는 전초는 충분히 말려 습기를 피해 보관한다. 어린이가 열매를 따 먹지 않도록 주의한다.",
+    "taste": "잘 익은 검은 열매는 단맛이 나지만 솔라닌 등 독성 성분이 들어 있다."
+  },
+  "lookSources": [
+    {
+      "title": "Knapp et al.(2019) A revision of the Morelloid Clade of Solanum, PhytoKeys 123 (Species-ID 요약)",
+      "url": "https://species-id.net/wiki/Solanum_nigrum"
+    },
+    {
+      "title": "Wikipedia - Solanum americanum",
+      "url": "https://en.wikipedia.org/wiki/Solanum_americanum"
+    },
+    {
+      "title": "Knapp(2013) A revision of the Dulcamaroid Clade of Solanum, PhytoKeys 22 - Solanum lyratum (Species-ID)",
+      "url": "https://species-id.net/wiki/Solanum_lyratum"
+    },
+    {
+      "title": "도쿄도 보건의료국 - 유독식물: 미국자리공",
+      "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/02.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Solanum americanum. 까마중과 매우 닮은 같은 속 식물로 학자에 따라 같은 종으로 보기도 한다. 덜 익은 열매가 특히 독성이 강하다.",
+      "name": "미국까마중",
+      "points": [
+        "미국까마중 열매는 반들반들 광택이 나는 검은색이고, 까마중 열매는 광택이 거의 없거나 약하다.",
+        "미국까마중은 꽃이 한 점에서 우산처럼 모여 달리는 편이고, 까마중은 꽃이 꽃대를 따라 조금씩 떨어져 달린다.",
+        "까마중의 꽃밥은 1.8~2.5mm로, 약 1.5mm인 미국까마중보다 길다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Solanum lyratum. 같은 가지속의 덩굴성 식물로, 흰 꽃과 둥근 장과가 까마중과 닮았다.",
+      "name": "배풍등",
+      "points": [
+        "배풍등은 잎자루로 다른 물체를 감고 올라가는 덩굴이고, 까마중은 곧게 서서 옆으로 퍼지는 풀이다.",
+        "배풍등 열매는 익으면 반투명한 선홍색이고, 까마중 열매는 검은 자주색이다.",
+        "배풍등은 줄기·잎에 길이 4mm에 이르는 샘털이 빽빽하고, 잎 아래쪽이 갈라져 거문고 모양이 되는 경우가 많다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "Phytolacca americana. 검게 익는 둥근 열매가 송이로 달려 까마중이나 블루베리로 착각하기 쉽다. 열매와 뿌리를 먹으면 메스꺼움·구토·설사를 일으킨다.",
+      "name": "미국자리공",
+      "points": [
+        "미국자리공은 키 1~2m로 크고 줄기가 굵은 붉은 자주색이다. 까마중은 키 90cm 이하의 작은 풀이다.",
+        "미국자리공 열매는 가지 끝에서 길게 늘어진 꽃이삭에 줄지어 달리고, 짜면 검붉은 자주색 즙이 나온다.",
+        "까마중은 흰 꽃 몇 송이와 열매가 잎 사이에서 작은 송이로 달린다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Cancer Medicine",
+        "note": "까마중의 알칼로이드·사포닌·다당류·폴리페놀 성분과 실험에서 보고된 항암 기전을 정리하고 연구의 빈틈을 짚었다.",
+        "title": "Main chemical constituents and mechanism of anti-tumor action of Solanum nigrum L",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1002/cam4.7314",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Oncology",
+        "note": "솔라닌 등 스테로이드 알칼로이드의 항암 실험 결과를 모았으며, 까마중의 독성 때문에 단독보다 다른 약과 함께 쓰인다고 언급했다.",
+        "title": "Active components of Solanum nigrum and their antitumor effects: a literature review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fonc.2023.1329957",
+        "year": "2023"
+      }
+    ],
+    "summary": "까마중의 스테로이드 알칼로이드(솔라닌·솔라마진·솔라소닌 등)가 여러 암세포의 증식을 억제한다는 연구가 많지만, 대부분 세포·동물 실험 수준이다. 같은 성분이 독성의 원인이기도 해, 리뷰에서도 까마중 자체의 독성을 한계로 지적한다."
+  },
+  "name": "까마중",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1793005462003
+}

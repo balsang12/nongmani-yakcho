@@ -1,0 +1,176 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아니요. 애기똥풀은 식품으로 먹거나 팔 수 없는 한약재이고, 유액에 알칼로이드가 많으며 먹는 제품과 관련된 간 손상 사례가 보고되었습니다.",
+      "q": "애기똥풀을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "꽃차례와 잎을 봅니다. 피나물은 4~5월에 꽃줄기마다 큰 꽃이 한 송이씩 피고 잎이 작은잎으로 나뉜 겹잎이며, 애기똥풀은 5~8월에 여러 송이가 모여 피고 잎이 깊게 갈라집니다. 둘 다 먹지 않습니다.",
+      "q": "피나물과 애기똥풀은 어떻게 구별하나요?"
+    },
+    {
+      "a": "닿지 않게 하는 것이 좋습니다. 즙에 알칼로이드가 들어 있으므로 맨손으로 만졌다면 씻고, 특히 눈에 들어가지 않게 주의합니다.",
+      "q": "줄기에서 나오는 노란 즙이 피부에 닿으면 괜찮나요?"
+    },
+    {
+      "a": "줄기나 잎을 자르면 나오는 등황색 즙이 아기 똥 색과 비슷해서 붙은 이름입니다.",
+      "q": "애기똥풀이라는 이름은 왜 붙었나요?"
+    }
+  ],
+  "id": {
+    "eat": "식품으로 먹거나 팔 수 없으며, 한약재로만 쓴다.",
+    "eng": "Greater celandine",
+    "family": "양귀비과(Papaveraceae)",
+    "grade": "",
+    "habitat": "동아시아에 널리 자라는 두해살이풀로, 숲 가장자리·길가·빈터·집 주변처럼 습하고 거름진 땅에 흔하다.",
+    "look": {
+      "flower": "5~8월 가지 끝에 노란 꽃 여러 송이가 우산 모양으로 모여 핀다. 꽃잎은 4장이다.",
+      "fruit": "열매는 길이 3~4cm의 가늘고 긴 삭과로, 익으면 두 쪽으로 갈라진다.",
+      "leaf": "잎은 어긋나고 1~2회 깃 모양으로 깊게 갈라지며, 끝이 둔하고 가장자리에 둔한 톱니와 결각이 있다. 잎과 줄기에 흰 가루빛이 돈다.",
+      "root": "뿌리는 굵고 등황색을 띤다.",
+      "stem": "줄기는 30~80cm로 자라며, 줄기나 잎을 자르면 아기 똥 같은 등황색 즙(유액)이 나온다."
+    },
+    "parts": "약재로 쓰는 부위: 땅 위 부분(전초, 백굴채)(식품 원료로는 쓸 수 없음)",
+    "prep": "식품으로 먹거나 팔 수 없고, 한약재로만 쓴다. 등황색 유액에 켈리도닌·프로토핀·켈레리트린·상귀나린 등 알칼로이드가 들어 있다. 먹는 제품을 쓴 뒤 1~6개월 사이에 황달을 동반한 간 손상이 생긴 사례가 유럽에서 여러 건 보고되었다. 나물로 뜯거나 즙을 내어 먹지 말고, 유액이 눈이나 상처에 닿지 않게 한다.",
+    "sci": "Chelidonium majus var. asiaticum (H.Hara) Ohwi",
+    "season": {
+      "collect": [],
+      "flower": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 애기똥풀",
+        "url": "https://ko.wikipedia.org/wiki/%EC%95%A0%EA%B8%B0%EB%98%A5%ED%92%80"
+      },
+      {
+        "title": "Zielińska 외(2018) Greater Celandine's Ups and Downs - 21 Centuries of Medicinal Uses of Chelidonium majus, Frontiers in Pharmacology 9:299",
+        "url": "https://doi.org/10.3389/fphar.2018.00299"
+      },
+      {
+        "title": "최상진 외(2001) 애기똥풀의 세포독성 성분, 생약학회지 32(1)",
+        "url": "https://koreascience.kr/article/JAKO200103041289823.do"
+      },
+      {
+        "title": "Ji 외(2021) Chelidonium majus subsp. asiaticum 종자 발아 연구, 한국자원식물학회 춘계학술대회",
+        "url": "https://koreascience.kr/article/CFKO202135543220470.pdf"
+      },
+      {
+        "title": "LiverTox (NIH) - Greater Celandine",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK548684/"
+      },
+      {
+        "title": "EMA HMPC(2011) Public statement on Chelidonium majus L., herba",
+        "url": "https://ema.europa.eu/en/documents/public-statement/final-public-statement-chelidonium-majus-l-herba_en.pdf"
+      }
+    ],
+    "store": "그늘에서 충분히 말려 습기를 피해 밀폐해 보관하고, 어린이 손이 닿지 않는 곳에 둔다.",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "위키백과 - 애기똥풀",
+      "url": "https://ko.wikipedia.org/wiki/%EC%95%A0%EA%B8%B0%EB%98%A5%ED%92%80"
+    },
+    {
+      "title": "위키백과 - 피나물",
+      "url": "https://ko.wikipedia.org/wiki/%ED%94%BC%EB%82%98%EB%AC%BC"
+    },
+    {
+      "title": "위키백과 - 매미꽃",
+      "url": "https://ko.wikipedia.org/wiki/%EB%A7%A4%EB%AF%B8%EA%BD%83"
+    },
+    {
+      "title": "식약처 웹진(2019.3) 의약품용 한약재 수입 단계 안전관리",
+      "url": "https://www.mfds.go.kr/webzine/201903/sub06.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "Hylomecon vernalis. 같은 양귀비과로 봄에 노란 꽃이 피고 꺾으면 적황색 즙이 나와 헷갈린다. 이름에 '나물'이 붙지만 알칼로이드가 많아 섭취 안전성이 확인되지 않았다.",
+      "name": "피나물",
+      "points": [
+        "피나물은 키 20~40cm, 애기똥풀은 30~80cm로 더 크게 자란다.",
+        "피나물 잎은 작은잎이 따로 떨어진 깃꼴겹잎이고, 애기똥풀 잎은 깊게 갈라지며 가장자리에 둔한 톱니와 결각이 있다.",
+        "피나물은 4~5월에 꽃줄기마다 큰 꽃이 한 송이씩 피고, 애기똥풀은 5~8월에 여러 송이가 우산 모양으로 모여 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "Coreanomecon hylomeconoides. 피나물과 가까운 한국 고유 양귀비과 식물로, 노란 꽃과 붉은 즙이 비슷하다. 식용 안전성은 확인되지 않았다.",
+      "name": "매미꽃",
+      "points": [
+        "매미꽃은 뿌리에서 바로 꽃대가 올라오고 6~7월에 핀다.",
+        "애기똥풀은 줄기가 가지를 치며 그 끝에 여러 송이가 모여 핀다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "말려 썬 약재는 잎 모양과 유액 색을 볼 수 없어 다른 풀과 구별하기 어렵다.",
+      "name": "수입 백굴채",
+      "points": [
+        "포장의 원산지와 제조·수입업체 표시를 확인한다.",
+        "의약품용 수입 한약재는 수입 단계에서 관능·유해물질 검사를 받으므로, 의약품용 한약재 유통 경로로 구한다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "컴퓨터 예측과 섬유아세포 실험으로 애기똥풀 성분이 상처 회복 관련 표적에 작용할 가능성을 살폈다.",
+        "title": "Molecular and Pharmacokinetic Rationale for the Use of Chelidonium majus L. in Wound Healing: An In Silico and In Vitro Validation",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/molecules31081320",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "애기똥풀에서 분리된 알칼로이드 94종의 성분·약리·독성 연구를 정리했다.",
+        "title": "Alkaloids in Chelidonium majus L: a review of its phytochemistry, pharmacology and toxicology",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1440979",
+        "year": "2024"
+      },
+      {
+        "journal": "ACG Case Reports Journal",
+        "note": "애기똥풀 제품 복용과 관련된 것으로 보이는 간 손상 환자 증례 보고다.",
+        "title": "A Yellow Flower With Jaundice Power: Liver Injury Attributed to Greater Celandine",
+        "type": "기타",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11049761/",
+        "year": "2024"
+      }
+    ],
+    "summary": "애기똥풀은 90종이 넘는 알칼로이드가 분리되어 항암·항균 작용이 주로 세포 실험에서 연구되지만, 먹는 제품과 관련된 사람의 간 손상 증례가 계속 보고되고 있다. 효능을 뒷받침하는 사람 대상 임상 근거는 부족하다."
+  },
+  "name": "애기똥풀",
+  "st": "hanyak",
+  "toxic": {},
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과 - 애기똥풀",
+        "url": "https://ko.wikipedia.org/wiki/%EC%95%A0%EA%B8%B0%EB%98%A5%ED%92%80"
+      },
+      {
+        "title": "Zielińska 외(2018) Greater Celandine's Ups and Downs - 21 Centuries of Medicinal Uses of Chelidonium majus, Frontiers in Pharmacology 9:299",
+        "url": "https://doi.org/10.3389/fphar.2018.00299"
+      },
+      {
+        "title": "EMA HMPC(2011) Public statement on Chelidonium majus L., herba",
+        "url": "https://ema.europa.eu/en/documents/public-statement/final-public-statement-chelidonium-majus-l-herba_en.pdf"
+      }
+    ],
+    "text": "애기똥풀의 땅 위 부분을 백굴채(白屈菜)라 하여 약재로 썼고, 민간에서는 유액을 습진·사마귀에 발랐다. 유럽에서도 고대부터 사마귀·피부병·황달과 간 질환 등에 썼다고 정리되어 있다. 다만 독성 때문에 요즘은 거의 쓰지 않으며, 유럽의약품청(EMA) 전문위원회는 2011년 먹는 용도의 이익보다 간 독성 위험이 크다고 판단했다."
+  },
+  "updatedAt": 1793048842816
+}

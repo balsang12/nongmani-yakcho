@@ -179,7 +179,7 @@
     "summary": "최근 연구는 대부분 세포·동물 실험과 문헌 리뷰다. 소엽맥문동(Ophiopogon japonicus)의 다당류와 성분 ophiopogonin D를 정리한 리뷰, 맥문동 추출물을 생쥐 변비·비만 모델에 준 동물 실험, 씨앗 추출물의 세포 실험이 있다. 2023년 이후 사람 대상 연구는 찾지 못했다."
   },
   "name": "맥문동",
-  "st": "check",
+  "st": "limit",
   "traditional": {
     "sources": [
       {

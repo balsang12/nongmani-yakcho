@@ -1,0 +1,227 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "나무(木部)",
+    "easy": [
+      "옻나무 진을 말린 건칠(乾漆)을 약재로 실었고, 처방에서는 달임약이나 가루약보다 주로 환약 형태로 썼다고 정리된다."
+    ],
+    "han": "乾漆",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "",
+    "sources": [
+      {
+        "title": "동의생리병리학회지 19(5) - 건칠(乾漆)의 해독방법에 대한 문헌연구 (2005)",
+        "url": "https://koreascience.kr/article/JAKO200517033407545.pub?lang=ko"
+      }
+    ],
+    "verified": false,
+    "warn": "옻 자체에 독이 있어 옛 문헌에서도 옻독을 푸는 방법을 함께 다루었다."
+  },
+  "faq": [
+    {
+      "a": "권하지 않습니다. 학술 자료에 인용된 식품공전 기준상 옻나무는 우루시올을 없앤 추출물 형태로만 옻닭·옻오리 조리나 일부 발효식품에 쓸 수 있고, 생 옻나무 순은 이 허용 형태에 해당하지 않습니다. 옻 알레르기 위험도 큽니다.",
+      "q": "옻순을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "아니요, 옻을 탄 적이 있거나 피부가 예민한 사람은 피하는 것이 좋습니다. 우루시올을 없앤 추출물을 쓰더라도 우루시올 중합체가 남아 이미 민감해진 사람에게 반응이 생길 수 있다는 연구가 있습니다.",
+      "q": "옻닭은 누구나 먹어도 괜찮나요?"
+    },
+    {
+      "a": "열매의 털로 가장 쉽게 구별합니다. 옻나무 열매는 털이 없고 윤이 나는 연한 노란색이고, 개옻나무 열매는 뾰족한 털로 덮인 황갈색입니다. 개옻나무는 작은잎이 13~17장으로 더 많고 잎축이 붉은빛을 띱니다.",
+      "q": "옻나무와 개옻나무는 어떻게 구별하나요?"
+    },
+    {
+      "a": "붉나무는 잎축에 날개가 붙어 있어 구별됩니다. 꽃도 붉나무는 7~9월에, 옻나무는 5월 말 무렵에 핍니다.",
+      "q": "붉나무와 옻나무는 어떻게 다른가요?"
+    },
+    {
+      "a": "주로 옻칠 도료로 씁니다. 나무껍질에 상처를 내어 받으며, 채취 시기에 따라 초칠(6월 하순~7월 중순), 성칠(7월 중순~8월 하순), 말칠(9월 하순)로 나눕니다. 진이 피부에 닿으면 옻이 오를 수 있으니 직접 다루지 않습니다.",
+      "q": "옻나무 진은 어디에 쓰나요?"
+    }
+  ],
+  "id": {
+    "eat": "줄기·가지를 닭과 함께 달여 옻닭으로 먹으며, 식품에는 우루시올을 제거한 것만 쓴다. 옻을 타는 사람은 먹지 않는다.",
+    "eng": "Lacquer tree, Varnish tree",
+    "family": "옻나무과",
+    "grade": "",
+    "habitat": "중국 원산으로 우리나라에 들여와 재배하던 것이 야생으로도 퍼졌으며, 함경북도를 뺀 거의 전국에서 자란다. 서늘한 기후에서 잘 자란다.",
+    "look": {
+      "flower": "5월 말 무렵 잎겨드랑이에서 길이 15~25cm의 꽃차례가 아래로 처지며 황록색의 작은 꽃이 많이 핀다.",
+      "fruit": "9월에 익으며 한쪽으로 찌그러진 둥근 모양으로 지름 6~8mm, 연한 노란색이고 털이 없이 윤이 난다.",
+      "leaf": "어긋나게 달리는 홀수깃꼴겹잎으로, 작은잎은 9~11장 정도이고 달걀형~긴 달걀형이며 가장자리가 밋밋하다. 작은잎은 16×7cm 안팎으로 크고 옆맥이 10~12쌍으로 비교적 적다.",
+      "smell": "껍질 안쪽에 흰 진(유액)이 있고 공기에 닿으면 검게 변한다. 이 진에 든 우루시올이 피부에 옻이 오르는 원인이므로 맨손으로 만지거나 냄새를 맡으려 가까이 대지 않는다.",
+      "stem": "높이 20m까지 자라는 낙엽 큰키나무다. 나무껍질은 회백색이고 껍질눈이 많다. 겨울눈에는 연한 갈색 털이 있다."
+    },
+    "parts": "식품으로는 우루시올을 없앤 옻나무 물 추출물 형태로만 제한적으로 쓰인다. 나무껍질에 상처를 내어 받은 수액은 옻칠 도료로 쓰고, 수액을 말린 것은 한약재 건칠(乾漆)로 다룬다.",
+    "prep": "옻나무는 식품 사용이 엄격히 제한된 원료다. 학술지에 인용된 식품공전 기준에 따르면 알레르기 유발 성분인 우루시올을 없앤 옻나무 물 추출물만 옻닭·옻오리 조리용으로 쓸 수 있고, 2014년 개정으로 우루시올을 없앤 추출물을 장류·발효식초·주류(탁주·약주·청주·과실주)에 발효 공정 전에만 넣을 수 있게 되었다. 생 옻나무 껍질·가지·순을 집에서 직접 달이거나 나물로 먹는 것은 허용된 형태가 아니므로 하지 않는다. 우루시올은 피부에 닿거나 먹었을 때 물집·발진·가려움 같은 옻 알레르기를 일으키며, 무독화 제품에도 우루시올 중합체가 남아 이미 옻에 민감한 사람에게 반응을 일으킬 수 있다는 연구가 있다. 옻을 탄 적이 있는 사람은 옻 제품을 피한다. 최신 기준은 식약처 식품공전에서 다시 확인한다.",
+    "sci": "Toxicodendron vernicifluum (Stokes) F.A.Barkley",
+    "season": {
+      "collect": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea - Toxicodendron vernicifluum (옻나무)",
+        "url": "https://florakorea.myspecies.info/en/taxonomy/term/5028"
+      },
+      {
+        "title": "Flora of Korea - 옻나무속(Toxicodendron) 검색표",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/5023"
+      },
+      {
+        "title": "한국약용작물학회지 29(1) - 옻나무의 추출조건에 따른 페놀성 성분 함량 변화 (2021)",
+        "url": "https://medicinalcrop.org/_common/do.php?a=full&b=&bidx=2480&aidx=28127"
+      },
+      {
+        "title": "한국식품저장유통학회지 23(3) - 초산균에 따른 무독화 옻 식초의 품질 특성 (2016)",
+        "url": "https://www.ekosfop.or.kr/archive/view_article?pid=kjfp-23-3-347"
+      },
+      {
+        "title": "농촌진흥청 웹진 (2023.08) - 발효옻 관련 기사",
+        "url": "https://rda.go.kr/webzine/2023/08/sub3-4.html"
+      },
+      {
+        "title": "이화여대 석사논문 - 시중 판매되고 있는 옻 진액 제품 내 우루시올 중합체의 존재 (2010)",
+        "url": "https://dspace.ewha.ac.kr/handle/2015.oak/188152"
+      },
+      {
+        "title": "식품음료신문 - 옻나무 추출물 고부가 식의약 소재 (2009)",
+        "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=36622"
+      },
+      {
+        "title": "위키백과 - 옻나무",
+        "url": "https://ko.wikipedia.org/wiki/%EC%98%BB%EB%82%98%EB%AC%B4"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea - 옻나무속(Toxicodendron) 검색표",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/5023"
+    },
+    {
+      "title": "Flora of Korea - Toxicodendron vernicifluum (옻나무)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5028"
+    },
+    {
+      "title": "Flora of Korea - Toxicodendron trichocarpum (개옻나무)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5027"
+    },
+    {
+      "title": "Flora of Korea - Rhus chinensis (붉나무)",
+      "url": "https://florakorea.myspecies.info/en/taxonomy/term/5022/descriptions"
+    },
+    {
+      "title": "Flora of Korea - 옻나무과(Anacardiaceae) 속 검색표",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5020"
+    },
+    {
+      "title": "서울신문 - 봄철 독초 주의보 (식약처·국립수목원 안내, 2026)",
+      "url": "https://m.seoul.co.kr/news/2026/04/16/20260416500055"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "개옻나무(Toxicodendron trichocarpum)는 같은 옻나무속으로 전국 산에 흔히 자라며 옻독이 있다. 봄에 순을 두릅·엄나무순으로 잘못 알고 따는 일이 있어 특히 주의한다.",
+      "name": "개옻나무",
+      "points": [
+        "개옻나무 열매는 뾰족한 털로 덮여 있고 황갈색이다. 옻나무 열매는 털이 없고 윤이 나는 연한 노란색이다.",
+        "개옻나무는 작은잎이 13~17장(가끔 9장)으로 옻나무(9~11장 안팎)보다 많은 편이다.",
+        "개옻나무는 어린 가지와 잎축이 붉은빛을 띠고 털이 있다.",
+        "옻나무는 주로 심어 기르는 나무이고, 개옻나무는 평안남도 이남 산에 저절로 자란다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "붉나무(Rhus chinensis)는 옻나무과의 다른 속 나무로 잎 모양이 비슷하다. 독성이 없다고 알려지기도 하지만 피부가 예민한 사람은 옻나무처럼 발진이 날 수 있다는 식약처·국립수목원 안내가 있다.",
+      "name": "붉나무",
+      "points": [
+        "붉나무는 잎축에 날개가 붙어 있다. 옻나무 잎축에는 날개가 없다.",
+        "붉나무는 7월 말~9월 초에 황백색 꽃이 피어 늦은 봄(5월 말)에 피는 옻나무보다 훨씬 늦다.",
+        "붉나무 열매는 지름 4mm 정도로 작고 붉은 노란빛이며 털과 샘점이 있다. 옻나무 열매는 6~8mm로 털이 없다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "두릅은 데쳐 먹는 봄나물이지만, 순이 올라오는 모습이 옻나무과 나무(특히 개옻나무·붉나무)의 어린 순과 헷갈릴 수 있다. 확실하지 않은 순은 따지 않는다.",
+      "name": "두릅",
+      "points": [
+        "두릅 줄기에는 가시가 있다. 붉나무 줄기에는 가시가 없다는 식약처·국립수목원 안내가 있다.",
+        "옻나무속 나무는 껍질 안쪽의 흰 진이 공기에 닿으면 검게 변한다. 다만 진이 피부에 닿으면 옻이 오를 수 있으므로 맨손으로 꺾어 확인하지 않는다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "산검양옻나무(Toxicodendron sylvestre)는 남부 지방에 자라는 같은 옻나무속 나무로, 겹잎 모양이 옻나무와 비슷하다.",
+      "name": "산검양옻나무",
+      "points": [
+        "산검양옻나무 작은잎은 12×4cm 정도로 옻나무(16×7cm 안팎)보다 좁고, 옆맥이 16~20쌍으로 많다.",
+        "산검양옻나무 겨울눈에는 붉은 갈색의 긴 털이 있고, 옻나무 겨울눈에는 연한 갈색 털이 있다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Frontiers in Oncology",
+        "note": "우루시올을 없앤 옻나무 추출물을 췌장암 1차 항암치료와 함께 쓴 환자 25명(분석 18명)을 지켜본 대조군 없는 예비 관찰 연구다.",
+        "title": "Rhus verniciflua stokes extract, a traditional herbal medicine, combined with first-line chemotherapy for unresectable locally advanced and metastatic pancreatic cancer: a prospective observational pilot study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3389/fonc.2024.1469616",
+        "year": "2024"
+      },
+      {
+        "journal": "Life Sciences",
+        "note": "고지방 식이를 먹인 생쥐에서 옻나무 추출물이 체중·지질 지표에 미치는 영향을 보고, 성분 분석에 인공지능 기법을 더했다.",
+        "title": "Ameliorative effect of Rhus verniciflua Stokes on high-fat diet-induced obesity and advanced analysis with machine learning and deep learning-based network pharmacology.",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1016/j.lfs.2026.124337",
+        "year": "2026"
+      },
+      {
+        "journal": "Journal of Microbiology and Biotechnology",
+        "note": "옻나무 에탄올 추출물과 분리 성분이 배양 세포에서 감기 코로나바이러스(HCoV-OC43) 증식에 미치는 영향을 살폈다.",
+        "title": "Identification of Anti-Viral Compounds from Toxicodendron vernicifluum Extract That Inhibit the Coronavirus Replication.",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.4014/jmb.2604.04038",
+        "year": "2026"
+      }
+    ],
+    "summary": "최근 연구는 대부분 우루시올을 없앤 옻나무 추출물이나 그 성분(피세틴·뷰테인 등)을 세포·동물에서 살핀 실험 연구다. 사람 대상으로는 췌장암 환자 소수에게 항암치료와 함께 써 본 관찰 연구가 있으나 대조군이 없는 예비 연구라 효과를 판단할 근거는 부족하다."
+  },
+  "name": "옻나무",
+  "st": "limit",
+  "traditional": {
+    "sources": [
+      {
+        "title": "위키백과 - 옻나무",
+        "url": "https://ko.wikipedia.org/wiki/%EC%98%BB%EB%82%98%EB%AC%B4"
+      },
+      {
+        "title": "한국약용작물학회지 29(1) - 옻나무의 추출조건에 따른 페놀성 성분 함량 변화 (2021)",
+        "url": "https://medicinalcrop.org/_common/do.php?a=full&b=&bidx=2480&aidx=28127"
+      },
+      {
+        "title": "동의생리병리학회지 19(5) - 건칠(乾漆)의 해독방법에 대한 문헌연구 (2005)",
+        "url": "https://koreascience.kr/article/JAKO200517033407545.pub?lang=ko"
+      }
+    ],
+    "text": "옻나무는 예부터 나무껍질에 상처를 내어 받은 수액을 옻칠 도료로 써 왔고, 그 밖에는 옻닭용이 주된 쓰임이었다. 동의보감 등 고문헌을 검토한 2005년 연구에 따르면 옻독을 풀 때 게를 삶은 물, 달걀, 산초, 차조기 등을 썼다는 기록이 정리되어 있다."
+  },
+  "updatedAt": 1792919652818
+}

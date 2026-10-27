@@ -1,0 +1,203 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "곽향을 약으로 쓸 때는 줄기를 떼어 내고 잎을 쓴다고 적었다.",
+      "물과 음식이 바뀌어 몸이 붓는 등의 증상(風水毒腫)에 쓴다고 적었다."
+    ],
+    "han": "藿香",
+    "has": true,
+    "sources": [
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 곽향(藿香, 방아잎) (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=66044"
+      },
+      {
+        "title": "민족의학신문 - 곽향·광곽향 제자리 찾기 필요 (2009)",
+        "url": "https://www.mjmedi.com/news/articleView.html?idxno=17361"
+      },
+      {
+        "title": "koreascience - 배초향(곽향) 관련 논문 (곽향 기원 및 역사 기록 언급)",
+        "url": "https://koreascience.or.kr/article/JAKO202013562119448.pdf"
+      }
+    ],
+    "verified": false,
+    "warn": "동의보감 탕액편 草部에 藿香(곽향) 항목이 있다는 것은 2차 자료(한의사 칼럼 등)로 확인했으나, 이번 조사에서는 원문 한문을 실은 신뢰할 만한 페이지(mediclassics.kr, 위키문헌 등)에 접근하지 못해 원문·성미를 싣지 않았고, 위 풀이도 2차 자료에 근거한 것이다. 기원 문제: 오늘날 한국 공정서에서 '곽향'은 배초향(Agastache rugosa, 대한약전외한약(생약)규격집), '광곽향'은 Pogostemon cablin(대한민국약전)으로 따로 규정되어 있다. 중국 본초서에 기록된 곽향은 광저우 일대 산지와 식물 형태로 보아 광곽향이라는 견해가 있고, 고려 때 송나라가 보낸 약재에 '광주 곽향'이 있었다는 기록도 있다. 반면 조선 세종 때 전라도 공물로 곽향이 올라 국내 재배·대용이 있었던 것으로 추정되며, 우리나라에서는 수급이 어려운 광곽향 대신 배초향(토곽향)을 오래 써 왔다. 따라서 동의보감의 藿香 항목 내용(본초서 인용)이 가리키는 식물은 광곽향일 가능성이 크고, 당시 실제로 쓰인 약재는 배초향이었을 수 있어, 이 항목을 배초향에 대한 기록으로 단정할 수 없다."
+  },
+  "faq": [
+    {
+      "a": "네, 같은 식물입니다. 배초향은 표준 이름이고, 경상도 지방에서 '방아' 또는 '방아잎'이라 부르며 매운탕·추어탕·전에 넣어 먹습니다.",
+      "q": "배초향과 방아잎은 같은 건가요?"
+    },
+    {
+      "a": "아닙니다. 우리나라 공정서에서 곽향은 배초향(Agastache rugosa), 광곽향은 열대 식물인 Pogostemon cablin으로 따로 정해져 있습니다. 광곽향은 털이 많고 묵직한 패출리 향이 나며 수입품으로 유통되므로, 약재를 살 때는 기원 표시를 확인하세요.",
+      "q": "배초향(곽향)과 광곽향은 같은 약재인가요?"
+    },
+    {
+      "a": "잎이 자라는 늦봄부터 가을까지 수시로 연한 잎과 순을 땁니다. 꽃은 7~9월에 줄기 끝에 보라색 이삭으로 핍니다.",
+      "q": "방아잎은 언제 따나요?"
+    },
+    {
+      "a": "생잎은 물기를 빼고 키친타월에 싸서 밀폐 용기에 넣어 냉장하고 빨리 쓰는 것이 좋습니다. 오래 두려면 그늘에 말려 밀봉해 차나 양념으로 씁니다.",
+      "q": "방아잎은 어떻게 보관하나요?"
+    },
+    {
+      "a": "꽃 피는 자리와 향을 보면 됩니다. 배초향은 줄기 끝에 보라색 꽃이 원기둥 모양 이삭으로 피고, 박하는 잎겨드랑이마다 꽃이 둥글게 뭉쳐 핍니다. 박하는 비비면 멘톨의 시원한 향이 납니다.",
+      "q": "배초향과 박하는 어떻게 구별하나요?"
+    }
+  ],
+  "id": {
+    "eat": "잎을 추어탕·매운탕·장어국에 넣어 비린내를 잡고, 듬뿍 넣어 방아잎전을 부친다.",
+    "eng": "Korean mint",
+    "family": "꿀풀과",
+    "grade": "",
+    "habitat": "우리나라 전역의 양지바른 자갈밭이나 계곡 근처에 자라는 여러해살이풀이다. 햇볕이 잘 들고 적당히 촉촉하면서 물빠짐이 좋은 땅을 좋아하지만 척박한 땅이나 반그늘에서도 잘 자라며, 추위에 강해 노지에서 겨울을 난다. 중국·일본·러시아 연해주 등 동아시아에 분포한다.",
+    "look": {
+      "flower": "7~9월에 줄기와 가지 끝에 보라색 입술 모양 꽃이 빽빽한 이삭(원기둥꼴)으로 모여 피며, 수술이 꽃 밖으로 길게 나온다.",
+      "leaf": "잎은 마주나며 달걀 모양(심장 모양에 가까운 것도 있음)으로 길이 5~10cm, 가장자리에 굵은 톱니가 있다. 뒷면에 털이 있거나 희끗한 것도 있다.",
+      "smell": "잎을 비비면 박하와 비슷하지만 더 달큰하고 독특한 향이 강하게 난다.",
+      "stem": "줄기는 네모지고 곧게 40~100cm(재배 자원은 더 크게도) 자라며, 위쪽에서 가지가 갈라진다. 줄기·잎이 붉은 자줏빛을 띠는 개체도 있다."
+    },
+    "parts": "잎과 어린 순(지상부). 말린 지상부는 한약재 곽향(토곽향)으로 쓴다.",
+    "prep": "어린 잎과 순을 따서 씻어 날것 그대로 향채로 쓴다. 매운탕·추어탕에 향신 채소로 넣거나 전 반죽에 섞는다. 차나 약재용은 지상부를 그늘에 말린다.",
+    "sci": "Agastache rugosa (Fisch. & C.A.Mey.) Kuntze",
+    "season": {
+      "collect": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "flower": [
+        7,
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "우리문화신문 - 국립수목원 7월 '우리의 정원식물' 배초향",
+        "url": "https://www.koya-culture.com/news/article.html?no=152479"
+      },
+      {
+        "title": "강원도농업기술원 - 국내 배초향의 유전형질 및 정유성분 (한국자원식물학회 2020 발표)",
+        "url": "https://koreascience.kr/article/CFKO202035543208648.pdf"
+      },
+      {
+        "title": "Wikipedia - Agastache rugosa",
+        "url": "https://en.wikipedia.org/wiki/Agastache_rugosa"
+      },
+      {
+        "title": "헬스경향 - [한동하의 식의보감] 곽향(藿香, 방아잎) (2023)",
+        "url": "https://www.k-health.com/news/articleView.html?idxno=66044"
+      }
+    ],
+    "store": "생잎은 물기를 빼고 키친타월로 싸서 밀폐 용기에 넣어 냉장 보관하고 되도록 빨리 쓴다. 오래 두려면 그늘에 말려 밀봉해 둔다.",
+    "taste": "잎과 꽃을 스치면 박하처럼 상쾌하면서 독특한 향이 강하게 난다. 국내 자원의 정유에는 에스트라골, 메틸유게놀, 멘톤 등이 주성분으로 보고되었고, 자생지에 따라 향 성분 구성이 다르다."
+  },
+  "lookSources": [
+    {
+      "title": "헬스경향 - [한동하의 식의보감] 곽향(藿香, 방아잎) (2023)",
+      "url": "https://www.k-health.com/news/articleView.html?idxno=66044"
+    },
+    {
+      "title": "민족의학신문 - 곽향·광곽향 제자리 찾기 필요 (2009)",
+      "url": "https://www.mjmedi.com/news/articleView.html?idxno=17361"
+    },
+    {
+      "title": "Wikipedia - Pogostemon cablin (patchouli)",
+      "url": "https://en.wikipedia.org/wiki/Pogostemon_cablin"
+    },
+    {
+      "title": "Wikipedia - Mentha canadensis",
+      "url": "https://en.wikipedia.org/wiki/Mentha_canadensis"
+    },
+    {
+      "title": "Wikipedia - Prunella vulgaris",
+      "url": "https://en.wikipedia.org/wiki/Prunella_vulgaris"
+    },
+    {
+      "title": "Wikipedia - Agastache rugosa",
+      "url": "https://en.wikipedia.org/wiki/Agastache_rugosa"
+    },
+    {
+      "title": "우리문화신문 - 국립수목원 7월 '우리의 정원식물' 배초향",
+      "url": "https://www.koya-culture.com/news/article.html?no=152479"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "한약재 '곽향' 이름을 함께 쓰는 열대 식물(패출리)로, 수입 약재로 유통된다. 국산 배초향(토곽향)과 기원이 다른 별개의 약재이며 향이 전혀 다르다.",
+      "name": "광곽향",
+      "points": [
+        "광곽향은 동남아 열대 원산이라 우리나라 노지에서는 자생하지 않는다. 산과 들에서 캔 것은 배초향이다.",
+        "말린 약재에서 배초향 줄기는 네모지고 털이 거의 없으며 속이 비어 있고, 광곽향 줄기는 털이 있고 속이 차 있다.",
+        "광곽향 잎은 부드러운 털이 촘촘해 만지면 보드랍고, 배초향 잎 윗면은 털이 거의 없다.",
+        "광곽향은 흙냄새 섞인 묵직한 패출리 향이 나고, 배초향은 박하 비슷한 상쾌하고 달큰한 향이 난다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "같은 꿀풀과 향초로 네모진 줄기, 마주나는 잎, 상쾌한 향이 비슷해 헷갈린다. 꽃 피는 자리와 향으로 구별한다.",
+      "name": "박하",
+      "points": [
+        "배초향은 줄기 끝에 보라색 꽃이 원기둥 모양 이삭으로 빽빽하게 모여 피고, 박하는 줄기 위쪽 잎겨드랑이마다 연보라·흰 꽃이 둥글게 뭉쳐 핀다.",
+        "박하 잎을 비비면 멘톨의 시원하고 톡 쏘는 향이 나고, 배초향은 더 달큰하고 독특한 향이 난다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "꿀풀(하고초)도 보라색 입술 모양 꽃이 줄기 끝에 이삭처럼 모여 피어 꽃 모양이 비슷하다. 키와 잎 모양으로 구별한다.",
+      "name": "하고초",
+      "points": [
+        "꿀풀은 키가 대개 30cm 이하로 작고 줄기가 비스듬히 퍼지며, 배초향은 40~100cm로 곧게 크게 자란다.",
+        "꿀풀 꽃이삭 바로 아래에는 잎자루 없는 포엽 한 쌍이 깃처럼 받치고 있다.",
+        "꿀풀 잎은 가장자리가 밋밋한 편이고, 배초향 잎은 가장자리에 굵은 톱니가 있으며 비비면 향이 진하다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Science and Human Wellness",
+        "note": "배초향의 화학 성분, 보고된 건강 관련 작용, 식품·의약·화장품 활용 현황을 정리하고 앞으로의 연구 방향을 제시한 리뷰다.",
+        "title": "Chemical constituents, health benefits, and applications of Agastache rugosa: A review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.26599/FSHW.2025.9250857",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "면역 기능을 떨어뜨린 생쥐에게 제주산 배초향 추출물을 먹였더니 NK세포 활성 등 일부 지표가 회복되었다고 보고한 동물 실험이다.",
+        "title": "Immunoenhancing Effects of Jeju Agastache rugosa Extracts on NK Cell Activity and Lymphocyte Proliferation in Cyclophosphamide-Induced Immunosuppression",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ph18081129",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals",
+        "note": "약물로 기억력을 떨어뜨린 생쥐에서 배초향 추출물이 기억 저하를 줄이는 경향을 보였다는 동물 실험으로, 사람의 인지 기능에 대한 근거는 아니다.",
+        "title": "Anti-Amnesic Effect of Agastache rugosa on Scopolamine-Induced Memory Impairment in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ph17091173",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "배초향을 포함한 배초향속 식물의 성분과 작용 연구를 모은 리뷰로, 다룬 연구는 주로 세포·동물 실험이다.",
+        "title": "Agastache Species: A Comprehensive Review on Phytochemical Composition and Therapeutic Properties",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/plants12162937",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 연구는 배초향의 정유·페놀 성분과 그 작용을 다룬 것이 많다. 리뷰를 빼면 대부분 세포·동물 실험이며, 사람에게서 효과가 확인된 연구는 찾지 못했다. 이번 조사에서는 Europe PMC 검색이 접속 제한(429)으로 막혀 웹 검색으로 확인된 논문만 실었다."
+  },
+  "name": "배초향",
+  "st": "ok",
+  "updatedAt": 1792962021102
+}

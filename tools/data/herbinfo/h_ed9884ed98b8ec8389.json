@@ -1,0 +1,193 @@
+{
+  "by": "auto",
+  "classic": {
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "출산 뒤 피 때문에 생기는 여러 병에 쓴다고 적었다.",
+      "월경이 고르지 않은 것, 배 속에 뭉친 덩어리, 출산 뒤 어지럼증 등에 쓰고, 부딪혀 생긴 어혈을 풀며, 가슴과 아랫배 통증에 잘 듣는다고 적었다.",
+      "곳곳에서 자라며 뿌리는 반하처럼 생겼고 색이 누렇다고 적었다.",
+      "식초에 삶아서 쓴다고 적었다."
+    ],
+    "han": "玄胡索",
+    "has": true,
+    "ki": "性溫, 味辛一云苦, 無毒",
+    "kiKo": "성질이 따뜻하고 맛이 매우며(쓰다고도 한다) 독이 없다.",
+    "old": "",
+    "orig": "性溫, 味辛一云苦, 無毒. 主産後諸病因血所爲者. 治月經不調, 腹中結塊, 崩中淋露, 産後血暈. 消撲損瘀血, 落胎, 破癥癖, 破血. 治氣, 治心痛, 小腹痛如神. 在處有之. 根如半夏, 色黃. 《本草》 入手足太陰ㆍ足厥陰經. 醋煮用之. 《入門》",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 草部 玄胡索",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2565"
+      }
+    ],
+    "verified": true,
+    "warn": "원문에 태아를 떨어뜨린다(落胎)는 표현이 있어 임신 중에는 쓰면 안 되는 약재로 다룬다."
+  },
+  "faq": [
+    {
+      "a": "아니요, 먹지 않는 것이 좋습니다. 덩이줄기에 알칼로이드가 들어 있는 한약재이고, 식품원료로 쓸 수 있는지 확인되지 않았습니다. 약으로 쓸 때는 전문가의 처방을 따릅니다.",
+      "q": "현호색을 나물이나 차로 먹어도 되나요?"
+    },
+    {
+      "a": "들현호색 또는 연호색(중국 원산)의 덩이줄기입니다. 말린 덩이줄기는 지름 1~2cm에 혹 같은 돌기가 있고 깨뜨린 면이 노란빛을 띱니다.",
+      "q": "한약재 현호색은 어떤 식물에서 나오나요?"
+    },
+    {
+      "a": "꽃 색과 크기로 구별합니다. 현호색은 20cm 안팎에 연한 홍자색·푸른색 꽃이 피고, 산괴불주머니는 50cm 정도로 크고 노란 꽃이 핍니다. 산괴불주머니는 유독 성분이 있어 먹으면 안 됩니다.",
+      "q": "현호색과 산괴불주머니는 어떻게 구별하나요?"
+    },
+    {
+      "a": "4월 무렵에 핍니다. 따뜻한 곳에서는 더 일찍 피고, 늦봄이면 땅 위 부분이 사라집니다.",
+      "q": "현호색 꽃은 언제 피나요?"
+    },
+    {
+      "a": "원산지와 기원 식물 표시를 먼저 확인합니다. 해외 보충제는 제품마다 성분 함량 차이가 크다는 연구가 있으므로, 출처가 분명한 한약재를 전문가 처방으로 쓰는 것이 안전합니다.",
+      "q": "수입 연호색 제품은 어떻게 고르나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "현호색과(양귀비과로 묶기도 함)",
+    "grade": "",
+    "habitat": "전국 산지의 약간 습한 곳에서 잘 자란다. 이른 봄 언 땅이 녹을 무렵, 숲의 나무들이 잎을 내기 전에 올라와 꽃을 피우고 늦봄이면 땅 위 부분이 사라진다. 우리나라에는 현호색 무리가 20종 가까이 자생한다.",
+    "look": {
+      "flower": "4월 무렵(따뜻한 곳은 더 일찍) 줄기 끝에 연한 홍자색 또는 푸른색 꽃이 10송이 남짓 모여 핀다. 꽃 뒤쪽에 긴 꿀주머니(거)가 있어 종달새 머리 같은 모양이며 향기가 있다.",
+      "leaf": "잎은 보통 3장씩 1~2회 갈라지지만 지역과 개체에 따라 모양 차이가 크다.",
+      "root": "땅속줄기 끝에 지름 1cm 정도의 둥근 덩이줄기가 달린다. 말린 한약재 덩이줄기는 지름 10~20mm로 혹 같은 돌기가 있고, 겉은 회황색~회갈색, 깨뜨린 면은 황색~회황갈색이다.",
+      "stem": "높이 20cm 안팎의 여러해살이풀이다."
+    },
+    "parts": "덩이줄기. 한약재 현호색(玄胡索)은 들현호색(Corydalis ternata) 또는 연호색(延胡索, Corydalis yanhusuo)의 덩이줄기로 소개된다.",
+    "prep": "식품으로 먹지 않는다. 현호색 덩이줄기는 한약재로 쓰이는 약재이며, 식약처 식품원료로 쓸 수 있는지는 확인하지 못했다. 덩이줄기에는 코리달린 등 알칼로이드가 들어 있어 나물·차·술 등으로 직접 먹지 말고, 약으로 쓸 때는 한의사 등 전문가의 처방을 따른다. 임신 중에는 쓰지 않는 것이 좋다고 안내된다.",
+    "sci": "Corydalis remota Fisch. ex Maxim.",
+    "season": {
+      "collect": [],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "경기일보 [아름다운 한국의 자생식물] 봄을 대표하는 꽃 '현호색' (국립수목원 김혁진 연구관, 2023)",
+        "url": "https://www.kyeonggi.com/article/20230309580260"
+      },
+      {
+        "title": "생약학회지 39(4) - 현호색의 품질 표준화 연구 (2008)",
+        "url": "https://koreascience.kr/article/JAKO200804748558570.pdf"
+      },
+      {
+        "title": "제주일보 [송상열의 한의학 이야기] 현호색 (2019)",
+        "url": "https://www.jejunews.com/news/articleView.html?idxno=2137292"
+      },
+      {
+        "title": "브라보마이라이프 - 현호색 (김인철 야생화 칼럼)",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/10261"
+      }
+    ],
+    "store": "",
+    "taste": "한약재로 말린 덩이줄기는 냄새가 거의 없고 맛이 쓰다."
+  },
+  "lookSources": [
+    {
+      "title": "문화일보 - 괴불주머니 무리 소개 (2024)",
+      "url": "https://www.munhwa.com/article/11429043"
+    },
+    {
+      "title": "위키트리 - 봄나물로 오인하기 쉬운 독초 (식약처·국립수목원 안내)",
+      "url": "https://www.wikitree.co.kr/articles/1042398"
+    },
+    {
+      "title": "Clinical and Molecular Hepatology 15(4) - A case of acute cholestatic hepatitis induced by Corydalis speciosa Max. (2009)",
+      "url": "https://e-cmh.org/journal/view.php?number=913"
+    },
+    {
+      "title": "경기일보 [아름다운 한국의 자생식물] 봄을 대표하는 꽃 '현호색' (국립수목원 김혁진 연구관, 2023)",
+      "url": "https://www.kyeonggi.com/article/20230309580260"
+    },
+    {
+      "title": "제주일보 [송상열의 한의학 이야기] 현호색 (2019)",
+      "url": "https://www.jejunews.com/news/articleView.html?idxno=2137292"
+    },
+    {
+      "title": "Wikipedia - Corydalis yanhusuo",
+      "url": "https://en.wikipedia.org/wiki/Corydalis_yanhusuo"
+    },
+    {
+      "title": "Frontiers in Pharmacology - Large variability in the alkaloid content of Corydalis yanhusuo dietary supplements (2025)",
+      "url": "https://doi.org/10.3389/fphar.2024.1518750"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "산괴불주머니(Corydalis speciosa)는 같은 현호색속의 두해살이풀로 유독 성분이 있어 먹으면 안 된다. 이른 봄 어린잎을 쑥으로 잘못 알고 먹는 사고가 있으며, 이 식물을 반복해서 먹고 급성 담즙정체성 간염이 생긴 국내 사례 보고도 있다.",
+      "name": "산괴불주머니",
+      "points": [
+        "산괴불주머니는 지름 2cm 정도의 노란 꽃이 핀다. 현호색 꽃은 연한 홍자색이나 푸른색이다.",
+        "산괴불주머니는 높이 50cm 정도까지 자라 20cm 안팎인 현호색보다 훨씬 크다.",
+        "괴불주머니 무리는 현호색처럼 둥근 덩이줄기가 달리지 않고 뿌리가 땅속으로 곧게 뻗는다.",
+        "산괴불주머니 잎은 털이 없이 매끈하고 불쾌한 냄새가 나며, 쑥은 잎 양면에 부드러운 털이 있고 비비면 쑥 향이 난다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "연호색(延胡索, Corydalis yanhusuo)은 중국 원산의 다른 종으로, 덩이줄기가 한약재 현호색의 기원으로 함께 쓰이며 수입품도 유통된다. 국산 들현호색과 겉모양만으로 가르는 공공기관 기준은 확인하지 못했다.",
+      "name": "연호색",
+      "points": [
+        "포장의 원산지 표시와 기원 식물 표기를 확인한다.",
+        "연호색 덩이줄기는 노랗고 둥글며 지름이 2.5cm까지 커진다.",
+        "미국에서 팔리는 연호색 보충제 14개를 분석한 연구에서 알칼로이드 함량 차이가 매우 컸고 일부는 섞음 가능성이 지적되어, 출처가 불분명한 가공품은 피하는 것이 좋다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Biomedicine & Pharmacotherapy",
+        "note": "연호색(C. yanhusuo)에서 보고된 알칼로이드 84종의 신경계·심혈관계 등에 대한 실험 결과와 약물 전달 연구를 정리했다.",
+        "title": "The composition, pharmacological effects, related mechanisms and drug delivery of alkaloids from Corydalis yanhusuo",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/6e6c941ce37546ccaddee57d3f0253b6",
+        "year": "2023"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "미국 온라인에서 산 연호색 보충제 14개의 알칼로이드 19종을 분석해 제품마다 함량 차이가 매우 크고 일부는 섞음이 의심된다고 보고했다.",
+        "title": "Large variability in the alkaloid content of Corydalis yanhusuo dietary supplements",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fphar.2024.1518750",
+        "year": "2025"
+      },
+      {
+        "journal": "Horticulturae",
+        "note": "현호색 무리(C. turtschaninovii) 덩이줄기 조직을 배양할 때 LED 빛과 생장조절제가 알칼로이드 축적에 주는 영향을 살핀 재배 연구다.",
+        "title": "LED Light and Plant Growth Regulators Affect Callus Induction, Shoot Organogenesis, dl-Tetrahydropalmatine Accumulation, and Activities of Antioxidant Enzymes in Corydalis turtschaninovii Besser",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/horticulturae11121420",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 대부분 중국산 연호색(Corydalis yanhusuo)의 알칼로이드를 다룬 것으로, 성분과 약리 작용을 정리한 리뷰와 유통 보충제의 품질 편차를 분석한 연구가 있다. 국내 현호색 무리(예: Corydalis turtschaninovii) 연구는 조직배양 같은 재배·생산 연구가 중심이며, 사람 대상 근거는 찾지 못했다."
+  },
+  "name": "현호색",
+  "st": "ban",
+  "traditional": {
+    "sources": [
+      {
+        "title": "경기일보 [아름다운 한국의 자생식물] 봄을 대표하는 꽃 '현호색' (국립수목원 김혁진 연구관, 2023)",
+        "url": "https://www.kyeonggi.com/article/20230309580260"
+      },
+      {
+        "title": "브라보마이라이프 - 현호색 (김인철 야생화 칼럼)",
+        "url": "https://bravo.etoday.co.kr/view/atc_view/10261"
+      },
+      {
+        "title": "제주일보 [송상열의 한의학 이야기] 현호색 (2019)",
+        "url": "https://www.jejunews.com/news/articleView.html?idxno=2137292"
+      }
+    ],
+    "text": "현호색 덩이줄기는 통증을 가라앉히는 약재로 한방에서 널리 쓰여 왔고, 국산 소화제 활명수에도 다른 생약과 함께 들어간다. 한의학에서는 어혈을 푸는 처방에 들어가는 약재로 보아 임산부에게는 쓰지 않고, 몸이 허약한 사람에게도 주의해서 쓴다."
+  },
+  "updatedAt": 1792919652818
+}

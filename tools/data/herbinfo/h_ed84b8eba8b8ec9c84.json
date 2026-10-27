@@ -1,0 +1,155 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "아니요, 먹지 않는 것이 안전합니다. 식약처와 산림청은 털머위를 머위와 닮은 독초로 안내하고 있으며, 간에 해로운 피롤리지딘 알칼로이드가 들어 있다고 보고되었습니다.",
+      "q": "털머위를 머위처럼 먹어도 되나요?"
+    },
+    {
+      "a": "잎의 두께와 윤기를 보면 됩니다. 머위 잎은 얇고 부드럽고 잔털이 있으며, 털머위 잎은 두껍고 짙은 녹색에 반질반질 윤기가 나고 겨울에도 푸르게 남아 있습니다.",
+      "q": "머위와 털머위는 어떻게 구별하나요?"
+    },
+    {
+      "a": "가을인 9~10월에 노란 꽃이 핍니다. 이른 봄에 꽃이 먼저 올라오는 머위와 피는 때가 다릅니다.",
+      "q": "털머위 꽃은 언제 피나요?"
+    },
+    {
+      "a": "울릉도·제주도와 남해안 섬의 바닷가 숲속, 습하고 반그늘진 곳에서 자랍니다. 그늘에 강해 화단이나 정원에 관상용으로도 많이 심습니다.",
+      "q": "털머위는 어디서 자라나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Leopard plant",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "울릉도·제주도와 남해안 섬 지방의 숲속, 특히 바닷가 가까이 습기가 충분한 반그늘에서 자란다. 그늘에 강하고 잎이 커서 관상용으로도 많이 심는다.",
+    "look": {
+      "flower": "가을(9~10월, 늦게는 11월)에 긴 꽃줄기 끝에 노란 꽃(두상화)이 여러 개 모여 핀다. 가장자리에 노란 혀꽃이 8~12장 둘러 있다.",
+      "fruit": "열매는 털이 있는 갈색 수과이고, 관모는 흑갈색이다.",
+      "leaf": "잎은 뿌리에서 모여 나고 잎자루가 길다. 잎몸은 콩팥(심장~콩팥) 모양이며 짙은 녹색으로 두껍고 표면에 윤기가 난다. 어릴 때는 잎이 안쪽으로 말려 있다.",
+      "stem": "높이 30~50cm 정도이고, 식물 전체에 연한 갈색 털(솜털)이 많다. 겨울에도 잎이 지지 않는 상록성이다."
+    },
+    "parts": "식품으로 쓸 수 있는 부위는 확인되지 않음 (식약처·산림청은 독초로 안내)",
+    "prep": "먹지 않는다. 식약처와 산림청은 털머위를 머위와 닮은 독초로 안내하고 있으며, 식물 전체에 간을 손상시킬 수 있는 피롤리지딘 알칼로이드(센키르킨 등)가 들어 있다고 보고되었다. 일부 자료에 잎자루를 먹는다는 기록이 있으나, 독성 성분을 안전하게 없애는 손질법은 확인되지 않았으므로 머위 대용으로 채취·판매·섭취하지 않는다.",
+    "sci": "Farfugium japonicum (L.) Kitam.",
+    "season": {
+      "collect": [],
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "정책브리핑(식품의약품안전처) - 다른 부분 찾기! 산나물 vs 독초 (2025)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148941920"
+      },
+      {
+        "title": "정책브리핑(산림청) - 봄 산나물, 약초 vs 독초 구별법 (2010)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148693636"
+      },
+      {
+        "title": "국립생태원 - 주요동·식물: 털머위",
+        "url": "https://www.nie.re.kr/nie/pgm/nature/view.do?menuNo=200038&contIdx=203"
+      },
+      {
+        "title": "서울식물원 - 털머위",
+        "url": "https://botanicpark.seoul.go.kr/front/plants/plantsIntroView.do?plt_sn=450&page=1"
+      },
+      {
+        "title": "Hospital Authority (홍콩) Atlas of Poisonous Plants in Hong Kong - Farfugium japonicum",
+        "url": "https://www3.ha.org.hk/toxicplant/en/farfugium_japonicum.html"
+      },
+      {
+        "title": "Kim & Jang (2025) Development of molecular markers for distinguishing between the edible plant Petasites japonicus and the toxic plant Farfugium japonicum, Food Science and Biotechnology",
+        "url": "https://doi.org/10.1007/s10068-025-01874-3"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "정책브리핑(식품의약품안전처) - 다른 부분 찾기! 산나물 vs 독초 (2025)",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148941920"
+    },
+    {
+      "title": "정책브리핑(산림청) - 봄 산나물, 약초 vs 독초 구별법 (2010)",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148693636"
+    },
+    {
+      "title": "한국일보 - 님아, 그 풀은 먹지 마오… 산나물 아니고 '독초'라오 (2024, 식약처·국립수목원 자료 인용)",
+      "url": "https://www.hankookilbo.com/news/article/A2024033013140001232"
+    },
+    {
+      "title": "국립생태원 - 주요동·식물: 털머위",
+      "url": "https://www.nie.re.kr/nie/pgm/nature/view.do?menuNo=200038&contIdx=203"
+    },
+    {
+      "title": "Kim & Jang (2025) Development of molecular markers for distinguishing between the edible plant Petasites japonicus and the toxic plant Farfugium japonicum, Food Science and Biotechnology",
+      "url": "https://doi.org/10.1007/s10068-025-01874-3"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "머위(Petasites japonicus)는 잎이 콩팥 모양이고 이름도 비슷해 털머위와 가장 많이 헷갈리는 나물이다. 털머위는 독초로 안내되므로 확실하지 않으면 채취하지 않는다. 생김새가 비슷해 국내에서 둘을 유전자로 가려내는 방법까지 개발되었다.",
+      "name": "머위",
+      "points": [
+        "잎을 만져 본다: 머위 잎은 얇고 부드러우며 잔털이 있고, 털머위 잎은 두껍고 짙은 녹색에 표면이 반질반질 윤기가 난다.",
+        "겨울에 잎이 남아 있으면 털머위를 의심한다: 털머위는 상록성이고, 머위는 이른 봄에 잎보다 꽃이 먼저 올라온다.",
+        "꽃 피는 때가 다르다: 머위는 이른 봄, 털머위는 가을(9~10월)에 노란 꽃이 핀다.",
+        "털머위는 식물 전체에 갈색 털이 많다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Food Science and Biotechnology",
+        "note": "국내 연구진이 생김새가 비슷한 머위와 털머위를 실시간 PCR로 가려내는 표지를 개발했으며, 털머위를 피롤리지딘 알칼로이드 때문에 먹기에 부적합한 독성 식물로 설명했다.",
+        "title": "Development of molecular markers for distinguishing between the edible plant Petasites japonicus and the toxic plant Farfugium japonicum using quantitative real-time polymerase chain reaction",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s10068-025-01874-3",
+        "year": "2025"
+      },
+      {
+        "journal": "The Journal of Veterinary Medical Science",
+        "note": "털머위를 먹이로 받은 토카라 말들의 혈액에서 간 기능 이상 신호가 보여, 피롤리지딘 알칼로이드에 의한 만성 중독 가능성을 제기한 조사다.",
+        "title": "Health assessment of Tokara horses on Nakanoshima island: potential chronic hepatic dysfunction induced by Leopard plant (Farfugium japonicum) ingestion",
+        "type": "기타",
+        "url": "https://doi.org/10.1292/jvms.26-0275",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
+        "note": "잎과 줄기에서 뽑은 정유 성분을 분석하고 항산화·항균 활성을 실험실에서 측정했다.",
+        "title": "Composition and Antioxidative and Antibacterial Activities of the Essential Oil from Farfugium japonicum",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/molecules28062774",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 연구는 털머위와 머위를 유전자로 구별하는 식품 안전 연구, 털머위를 먹은 말에서 만성 간 기능 이상이 의심된 사례 조사, 정유 성분의 항산화·항균 실험 등이다. 사람 대상 효능 연구는 찾지 못했고, 연구들은 대체로 피롤리지딘 알칼로이드로 인한 독성 위험을 강조한다."
+  },
+  "name": "털머위",
+  "st": "check",
+  "traditional": {
+    "sources": [
+      {
+        "title": "Hospital Authority (홍콩) Atlas of Poisonous Plants in Hong Kong - Farfugium japonicum",
+        "url": "https://www3.ha.org.hk/toxicplant/en/farfugium_japonicum.html"
+      },
+      {
+        "title": "Composition and Antioxidative and Antibacterial Activities of the Essential Oil from Farfugium japonicum (Molecules, 2023)",
+        "url": "https://doi.org/10.3390/molecules28062774"
+      }
+    ],
+    "text": "중국 전통 의학에서는 털머위(중국명 橐吾·蓮蓬草 등) 전체를 열을 내리고 독을 풀며 혈액 순환을 돕고 부기를 가라앉히는 데 썼다고 소개된다. 뿌리줄기는 목 통증, 감기, 기침에 썼다는 기록이 있다. 다만 같은 자료들은 식물 전체에 간독성 피롤리지딘 알칼로이드가 있다고 함께 밝히고 있다."
+  },
+  "updatedAt": 1792919652818
+}

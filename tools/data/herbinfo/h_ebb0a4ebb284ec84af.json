@@ -1,0 +1,126 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "봄 버섯입니다. 유럽에서는 대개 4~6월에 나며, 영국에서는 4월 23일 성 조지의 날 무렵에 난다고 해서 영어 이름이 St George's mushroom입니다.",
+      "q": "밤버섯은 언제 나나요?"
+    },
+    {
+      "a": "먼저 주름과 포자문 색을 봅니다. 밤버섯은 주름과 포자문이 흰색이고 밀가루 냄새가 나지만, 외대버섯류는 주름·포자문이 분홍색, 땀버섯류는 갈색이며 상처 나면 붉게 변하는 종도 있습니다. 다만 일반인이 눈으로 확실히 가리기는 어려우므로 확인되지 않은 야생 버섯은 먹지 않는 것이 가장 안전합니다.",
+      "q": "독버섯과 어떻게 구별하나요?"
+    },
+    {
+      "a": "아닙니다. 색깔, 세로로 찢어지는지, 벌레가 먹었는지, 은수저가 변하는지 같은 구별법은 모두 근거 없는 속설이라고 식약처와 국립수목원이 밝히고 있습니다.",
+      "q": "색이 수수하면 먹어도 되는 버섯인가요?"
+    },
+    {
+      "a": "씻지 않은 채 종이에 싸서 냉장 보관하고 되도록 빨리 익혀 먹습니다.",
+      "q": "어떻게 보관하나요?"
+    }
+  ],
+  "id": {
+    "eat": "반드시 익혀서 볶음이나 달걀 요리에 넣어 먹고, 절임으로도 먹는다.",
+    "eng": "St George's mushroom",
+    "family": "만가닥버섯과(Lyophyllaceae)",
+    "grade": "",
+    "habitat": "유럽에서는 석회질이 많은 풀밭이나 구릉지 숲 언저리 풀밭 등 땅에서 무리 지어 나며, 둥글게 줄지어 나는 '균륜(요정의 고리)'을 만드는 것으로 유명하다. 국내 발생지·발생 시기에 대한 공공기관 자료는 이번에 직접 확인하지 못했다.",
+    "look": {
+      "flower": "주름은 흰색으로 빽빽하고, 대에 붙는 부분이 홈처럼 파여 붙는다.",
+      "fruit": "살은 희고 치밀하며 부드럽다. 포자문(포자 가루) 색은 흰색이다.",
+      "leaf": "갓은 지름 5~15cm로 흰색~크림색이며 표면이 매끈하다.",
+      "smell": "밀가루 반죽이나 오이 같은 냄새가 난다.",
+      "stem": "대는 짧고 뭉툭하며 밑동이 굵고, 갓과 같은 흰색~크림색이다."
+    },
+    "parts": "자실체(갓과 대)",
+    "prep": "흙과 밑동을 털어 내고 손질한 뒤 반드시 충분히 익혀 먹는다. 비슷하게 생긴 독버섯(외대버섯류·땀버섯류)이 같은 철, 비슷한 곳에 나므로 전문가가 종을 확인하지 않은 야생 버섯은 먹지 않는다.",
+    "sci": "Calocybe gambosa (Fr.) Donk",
+    "season": {
+      "collect": [
+        4,
+        5,
+        6
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Wikipedia - Calocybe gambosa (St George's mushroom)",
+        "url": "https://en.wikipedia.org/wiki/Calocybe_gambosa"
+      },
+      {
+        "title": "Graziosi 외 (2025) Analysis of Plant–Fungus Interactions in Calocybe gambosa Fairy Rings - Plants",
+        "url": "https://www.mdpi.com/2223-7747/14/18/2884"
+      }
+    ],
+    "store": "씻지 않은 채 종이에 싸서 냉장 보관하고 가능한 한 빨리 먹는다.",
+    "taste": "살이 단단하고 밀가루(또는 오이) 같은 냄새가 난다."
+  },
+  "lookSources": [
+    {
+      "title": "Wikipedia - Calocybe gambosa (St George's mushroom)",
+      "url": "https://en.wikipedia.org/wiki/Calocybe_gambosa"
+    },
+    {
+      "title": "First Nature - Inocybe erubescens (Deadly Fibrecap)",
+      "url": "https://first-nature.com/fungi/inocybe-erubescens.php"
+    },
+    {
+      "title": "Wikipedia - Entoloma rhodopolium",
+      "url": "https://en.wikipedia.org/wiki/Entoloma_rhodopolium"
+    },
+    {
+      "title": "식품의약품안전처 웹진 - 독버섯 주의 (2024.06)",
+      "url": "https://mfds.go.kr/webzine/202406/sub03.html"
+    },
+    {
+      "title": "YTN - 가을 독버섯 주의보 (국립수목원·농촌진흥청 인용, 2023)",
+      "url": "https://www.ytn.co.kr/_ln/0103_202309251630018514"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "외대버섯속(Entoloma) 독버섯은 갓이 흰색~회갈색이고 밀가루 냄새가 나기도 해 밤버섯과 헷갈릴 수 있으며, 먹으면 심한 위장 중독을 일으킨다. 유럽에서는 같은 속의 Entoloma sinuatum이 밤버섯의 대표 혼동종이다.",
+      "name": "삿갓외대버섯",
+      "points": [
+        "외대버섯류는 자라면서 주름이 분홍빛을 띠고 포자문이 분홍색이다. 밤버섯은 주름과 포자문이 끝까지 흰색이다.",
+        "삿갓외대버섯 갓은 회색~황갈색이고 가운데가 볼록 솟는 경우가 많다. 밤버섯 갓은 흰색~크림색이다.",
+        "Entoloma sinuatum 은 고약한(쩐내 같은) 냄새가 나는 것으로 알려져 있다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "땀버섯속(Inocybe·Inosperma) 독버섯에는 무스카린이 들어 있으며, 유럽에서 밤버섯과 비슷한 곳에 나는 Inocybe erubescens 는 땀버섯류 가운데 사망 사례가 확인된 맹독 버섯으로, 밤버섯의 대표 혼동종으로 꼽힌다(영국에서는 주로 6~9월에 난다).",
+      "name": "땀버섯류",
+      "points": [
+        "Inocybe erubescens 갓은 원뿔 모양에 가운데가 뾰족하고, 섬유 같은 줄무늬가 있으며 마르면 가장자리부터 갈라진다.",
+        "상처를 내거나 오래되면 갓·주름·대가 붉게 물든다. 밤버섯은 붉게 변하지 않는다.",
+        "포자문이 탁한 갈색이고 주름도 분홍빛 갈색으로 변한다. 밤버섯 포자문은 흰색이다.",
+        "밤버섯과 달리 밀가루 냄새가 없고, 오래된 것은 불쾌한 냄새가 난다."
+      ]
+    }
+  ],
+  "modern": {
+    "papers": [
+      {
+        "journal": "Plants",
+        "note": "밤버섯이 풀밭에 만드는 균륜에서 균사가 풀뿌리에 들어가 앞쪽 풀을 해치면서도 휘발성 물질로 뒤쪽 풀의 생장을 돕는 이중 역할을 한다고 보고한 생태 연구다.",
+        "title": "Analysis of Plant–Fungus Interactions in Calocybe gambosa Fairy Rings",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14182884",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 연구는 밤버섯의 영양 성분과 풀밭에 균륜을 만드는 생태를 다룬 것이 대부분이다. 항산화·항균 활성은 실험실 분석 수준에서 보고되었을 뿐 사람에게서 확인된 효과는 없다."
+  },
+  "name": "밤버섯",
+  "st": "ok",
+  "traditional": {
+    "sources": [],
+    "text": ""
+  },
+  "updatedAt": 1792962021102
+}
