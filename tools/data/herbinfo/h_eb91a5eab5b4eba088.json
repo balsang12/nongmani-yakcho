@@ -3,25 +3,30 @@
   "classic": {
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
-    "easy": [],
+    "easy": [
+      "속(中焦)을 보하고 기운을 돋우며 오장을 편안하게 하는 데 쓴다고 적었다.",
+      "힘줄과 뼈를 돕고 비위를 보하며 심장과 폐를 촉촉하게 한다고 적었다.",
+      "2월과 8월에 뿌리를 캐 볕에 말리고, 오래 먹을 때는 끓는 물에 데쳐 쓴맛을 뺀 뒤 아홉 번 찌고 말리는 법을 소개했다.",
+      "잎이 마주 붙는 것을 황정, 어긋나는 것을 편정(偏精)이라 하여 편정은 효과가 못하다고 구분해 두었다."
+    ],
     "han": "黃精",
     "has": true,
-    "ki": "",
-    "kiKo": "",
-    "old": "",
-    "orig": "",
+    "ki": "性平 味甘 無毒",
+    "kiKo": "성질은 평(平)하고 맛은 달며 독이 없다고 적었다.",
+    "old": "듁댓불휘",
+    "orig": "黃精 듁댓불휘. 性平, 味甘, 無毒. 主補中益氣, 安五藏, 補五勞七傷, 助筋骨, 益脾胃, 潤心肺. … 三月生苗, 高一二尺. … 二月八月採根, 暴乾. … 入藥生用. … 先用滾水, 綽過去苦味, 乃九蒸九暴.",
     "sources": [
       {
-        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
-        "url": "https://mediclassics.kr/books/8"
+        "title": "한국한의학연구원 한의고전명저총서 내손안에 동의보감 - 탕액편 권2 초부 5.1 黃精",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2455"
       },
       {
-        "title": "주간경향 - [허브에세이] 가을에 어울리는 결명자차와 둥굴레차 (권혜진 한의사, 2019)",
-        "url": "https://weekly.khan.co.kr/article/201910181602481"
+        "title": "대한한의학원전학회지 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (2010, 女萎萎蕤는 향약집성방 목록에만 보임)",
+        "url": "https://koreascience.kr/article/JAKO201019254751670.pdf"
       }
     ],
-    "verified": false,
-    "warn": "동의보감 탕액편 풀(草部)에 黃精 항목이 실려 있다고 알려져 있으나, 이번 조사에서는 원문(한문)과 신뢰할 만한 번역본을 직접 읽지 못해 원문·성미·풀이 칸은 비워 두었다. 원문 대조 후 보완할 예정이다. 둥굴레(옥죽)에 해당하는 萎蕤 항목은 이번에 찾지 못했고, 오늘날 약전의 황정은 층층갈고리둥굴레 등의 뿌리줄기를 쪄서 만든 것으로 옥죽과 구분한다."
+    "verified": true,
+    "warn": "원문에 따로 금기 문장은 확인되지 않았다. 다만 동의보감은 黃精의 우리말 이름을 '듁댓불휘(죽대 뿌리)'로 적었고, 한국한의학연구원 번역본 주석은 실제 황정을 층층둥굴레·층층갈고리둥굴레 무리로 본다. 잎이 어긋나는 둥굴레(옥죽)는 이 구분대로라면 황정과 같다고 보기 어려우므로, 이 기록을 둥굴레에 그대로 옮겨 적용하지 않도록 한다. 오늘날 둥굴레에 해당하는 萎蕤(위유·옥죽)는 탕액편 초부를 확인한 범위에서 독립 항목을 찾지 못했다."
   },
   "faq": [
     {
@@ -41,8 +46,8 @@
       "q": "수입 둥굴레는 어떻게 구별하나요?"
     },
     {
-      "a": "밀폐 용기에 담아 서늘하고 건조한 곳에 두세요. 습기를 먹으면 끈적해지고 곰팡이가 슬 수 있으니, 곰팡이가 보이거나 냄새가 변한 것은 버립니다.",
-      "q": "말린 둥굴레는 어떻게 보관하나요?"
+      "a": "꼭 같다고 보기는 어렵습니다. 동의보감은 황정의 우리말 이름을 '듁댓불휘(죽대 뿌리)'로 적고 잎이 마주 붙는 것을 황정으로 보았는데, 흔히 차로 마시는 둥굴레는 잎이 어긋나게 납니다. 오늘날 약전에서도 황정과 옥죽(둥굴레 뿌리줄기)은 서로 다른 약재로 구분합니다.",
+      "q": "동의보감에 나오는 황정이 둥굴레인가요?"
     }
   ],
   "id": {
@@ -182,27 +187,27 @@
         "year": "2025"
       },
       {
+        "journal": "Frontiers in Nutrition",
+        "note": "둥굴레를 포함한 둥굴레속 식물의 플라보노이드 성분과 생합성, 실험 활성을 정리한 리뷰로, 저자들도 연구가 아직 세포·동물 단계에 머물러 있다고 밝혔다.",
+        "title": "Flavonoids from the genus Polygonatum: biological activities and biosynthesis mechanism",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fnut.2025.1574182",
+        "year": "2025"
+      },
+      {
+        "journal": "Genes",
+        "note": "한국 고유종으로 기재된 둥굴레속 식물이 엽록체 유전체로 보면 둥굴레(P. odoratum) 무리에 속한다는 분류 연구로, 효능이 아니라 종 구분에 관한 자료다.",
+        "title": "Plastome Sequences Uncover the Korean Endemic Species Polygonatum grandicaule (Asparagaceae) as Part of the P. odoratum Complex",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/genes16040398",
+        "year": "2025"
+      },
+      {
         "journal": "Saudi J Biol Sci",
         "note": "설치류에서 둥굴레 추출물이 위 손상 관련 지표를 바꾸었다고 보고한 동물 실험으로, 사람에게 같은 효과가 있는지는 확인되지 않았다.",
         "title": "Gastroprotective effects of Polygonatum odoratum in rodents by regulation of apoptotic proteins and inflammatory cytokines.",
         "type": "동물 실험",
         "url": "https://europepmc.org/article/MED/37266408",
-        "year": "2023"
-      },
-      {
-        "journal": "Frontiers in Chemistry",
-        "note": "중국 시장의 두 가지 옥죽 상품(호남 재배품과 동북 야생품)을 27개 배치로 비교해, 특정 사포닌 성분 비율로 둘을 가를 수 있다고 제안한 성분 분석 연구다.",
-        "title": "Qualitative and quantitative studies on two commercial specifications of Polygonatum odoratum.",
-        "type": "기타",
-        "url": "https://doi.org/10.3389/fchem.2023.1146153",
-        "year": "2023"
-      },
-      {
-        "journal": "Int J Biol Macromol",
-        "note": "둥굴레속 식물의 다당류를 뽑고 정제하는 방법, 구조와 활성 연구를 정리한 리뷰로, 활성 근거는 주로 실험 단계일 수 있다.",
-        "title": "Review on the genus Polygonatum polysaccharides: Extraction, purification, structural characteristics and bioactivities.",
-        "type": "리뷰",
-        "url": "https://europepmc.org/article/MED/36608864",
         "year": "2023"
       }
     ],
@@ -210,5 +215,5 @@
   },
   "name": "둥굴레",
   "st": "ok",
-  "updatedAt": 1791968691249
+  "updatedAt": 1793351717671
 }

@@ -1,0 +1,131 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "안 된다. 백부자는 환경부 지정 멸종위기 야생생물 Ⅱ급이라 허가 없이 캐거나 채취할 수 없고, 뿌리에 독이 있어 먹어서도 안 된다.",
+      "q": "백부자를 캐도 되나요?"
+    },
+    {
+      "a": "안 된다. 뿌리의 투구꽃속 알칼로이드가 저림·구토·부정맥을 일으킬 수 있어 개인이 약재로 쓰면 위험하다.",
+      "q": "덩이뿌리를 달이거나 술에 담그면 괜찮나요?"
+    },
+    {
+      "a": "꽃 색을 본다. 백부자는 7~8월에 연한 노란색 꽃이 피고 잎이 가늘게 잘게 갈라지며, 투구꽃은 보라색 꽃이 핀다. 둘 다 독초다.",
+      "q": "투구꽃과 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 119에 연락하거나 응급실로 간다. 증상이 1시간 안에 나타나 빠르게 나빠질 수 있으니 기다리지 말고, 남은 식물을 가져간다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Korean monkshood",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "산골짜기의 그늘지고 약간 축축한 비탈에 드문드문 자란다. 예전에는 전국 풀밭과 관목 숲에서 볼 수 있었으나 약초로 마구 캐서 크게 줄었고, 지금은 주로 강원도와 충북 북부에 남아 있다. 환경부 지정 멸종위기 야생생물 Ⅱ급으로, 허가 없이 캐거나 채취할 수 없다.",
+    "look": {
+      "flower": "7~8월에 연한 노란색(자줏빛이 도는 경우도 있음) 투구 모양 꽃이 줄기 끝에 2~7개 달린다.",
+      "leaf": "잎은 어긋나고 손바닥 모양으로 갈라지는데, 갈래가 가늘고 깊게 잘게 갈라져 선형~피침형으로 보인다. 아래 잎은 잎자루가 길고 위 잎은 거의 없다.",
+      "root": "흰빛이 도는 마늘쪽 같은 덩이뿌리가 2~3개씩 달린다.",
+      "stem": "줄기는 곧게 서며 높이 1m 정도까지 자란다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Aconitum coreanum (H.Lév.) Rapaics",
+    "season": {
+      "collect": [],
+      "flower": [
+        7,
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 백부자",
+        "url": "https://encykorea.aks.ac.kr/Article/E0022133"
+      },
+      {
+        "title": "Won H 외, 백부자(Aconitum coreanum) 유전다양성 평가(Journal of Species Research 2012)",
+        "url": "https://koreascience.or.kr/article/JAKO201205740752575.pdf"
+      },
+      {
+        "title": "Wikipedia - Aconitum coreanum",
+        "url": "https://en.wikipedia.org/wiki/Aconitum_coreanum"
+      },
+      {
+        "title": "Plants of the World Online - Aconitum coreanum (H.Lév.) Rapaics",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:707279-1"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 백부자",
+      "url": "https://encykorea.aks.ac.kr/Article/E0022133"
+    },
+    {
+      "title": "Won H 외, 백부자(Aconitum coreanum) 유전다양성 평가(Journal of Species Research 2012)",
+      "url": "https://koreascience.or.kr/article/JAKO201205740752575.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 진범",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054691"
+    },
+    {
+      "title": "국립공원공단 - 천상화원 야생화 탐방로 안내(투구꽃·놋젓가락나물)",
+      "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "꽃 모양이 투구꽃과 비슷한 같은 속 독초다. 꽃 색과 잎 갈래로 구별되지만 둘 다 먹으면 안 된다.",
+      "name": "투구꽃",
+      "points": [
+        "백부자 꽃은 연한 노란색, 투구꽃 꽃은 보라색이다.",
+        "백부자 잎은 갈래가 가늘고 잘게 갈라진다.",
+        "백부자는 7~8월, 투구꽃은 9월 무렵 꽃이 핀다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "같은 투구꽃속으로 손바닥 모양 잎을 가졌다. 꽃 색과 뿌리로 구별되며 둘 다 독초다.",
+      "name": "진범",
+      "points": [
+        "백부자 꽃은 연한 노란색, 진범 꽃은 연한 자주색이다.",
+        "백부자는 마늘쪽 같은 덩이뿌리가 2~3개 달리고, 진범은 검은 갈색의 곧은 뿌리다."
+      ]
+    }
+  ],
+  "name": "백부자",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "",
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 백부자",
+        "url": "https://encykorea.aks.ac.kr/Article/E0022133"
+      },
+      {
+        "title": "Wikipedia - Aconitum coreanum",
+        "url": "https://en.wikipedia.org/wiki/Aconitum_coreanum"
+      },
+      {
+        "title": "홍콩 중의약규관판공실 - Alert on Aconitum Alkaloid Poisoning(2014)",
+        "url": "https://www.cmro.gov.hk/files/en/whats_new/others/2014/Alert_on_Aconitum_Alkaloid_Poisoning_20140825.pdf"
+      },
+      {
+        "title": "Won H 외, 백부자(Aconitum coreanum) 유전다양성 평가(Journal of Species Research 2012)",
+        "url": "https://koreascience.or.kr/article/JAKO201205740752575.pdf"
+      }
+    ],
+    "text": "백부자는 뿌리에 하이파코니틴 같은 투구꽃속 알칼로이드가 들어 있는 독초다. 이 성분은 먹은 뒤 대개 1시간 안에 메스꺼움, 구토, 설사와 입·얼굴의 화끈거림이나 저림을 일으키고, 심하면 저혈압·느린 맥·부정맥으로 몇 시간 안에 목숨을 잃을 수 있다. 맨손으로 잎을 만져 피부로 흡수된 중독 예도 알려져 있다. 덩이뿌리가 한약재로 쓰이지만 독성이 강해 식품으로 쓸 수 없고, 멸종위기종이라 캐는 것 자체가 금지된다. 먹은 뒤 입·손발 저림, 구토, 가슴 두근거림이 생기면 바로 119에 연락하거나 응급실로 가고, 남은 식물을 가져가면 진단에 도움이 된다."
+  },
+  "updatedAt": 1793134791420
+}

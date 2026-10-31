@@ -109,6 +109,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "헛개를 포함해 인삼·칡 등 먹는 식물이 알코올성 간질환에 도움이 될 가능성을 정리한 문헌 고찰로, 근거 대부분이 동물·세포 실험이고 사람 대상 시험은 적다고 저자들이 밝혔다.",
+        "title": "Food plants as adjuvant medicines: a review of protective effects and clinical potential in alcoholic liver disease",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1586238",
+        "year": "2025"
+      },
+      {
         "journal": "Foods",
         "note": "성인 24명 교차 시험에서 헛개 열매 추출물 음료가 일부 시점의 혈중 알코올을 낮췄지만, 숙취 증상 점수는 위약과 뚜렷한 차이가 없었다.",
         "title": "Efficacy of Hovenia dulcis Fruit Extract in Hangover Mitigation: Double-Blind Randomized Clinical Evaluation",
@@ -150,5 +158,5 @@
     ],
     "text": "열매자루 달린 열매나 씨를 지구자(枳椇子)라 부르며 한약재로 써 왔다. 당나라 때 본초서 신수본초는 지구를 맛이 달고 성질이 고르며 독이 없다고 적고, 이 나무로 지은 집 안에서는 술맛이 묽어진다는 이야기를 남겼다. 이런 옛 기록 때문에 술과 관련된 쓰임이 오래 전해져 왔다."
   },
-  "updatedAt": 1791925006218
+  "updatedAt": 1793351717671
 }

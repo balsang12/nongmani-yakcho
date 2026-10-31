@@ -140,6 +140,14 @@
         "year": "2026"
       },
       {
+        "journal": "Chinese Pharmaceutical Journal",
+        "note": "미나리 에탄올 추출물의 성분을 분석하고 배양 대식세포에서 염증 관련 지표를 살펴본 실험실 연구다.",
+        "title": "Chemical Components and Anti-Inflammatory Activity of the Ethanol Extract of Oenanthe javanica",
+        "type": "세포 실험",
+        "url": "https://journal11.magtechjournal.com/Jwk_zgyxzz/EN/10.11669/cpj.2025.23.005",
+        "year": "2025"
+      },
+      {
         "journal": "Cosmetics",
         "note": "미나리 성분인 클로로겐산이 미세먼지에 노출된 피부 세포의 산화 손상을 줄이는지 실험실에서 살폈다.",
         "title": "Chlorogenic Acid, a Component of Oenanthe javanica (Blume) DC., Attenuates Oxidative Damage and Prostaglandin E2 Production Due to Particulate Matter 10 in HaCaT Keratinocytes",
@@ -148,9 +156,9 @@
         "year": "2023"
       }
     ],
-    "summary": "미나리(Oenanthe javanica)에 대해서는 성분의 기능성, 재배·육종 기술을 살핀 연구가 이어지고 있다. 사람 대상으로는 미나리 추출물이 음주 뒤 혈중 알코올·아세트알데하이드와 숙취 증상에 미치는 영향을 본 소규모 무작위 대조 시험이 있으나, 추출물을 쓴 단일 연구이고 나머지는 세포 실험 수준이라 근거는 아직 제한적이다."
+    "summary": "미나리(Oenanthe javanica)에 대해서는 성분의 기능성, 재배·육종 기술을 살핀 연구가 이어지고 있다. 사람 대상으로는 미나리 추출물이 음주 뒤 혈중 알코올·아세트알데하이드와 숙취 증상에 미치는 영향을 본 소규모 무작위 대조 시험이 있으나, 추출물을 쓴 단일 연구이고 나머지는 세포 실험 수준이라 근거는 아직 제한적이다. 2025년 중국 연구도 배양 세포 실험 단계로, 사람에게서의 효과를 보여 주는 근거는 아니다."
   },
   "name": "미나리",
   "st": "caution",
-  "updatedAt": 1792054918930
+  "updatedAt": 1793479770596
 }

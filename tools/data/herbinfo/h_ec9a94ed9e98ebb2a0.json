@@ -19,6 +19,10 @@
     {
       "a": "먹지 말고 되팔지도 마세요. 이미 먹고 가슴 두근거림이나 심한 두통이 있으면 바로 병원에 가세요. 혈압약이나 우울증약을 먹는 사람은 특히 위험합니다.",
       "q": "해외직구로 샀는데 어떻게 하나요?"
+    },
+    {
+      "a": "겉보기로는 거의 불가능합니다. 인터넷에서 산 요힘베 껍질 12개를 분석한 2013년 연구에서 3개는 다른 원료가 섞인 것으로 보였고 1개에서는 요힘빈이 나오지 않았습니다. 진짜든 아니든 국내에서는 식품으로 팔 수 없습니다.",
+      "q": "요힘베 껍질 제품은 진짜인지 구별할 수 있나요?"
     }
   ],
   "id": {
@@ -66,9 +70,33 @@
     {
       "title": "Wikipedia — Pausinystalia johimbe (Corynanthe johimbe)",
       "url": "https://en.wikipedia.org/wiki/Pausinystalia_johimbe"
+    },
+    {
+      "title": "PROTA — Pausinystalia johimbe (Pl@ntUse)",
+      "url": "https://plantuse.plantnet.org/en/Pausinystalia_johimbe_(PROTA)"
+    },
+    {
+      "title": "NTP, Summary of Data for Chemical Selection: Yohimbe bark extract / Yohimbine (1999)",
+      "url": "https://ntp.niehs.nih.gov/sites/default/files/ntp/htdocs/chem_background/exsumpdf/yohimbe_508.pdf"
+    },
+    {
+      "title": "Microscopic and UPLC-UV-MS analyses of authentic and commercial yohimbe bark samples, J Nat Med 2013;67(1):42-50",
+      "url": "https://pesquisa.bvsalud.org/bvsespana/resource/es/mdl-22402817"
     }
   ],
-  "lookalikes": [],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 서아프리카 숲에 자라는 근연종(Pausinystalia macroceras)으로, 수출되는 요힘베 껍질의 상당량이 실제로는 이 나무 껍질일 것으로 본다. 요힘빈 함량은 훨씬 낮지만 역시 국내에서 식품으로 팔 수 없다.",
+      "name": "가짜요힘베",
+      "points": [
+        "요힘베 껍질은 매우 쓰고 잘 벗겨지지만, 가짜요힘베 껍질은 덜 쓰고 잘 벗겨지지 않는다.",
+        "요힘베는 잎이 더 크고 잎자루가 짧거나 거의 없다.",
+        "껍질을 베어 본 단면 모양은 흔히 구별법으로 소개되지만 믿을 만한 기준이 아니다.",
+        "요힘빈은 가짜요힘베 등 다른 근연종 껍질에도 들어 있어, 요힘빈이 검출됐다고 원료 식물이 확정되지는 않는다."
+      ]
+    }
+  ],
   "modern": {
     "papers": [],
     "summary": "요힘베 껍질 제품은 함량이 제품마다 크게 다르고, 유럽식품안전청(EFSA)은 2013년 식품으로서 안전한 섭취량을 정할 수 없다고 결론 냈다."
@@ -76,7 +104,7 @@
   "name": "요힘베",
   "st": "ban",
   "toxic": {
-    "lookalike": "",
+    "lookalike": "가짜요힘베 등 근연종 나무껍질 — 국내 산나물과 오인될 일은 거의 없는 외국 식물",
     "sources": [
       {
         "title": "식품안전나라, 인터넷 구매대행 수입식품 반입 불가 원료 목록(2020.7.23 기준, PDF)",
@@ -97,5 +125,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524927
+  "updatedAt": 1793220935740
 }

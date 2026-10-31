@@ -139,6 +139,22 @@
         "year": "2026"
       },
       {
+        "journal": "Scientific Reports",
+        "note": "건강한 태국 성인 40명에게 8주간 번데기동충하초 균사체 음료를 마시게 한 무작위 대조 시험으로, 자연살해세포 활성 변화가 보고됐고 안전성 문제는 보고되지 않았다(소규모 연구).",
+        "title": "A randomized controlled clinical trial examining the effects of Cordyceps militaris beverage on the immune response in healthy adults",
+        "type": "사람 대상",
+        "url": "https://www.nature.com/articles/s41598-024-58742-z",
+        "year": "2024"
+      },
+      {
+        "journal": "Applied Sciences",
+        "note": "번데기동충하초의 코디세핀 등 대사물질과 그 생산(발효) 방법을 정리한 리뷰다.",
+        "title": "Current Progress Regarding Cordyceps militaris, Its Metabolite Function, and Its Production",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/app14114610",
+        "year": "2024"
+      },
+      {
         "journal": "Agrarian Science of Euro-North-East",
         "note": "러시아 키로프 지역의 야생 번데기동충하초 발견 기록과 균주 분리를 다룬 연구로, 건강 효과를 확인한 연구는 아니다.",
         "title": "Records of pharmacologically valuable ascomycete fungus Cordyceps militaris (L) Fr. in the Kirov region",
@@ -147,9 +163,18 @@
         "year": "2023"
       }
     ],
-    "summary": "번데기동충하초의 연구는 대부분 세포·동물 실험 단계이며, 사람에게서 효과를 확인하려면 대규모 사람 대상 연구가 더 필요하다고 평가된다. 이번 조사에서는 Europe PMC 검색이 접속 제한(429)으로 막혀 2023~2026년 리뷰나 사람 대상 연구를 찾지 못했고, 국내 유통품 안전성 조사 등 2편만 확인했다."
+    "summary": "번데기동충하초 연구는 대부분 세포·동물 실험 단계이며, 사람 대상 연구는 건강한 성인 40명이 8주간 균사체 음료를 마신 소규모 무작위 시험 정도가 확인됐다. 이 시험에서 면역세포 활성 변화가 보고됐지만 규모가 작아, 사람에게서의 효과를 말하려면 더 큰 연구가 필요하다. 국내 유통품의 유해물질 안전성 조사도 있다."
   },
   "name": "동충하초",
   "st": "ok",
-  "updatedAt": 1791968691249
+  "traditional": {
+    "sources": [
+      {
+        "title": "약학정보원 한약정보 - 동충하초(冬蟲夏草)",
+        "url": "https://health.kr/researchInfo/herbalMedicine1_detail.asp?idx=402"
+      }
+    ],
+    "text": "약재 동충하초(冬蟲夏草)는 『본초강목』에는 실리지 않았고 그 뒤에 나온 본초서에 처음 기록됐다고 정리돼 있다. 한약 정보에는 성질이 달고 따뜻하며 폐·신 경락에 들어가, 오래 허약한 몸을 보하고 기침·가래에 썼다고 적혀 있다. 다만 이 전통 약재의 기원은 박쥐나방 애벌레에 나는 중국동충하초(Cordyceps sinensis)이고, 국내에서 식품으로 흔히 파는 번데기동충하초(Cordyceps militaris)와는 다른 종이다."
+  },
+  "updatedAt": 1793393557899
 }

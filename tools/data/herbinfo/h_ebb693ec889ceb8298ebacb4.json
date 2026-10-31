@@ -1,0 +1,110 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "절대 안 됩니다. 생김새는 팔각과 거의 같지만 아니사틴 같은 신경독이 있어 경련·구토를 일으킵니다.",
+      "q": "붓순나무 열매를 팔각 대신 써도 되나요?"
+    },
+    {
+      "a": "어렵습니다. 붓순나무 열매가 조금 작고 향이 약하지만, 부수거나 차로 만들면 구별할 수 없습니다. 출처가 확실한 식품용 팔각만 쓰세요.",
+      "q": "말린 팔각에 붓순나무가 섞였는지 눈으로 알 수 있나요?"
+    },
+    {
+      "a": "권하지 않습니다. 붓순나무가 섞인 팔각차를 먹은 아기들에게 경련 등 신경 중독이 보고된 적이 있습니다.",
+      "q": "아기에게 팔각차를 먹여도 되나요?"
+    },
+    {
+      "a": "바로 병원에 가세요. 남은 열매나 차를 가져가면 진단에 도움이 됩니다.",
+      "q": "잘못 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Japanese star anise",
+    "family": "붓순나무과",
+    "grade": "",
+    "habitat": "전라남도·경상남도 남해안과 제주도에 자라는 늘푸른 작은 나무로, 습하고 기름진 땅에서 다른 늘푸른나무와 섞여 자라며 그늘에 강하다. 일본 혼슈 남쪽~오키나와에도 분포한다.",
+    "look": {
+      "flower": "4월에 연한 노란빛이 도는 흰 꽃이 가지 옆에 핀다. 꽃잎은 가늘고 길며 12장 안팎이다.",
+      "fruit": "9월에 여러 개의 꼬투리(골돌)가 바람개비·별 모양으로 둘러선 열매(지름 약 2cm)가 익고, 칸마다 노란 씨가 1개씩 들어 있다. 향신료 팔각과 생김새가 매우 비슷하다.",
+      "leaf": "잎은 어긋나고 두툼하며 긴 타원형(길이 5~10cm)으로 윤기가 나고 양면에 털이 없다.",
+      "smell": "열매 냄새는 팔각보다 약하고, 아니스보다 카다멈에 가까운 냄새가 난다고 알려져 있다.",
+      "stem": "키 3~5m의 늘푸른 작은 나무다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Illicium anisatum L.",
+    "season": {
+      "collect": [
+        9,
+        10
+      ],
+      "flower": [
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "Flora of Korea — 붓순나무(Illicium anisatum)",
+        "url": "https://florakorea.myspecies.info/ko/taxonomy/term/5365"
+      },
+      {
+        "title": "Tokyo Food Safety Information Center — Illicium anisatum",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/11.html"
+      },
+      {
+        "title": "Wikipedia — Illicium anisatum",
+        "url": "https://en.wikipedia.org/wiki/Illicium_anisatum"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Tokyo Food Safety Information Center — Illicium anisatum",
+      "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/11.html"
+    },
+    {
+      "title": "Wikipedia — Illicium anisatum",
+      "url": "https://en.wikipedia.org/wiki/Illicium_anisatum"
+    },
+    {
+      "title": "Ize-Ludlow et al., Pediatrics 2004 — Neurotoxicities in infants seen with the consumption of star anise tea",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15492355/"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "향신료 팔각(Illicium verum)과 열매 모양이 거의 같아, 말린 팔각이나 팔각차에 붓순나무 열매가 섞여 유럽·미국에서 신경 중독 사고가 났다. 눈으로만 구별하기는 어렵다.",
+      "name": "팔각",
+      "points": [
+        "붓순나무 열매는 팔각보다 작고 향이 약하며, 아니스보다 카다멈에 가까운 냄새가 난다.",
+        "말려서 부수거나 차로 만든 뒤에는 겉모습으로 구별할 수 없어, 정식 수입·검사를 거친 식품용 팔각만 써야 한다.",
+        "국내 남해안·제주의 숲에서 별 모양 열매를 주웠다면 팔각으로 여기지 말고 독이 있는 붓순나무로 보아야 한다."
+      ]
+    }
+  ],
+  "name": "붓순나무",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "팔각",
+    "sources": [
+      {
+        "title": "Tokyo Food Safety Information Center — Illicium anisatum",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/11.html"
+      },
+      {
+        "title": "Wikipedia — Illicium anisatum",
+        "url": "https://en.wikipedia.org/wiki/Illicium_anisatum"
+      },
+      {
+        "title": "Ize-Ludlow et al., Pediatrics 2004 — Neurotoxicities in infants seen with the consumption of star anise tea",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15492355/"
+      }
+    ],
+    "text": "나무 전체, 특히 열매에 아니사틴 등 신경독이 들어 있다. 먹으면 구토·설사·어지럼·경련·호흡곤란·혈압 상승이 생길 수 있고, 아니사틴 때문에 발작·환각이 나타난 중독 사례가 보고되었다. 붓순나무 열매가 섞인 팔각차를 먹은 아기들에게 경련·이상 행동 같은 신경 증상이 나타난 사례도 있다."
+  },
+  "updatedAt": 1793177746131
+}

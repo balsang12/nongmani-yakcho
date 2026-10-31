@@ -1,0 +1,112 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 씨에 파르비틴과 환각을 일으키는 알칼로이드가 들어 있어 구토·설사·환각을 일으킬 수 있다.",
+      "q": "나팔꽃 씨(견우자)를 먹어도 되나요?"
+    },
+    {
+      "a": "먹지 않는 것이 안전하다. 나팔꽃은 식물 전체에 독성분이 있는 것으로 분류되므로, 확실히 메꽃인지 모르면 먹지 않는다.",
+      "q": "메꽃 순인 줄 알고 나팔꽃 순을 땄는데 괜찮나요?"
+    },
+    {
+      "a": "잎을 먼저 본다. 메꽃 잎은 길쭉하고 잎밑이 귀처럼 튀어나오며, 나팔꽃 잎은 심장 모양이거나 세 갈래로 갈라지고 털이 있다. 메꽃은 보통 열매를 맺지 않지만 나팔꽃은 검은 씨가 든 둥근 열매를 맺는다.",
+      "q": "메꽃과 나팔꽃은 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 병원에 가거나 119에 연락한다. 삼킨 씨와 같은 씨나 식물을 가져가면 진단에 도움이 된다.",
+      "q": "아이가 나팔꽃 씨를 삼켰어요."
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Morning glory",
+    "family": "메꽃과",
+    "grade": "",
+    "habitat": "열대 아메리카가 원산인 한해살이 덩굴풀로, 관상용으로 마당·울타리·담장에 많이 심고 길가나 빈터에서 저절로 자라기도 한다.",
+    "look": {
+      "flower": "잎겨드랑이에 깔때기 모양 꽃이 피며 색은 파랑·보라·분홍·흰색 등 다양하다. 이른 아침에 피고 낮에는 오므라든다.",
+      "fruit": "꽃이 진 뒤 지름 1cm 안팎의 둥근 열매가 맺히고, 속이 세 칸으로 나뉘어 검은 씨(길이 5~6mm)가 들어 있다.",
+      "leaf": "잎은 어긋나고 잎자루가 길며, 심장 모양이거나 깊게 세 갈래로 갈라지고 짧은 털이 있다.",
+      "stem": "덩굴줄기가 다른 물체를 감고 2m 넘게 올라가며, 줄기에 아래를 향한 털이 있다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Ipomoea nil (L.) Roth",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "Hospital Authority (Hong Kong) Atlas of Poisonous Plants - Ipomoea nil",
+        "url": "https://www3.ha.org.hk/toxicplant/en/ipomoea_nil.html"
+      },
+      {
+        "title": "위키백과 - 나팔꽃",
+        "url": "https://ko.wikipedia.org/wiki/나팔꽃"
+      },
+      {
+        "title": "Plants of the World Online (Kew) - Ipomoea nil (L.) Roth",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:1071575-2"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "위키백과 - 메꽃",
+      "url": "https://ko.wikipedia.org/wiki/메꽃"
+    },
+    {
+      "title": "위키백과 - 나팔꽃",
+      "url": "https://ko.wikipedia.org/wiki/나팔꽃"
+    },
+    {
+      "title": "Hospital Authority (Hong Kong) Atlas of Poisonous Plants - Ipomoea nil",
+      "url": "https://www3.ha.org.hk/toxicplant/en/ipomoea_nil.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "둘 다 메꽃과의 덩굴풀이고 깔때기 모양 꽃이 비슷해 이름부터 자주 혼동된다. 잎 모양, 꽃 색, 열매 유무, 땅속줄기를 보면 구별된다.",
+      "name": "메꽃",
+      "points": [
+        "메꽃 잎은 길쭉한 타원형 바소꼴에 잎밑이 귀처럼 튀어나오고, 나팔꽃 잎은 심장 모양이거나 세 갈래로 갈라지며 털이 있다.",
+        "메꽃 꽃은 연한 분홍색이고 꽃 밑을 초록색 포 두 장이 감싸며, 나팔꽃은 파랑·보라·분홍·흰색 등 색이 다양하다.",
+        "메꽃은 보통 열매를 맺지 않지만, 나팔꽃은 둥근 열매 속에 검은 씨가 여럿 들어 있다.",
+        "메꽃은 땅속에 흰 뿌리줄기가 있는 여러해살이풀이고, 나팔꽃은 씨로 자라는 한해살이풀이다."
+      ]
+    }
+  ],
+  "name": "나팔꽃",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "메꽃",
+    "sources": [
+      {
+        "title": "Hospital Authority (Hong Kong) Atlas of Poisonous Plants - Ipomoea nil",
+        "url": "https://www3.ha.org.hk/toxicplant/en/ipomoea_nil.html"
+      },
+      {
+        "title": "ASPCA Animal Poison Control - Morning Glory",
+        "url": "https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/morning-glory"
+      },
+      {
+        "title": "Egyptian Journal of Forensic Sciences (2017) - GC/MS analysis of morning glory seeds",
+        "url": "https://doaj.org/article/4e2dd0a21f044fc08ed32bd016e57510"
+      },
+      {
+        "title": "위키백과 - 나팔꽃",
+        "url": "https://ko.wikipedia.org/wiki/나팔꽃"
+      }
+    ],
+    "text": "나팔꽃은 식물 전체, 특히 씨에 독성분이 있다. 씨에는 설사를 일으키는 수지배당체 파르비틴과, 맥각 알칼로이드 계열 성분(리세르그산 아마이드 등)이 들어 있다. 씨를 먹으면 구토·설사·복통이 생기고, 많이 먹으면 환각과 섬망이 나타날 수 있으며, 오래 먹으면 신장이 상할 수 있다. 홍콩 병원관리국 자료에는 배가 더부룩하다고 씨 50g을 먹은 18개월 아이가 구토·설사·신경 증상으로 치료받은 사례가 실려 있다. 씨를 견우자라는 한약재로 쓰지만 독성이 강해 식품으로 먹을 수 없다. 잘못 먹었다면 바로 병원에 가거나 119에 연락하고, 남은 씨나 식물을 가져간다."
+  },
+  "updatedAt": 1793134791420
+}

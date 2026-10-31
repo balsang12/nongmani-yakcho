@@ -1,0 +1,107 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "먹지 않는 것이 안전합니다. 빨간 살 안의 씨와 잎에 심장에 작용하는 독(탁신)이 있고, 씨는 깨물면 독이 나옵니다. 아이들이 따 먹지 않도록 특히 주의하세요.",
+      "q": "주목 빨간 열매를 먹어도 되나요?"
+    },
+    {
+      "a": "안 됩니다. 묵은 잎이 가장 독성이 강한 부위로, 가축이 잎을 먹고 갑자기 죽는 사고가 반복해서 보고되었습니다.",
+      "q": "주목 잎이나 가지를 차로 달여 먹어도 되나요?"
+    },
+    {
+      "a": "잎을 만져 봅니다. 주목 잎은 부드럽고, 비자나무 잎은 뻣뻣하고 끝이 뾰족해 손을 찌릅니다. 주목 열매는 붉은 컵 모양 살 끝으로 씨가 보입니다.",
+      "q": "비자나무와 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 병원에 가세요. 먹은 열매나 잎을 가져가면 진단에 도움이 됩니다.",
+      "q": "잘못 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Japanese yew",
+    "family": "주목과",
+    "grade": "",
+    "habitat": "늘푸른 바늘잎나무로, 우리나라에서는 주로 해발 1,000m 이상 높고 추운 산(설악산·태백산·지리산·한라산 등)에 자생하고, 정원수·조경수로도 많이 심는다. 자라는 속도는 느리지만 수명이 매우 길며, 강원도 두위봉의 주목은 천연기념물로 지정되어 있다.",
+    "look": {
+      "fruit": "가을에 블루베리 크기의 붉은 컵 모양 살(헛씨껍질)이 익는데, 끝에 구멍이 뚫려 그 안의 씨가 일부 드러나 보인다. 겨울까지 가지에 남는다.",
+      "leaf": "잎은 납작한 줄 모양(길이 약 1.5~2.5cm)으로 가지 양쪽에 깃처럼 늘어서 보이고, 뒷면에 연한 색 띠가 두 줄 있다. 잎이 부드러워 손에 잘 찔리지 않는다.",
+      "stem": "줄기 껍질과 굵은 가지가 붉은빛을 띠고, 나무 속도 붉다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Taxus cuspidata Siebold & Zucc.",
+    "season": {
+      "collect": [
+        9,
+        10,
+        11
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "The Gymnosperm Database — Taxus cuspidata",
+        "url": "https://conifers.org/ta/Taxus_cuspidata.php"
+      },
+      {
+        "title": "Flora of Korea — 주목과(Taxaceae)",
+        "url": "https://florakorea.myspecies.info/taxonomy/term/4991"
+      },
+      {
+        "title": "비즈한국, [들꽃나들이] 주목(2017.1.25)",
+        "url": "https://bizhankook.com/articles/12600.html"
+      },
+      {
+        "title": "Purdue University, Toxic plants — Yew (Japanese)",
+        "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/yew.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Flora of Korea — 주목과(Taxaceae)",
+      "url": "https://florakorea.myspecies.info/taxonomy/term/4991"
+    },
+    {
+      "title": "Flora of Korea — 비자나무속(Torreya)",
+      "url": "https://florakorea.myspecies.info/ko/taxonomy/term/4995"
+    },
+    {
+      "title": "Purdue University, Toxic plants — Yew (Japanese)",
+      "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/yew.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "같은 주목과의 늘푸른 바늘잎나무로 잎이 깃처럼 늘어선 모습이 닮았다. 비자나무 열매·씨는 식품 원료로 쓰이지만 주목 씨와 잎은 독이 있어 잎과 열매로 구별해야 한다.",
+      "name": "비자",
+      "points": [
+        "주목 잎은 부드러워 잘 찔리지 않고, 비자나무 잎은 뻣뻣하고 끝이 뾰족해 손을 찌른다.",
+        "주목 열매는 붉은 컵 모양 살 끝에 구멍이 있어 씨가 보이지만, 비자나무 씨는 살이 씨 전체를 감싸 씨가 드러나지 않는다.",
+        "비자나무 씨는 꽃가루받이 이듬해 가을에야 익고, 주목 열매는 그해 가을에 붉게 익는다."
+      ]
+    }
+  ],
+  "name": "주목나무",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "비자",
+    "sources": [
+      {
+        "title": "Purdue University, Toxic plants — Yew (Japanese)",
+        "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/yew.html"
+      },
+      {
+        "title": "Michigan State University Extension, Warning: Yews are extremely toxic to livestock",
+        "url": "https://www.canr.msu.edu/news/warning_yews_are_extremely_toxic_to_livestock"
+      }
+    ],
+    "text": "잎(특히 묵은 잎)과 씨에 탁신(taxine A·B) 계열 알칼로이드가 들어 있다. 탁신은 심장의 전기 신호 전달을 방해해 심장 박동 이상을 일으키며, 위장을 자극하는 성분도 함께 있다. 씨는 깨물면 독이 나온다. 가축이 잎을 먹고 떨림·호흡곤란·구토·설사를 보이거나 증상 없이 갑자기 죽은 사례가 많이 보고되어 있다. 붉은 살 속의 씨와 잎은 절대 먹으면 안 되며, 잘못 먹었으면 바로 병원에 가야 한다."
+  },
+  "updatedAt": 1793177746131
+}

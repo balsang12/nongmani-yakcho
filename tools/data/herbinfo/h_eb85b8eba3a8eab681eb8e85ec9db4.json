@@ -73,10 +73,14 @@
       {
         "title": "Metabolomic characterization of wild and cultivated Hericium erinaceus (Applied Food Research, 2026)",
         "url": "https://doi.org/10.1016/j.afres.2026.101756"
+      },
+      {
+        "title": "데일리안 - 약용버섯 '노루궁뎅이' (전남농업기술원 신품종 노루3호 소개, 新농사직썰)",
+        "url": "https://www.dailian.co.kr/news/view/1263615/"
       }
     ],
     "store": "생것은 냉장 보관하고 빨리 먹는다. 오래 두려면 말려서 습기 없는 곳에 둔다.",
-    "taste": ""
+    "taste": "향이 강하지 않고 살이 부드러우면서 씹는 맛이 있다. 품종에 따라 쓴맛이 조금 나는데, 전남농업기술원이 개발한 '노루3호'는 기존 품종보다 쓴맛과 향이 약하고 단맛이 강하다고 소개됐다."
   },
   "lookSources": [
     {
@@ -168,5 +172,5 @@
     ],
     "text": "노루궁뎅이 자실체는 중국에서 오래전부터 음식과 전통 약재로 써 왔다고 전하며, 재배도 아시아에서 시작되었다고 소개된다. 우리나라 고서에 노루궁뎅이를 따로 적은 기록은 이번 조사에서 확인하지 못했다."
   },
-  "updatedAt": 1791968691249
+  "updatedAt": 1793393557899
 }

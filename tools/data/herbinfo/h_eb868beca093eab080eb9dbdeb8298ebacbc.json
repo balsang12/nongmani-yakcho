@@ -1,0 +1,115 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 놋젓가락나물은 투구꽃속 독초이며, 이름에 '나물'이 붙었다고 식용이라는 뜻이 아니다.",
+      "q": "이름에 '나물'이 들어가는데 먹어도 되나요?"
+    },
+    {
+      "a": "줄기를 본다. 놋젓가락나물은 줄기가 덩굴져 다른 물체를 감고 2m까지 뻗고, 투구꽃은 줄기가 곧게 선다. 둘 다 독초라 어느 쪽이든 먹으면 안 된다.",
+      "q": "투구꽃과 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 된다. 투구꽃속 덩이뿌리는 독성 알칼로이드가 들어 있어 개인이 캐서 달이거나 술에 담가 먹으면 중독될 수 있다.",
+      "q": "덩이뿌리를 캐서 약초로 써도 되나요?"
+    },
+    {
+      "a": "바로 119에 연락하거나 응급실로 간다. 저림·구토 뒤에 맥박 이상이 올 수 있으니 증상이 가벼워도 진료를 받고, 남은 식물을 가져간다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "산지에서 자라며, 습지 부근에서도 볼 수 있다. 전국에 분포한다고 알려져 있지만 실제로는 드물게 발견된다. 만주·러시아 극동·일본에도 분포한다.",
+    "look": {
+      "flower": "8~9월에 줄기와 가지 끝에 청자색(드물게 흰색)의 투구 모양 꽃이 핀다.",
+      "fruit": "열매는 5개씩 모여 달린다.",
+      "leaf": "잎은 덩굴진 줄기에 어긋나게 달린다.",
+      "root": "덩이뿌리가 있다.",
+      "stem": "곧게 서는 투구꽃과 달리 줄기가 덩굴지며 다른 물체를 감고 올라가고, 길이가 2m에 이른다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Aconitum ciliare DC.",
+    "season": {
+      "collect": [],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "국립공원공단 - 천상화원 야생화 탐방로 안내(투구꽃·놋젓가락나물)",
+        "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+      },
+      {
+        "title": "서울신문 [현진오의 꽃따라 산따라] 대관령(2008) - 놋젓가락나물",
+        "url": "https://m.seoul.co.kr/news/2008/08/30/20080830022002"
+      },
+      {
+        "title": "Plants of the World Online - Aconitum ciliare DC.",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:707265-1"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "서울신문 [현진오의 꽃따라 산따라] 대관령(2008) - 놋젓가락나물",
+      "url": "https://m.seoul.co.kr/news/2008/08/30/20080830022002"
+    },
+    {
+      "title": "국립공원공단 - 천상화원 야생화 탐방로 안내(투구꽃·놋젓가락나물)",
+      "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+    },
+    {
+      "title": "Plants of the World Online - Aconitum ciliare DC.",
+      "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:707265-1"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "꽃과 잎이 투구꽃과 닮았지만 줄기가 덩굴로 감고 올라가는 점이 다르다. 둘 다 투구꽃속 독초다.",
+      "name": "투구꽃",
+      "points": [
+        "놋젓가락나물은 줄기가 다른 물체를 감고 2m까지 뻗지만, 투구꽃은 줄기가 곧게 선다.",
+        "두 식물 모두 늦여름~가을에 보라색 계열의 투구 모양 꽃이 핀다.",
+        "덩굴째 엉킨 투구 모양 꽃을 보면 놋젓가락나물을 먼저 의심한다."
+      ]
+    }
+  ],
+  "name": "놋젓가락나물",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "",
+    "sources": [
+      {
+        "title": "Kim S 외, Aconiti ciliare Tuber 약침의 독성(Journal of Pharmacopuncture 2011)",
+        "url": "https://doaj.org/article/e517470f263e441eb4e51fdfbbad405a"
+      },
+      {
+        "title": "도쿄도 보건의료국 - 독초 식중독(Aconite)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/03.html"
+      },
+      {
+        "title": "홍콩 중의약규관판공실 - Alert on Aconitum Alkaloid Poisoning(2014)",
+        "url": "https://www.cmro.gov.hk/files/en/whats_new/others/2014/Alert_on_Aconitum_Alkaloid_Poisoning_20140825.pdf"
+      },
+      {
+        "title": "Plants of the World Online - Aconitum ciliare DC.",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:707265-1"
+      }
+    ],
+    "text": "놋젓가락나물은 투구꽃속 식물로, 이 무리는 아코니틴 계열 알칼로이드 때문에 잎·줄기·뿌리 모두 위험한 독초로 다뤄진다. 놋젓가락나물만의 사람 중독 자료는 많지 않다. 덩이뿌리가 한약재 연구에 쓰이기도 하지만 식품으로는 쓸 수 없다. 투구꽃속 알칼로이드 중독은 입 주위와 팔다리 저림, 어지러움, 구토, 설사, 약한 맥박, 숨가쁨을 일으키고 심하면 목숨을 잃을 수 있다. 먹은 뒤 입·손발 저림, 구토, 가슴 두근거림이 생기면 바로 119에 연락하거나 응급실로 가고, 남은 식물을 가져가면 진단에 도움이 된다."
+  },
+  "updatedAt": 1793134791420
+}

@@ -167,9 +167,17 @@
         "type": "동물 실험",
         "url": "https://doi.org/10.1002/bmc.70042",
         "year": "2025"
+      },
+      {
+        "journal": "Journal of Practical Agriculture and Fisheries Research",
+        "note": "소금물로 키운 고들빼기 추출물의 항산화 성분과 대식세포 염증 지표 변화를 실험실에서 비교한 연구다.",
+        "title": "The Effects of Salinity Stress on the Antioxidant and Anti-inflammatory Activities of Crepidiastrum sonchifolium (염분 스트레스가 고들빼기의 항산화 및 항염증 활성에 미치는 영향)",
+        "type": "세포 실험",
+        "url": "https://koreascience.kr/article/JAKO202423957667855.pdf",
+        "year": "2024"
       }
     ],
-    "summary": "최근 3년 사이 고들빼기(학명 Crepidiastrum sonchifolium, 중국 문헌의 Ixeris sonchifolia 포함)를 다룬 연구는 시험관·세포 실험과 동물 실험 수준이며, 사람을 대상으로 한 연구는 찾지 못했다. 따라서 건강 효과를 단정할 근거는 아직 부족하다."
+    "summary": "최근 3년 사이 고들빼기(학명 Crepidiastrum sonchifolium, 중국 문헌의 Ixeris sonchifolia 포함)를 다룬 연구는 시험관·세포 실험과 동물 실험 수준이며, 사람을 대상으로 한 연구는 찾지 못했다. 따라서 건강 효과를 단정할 근거는 아직 부족하다. 2024년 국내 연구는 재배 조건(염분)에 따른 추출물 활성 차이를 실험실 수준에서 비교한 것이다."
   },
   "name": "고들빼기",
   "st": "ok",
@@ -186,5 +194,5 @@
     ],
     "text": "줄기를 자르면 나오는 흰 즙을 사마귀에 떨어뜨리면 사마귀가 떨어진다는 민간 이야기가 전해지며, 즙이 젖을 닮아 '젖나물'이라고도 불렸다. 전라도에서는 겨울 김장 때 고들빼기김치를 담갔는데, 손이 많이 가서 귀한 김치로 여겨졌다."
   },
-  "updatedAt": 1792098142664
+  "updatedAt": 1793479770596
 }

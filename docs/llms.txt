@@ -182,9 +182,21 @@
 - [미국자리공](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EA%B5%AD%EC%9E%90%EB%A6%AC%EA%B3%B5/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 자리공, 상륙
 - [산괴불주머니](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%B0%EA%B4%B4%EB%B6%88%EC%A3%BC%EB%A8%B8%EB%8B%88/): ☠️ 독초 · 먹으면 안 돼요
 - [투구꽃](https://nongmani.com/nongmani-yakcho/yakcho/%ED%88%AC%EA%B5%AC%EA%BD%83/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 초오
+- [부자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%80%EC%9E%90/): ☠️ 독초 · 먹으면 안 돼요
+- [천남성](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%9C%EB%82%A8%EC%84%B1/): ☠️ 독초 · 먹으면 안 돼요
+- [미치광이풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EC%B9%98%EA%B4%91%EC%9D%B4%ED%92%80/): ☠️ 독초 · 먹으면 안 돼요
+- [독말풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EB%A7%90%ED%92%80/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 흰독말풀
+- [디기탈리스](https://nongmani.com/nongmani-yakcho/yakcho/%EB%94%94%EA%B8%B0%ED%83%88%EB%A6%AC%EC%8A%A4/): ☠️ 독초 · 먹으면 안 돼요
+- [협죽도](https://nongmani.com/nongmani-yakcho/yakcho/%ED%98%91%EC%A3%BD%EB%8F%84/): ☠️ 독초 · 먹으면 안 돼요
 - [지리강활](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%80%EB%A6%AC%EA%B0%95%ED%99%9C/): ☠️ 독초 · 먹으면 안 돼요
 - [독미나리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EB%AF%B8%EB%82%98%EB%A6%AC/): ☠️ 독초 · 먹으면 안 돼요
+- [철쭉](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B2%A0%EC%AD%89/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 철쭉꽃
+- [붉나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%89%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요
+- [할미꽃](https://nongmani.com/nongmani-yakcho/yakcho/%ED%95%A0%EB%AF%B8%EA%BD%83/): ☠️ 독초 · 먹으면 안 돼요
+- [대극](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8C%80%EA%B7%B9/): ☠️ 독초 · 먹으면 안 돼요
+- [등대풀](https://nongmani.com/nongmani-yakcho/yakcho/%EB%93%B1%EB%8C%80%ED%92%80/): ☠️ 독초 · 먹으면 안 돼요
 - [독우산광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%EC%9A%B0%EC%82%B0%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [붉은사슴뿔버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%89%EC%9D%80%EC%82%AC%EC%8A%B4%EB%BF%94%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
 - [개나리광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EB%82%98%EB%A6%AC%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
 - [화경버섯](https://nongmani.com/nongmani-yakcho/yakcho/%ED%99%94%EA%B2%BD%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
 - [노란다발](https://nongmani.com/nongmani-yakcho/yakcho/%EB%85%B8%EB%9E%80%EB%8B%A4%EB%B0%9C/): ☠️ 독초 · 먹으면 안 돼요
@@ -314,10 +326,24 @@
 - [개옻나무](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%9C%EC%98%BB%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요
 - [삿갓나물](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BF%EA%B0%93%EB%82%98%EB%AC%BC/): ☠️ 독초 · 먹으면 안 돼요
 - [미나리아재비](https://nongmani.com/nongmani-yakcho/yakcho/%EB%AF%B8%EB%82%98%EB%A6%AC%EC%95%84%EC%9E%AC%EB%B9%84/): ☠️ 독초 · 먹으면 안 돼요
+- [복수초](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B3%B5%EC%88%98%EC%B4%88/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 얼음새꽃
+- [진범](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A7%84%EB%B2%94/): ☠️ 독초 · 먹으면 안 돼요
+- [놋젓가락나물](https://nongmani.com/nongmani-yakcho/yakcho/%EB%86%8B%EC%A0%93%EA%B0%80%EB%9D%BD%EB%82%98%EB%AC%BC/): ☠️ 독초 · 먹으면 안 돼요
+- [백부자](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B0%B1%EB%B6%80%EC%9E%90/): ☠️ 독초 · 먹으면 안 돼요
+- [도꼬마리](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%84%EA%BC%AC%EB%A7%88%EB%A6%AC/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 창이자
+- [나팔꽃](https://nongmani.com/nongmani-yakcho/yakcho/%EB%82%98%ED%8C%94%EA%BD%83/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 견우자
+- [주목나무](https://nongmani.com/nongmani-yakcho/yakcho/%EC%A3%BC%EB%AA%A9%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 주목
+- [붓순나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%B6%93%EC%88%9C%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요
+- [때죽나무](https://nongmani.com/nongmani-yakcho/yakcho/%EB%95%8C%EC%A3%BD%EB%82%98%EB%AC%B4/): ☠️ 독초 · 먹으면 안 돼요
 - [컴프리](https://nongmani.com/nongmani-yakcho/yakcho/%EC%BB%B4%ED%94%84%EB%A6%AC/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 컴프리잎
 - [카바](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%B4%EB%B0%94/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 카바카바
 - [센나](https://nongmani.com/nongmani-yakcho/yakcho/%EC%84%BC%EB%82%98/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 센나잎, 센나엽
 - [요힘베](https://nongmani.com/nongmani-yakcho/yakcho/%EC%9A%94%ED%9E%98%EB%B2%A0/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 요힘빈
+- [칠엽수](https://nongmani.com/nongmani-yakcho/yakcho/%EC%B9%A0%EC%97%BD%EC%88%98/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 마로니에
+- [꽃무릇](https://nongmani.com/nongmani-yakcho/yakcho/%EA%BD%83%EB%AC%B4%EB%A6%87/): ☠️ 독초 · 먹으면 안 돼요, 다른 이름 석산
+- [상사화](https://nongmani.com/nongmani-yakcho/yakcho/%EC%83%81%EC%82%AC%ED%99%94/): ☠️ 독초 · 먹으면 안 돼요
 - [수선화](https://nongmani.com/nongmani-yakcho/yakcho/%EC%88%98%EC%84%A0%ED%99%94/): ☠️ 독초 · 먹으면 안 돼요
 - [마귀광대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%A7%88%EA%B7%80%EA%B4%91%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [삿갓외대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EC%82%BF%EA%B0%93%EC%99%B8%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
+- [갈황색미치광이버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EA%B0%88%ED%99%A9%EC%83%89%EB%AF%B8%EC%B9%98%EA%B4%91%EC%9D%B4%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요
 - [독흰갈대버섯](https://nongmani.com/nongmani-yakcho/yakcho/%EB%8F%85%ED%9D%B0%EA%B0%88%EB%8C%80%EB%B2%84%EC%84%AF/): ☠️ 독초 · 먹으면 안 돼요

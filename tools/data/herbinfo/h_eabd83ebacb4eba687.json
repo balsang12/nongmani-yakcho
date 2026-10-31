@@ -1,0 +1,133 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "안 됩니다. 독성분 리코린은 익혀도 독성이 줄지 않습니다.",
+      "q": "꽃무릇 알뿌리를 삶거나 우려내면 먹을 수 있나요?"
+    },
+    {
+      "a": "냄새로 먼저 확인합니다. 달래는 비비면 매운 파·마늘 냄새가 나지만 꽃무릇은 그런 냄새가 없습니다. 냄새가 없거나 확실하지 않으면 먹지 마세요.",
+      "q": "달래와 어떻게 구별하나요?"
+    },
+    {
+      "a": "네. 꽃무릇은 가을부터 이듬해 봄까지 잎만 보이는 시기가 길어 이때 산나물로 오인되기 쉽습니다.",
+      "q": "잎만 있을 때도 위험한가요?"
+    },
+    {
+      "a": "구토·설사가 나면 바로 병원에 가세요. 남은 식물을 가져가면 진단에 도움이 됩니다.",
+      "q": "잘못 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "red spider lily",
+    "family": "수선화과",
+    "grade": "",
+    "habitat": "서해안과 남부지방의 사찰 주변(영광 불갑사, 함평 용천사 등)에 무리 지어 많이 심겨 있고, 둑·길가·묘지 주변 등 사람 사는 곳 가까이에서 자란다. 땅속에 비늘줄기(알뿌리)가 있다.",
+    "look": {
+      "flower": "9~10월 초가을에 잎 없는 꽃줄기 끝에 붉은 꽃이 여러 송이 둥글게 모여 핀다.",
+      "leaf": "꽃이 진 뒤 가을에 가늘고 긴 잎이 무더기로 나와 겨울을 나고, 이듬해 5월쯤 시든다. 잎과 꽃이 같은 때 보이지 않는다.",
+      "root": "땅속에 둥근 비늘줄기(알뿌리)가 있다. 작은 양파·달래 알뿌리처럼 보인다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Lycoris radiata (L'Hér.) Herb.",
+    "season": {
+      "collect": [
+        3,
+        4,
+        10,
+        11
+      ],
+      "flower": [
+        9,
+        10
+      ]
+    },
+    "sources": [
+      {
+        "title": "오마이뉴스, 꽃무릇과 상사화 소개 기사",
+        "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002677456"
+      },
+      {
+        "title": "Tokyo Food Safety Information Center — Lycoris radiata(ヒガンバナ)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/20.html"
+      },
+      {
+        "title": "박윤점 외, 상사화류의 개화와 출엽 특성, 한국자원식물학회지 20(1), 2007",
+        "url": "https://db.koreascholar.com/Article/Detail/258738"
+      },
+      {
+        "title": "서울신문, 꽃무릇 불갑사·용천사 등 사찰 주변에 많아(2003.9.25)",
+        "url": "https://www.seoul.co.kr/news/2003/09/25/20030925025001"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "農林水産省 関東農政局, 有毒植物による食中毒に注意(2026.4 展示資料, PDF)",
+      "url": "https://www.maff.go.jp/kanto/syo_an/seikatsu/tenji/attach/pdf/260406-3.pdf"
+    },
+    {
+      "title": "厚生労働省 自然毒のリスクプロファイル — スイセン",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000075837.html"
+    },
+    {
+      "title": "오마이뉴스, 꽃무릇과 상사화 소개 기사",
+      "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002677456"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "알뿌리와 가늘고 긴 잎이 산달래·달래와 비슷하다. 일본에서는 꽃무릇(히간바나)을 산달래(노비루)로 알고 먹은 중독 사례가 공공기관 자료에 실려 있다.",
+      "name": "달래",
+      "points": [
+        "달래·부추는 잎이나 알뿌리를 비비면 매운 파·마늘 냄새가 나지만, 수선화과 독초(꽃무릇·상사화·수선화)는 그런 냄새가 없다.",
+        "꽃무릇 잎은 가을에 나와 겨울을 나는데, 봄에 같은 자리에서 캔 잎·알뿌리가 꽃무릇일 수 있다.",
+        "가을에 붉은 꽃이 무리 지어 피었던 자리(사찰 주변·둑·화단)의 알뿌리는 캐서 먹지 않는다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "가늘고 긴 잎이 무더기로 나는 모습이 부추와 비슷해, 일본에서 부추로 오인한 중독 사례가 보고되었다.",
+      "name": "부추",
+      "points": [
+        "달래·부추는 잎이나 알뿌리를 비비면 매운 파·마늘 냄새가 나지만, 수선화과 독초(꽃무릇·상사화·수선화)는 그런 냄새가 없다.",
+        "화단이나 텃밭 가장자리에 관상용으로 심은 알뿌리 식물 잎을 부추와 섞어 베지 않는다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "같은 상사화속 독초로, 잎과 꽃이 따로 나오는 점이 같다. 둘 다 먹으면 안 된다.",
+      "name": "상사화",
+      "points": [
+        "꽃무릇은 가을에 잎이 나와 겨울을 나고, 상사화는 봄에 잎이 나와 여름 전에 시든다.",
+        "꽃무릇은 9~10월에 붉은 꽃, 상사화는 8월 무렵 연분홍~홍자색 꽃이 핀다."
+      ]
+    }
+  ],
+  "name": "꽃무릇",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "달래, 부추",
+    "sources": [
+      {
+        "title": "Tokyo Food Safety Information Center — Lycoris radiata(ヒガンバナ)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/20.html"
+      },
+      {
+        "title": "福岡市保健環境研究所, スイセンによる食中毒(PDF)",
+        "url": "https://www.city.fukuoka.lg.jp/hokanken/004/documents/message162.pdf"
+      },
+      {
+        "title": "農林水産省 関東農政局, 有毒植物による食中毒に注意(2026.4 展示資料, PDF)",
+        "url": "https://www.maff.go.jp/kanto/syo_an/seikatsu/tenji/attach/pdf/260406-3.pdf"
+      }
+    ],
+    "text": "식물 전체에 리코린 등 수선화과 알칼로이드가 들어 있고, 알뿌리(비늘줄기)에 가장 많다. 먹으면 메스꺼움·구토·설사가 생기고 심하면 중추신경 마비가 올 수 있다. 리코린은 익혀도 독성이 줄지 않는다."
+  },
+  "updatedAt": 1793177875668
+}

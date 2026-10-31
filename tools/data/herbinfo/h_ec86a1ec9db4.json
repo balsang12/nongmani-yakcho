@@ -48,6 +48,7 @@
     "eat": "결대로 찢어 날로 먹거나 구워 먹고, 송이밥·국·전골 등에 넣어 향을 즐긴다.",
     "eng": "Pine mushroom (matsutake)",
     "family": "송이과",
+    "grade": "산림조합 공판 기준으로 1등품은 길이 8cm 이상에 갓이 전혀 펴지지 않은 것, 2등품은 길이 6~8cm에 갓이 3분의 1 이내로 펴진 것이다. 길이 6cm 미만으로 자람이 멈춘 것은 3등품, 갓이 3분의 1 이상 펴진 것은 개산품이며, 기형·파손·벌레 먹은 것·물에 젖은 것은 등외품으로 친다.",
     "habitat": "가을에 주로 적송(소나무) 숲 땅 위에 무리 지어 나며, 고리 모양으로 둥글게 나기도 한다. 살아 있는 소나무의 가는 뿌리와 균근을 이루어 살기 때문에 소나무 숲을 벗어나면 나지 않는다. 화강암이 풍화된 흙의 숲이 잘 맞고, 인공 재배가 되지 않는다.",
     "look": {
       "flower": "주름은 흰색이고 빽빽하며 대에 붙어 있다.",
@@ -81,6 +82,14 @@
       {
         "title": "경향신문 - 2025년 양양 송이 첫 공판",
         "url": "https://www.khan.co.kr/article/202509281104011/"
+      },
+      {
+        "title": "산림조합중앙회 산림경영지원 - 송이 등급안내",
+        "url": "http://iforest.nfcf.or.kr/forest/user.tdf?a=common.HtmlApp&c=3001&page=/cyber/information/Product0401.html&mc=CYB_FIF_DGS_SNI_01"
+      },
+      {
+        "title": "국내산과 수입산 송이의 다량 및 미량 미네랄 함량 비교 (한국식품위생안전성학회지, 2022)",
+        "url": "https://www.koreascience.or.kr/article/JAKO202230649386541.pdf"
       }
     ],
     "store": "",
@@ -201,5 +210,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1791862329067
+  "updatedAt": 1793264491890
 }

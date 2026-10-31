@@ -1,0 +1,110 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "아닙니다. 독은 먹었을 때 문제가 됩니다. 잎·꽃·가지를 입에 대거나 차로 우리지 않으면 됩니다.",
+      "q": "길가 협죽도 옆을 지나가기만 해도 위험한가요?"
+    },
+    {
+      "a": "네, 실제 중독 사례가 있습니다. 월계수 잎은 비비면 향이 나고 어긋나게 달리지만, 협죽도 잎은 향이 없고 마디마다 3장씩 돌려납니다.",
+      "q": "협죽도 잎을 월계수 잎으로 착각할 수 있나요?"
+    },
+    {
+      "a": "구토·복통에 이어 맥이 느려지거나 불규칙해집니다. 몇 시간 뒤에 나타나기도 하므로 먹었다면 증상이 없어도 응급실에 가세요.",
+      "q": "먹으면 어떤 증상이 나타나나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Oleander",
+    "family": "협죽도과(Apocynaceae)",
+    "grade": "",
+    "habitat": "지중해 연안에서 남아시아에 걸쳐 자생하는 늘푸른 떨기나무다. 국내에서는 제주와 남해안 등 따뜻한 곳에 관상수·가로수로 심고, 다른 지역에서는 화분으로 기른다.",
+    "look": {
+      "flower": "여름에 가지 끝에 지름 4~5cm의 분홍·빨강·흰색 꽃이 모여 핀다. 겹꽃·노란꽃 품종도 있다.",
+      "leaf": "잎은 두껍고 질긴 좁은 피침형으로 대나무 잎을 닮았고, 줄기 마디마다 3장씩 돌려난다. 가운데 잎맥 양쪽으로 가는 옆맥이 촘촘히 나란하다.",
+      "stem": "높이 2~4m로 밑에서 여러 줄기가 나와 부채꼴로 퍼진다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Nerium oleander L. (= Nerium indicum Mill.)",
+    "season": {
+      "collect": [],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "위키백과 - 협죽도",
+        "url": "https://ko.wikipedia.org/wiki/%ED%98%91%EC%A3%BD%EB%8F%84"
+      },
+      {
+        "title": "한국교육신문(2020.7.6) 대나무잎에 복사꽃, 협죽도 수난사",
+        "url": "https://hangyo.com/news/article.html?no=91711"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Toxicology Reports(2023.12) Laurel but Hardy: unintended poisoning, a case report of oleander misidentification as bay laurel",
+      "url": "https://doaj.org/article/de1c7a1ed0de4f5f9fe08523e2fb31ce"
+    },
+    {
+      "title": "Bonnici Farrugia R 외(2023) Toxic Tea - Case Report, Malta Medical Journal 35(2)",
+      "url": "https://mmsjournals.org/index.php/mmj/article/view/600"
+    },
+    {
+      "title": "위키백과 - 협죽도",
+      "url": "https://ko.wikipedia.org/wiki/%ED%98%91%EC%A3%BD%EB%8F%84"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "협죽도 잎을 월계수 잎으로 알고 우려 마신 80대가 소화기 증상과 완전 방실 차단(심장 전도 장애)으로 치료받은 사례가 2023년 보고됐다.",
+      "name": "월계수",
+      "points": [
+        "월계수 잎은 손으로 비비면 특유의 향이 난다. 협죽도 잎은 그런 향이 없다.",
+        "월계수 잎은 가지에 어긋나게 달리고, 협죽도 잎은 마디마다 3장씩 돌려난다.",
+        "협죽도 잎은 더 길고 좁으며 옆맥이 가는 줄처럼 촘촘하다.",
+        "직접 딴 잎을 향신료나 차로 쓰지 말고 판매용 월계수 잎을 쓴다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "협죽도 잎을 올리브 잎으로 알고 차로 끓여 마신 사람이 구토와 심한 서맥(느린 맥박)으로 해독제 치료를 받은 사례가 2023년 몰타에서 보고됐다.",
+      "name": "올리브",
+      "points": [
+        "올리브 잎은 마주나고 뒷면이 은회색이다. 협죽도 잎은 마디마다 3장씩 돌려나고 앞뒤 모두 초록이다.",
+        "협죽도는 가지 끝에 분홍·빨강·흰 꽃이 모여 피는 관상수다.",
+        "정원수 잎을 차로 끓여 마시지 않는다."
+      ]
+    }
+  ],
+  "name": "협죽도",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "월계수 잎, 올리브 잎",
+    "sources": [
+      {
+        "title": "위키백과 - 협죽도",
+        "url": "https://ko.wikipedia.org/wiki/%ED%98%91%EC%A3%BD%EB%8F%84"
+      },
+      {
+        "title": "Toxicology Reports(2023.12) Laurel but Hardy: unintended poisoning, a case report of oleander misidentification as bay laurel",
+        "url": "https://doaj.org/article/de1c7a1ed0de4f5f9fe08523e2fb31ce"
+      },
+      {
+        "title": "Bonnici Farrugia R 외(2023) Toxic Tea - Case Report, Malta Medical Journal 35(2)",
+        "url": "https://mmsjournals.org/index.php/mmj/article/view/600"
+      },
+      {
+        "title": "한국교육신문(2020.7.6) 대나무잎에 복사꽃, 협죽도 수난사",
+        "url": "https://hangyo.com/news/article.html?no=91711"
+      }
+    ],
+    "text": "잎·꽃·줄기·뿌리 등 식물 전체에 올레안드린을 비롯한 강심 배당체가 들어 있으며, 특히 잎에 많다. 먹으면 몇 시간 안에(늦게는 14시간 뒤) 구토·복통이 나타나고, 맥이 느려지거나 불규칙해지는 심장 중독(방실 차단·서맥)이 이어져 해독용 항체와 심박조율 치료가 필요할 수 있다. 증상이 디곡신 중독과 비슷하다. 만지거나 보는 것만으로 해롭지는 않지만, 잎·꽃을 차로 우리거나 가지를 꼬치·젓가락처럼 입에 대는 것은 피한다. 먹었다면 바로 응급실로 가고 남은 잎을 가져간다."
+  },
+  "updatedAt": 1793091939633
+}

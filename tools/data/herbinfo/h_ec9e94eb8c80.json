@@ -166,6 +166,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "RSC Advances",
+        "note": "잔대 생뿌리와 뜨거운 물 추출물의 성분 구성을 질량분석으로 비교한 성분 분석 연구로, 세포·동물·사람 실험은 하지 않았다.",
+        "title": "Profiling of phytochemicals in Adenophora triphylla using LC-Q-TOF/MS-based untargeted metabolomics",
+        "type": "기타",
+        "url": "https://doi.org/10.1039/D5RA00186B",
+        "year": "2025"
+      },
+      {
+        "journal": "Agriculture",
+        "note": "국내 17곳 재배지의 토양·기후와 잔대 뿌리 생육, 지표 성분(루페논·베타시토스테롤) 함량의 관계를 살핀 재배 연구다.",
+        "title": "Impact of Environments on Root Growth and Marker Compounds of Adenophora triphylla in Different Regions of South Korea",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2077-0472/14/12/2301",
+        "year": "2024"
+      },
+      {
+        "journal": "Applied Sciences",
+        "note": "DNA 바코드로 구분한 잔대 유전형 다섯 가지의 잎·뿌리 추출물 성분과 항산화·항염 활성을 실험실에서 비교했으며, 잎 추출물의 활성이 대체로 높았다고 보고했다.",
+        "title": "Variability in Phytochemical Contents and Biological Activities among Adenophora triphylla Genotypes",
+        "type": "세포 실험",
+        "url": "https://mdpi.com/2076-3417/13/20/11184",
+        "year": "2023"
+      },
+      {
         "journal": "Journal of Pharmacopuncture",
         "note": "잔대 추출물(에틸아세테이트 분획)이 실험실의 대식세포 반응을 바꾸었다는 세포 실험이다. 동물이나 사람에게서 확인한 연구는 아니며, 저자들도 추가 연구가 필요하다고 밝혔다.",
         "title": "Ethyl acetate fraction of Adenophora triphylla var. japonica inhibits migration of Lewis lung carcinoma cells by suppressing macrophage M2 polarization",
@@ -174,9 +198,9 @@
         "year": "2019"
       }
     ],
-    "summary": "이번 조사에서는 Europe PMC 검색이 접속 제한(429)으로 막혀 2023~2026년 논문 목록을 직접 확인하지 못했다. 국립산림과학원 자료는 잔대 추출물에 대해 항염증·항산화 같은 약리 작용이 보고되었다고만 소개하는데, 이런 연구는 대체로 세포·동물 실험 수준이며 사람에게서 효과가 확인된 것은 아니다."
+    "summary": "최근 잔대 연구는 뿌리의 성분 분석, 재배 환경에 따른 지표 성분 차이, 유전형별 성분·활성 비교처럼 원료의 품질과 성분을 다루는 것이 많다. 항산화·항염 같은 활성은 세포 실험 수준에서 보고되었을 뿐이며, 사람에게서 효과가 확인된 연구는 이번 조사에서 찾지 못했다."
   },
   "name": "잔대",
   "st": "ok",
-  "updatedAt": 1791883690383
+  "updatedAt": 1793307439832
 }

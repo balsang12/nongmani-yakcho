@@ -1,0 +1,123 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 진범 잎을 먹고 아코니틴 중독이 생긴 국내 사례가 보고되어 있고, 데치면 안전해진다는 공공 자료는 없다.",
+      "q": "진범 잎을 데치면 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "꽃을 보면 가장 쉽다. 진범은 8월에 연한 자주색의 길쭉한 꽃이 이삭처럼 달리고, 투구꽃은 9월 무렵 진한 보라색 투구 모양 꽃이 핀다. 다만 둘 다 독초라 구별과 상관없이 먹으면 안 된다.",
+      "q": "투구꽃과 어떻게 구별하나요?"
+    },
+    {
+      "a": "따지 않는 것이 안전하다. 진범은 숲속 그늘에서 자라고 잎이 손바닥 모양으로 5~7갈래 갈라져, 확실히 아는 나물이 아니면 채취하지 않아야 한다.",
+      "q": "숲 그늘에서 손바닥처럼 갈라진 잎을 봤는데 따도 되나요?"
+    },
+    {
+      "a": "바로 119에 연락하거나 응급실로 간다. 투구꽃속 중독은 저림·구토 뒤에 부정맥이 올 수 있으니 증상이 가벼워도 진료를 받고, 남은 식물을 가져간다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "전국의 산 숲속 그늘진 곳에서 자라며, 일본·중국에도 분포한다.",
+    "look": {
+      "flower": "8월에 연한 자주색 꽃이 줄기 끝이나 윗부분 잎겨드랑이에 이삭처럼 달리며, 위쪽 꽃받침이 투구처럼 길쭉하게 솟은 모양이다.",
+      "fruit": "여러 개의 씨방이 벌어지는 골돌과로 익는다.",
+      "leaf": "뿌리에서 난 잎은 잎자루가 길고 전체 윤곽이 둥글며, 손바닥처럼 5~7갈래로 갈라지고 끝이 뾰족하며 톱니가 있다. 줄기 위로 갈수록 잎이 작고 단순해진다.",
+      "root": "곧게 내린 굵은 뿌리로 검은 갈색이다.",
+      "stem": "높이 30~80cm로 곧게 서거나 비스듬히 자라며, 흔히 자줏빛이 돌고 윗부분에 짧은 털이 빽빽하다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Aconitum pseudolaeve Nakai",
+    "season": {
+      "collect": [],
+      "flower": [
+        8
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 진범",
+        "url": "https://encykorea.aks.ac.kr/Article/E0054691"
+      },
+      {
+        "title": "Kim JY 외, Aconitine poisoning from leaves of Aconitum pseudo-laeve var. erectum, not the root in humans (Clinical Toxicology 2009, 고려대 연구성과)",
+        "url": "https://pure.korea.ac.kr/en/publications/aconitine-poisoning-from-leaves-of-aconitum-pseudo-leave-var-erec/"
+      },
+      {
+        "title": "이현선·정보섭, 한국산 부자류 생약에 관한 연구(V) 진범 지하부의 성분(생약학회지 1989)",
+        "url": "https://koreascience.kr/article/JAKO198903041226311.do"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "한국민족문화대백과사전 - 진범",
+      "url": "https://encykorea.aks.ac.kr/Article/E0054691"
+    },
+    {
+      "title": "국립공원공단 - 천상화원 야생화 탐방로 안내(투구꽃·놋젓가락나물)",
+      "url": "https://knps.or.kr/archive/files/original/147c162b101466a024aa48d17d50ba179536f5d8.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 백부자",
+      "url": "https://encykorea.aks.ac.kr/Article/E0022133"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "독초",
+      "how": "같은 투구꽃속이라 손바닥처럼 갈라진 잎과 투구 모양 꽃이 닮았다. 둘 다 독초이므로 어느 쪽이든 먹으면 안 된다.",
+      "name": "투구꽃",
+      "points": [
+        "진범 꽃은 연한 자주색이고 위쪽 꽃받침이 길쭉하게 솟지만, 투구꽃은 진한 보라색의 투구 모양 꽃이 모여 핀다.",
+        "진범은 8월, 투구꽃은 9월 무렵에 꽃이 핀다.",
+        "진범 뿌리는 검은 갈색의 곧은 뿌리다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "같은 투구꽃속으로 잎이 손바닥 모양으로 갈라진다. 꽃 색과 뿌리 모양으로 구별되지만 둘 다 독초다.",
+      "name": "백부자",
+      "points": [
+        "진범 꽃은 연한 자주색, 백부자 꽃은 연한 노란색(자줏빛이 돌기도 함)이다.",
+        "진범 뿌리는 곧은 검은 갈색 뿌리이고, 백부자는 마늘쪽 같은 덩이뿌리가 2~3개 달린다."
+      ]
+    }
+  ],
+  "name": "진범",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "",
+    "sources": [
+      {
+        "title": "Kim JY 외, Aconitine poisoning from leaves of Aconitum pseudo-laeve var. erectum, not the root in humans (Clinical Toxicology 2009, 고려대 연구성과)",
+        "url": "https://pure.korea.ac.kr/en/publications/aconitine-poisoning-from-leaves-of-aconitum-pseudo-leave-var-erec/"
+      },
+      {
+        "title": "이현선·정보섭, 한국산 부자류 생약에 관한 연구(V) 진범 지하부의 성분(생약학회지 1989)",
+        "url": "https://koreascience.kr/article/JAKO198903041226311.do"
+      },
+      {
+        "title": "홍콩 중의약규관판공실 - Alert on Aconitum Alkaloid Poisoning(2014)",
+        "url": "https://www.cmro.gov.hk/files/en/whats_new/others/2014/Alert_on_Aconitum_Alkaloid_Poisoning_20140825.pdf"
+      },
+      {
+        "title": "도쿄도 보건의료국 - 독초 식중독(Aconite)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/03.html"
+      }
+    ],
+    "text": "진범은 투구꽃속 독초로, 뿌리에 디테르펜 알칼로이드가 들어 있고 생쥐 실험에서 뿌리 추출물의 급성 독성이 확인되었다. 국내 응급의학 보고에는 뿌리가 아닌 진범 잎을 먹고 아코니틴 중독이 생긴 사례가 있어, 잎도 안전하지 않다. 투구꽃속 알칼로이드 중독은 입 주위와 팔다리 저림, 어지러움, 메스꺼움, 설사, 약한 맥박, 숨가쁨을 일으키고 심하면 부정맥으로 목숨을 잃을 수 있다. 뿌리가 한약재로 쓰인 적이 있지만 독성이 강해 식품으로 쓸 수 없다. 먹은 뒤 입·손발 저림, 구토, 가슴 두근거림이 생기면 바로 119에 연락하거나 응급실로 가고, 남은 식물을 가져가면 진단에 도움이 된다."
+  },
+  "updatedAt": 1793134791420
+}

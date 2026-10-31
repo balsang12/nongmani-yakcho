@@ -174,6 +174,22 @@
         "year": "2025"
       },
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "가시오갈피 뿌리의 성분·품질관리·보고된 작용을 정리한 리뷰로, 저자들은 사람 대상 시험이 제각각이고 질이 낮으며 제품 표준화도 일정하지 않아 효과를 확실히 말하기 어렵다고 평가했다.",
+        "title": "Eleutherococcus root: a comprehensive review of its phytochemistry and pharmacological potential in the context of its adaptogenic effect",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1683795",
+        "year": "2025"
+      },
+      {
+        "journal": "Zhongguo Zhong Yao Za Zhi (중국중약잡지)",
+        "note": "오갈피속 식물의 분포·분류와 트리테르페노이드·페놀산·리그난 같은 성분을 정리한 중국어 리뷰로, 보고된 작용은 주로 실험실 연구에 바탕을 둔다.",
+        "title": "Resources and secondary metabolites from Eleutherococcus plants: a review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.19540/j.cnki.cjcmm.20240812.203",
+        "year": "2024"
+      },
+      {
         "journal": "Forests",
         "note": "중국 13개 산지의 가시오갈피를 생장·잎·광합성·약용 성분으로 비교해 우수 산지를 고르려 한 재배 연구로, 효능 연구는 아니다.",
         "title": "Evaluation and Selection of Excellent Provenances of Eleutherococcus senticosus",
@@ -190,9 +206,9 @@
         "year": "2023"
       }
     ],
-    "summary": "2023~2025년에는 주로 가시오갈피(Eleutherococcus senticosus)의 성분·재배에 관한 리뷰와 기초 연구가 나왔다. 리뷰는 신경보호·혈당 조절·항산화 등과 관련된 성분을 정리했지만 대부분 세포·동물 실험 근거이며, 사람에게서 효과가 확인된 것은 아니다. 이번 조사에서는 Europe PMC가 접속 제한(429)으로 막혀 논문 목록을 체계적으로 검색하지 못했다."
+    "summary": "2024~2025년에는 오갈피속(특히 가시오갈피)의 성분과 보고된 작용을 정리한 리뷰가 여러 편 나왔다. 항염·면역·신경보호 같은 작용은 대부분 세포·동물 실험 근거이며, 2025년 리뷰는 사람 대상 시험이 질이 낮고 제품마다 달라 효과를 확정할 수 없다고 평가했다. 국내 약재 오가피의 주 기원인 오갈피나무(E. sessiliflorus)만 다룬 최근 사람 연구는 이번 조사에서 찾지 못했다."
   },
   "name": "오가피",
   "st": "ok",
-  "updatedAt": 1791968691249
+  "updatedAt": 1793351717671
 }

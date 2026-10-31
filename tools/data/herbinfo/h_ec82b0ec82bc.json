@@ -22,6 +22,10 @@
       {
         "title": "한국한의학연구원 한의고전DB - 동의보감 탕액편 권02 (원문 열람 실패)",
         "url": "https://mediclassics.kr/books/8/volume/21"
+      },
+      {
+        "title": "어듸메 - 동의보감 탕액편 향명 전사본(채부·초부 상)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
       }
     ],
     "verified": false,
@@ -53,6 +57,7 @@
     "eat": "값이 비싼 품목이라 채취 근거 등 출처가 분명한 것만 사서 쓴다.",
     "eng": "wild ginseng",
     "family": "두릅나무과",
+    "grade": "좋은 삼은 나이(연근)가 가장 중요하며, 뇌두·가락지(가로 주름)·잔뿌리로 나이를 짐작하지만 뇌두는 사라지기도 해 정확한 판별은 어렵다. 한국임업진흥원은 뇌두가 촘촘하고 주름이 선명하며 몸통이 역삼각형에 가깝고, 황금빛 잔뿌리가 잘 발달해 단단하고 질긴 것을 좋은 삼으로 소개한다. 값비싼 자연산은 감정서를 함께 받는다.",
     "habitat": "깊은 산 숲속의 그늘지고 부식질이 많은 땅에서 자란다. 분포국은 한국, 북한, 중국, 러시아다. 국제적으로는 러시아 개체군만 CITES 부속서 II에 올라 있다.",
     "look": {
       "leaf": "손바닥 모양으로 다섯 갈래로 갈라진 겹잎이 달린다. 나이가 들수록 줄기 끝에 달리는 겹잎 수가 늘어난다.",
@@ -99,6 +104,10 @@
       {
         "title": "Characteristics of Flower Organ, Inflorescence and Flowering in Panax ginseng and Panax quinquefolium (Journal of Ginseng Research, 1984)",
         "url": "https://koreascience.or.kr/article/JAKO198411919364333.page?lang=en"
+      },
+      {
+        "title": "한국임업진흥원 - 산양삼 바로알기",
+        "url": "https://www.kofpi.or.kr/info/imupStory/forestStory_03_02.do"
       }
     ],
     "store": ""
@@ -173,6 +182,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Translational Medicine",
+        "note": "건강한 남성 12명에게 '야생 산삼' 추출물 음료를 한 번 먹인 교차 시험으로, 운동 중 파워 감소가 덜했다는 결과가 있으나 대상이 적고 원료 재배 방식이 밝혀지지 않았다.",
+        "title": "Acute Effects of Wild Ginseng Extract on Exercise Performance, Cognitive Function, and Fatigue Recovery: A Randomized Cross-Over, Placebo-Controlled, and Double-Blind Study",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/ijtm5010005",
+        "year": "2025"
+      },
+      {
         "journal": "Applied Biological Chemistry",
         "note": "봉화의 4년생 산양삼을 달마다 캐서 생육과 진세노사이드 함량 변화를 분석했고, 지상부가 있는 늦봄~여름 함량이 높았다고 보고했다.",
         "title": "Changes in growth characteristics and ginsenoside contents of wild-simulated ginseng with different harvest times in South Korea",
@@ -181,9 +198,9 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 국내 연구는 숲에서 기른 산양삼(wild-simulated ginseng)의 수확 시기에 따른 생육과 진세노사이드 함량 변화처럼 성분 분석·재배 연구가 중심이다. 이번 조사에서 확인한 것은 성분 분석 연구 1편뿐이고, 자연산 산삼을 사람에게 먹인 임상 근거는 찾지 못했다."
+    "summary": "자연산 산삼 자체를 다룬 연구는 드물고, 최근 연구는 숲에서 기른 산삼(산양삼)의 수확 시기별 진세노사이드 함량 같은 성분 분석이 중심이다. 사람 대상으로는 '야생 산삼' 추출물을 건강한 남성 12명에게 한 번 먹인 소규모 교차 시험이 있으나, 원료의 재배 방식이 명시되지 않아 근거 수준은 낮다."
   },
   "name": "산삼",
   "st": "ok",
-  "updatedAt": 1791862329067
+  "updatedAt": 1793264491890
 }

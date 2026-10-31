@@ -4,31 +4,29 @@
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
     "easy": [
-      "풍한(風寒)으로 머리가 아플 때 쓴다고 적었다.",
-      "갈증을 멎게 하는 데 쓴다고 적었다."
+      "살갗에 머문 사기를 풀고 땀을 내게 하는 데 쓴다고 적었다.",
+      "술독을 풀고 답답하며 목마른 증상을 멎게 하며 입맛을 돋우는 데 쓴다고 적었다.",
+      "산 곳곳에 자라며 뿌리를 캐 볕에 말리고, 땅속 깊이 들어간 뿌리를 좋은 것으로 친다고 적었다.",
+      "칡꽃은 술독을 푸는 데, 칡가루는 성질이 매우 차며 번갈을 멎게 하고 대소변을 잘 나오게 하는 데 쓴다고 따로 적었다."
     ],
     "han": "葛根",
     "has": true,
-    "ki": "",
-    "kiKo": "맛은 달고 독이 없다고 적었다. 성질은 2차 자료마다 '평하다(서늘하다는 설도 있음)', '약간 차다'로 다르게 옮겨져 있어 원문 확인이 필요하다.",
-    "old": "",
-    "orig": "",
+    "ki": "性平(一云冷) 味甘 無毒",
+    "kiKo": "성질은 평(平)하다고 하고 차다는 설도 함께 적었으며, 맛은 달고 독이 없다고 했다.",
+    "old": "츩불휘",
+    "orig": "葛根 츩불휘. 性平一云冷, 味甘, 無毒. 解肌發表, 出汗開腠理, 解酒毒, 止煩渴, 開胃下食. 治胸膈熱, 通小腸, 療金瘡. … 生山中, 處處有之. 五月五日採根, 暴乾. 以入土深者, 爲佳. … 生根: 破血, 合瘡, 墮胎. … 葛花: 主消酒毒. … 葛粉: 性大寒, 味甘, 無毒. 止煩渴, 利大小便.",
     "sources": [
       {
-        "title": "주간경향 - 얼굴이 화끈, 짜증 나고 힘들 때, 칡 (2020)",
-        "url": "https://weekly.khan.co.kr/article/202004171502131"
+        "title": "한국한의학연구원 한의고전명저총서 내손안에 동의보감 - 탕액편 권3 초부 1.5 葛根",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2513"
       },
       {
-        "title": "헬스경향 - [한동하의 식의보감] 칡 (암칡·수칡, 채취 시기)",
-        "url": "https://www.k-health.com/news/articleView.html?idxno=56175"
-      },
-      {
-        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 (원문 열람 실패)",
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감",
         "url": "https://mediclassics.kr/books/8"
       }
     ],
-    "verified": false,
-    "warn": "한국한의학연구원 한의고전명저총서·위키문헌 원문 페이지를 열지 못해 동의보감 원문 한문과 한글 옛이름을 직접 확인하지 못했다. 성미와 쓰임은 신문 칼럼(2차 자료)이 옮긴 한국어 풀이를 바탕으로 적었다."
+    "verified": true,
+    "warn": "생칡뿌리(生根) 항목에 피를 흩뜨리고 태아를 떨어뜨린다(墮胎)는 기록이 있어 임신 중에는 쓰지 않는 것이 좋다. 칡가루는 성질이 매우 차다(大寒)고 적었다."
   },
   "faq": [
     {
@@ -42,6 +40,10 @@
     {
       "a": "습기를 막도록 밀폐해 서늘하고 그늘진 곳에 두세요. 생뿌리는 쉽게 마르거나 곰팡이가 피므로 캔 뒤 빨리 씻어 썰고 말리거나 즙·녹말로 손질합니다.",
       "q": "말린 갈근은 어떻게 보관하나요?"
+    },
+    {
+      "a": "먹기 전에 반드시 의사와 상의하는 것이 좋습니다. 동의보감은 생칡뿌리에 태아를 떨어뜨린다(墮胎)는 기록을 남겼고, 칡뿌리에는 식물성 에스트로겐 계열 성분(이소플라본)이 들어 있습니다.",
+      "q": "임신 중에 칡즙을 먹어도 되나요?"
     }
   ],
   "id": {
@@ -144,6 +146,14 @@
         "year": "2026"
       },
       {
+        "journal": "Acupuncture and Herbal Medicine",
+        "note": "칡뿌리(갈근)의 식물 특징, 이소플라본·다당류 성분, 대사질환 관련 연구를 정리한 리뷰로, 근거의 대부분은 세포·동물 실험이고 사람 연구는 소규모에 그친다.",
+        "title": "Puerariae Lobatae Radix: botanical traits, chemical constituents, and anti-metabolic disease effects: a review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1097/HM9.0000000000000194",
+        "year": "2026"
+      },
+      {
         "journal": "Frontiers in Pharmacology",
         "note": "칡의 약용·식용 이용과 역사를 정리한 리뷰로, 중국에서 다른 종(P. thomsonii)이 갈근으로 함께 쓰여 온 내력도 다룬다.",
         "title": "Unveiling the power of Pueraria lobata: a comprehensive exploration of its medicinal and edible potentials",
@@ -160,25 +170,17 @@
         "year": "2025"
       },
       {
-        "journal": "Pharmaceuticals",
-        "note": "칡 성분 혼합물을 당뇨 생쥐와 간세포에 적용한 전임상 연구로, 사람에게서 확인된 결과는 아니다.",
-        "title": "Scientific Validation of Using Active Constituent as Research Focus in Traditional Chinese Medicine: Case Study of Pueraria lobata Intervention in Type 2 Diabetes",
-        "type": "동물 실험",
-        "url": "https://doi.org/10.3390/ph17121675",
-        "year": "2024"
-      },
-      {
-        "journal": "Frontiers in Plant Science",
-        "note": "칡 뿌리에서 푸에라린 등 이소플라본이 만들어지는 과정을 정리한 식물학 리뷰로, 건강 효과를 다룬 연구는 아니다.",
-        "title": "Glycosylation and methylation in the biosynthesis of isoflavonoids in Pueraria lobata",
+        "journal": "Fitoterapia",
+        "note": "칡 성분을 뽑아내고 함량을 재는 방법과 보고된 건강 영향을 정리한 리뷰로, 효과를 단정하기보다 연구 현황을 살펴보는 자료다.",
+        "title": "Exploring kudzu: Extraction, quantification, and health impacts of bioactive compounds.",
         "type": "리뷰",
-        "url": "https://doi.org/10.3389/fpls.2023.1330586",
-        "year": "2023"
+        "url": "https://doi.org/10.1016/j.fitote.2025.106453",
+        "year": "2025"
       }
     ],
     "summary": "최근 연구는 칡 뿌리의 이소플라본(푸에라린 등)을 중심으로 한 리뷰, 동물·세포 실험이 대부분이다. 칡 뿌리 단독으로 사람에게 효과를 확인하려는 무작위 임상시험은 계획서 단계로 발표되었고, 결과는 아직 확인하지 못했다. 근거 수준은 대체로 전임상(동물·세포) 단계로 보는 것이 맞다."
   },
   "name": "칡",
   "st": "ok",
-  "updatedAt": 1791968691249
+  "updatedAt": 1793351717671
 }

@@ -143,6 +143,14 @@
         "year": "2026"
       },
       {
+        "journal": "Asian Journal of Beauty and Cosmetology",
+        "note": "밤 속껍질(율피) 추출물을 비듬 관련 곰팡이(말라세지아)와 항산화 시험에 걸어 본 실험실 연구다.",
+        "title": "Antifungal and Antioxidant Activities of Castanea crenata Inner Shell Extract against Dandruff-causing Malassezia furfur",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.20402/ajbc.2026.0021",
+        "year": "2026"
+      },
+      {
         "journal": "Nutrients",
         "note": "밤 속껍질 추출물을 근육 손상·위축을 일으킨 생쥐에 시험한 동물 실험으로, 사람에게 같은 효과가 있는지는 알 수 없다.",
         "title": "Chestnut (Castanea crenata) Inner-Shell Extract Attenuates Barium-Chloride-Induced Injury and Denervation-Induced Atrophy in Skeletal Muscle of Mice",
@@ -163,5 +171,5 @@
   },
   "name": "밤",
   "st": "ok",
-  "updatedAt": 1792011713151
+  "updatedAt": 1793393557899
 }

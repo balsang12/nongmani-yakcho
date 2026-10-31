@@ -147,6 +147,24 @@
   },
   "name": "피나물",
   "st": "ban",
+  "toxic": {
+    "lookalike": "애기똥풀, 매미꽃",
+    "sources": [
+      {
+        "title": "Kang 외 (2003) Hylomecon 속 메탄올 추출물의 벤조페난트리딘 알칼로이드 HPLC 분석, Archives of Pharmacal Research 26(2)",
+        "url": "https://koreascience.kr/article/JAKO200311922263663.do"
+      },
+      {
+        "title": "Hylomecon japonica: A Review About Botanical Aspects, Traditional Applications, Chemical Composition, and Pharmacological Properties (Horticulturae, 2025)",
+        "url": "https://doi.org/10.3390/horticulturae11010060"
+      },
+      {
+        "title": "위키백과 - 피나물",
+        "url": "https://ko.wikipedia.org/wiki/%ED%94%BC%EB%82%98%EB%AC%BC"
+      }
+    ],
+    "text": "피나물은 양귀비과 식물로, 뿌리·땅속줄기를 중심으로 벤조페난트리딘 계열 등 이소퀴놀린 알칼로이드가 60여 종 넘게 분리되었다고 보고되었다. 이 성분들의 사람 섭취 안전성은 평가된 적이 없고, 식약처 식품원료로 인정되지 않아 식품으로 팔거나 먹을 수 없다. 이름에 '나물'이 붙어 있어 봄나물로 오해하기 쉬우니 채취하지 않는다. 줄기를 꺾으면 나오는 적황색 즙은 피부나 눈에 닿지 않게 하고, 잘못 먹고 이상 증상이 생기면 병원에 가거나 119에 연락하며 남은 식물을 가져간다."
+  },
   "traditional": {
     "sources": [
       {
@@ -156,5 +174,5 @@
     ],
     "text": "중국 본초 문헌에서는 이 무리의 식물(중국명 荷青花, 학명 Hylomecon japonica로 다룸)을 주로 류머티즘성 통증과 넘어지거나 부딪혀 생긴 상처에 썼다고 정리되어 있다. 약으로 쓴 부위는 주로 뿌리와 땅속줄기이며, 이 부위에서 알칼로이드가 많이 분리되었다."
   },
-  "updatedAt": 1792919652818
+  "updatedAt": 1793134791420
 }

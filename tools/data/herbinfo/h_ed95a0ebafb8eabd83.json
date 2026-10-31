@@ -1,0 +1,108 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "하지 마세요. 찧은 할미꽃이 피부에 닿으면 프로토아네모닌 때문에 물집과 화상이 생길 수 있고, 실제로 국내에서 이런 환자들이 보고됐습니다.",
+      "q": "할미꽃을 찧어 바르면 관절염에 좋다던데요?"
+    },
+    {
+      "a": "입과 위장이 심하게 자극되어 배앓이·구토·설사가 생길 수 있습니다. 먹거나 팔지 않는 품목입니다.",
+      "q": "할미꽃을 먹으면 어떻게 되나요?"
+    },
+    {
+      "a": "바로 흐르는 물에 씻으세요. 화끈거림이나 물집이 생기면 피부과 진료를 받으세요.",
+      "q": "할미꽃 즙이 피부에 묻었어요."
+    },
+    {
+      "a": "캐지 마세요. 동강 유역 석회암 절벽에만 자라는 한국 특산 식물이라 자생지에서 보존해야 합니다.",
+      "q": "동강할미꽃은 캐도 되나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Korean pasque flower",
+    "family": "미나리아재비과(Ranunculaceae)",
+    "grade": "",
+    "habitat": "전국 거의 모든 지역의 볕이 잘 드는 건조한 풀밭과 낮은 산 양지에 자라는 여러해살이풀이다.",
+    "look": {
+      "flower": "4~5월 꽃줄기 끝에 적자색 종 모양 꽃이 한 송이씩 아래를 향해 핀다. 겉에 흰 털이 덮여 있다.",
+      "fruit": "꽃이 진 뒤 긴 흰 털이 달린 열매들이 공 모양으로 모여, 할머니의 흰머리처럼 보인다.",
+      "leaf": "뿌리에서 잎자루가 긴 잎이 모여 나며, 작은잎 5장으로 된 깃꼴겹잎이 다시 깊게 갈라진다. 식물 전체에 긴 흰 털이 빽빽해 흰빛이 돈다.",
+      "root": "뿌리는 굵고 흑갈색이다.",
+      "stem": "꽃줄기가 여러 대 올라와 30~40cm까지 자라고, 윗부분에 잘게 갈라진 포가 달린다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Pulsatilla koreana (Yabe ex Nakai) Nakai ex Mori",
+    "season": {
+      "collect": [
+        3,
+        4,
+        5
+      ],
+      "flower": [
+        4,
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 할미꽃(白頭翁)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0062103"
+      },
+      {
+        "title": "A Case of Irritant Dermatitis due to Pulsatilla Koreana, 대한피부과학회지 1997",
+        "url": "https://search.bvsalud.org/gim/resource/en/wpr-57979"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "서울신문(2008.3.29) 현진오의 꽃따라 산따라 - 동강",
+      "url": "https://m.seoul.co.kr/news/2008/03/29/20080329026001"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 할미꽃(白頭翁)",
+      "url": "https://encykorea.aks.ac.kr/Article/E0062103"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "동강 유역 석회암 절벽에만 자라는 한국 특산 할미꽃 무리로, 같은 무리라 독성 성분도 비슷할 것으로 보고 다룬다. 희귀한 자생 식물이므로 캐지 않는다.",
+      "name": "동강할미꽃",
+      "points": [
+        "동강할미꽃은 분홍~보라색 꽃이 위를 향해 피고, 할미꽃은 적자색 꽃이 아래를 향해 고개 숙여 핀다.",
+        "동강할미꽃은 강가 석회암 바위 틈에, 할미꽃은 볕이 잘 드는 건조한 풀밭에 자란다.",
+        "둘 다 먹거나 피부에 찧어 바르지 않는다."
+      ]
+    }
+  ],
+  "name": "할미꽃",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "동강할미꽃. 산나물로 오인되는 일보다 민간요법으로 찧어 바르거나 먹는 사고가 주로 일어난다",
+    "sources": [
+      {
+        "title": "Chemical Burns Following Massage With Chopped Pulsatilla koreana, Wounds 29(11), 2017",
+        "url": "https://hmpgloballearningnetwork.com/site/wounds/article/chemical-burns-following-massage-chopped-pulsatilla-koreana"
+      },
+      {
+        "title": "A Case of Irritant Dermatitis due to Pulsatilla Koreana, 대한피부과학회지 1997",
+        "url": "https://search.bvsalud.org/gim/resource/en/wpr-57979"
+      },
+      {
+        "title": "Bang SC 외(2005) Germination-Inhibitory Effect of Pulsatilla koreana Leaves; Protoanemonin as Active Principle, J Appl Biol Chem 48(2)",
+        "url": "https://koreascience.or.kr/article/JAKO200509906290634.do"
+      },
+      {
+        "title": "Cornell University, Plants Poisonous to Livestock - Ranunculosides",
+        "url": "https://poisonousplants.ansci.cornell.edu/toxicagents/ranunculoside.html"
+      }
+    ],
+    "text": "싱싱한 잎과 줄기에 라눈쿨린이 많고, 식물이 찧이거나 상처가 나면 자극성이 강한 프로토아네모닌으로 바뀐다. 즙이 피부에 닿으면 화끈거리며 붉어지고 물집이 생긴다. 국내에서도 얼굴 마비·관절염·주름에 좋다는 말을 듣고 찧은 할미꽃으로 문지르거나 붙였다가 2도 화상 같은 물집과 색소 침착이 생긴 환자들이 보고됐다. 먹으면 입과 위장이 심하게 자극되어 배앓이·구토·설사가 생길 수 있다. 말린 것은 자극이 약하다는 보고가 있지만 집에서 먹거나 바르는 것은 피한다."
+  },
+  "updatedAt": 1793091939663
+}

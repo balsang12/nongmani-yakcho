@@ -1,0 +1,128 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 복수초는 풀 전체에 심장에 작용하는 독성분이 있어 목숨을 잃을 수도 있다.",
+      "q": "복수초 어린순을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "안전해진다는 공공기관 자료는 없다. 어떤 방법으로든 먹지 않는다.",
+      "q": "데치거나 말리면 괜찮나요?"
+    },
+    {
+      "a": "잎과 꽃을 본다. 복수초는 잎이 깃 모양으로 잘게 갈라지고 윤이 나는 노란 꽃이 한 송이씩 피지만, 머위는 잎이 넓은 콩팥 모양이고 꽃봉오리는 흰색~연노란색 작은 꽃의 뭉치다.",
+      "q": "머위 꽃봉오리와 어떻게 구별하나요?"
+    },
+    {
+      "a": "바로 병원에 가거나 119에 연락한다. 심장 박동 이상이 늦게 나타나거나 며칠 이어질 수 있으니 증상이 가벼워도 진료를 받고, 남은 식물을 가져간다.",
+      "q": "잘못 먹었을 때는 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Amur adonis",
+    "family": "미나리아재비과",
+    "grade": "",
+    "habitat": "전국 산지의 낙엽활엽수림 아래에서 자란다. 이른 봄 눈이 채 녹지 않은 숲 바닥에서 꽃을 피워 얼음새꽃이라고도 부른다.",
+    "look": {
+      "flower": "줄기 끝에 지름 3cm 안팎의 윤이 나는 노란 꽃이 한 송이씩 달린다. 햇빛이 있으면 활짝 벌어지고 흐리거나 어두우면 오므라든다.",
+      "leaf": "잎은 어긋나게 달리고 깃 모양으로 잘게 여러 번 갈라져 가늘다. 싹이 틀 때는 잎이 덜 펴진 채 꽃봉오리를 감싸며 올라온다.",
+      "root": "땅속줄기가 짧고 굵으며 짙은 갈색이고, 굵은 수염뿌리가 많이 난다.",
+      "stem": "꽃이 처음 필 때는 키가 5cm 안팎으로 낮고, 날이 풀리면 25~30cm 정도까지 자란다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Adonis amurensis Regel & Radde",
+    "season": {
+      "collect": [
+        2,
+        3,
+        4
+      ],
+      "flower": [
+        2,
+        3,
+        4
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 복수초",
+        "url": "https://encykorea.aks.ac.kr/Article/E0023683"
+      },
+      {
+        "title": "Plants of the World Online - Adonis amurensis Regel & Radde",
+        "url": "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:708061-1"
+      },
+      {
+        "title": "나가노현 - 食べると危険！有毒植物に注意しましょう(フクジュソウ)",
+        "url": "https://www.pref.nagano.lg.jp/yakuji/kenko/iryo/yakubutsu/yudoku.html"
+      },
+      {
+        "title": "도쿄도 보건의료국 - 독초 정보: Adonis ramosa(복수초류)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/14.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "도쿄도 보건의료국 - 독초 정보: Adonis ramosa(복수초류)",
+      "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/14.html"
+    },
+    {
+      "title": "일본 임야청 홋카이도삼림관리국 - 森林の撮っておき 2020년 4월(フクジュソウ와 フキノトウ)",
+      "url": "https://www.rinya.maff.go.jp/hokkaido/square/totteoki/2020/2004.html"
+    },
+    {
+      "title": "British Columbia 정부 - Japanese butterbur alert sheet",
+      "url": "https://www2.gov.bc.ca/assets/gov/environment/plants-animals-and-ecosystems/invasive-species/alerts/alertsheet_japanesebutterbur.pdf"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 복수초",
+      "url": "https://encykorea.aks.ac.kr/Article/E0023683"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "이른 봄 땅에서 둥글게 올라오는 복수초 싹·꽃봉오리를 머위 꽃봉오리로 잘못 알 수 있다고 일본 공공기관이 경고한다. 잎 모양과 꽃 색을 보면 구별할 수 있다.",
+      "name": "머위",
+      "points": [
+        "복수초 잎은 깃 모양으로 잘게 갈라져 가늘지만, 머위 잎은 갈라지지 않은 넓은 콩팥·심장 모양이다.",
+        "복수초는 줄기 끝에 윤이 나는 노란 꽃이 한 송이씩 크게 핀다. 머위 꽃봉오리는 흰색~연노란색의 작은 꽃이 뭉쳐 있다.",
+        "복수초는 숲 속 낙엽활엽수 아래에서, 머위는 주로 물기 많은 그늘진 곳·물가·밭둑에서 자란다.",
+        "노란 꽃잎이나 잘게 갈라진 잎이 보이면 머위가 아니므로 따지 않는다."
+      ]
+    }
+  ],
+  "name": "복수초",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "머위",
+    "sources": [
+      {
+        "title": "도쿄도 보건의료국 - 독초 정보: Adonis ramosa(복수초류)",
+        "url": "https://www.hokeniryo1.metro.tokyo.lg.jp/shokuhin/eng/dokusou/14.html"
+      },
+      {
+        "title": "나가노현 - 食べると危険！有毒植物に注意しましょう(フクジュソウ)",
+        "url": "https://www.pref.nagano.lg.jp/yakuji/kenko/iryo/yakubutsu/yudoku.html"
+      },
+      {
+        "title": "후쿠시마의대 응급센터 - ECG changes in Fukujyuso poisoning: a case report (APAMT)",
+        "url": "https://apamt.org/wp-content/uploads/2024/06/PP16-ECG-changes-in-Fukujyuso-poisoning-a-case-report.pdf"
+      },
+      {
+        "title": "일본 임야청 홋카이도삼림관리국 - 森林の撮っておき 2020년 4월(フクジュソウ와 フキノトウ)",
+        "url": "https://www.rinya.maff.go.jp/hokkaido/square/totteoki/2020/2004.html"
+      }
+    ],
+    "text": "복수초는 풀 전체에 시마린·아도니톡신 같은 강심배당체가 들어 있는 독초다. 강심배당체는 심장 박동에 직접 작용해, 먹으면 메스꺼움·구토 뒤에 맥이 느려지거나 불규칙해지고 호흡곤란이 오며 심하면 심장이 멈춰 숨질 수 있다. 일본에서는 복수초를 먹은 환자에게서 디곡신 중독과 비슷한 심전도 이상이 며칠간 이어진 사례가 보고되었다. 뿌리가 강심제 한약재로 쓰인 적이 있지만 독성이 강해 식품으로 먹을 수 없다. 잘못 먹었으면 바로 병원이나 119에 연락하고, 남은 식물을 가져간다."
+  },
+  "updatedAt": 1793134791420
+}

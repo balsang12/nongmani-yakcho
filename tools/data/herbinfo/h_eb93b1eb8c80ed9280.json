@@ -1,0 +1,147 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 등대풀은 흰 유액에 독성분이 있는 독초이며, 데치면 안전해진다는 공공기관 자료는 없다.",
+      "q": "어린 등대풀을 데쳐서 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "흰 즙만으로는 판단할 수 없다. 씀바귀는 뿌리잎이 모여 나고 노란 혀꽃이 피지만, 등대풀은 줄기에 주걱 모양 잎이 어긋나고 꽃잎 없는 황록색 꽃이 핀다.",
+      "q": "줄기를 꺾으니 흰 즙이 나오는데 씀바귀 아닌가요?"
+    },
+    {
+      "a": "피부는 비누와 물로 씻고, 눈은 미지근한 물로 15~20분 충분히 헹군다. 통증이 심하거나 눈이 잘 보이지 않으면 바로 병원에 간다.",
+      "q": "즙이 손이나 눈에 묻었어요."
+    },
+    {
+      "a": "바로 병원에 가거나 119에 연락한다. 먹고 남은 풀이 있으면 가져가면 진단과 치료에 도움이 된다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Sun spurge",
+    "family": "대극과",
+    "grade": "",
+    "habitat": "중부 이남의 밭, 길가, 빈터처럼 사람 손을 탄 양지바른 땅에서 자라는 두해살이풀이다. 가을에 싹이 터서 겨울을 나고 이듬해 봄에 자란다.",
+    "look": {
+      "flower": "꽃잎이 없는 작은 황록색 꽃이 줄기 끝에서 다섯 갈래로 갈라진 가지 위에 모여 달려, 위에서 보면 등대 불빛처럼 보인다.",
+      "fruit": "열매는 매끈한 공 모양 삭과로 속이 세 칸으로 나뉘며, 익으면 벌어진다.",
+      "leaf": "잎은 잎자루 없이 어긋나며 끝이 넓은 주걱 모양(길이 1~3cm)이고, 끝 쪽 가장자리에 잔톱니가 있다. 줄기 끝에는 큰 잎 여러 장이 돌려난다.",
+      "stem": "줄기는 밑에서 여러 대가 모여 곧게 서고 높이 30cm 안팎이다. 줄기나 잎을 자르면 흰 유액이 나온다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Euphorbia helioscopia L.",
+    "season": {
+      "collect": [
+        3,
+        4
+      ],
+      "flower": [
+        5
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 등대풀",
+        "url": "https://encykorea.aks.ac.kr/Article/E0017131"
+      },
+      {
+        "title": "위키백과 - 등대풀",
+        "url": "https://ko.wikipedia.org/wiki/등대풀"
+      },
+      {
+        "title": "한국식물자원학회지 21(4) - 택칠(등대풀)에서 분리한 Corilagin 연구(2008)",
+        "url": "https://koreascience.kr/article/JAKO200831050534513.pdf"
+      },
+      {
+        "title": "HerbiGuide - Sun Spurge (Euphorbia helioscopia)",
+        "url": "https://www.herbiguide.com.au/Descriptions/hg_Sun_Spurge.htm"
+      },
+      {
+        "title": "Wikipedia - Euphorbia helioscopia",
+        "url": "https://en.wikipedia.org/wiki/Euphorbia_helioscopia"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "위키백과 - 등대풀",
+      "url": "https://ko.wikipedia.org/wiki/등대풀"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 등대풀",
+      "url": "https://encykorea.aks.ac.kr/Article/E0017131"
+    },
+    {
+      "title": "씀바귀(Ixeris dentata)의 생육 특성 및 카로티노이드·페놀 화합물 함량 분석(KoreaScience)",
+      "url": "https://koreascience.or.kr/article/JAKO201913457806638.do"
+    },
+    {
+      "title": "위키백과 - 씀바귀",
+      "url": "https://ko.wikipedia.org/wiki/씀바귀"
+    },
+    {
+      "title": "위키백과 - 대극",
+      "url": "https://ko.wikipedia.org/wiki/대극"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "둘 다 줄기나 잎을 자르면 흰 즙이 나와서, '흰 즙이 나오는 쓴 나물'로만 판단하면 혼동할 수 있다. 잎이 붙는 모양과 꽃을 보면 구별된다.",
+      "name": "씀바귀",
+      "points": [
+        "씀바귀는 뿌리에서 잎자루 있는 잎이 모여 나지만, 등대풀은 줄기에 잎자루 없는 주걱 모양 잎이 어긋나게 붙는다.",
+        "씀바귀는 혀꽃이 달린 노란 꽃(민들레처럼 꽃잎이 보이는 꽃)이 피고, 등대풀은 꽃잎 없는 작은 황록색 꽃이 핀다.",
+        "등대풀은 줄기 끝에 잎이 돌려나고 그 위에서 가지가 다섯 갈래로 갈라진다.",
+        "흰 즙이 나온다는 사실만으로 씀바귀라고 단정하면 안 된다."
+      ]
+    },
+    {
+      "danger": "독초",
+      "how": "같은 대극 무리로 흰 즙과 꽃잎 없는 황록색 꽃차례가 비슷하다. 둘 다 독초라 어느 쪽이든 먹으면 안 된다.",
+      "name": "대극",
+      "points": [
+        "대극은 잎이 가늘고 긴 피침 모양이고, 등대풀은 끝이 넓은 주걱 모양이다.",
+        "대극은 높이 30~80cm로 더 크게 자라고 줄기에 잔털이 있다.",
+        "대극은 6~8월, 등대풀은 5월 무렵 꽃이 핀다."
+      ]
+    }
+  ],
+  "name": "등대풀",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "씀바귀",
+    "sources": [
+      {
+        "title": "위키백과 - 등대풀",
+        "url": "https://ko.wikipedia.org/wiki/등대풀"
+      },
+      {
+        "title": "한국식물자원학회지 21(4) - 택칠(등대풀)에서 분리한 Corilagin 연구(2008)",
+        "url": "https://koreascience.kr/article/JAKO200831050534513.pdf"
+      },
+      {
+        "title": "Wikipedia - Euphorbia helioscopia",
+        "url": "https://en.wikipedia.org/wiki/Euphorbia_helioscopia"
+      },
+      {
+        "title": "HerbiGuide - Sun Spurge (Euphorbia helioscopia)",
+        "url": "https://www.herbiguide.com.au/Descriptions/hg_Sun_Spurge.htm"
+      },
+      {
+        "title": "Poison Control (National Capital Poison Center) - Keep Away From Spurge Sap",
+        "url": "https://poison.org/articles/keep-away-from-spurge-sap-222"
+      }
+    ],
+    "text": "등대풀은 줄기와 잎을 자르면 나오는 흰 유액에 독성분이 있으며, 학술자료에는 phorbol ester 같은 디테르펜 성분이 들어 있다고 보고된다. 해외 자료는 날로 먹으면 메스꺼움·구토 같은 위장 증상을 일으킬 수 있고, 사람과 가축에 유독하다고 분류한다. 대극 무리의 흰 즙은 피부에 닿으면 붉어지거나 물집이 생길 수 있고, 눈에 들어가면 심한 통증과 일시적인 시력 장애를 일으킬 수 있다. 택칠이라는 이름의 한약재로 쓰이지만 독성이 있어 식품으로 먹을 수 없다. 잘못 먹었거나 눈에 즙이 들어가 증상이 심하면 바로 병원에 가거나 119에 연락하고, 남은 식물을 가져간다."
+  },
+  "updatedAt": 1793134791420
+}

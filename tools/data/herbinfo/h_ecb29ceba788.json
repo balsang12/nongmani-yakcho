@@ -5,13 +5,13 @@
     "bu": "풀(草部)",
     "easy": [
       "허약해서 생기는 어지럼증에 쓴다고 적었다고 소개된다(원문 미대조).",
-      "땅 위 줄기는 화살대처럼 생겨 적전(赤箭), 바람에 흔들리지 않는다 하여 정풍초(定風草)라고도 부른다고 전하나, 탕액편에 赤箭이 별도로 실렸는지는 원문으로 확인하지 못했다."
+      "『동의보감』 탕액편에는 땅 위 줄기인 赤箭(향명 '텬맛 삭')이 권2 풀(草部)에, 덩이줄기인 天麻(향명 '슈자ᄒᆡ 좃')가 권3 풀(草部)에 따로 실려 있다(향명 전사본 기준)."
     ],
     "han": "天麻",
     "has": true,
     "ki": "",
     "kiKo": "",
-    "old": "",
+    "old": "슈자ᄒᆡ 좃",
     "orig": "",
     "sources": [
       {
@@ -25,6 +25,14 @@
       {
         "title": "한국한의학연구원 한의고전명저총서 - 동의보감 (탕액편 권02·03에 草部 수록)",
         "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "어듸메 - 동의보감 탕액편 향명 전사본(채부·초부 상)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
+      },
+      {
+        "title": "어듸메 - 동의보감 탕액편 향명 전사본(권3 초부)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
       }
     ],
     "verified": false,
@@ -56,6 +64,7 @@
     "eat": "생천마, 분말, 말린 차, 술, 꿀이나 설탕에 잰 발효 식품, 오리탕 같은 요리로 먹는다.",
     "eng": "Tall gastrodia",
     "family": "난초과",
+    "grade": "산림청 재배 자료는 생천마를 무게로 1등(150g 이상), 2등(75~150g), 3등(75g 이하이거나 상처 난 것)으로 나눈다. 꽃대가 올라오기 전에 캔 것이 품질이 좋으며, 잘 말린 천마는 속이 투명하고 꺾을 때 '딱' 소리가 난다.",
     "habitat": "낙엽이 쌓여 부식질이 많은 산속 숲이나 계곡에서 자라며, 해발 700m 이상 서늘하고 습한 곳에서 자생하는 경우가 많다. 엽록소가 없어 스스로 양분을 만들지 못하고, 뽕나무버섯균(Armillaria 속)과 공생해 양분을 얻는 부생식물이다. 시중 천마는 대부분 재배품이며, 야생 개체는 드물다(제주에서는 남획으로 대부분 사라졌다는 기록이 있다).",
     "look": {
       "flower": "6~7월 꽃대 윗부분에 황갈색(노란 계열) 꽃이 수십 송이 이삭처럼 달린다. 꽃덮개가 붙어 배 쪽이 부푼 항아리(병) 모양이며 화려하지 않다.",
@@ -128,11 +137,27 @@
   "modern": {
     "papers": [
       {
+        "journal": "Pharmaceuticals",
+        "note": "기억력 저하를 느끼는 성인 80명 시험에서 인지 점수가 위약보다 조금 더 올랐으나, 사후 등록·기저값 차이 등 한계를 저자들이 밝혔다.",
+        "title": "A 12-Week, Randomized, Double-Blind, Placebo-Controlled Clinical Trial of Gastrodia elata Extract for Memory Support in Adults with Subjective Memory Complaints",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.3390/ph19101558",
+        "year": "2026"
+      },
+      {
         "journal": "Frontiers in Pharmacology",
         "note": "천마의 생리활성 성분과 약리 작용 연구를 종합하고, 근거 대부분이 세포·동물 실험이며 임상시험은 제한적이라고 짚었다.",
         "title": "From molecules to medicine: a systematic review of Gastrodia elata's bioactive metabolites and therapeutic potential",
         "type": "리뷰",
         "url": "https://doi.org/10.3389/fphar.2025.1641443",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Functional Foods",
+        "note": "40~65세 100명에게 12주간 먹인 시험에서 인지 검사 점수 변화가 위약보다 컸다고 보고했으며, 단일 기관·짧은 기간이라는 한계가 있다.",
+        "title": "Gastrodia elata blume (Gastrodiae Rhizoma, Tianma) extract for cognitive enhancement in middle-aged adults with normal or mild impairment: A randomized, double-blind, placebo-controlled clinical trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1016/j.jff.2025.106942",
         "year": "2025"
       },
       {
@@ -152,7 +177,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 천마 연구는 가스트로딘 같은 주요 성분과 다당류의 구조와 활성을 정리한 리뷰가 중심이며, 신경계·항산화·면역 관련 작용을 다룬다. 근거는 대부분 세포·동물 실험 수준이고, 사람 대상 임상 연구는 아직 제한적이라고 리뷰들은 밝힌다. 2026년에는 주관적 기억력 저하 성인을 대상으로 한 12주 인체적용시험이 학술지에 실리고 식약처 기능성 원료 인정을 받았다는 보도가 있으나, 해당 논문은 직접 확인하지 못했다."
+    "summary": "최근 천마 연구는 가스트로딘 같은 성분과 다당류의 작용을 정리한 리뷰가 많고, 그 근거는 대부분 세포·동물 실험이다. 사람 대상으로는 2025·2026년에 12주 무작위 위약 대조 시험 두 편이 나와 인지 검사 점수가 위약보다 조금 더 좋아졌다고 보고했으나, 모두 단일 기관의 소규모·단기 연구라 근거 수준은 아직 제한적이다."
   },
   "name": "천마",
   "st": "ok",
@@ -160,5 +185,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1791862329067
+  "updatedAt": 1793264491890
 }

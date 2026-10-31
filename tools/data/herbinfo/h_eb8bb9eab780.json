@@ -11,7 +11,7 @@
     "has": true,
     "ki": "",
     "kiKo": "",
-    "old": "",
+    "old": "승엄초불휘",
     "orig": "",
     "sources": [
       {
@@ -25,10 +25,14 @@
       {
         "title": "한국한의학연구원 한의고전명저총서 - 동의보감 목차",
         "url": "https://mediclassics.kr/books/8"
+      },
+      {
+        "title": "오재근 - 동의보감과 향약집성방의 증류본초 활용 (대한한의학원전학회지, 2011; 當歸 향명 승엄초불휘)",
+        "url": "https://koreascience.kr/article/JAKO201129161874382.pdf"
       }
     ],
     "verified": false,
-    "warn": "當歸가 동의보감 탕액편 권2 풀(草部)에 실린 것은 탕액편 본초 배열을 정리한 논문으로 확인했다. 그러나 한의고전명저총서·위키문헌 본문 페이지가 열리지 않아 원문 한문·성미·한글 옛이름은 직접 확인하지 못했다. 위 풀이 두 줄은 한의사 칼럼(헬스경향 2023)이 동의보감을 인용한 내용을 다시 쓴 것으로, 탕액편이 아닌 다른 편의 기록일 수도 있다. 동의보감 당시의 당귀와 오늘날 참당귀·일당귀·중국당귀가 어떻게 대응하는지도 단정하기 어렵다."
+    "warn": "當歸가 동의보감 탕액편 풀(草部)에 실린 것은(권 번호는 자료에 따라 권2·권3으로 다르게 나온다) 탕액편 본초 배열을 정리한 논문으로 확인했다. 그러나 한의고전명저총서·위키문헌 본문 페이지가 열리지 않아 원문 한문과 성미는 직접 확인하지 못했다. 위 풀이 두 줄은 한의사 칼럼(헬스경향 2023)이 동의보감을 인용한 내용을 다시 쓴 것으로, 탕액편이 아닌 다른 편의 기록일 수도 있다. 동의보감 당시의 당귀와 오늘날 참당귀·일당귀·중국당귀가 어떻게 대응하는지도 단정하기 어렵다."
   },
   "faq": [
     {
@@ -168,6 +172,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Investigative and Clinical Urology",
+        "note": "하부요로증상이 있는 남성 100명에게 참당귀·황기 혼합 추출물을 12주간 먹게 한 무작위 이중맹검 시험으로 증상 점수가 위약보다 더 줄었다고 보고했지만, 참당귀 단독 효과가 아니고 장기 안전성은 아직 평가되지 않았다.",
+        "title": "SHPro® (mixture of Angelica gigas and Astragalus membranaceus) in men with lower urinary tract symptoms: A randomized, double-blind, placebo-controlled clinical trial",
+        "type": "사람 대상",
+        "url": "https://icurology.org/DOIx.php?id=10.4111%2Ficu.20250025",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceutical Research",
+        "note": "참당귀 뿌리 알코올 추출물과 데커신 계열 성분의 동물 실험 결과를 정리한 리뷰로, 사람에게서는 몸속 흡수·대사 자료 정도만 있고 효과를 확인한 임상시험은 아직 계획 단계라고 했다.",
+        "title": "Angelica gigas Nakai (Korean Dang-gui) Root Alcoholic Extracts in Health Promotion and Disease Therapy - active Phytochemicals and In Vivo Molecular Targets",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s11095-024-03809-9",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Science & Nutrition",
+        "note": "참당귀의 대표 성분인 데커신·데커시놀안젤레이트·데커시놀의 항암 관련 실험 연구를 정리한 리뷰로, 실험실 단계의 결과이므로 암 치료 효과로 받아들이면 안 된다.",
+        "title": "Anticancer potential of decursin, decursinol angelate, and decursinol from Angelica gigas Nakai: A comprehensive review and future therapeutic prospects",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1002/fsn3.4376",
+        "year": "2024"
+      },
+      {
         "journal": "한국식품저장유통학회지",
         "note": "한국당귀(참당귀)·일당귀·중국당귀의 일반성분과 영양성분을 비교해 함량 차이는 있으나 전체 구성은 비슷하다고 본 성분 분석 연구로, 2023년 이후 논문은 아니다.",
         "title": "당귀의 종별 이화학적 성분비교",
@@ -176,9 +204,9 @@
         "year": "2009"
       }
     ],
-    "summary": "이번 조사에서는 Europe PMC가 접속 제한(429)으로 막히고 웹 검색 한도도 소진되어, 2023~2026년 참당귀(Angelica gigas) 논문을 직접 확인하지 못했다. 2025년 식약처 발표로 국내산 참당귀가 미국생약규격집(USP)에 처음 등재되었다는 보도가 있으나, 이는 원료 품질 기준을 인정받은 것이지 질병 치료 효과를 인정받은 것은 아니다. 언론에 소개된 효능 연구들은 대부분 세포·동물 실험 수준이며, 사람에게서 효과가 확인된 것은 아니다."
+    "summary": "2024~2026년 참당귀(Angelica gigas) 연구는 데커신·데커시놀안젤레이트 같은 피라노쿠마린 성분을 중심으로 한 세포·동물 실험과 리뷰가 대부분이다. 사람 대상 연구로는 참당귀와 황기를 섞은 추출물을 남성 하부요로증상에 12주 시험한 무작위 이중맹검 시험이 있으나, 참당귀 단독 효과를 본 것은 아니고 장기 안전성은 평가되지 않았다. 전체적으로 사람에게서 확인된 근거는 아직 제한적이다."
   },
   "name": "당귀",
   "st": "ok",
-  "updatedAt": 1791968691249
+  "updatedAt": 1793351717671
 }

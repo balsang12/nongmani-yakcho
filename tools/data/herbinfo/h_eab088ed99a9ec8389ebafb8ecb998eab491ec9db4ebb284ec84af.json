@@ -1,0 +1,102 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "포자 무늬를 봅니다. 갈황색미치광이버섯은 주황~녹슨 갈색, 뽕나무버섯은 흰색입니다. 확실하지 않으면 먹지도 팔지도 마세요.",
+      "q": "뽕나무버섯과 어떻게 구별하나요?"
+    },
+    {
+      "a": "안 됩니다. 독소는 가열해도 없어지지 않습니다.",
+      "q": "익히면 괜찮나요?"
+    },
+    {
+      "a": "환각·착란이 나타나면 혼자 두지 말고 바로 병원(119)에 연락하세요. 남은 버섯을 가져가면 도움이 됩니다.",
+      "q": "잘못 먹었으면 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "spectacular rustgill",
+    "family": "Hymenogastraceae(미치광이버섯속)",
+    "grade": "",
+    "habitat": "여름~가을에 신갈나무 등 참나무 숲에서 그루터기·줄기 밑동이나 묻힌 나무 위에 여러 개가 다발로 난다.",
+    "look": {
+      "flower": "주름살은 연노랑에서 녹슨 갈색으로 변하고, 포자 무늬는 주황~녹슨 갈색이다.",
+      "leaf": "갓은 지름 7~18cm 안팎(드물게 30cm)으로 크고, 밝은 황금색~주황색에서 자라면 주황갈색이 되며 표면에 잔 비늘이 있다.",
+      "smell": "살은 노랗고 맛이 매우 쓰다. 맛을 보아 확인하지 말 것.",
+      "stem": "자루는 굵고 연노랑~황토색이며 섬유가 덮여 있다. 위쪽에 얇은 턱받이(또는 턱받이 자국)가 있고, 그 위에 녹슨 듯한 주황색 포자 가루가 묻어 있다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Gymnopilus junonius (Fr.) P.D.Orton",
+    "season": {
+      "collect": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "flower": []
+    },
+    "sources": [
+      {
+        "title": "대한민국 정책브리핑, 산림청 국립산림과학원 '독버섯 주의보' 발령(2016.7.13)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148818339"
+      },
+      {
+        "title": "Missouri Department of Conservation — Big Laughing Gym (Gymnopilus junonius)",
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim"
+      },
+      {
+        "title": "Wikipedia — Gymnopilus junonius",
+        "url": "https://en.wikipedia.org/wiki/Gymnopilus_junonius"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "Missouri Department of Conservation — Big Laughing Gym (Gymnopilus junonius)",
+      "url": "https://mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim"
+    },
+    {
+      "title": "Wikipedia — Armillaria mellea",
+      "url": "https://en.wikipedia.org/wiki/Armillaria_mellea"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "노란빛 갓, 턱받이, 나무 밑동에 다발로 나는 모습이 비슷해 뽕나무버섯으로 오인될 수 있다. 가장 확실한 차이는 포자 무늬 색이다.",
+      "name": "뽕나무버섯",
+      "points": [
+        "갈황색미치광이버섯은 포자 무늬가 주황~녹슨 갈색이고, 뽕나무버섯은 흰색이다.",
+        "갈황색미치광이버섯은 턱받이와 자루 위쪽에 녹슨 주황색 가루가 묻어 있다.",
+        "갈황색미치광이버섯은 갓이 더 크고 진한 황금~주황색이며 살이 매우 쓰다.",
+        "뽕나무버섯은 나무껍질 아래·땅속에 검은 끈 모양의 균사다발을 만든다."
+      ]
+    }
+  ],
+  "name": "갈황색미치광이버섯",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "뽕나무버섯",
+    "sources": [
+      {
+        "title": "대한민국 정책브리핑, 산림청 국립산림과학원 '독버섯 주의보' 발령(2016.7.13)",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148818339"
+      },
+      {
+        "title": "Wikipedia — Gymnopilus junonius",
+        "url": "https://en.wikipedia.org/wiki/Gymnopilus_junonius"
+      },
+      {
+        "title": "Missouri Department of Conservation — Big Laughing Gym (Gymnopilus junonius)",
+        "url": "https://mdc.mo.gov/discover-nature/field-guide/big-laughing-gym-big-laughing-jim"
+      }
+    ],
+    "text": "먹고 30~60분 뒤 환각·정신 불안·착란·공격적 행동이 나타나는 환각성 독버섯으로, 증상은 대부분 6시간 안에 사라진다. 짐노필린 같은 신경독 성분이 알려져 있고, 맛이 매우 써서 먹을 수 없다. 독소는 가열해도 파괴되지 않는다."
+  },
+  "updatedAt": 1793177875668
+}

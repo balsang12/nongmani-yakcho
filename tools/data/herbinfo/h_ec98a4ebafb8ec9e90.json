@@ -3,16 +3,27 @@
   "classic": {
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
-    "easy": [],
+    "easy": [
+      "오래 지쳐 여윈 몸을 보하고, 눈을 밝게 하며, 콩팥(水藏)을 따뜻하게 하고 남자의 정을 보탠다고 적었다.",
+      "갈증과 번열을 없애고, 술독을 풀며, 기침하면서 숨이 차오르는 데 쓴다고 적었다.",
+      "깊은 산에 나는 덩굴로 줄기는 붉고 잎은 살구잎 같으며, 꽃은 누르스름한 흰색이고, 열매는 콩알만 하게 송이로 달려 덜 익으면 푸르고 익으면 붉은 자줏빛이 된다고 묘사했다.",
+      "음력 8월에 열매를 따서 볕에 말리고, 약으로 쓸 때 씨를 빼지 않는다고 했다. 맛이 단 것을 좋게 쳤고 우리나라에서는 함경도·평안도에서 나는 것을 으뜸으로 여겼다.",
+      "껍질과 살은 달고 시며 씨는 맵고 쓰고, 전체에 짠맛이 있어 다섯 가지 맛을 다 갖췄기 때문에 오미자라 부른다고 적었다."
+    ],
     "han": "五味子",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "性溫 味酸(一云微苦) 無毒",
+    "kiKo": "성질은 따뜻하고, 맛은 시며(약간 쓰다는 말도 있다), 독이 없다.",
     "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
-    "warn": ""
+    "orig": "性溫, 味酸一云微苦, 無毒. 補虛勞羸瘦, 明目, 煖水藏, 强陰, 益男子精, 生陰中肌, 止消渴, 除煩熱, 解酒毒, 治咳嗽上氣. (항목 첫머리만 옮김)",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권2 草部 5.46 五味子",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2500"
+      }
+    ],
+    "verified": true,
+    "warn": "옛 기록의 쓰임을 소개한 것이며, 오늘날 효능이 확인되었다는 뜻은 아니다."
   },
   "faq": [
     {
@@ -126,6 +137,14 @@
     "papers": [
       {
         "journal": "Frontiers in Pharmacology",
+        "note": "고지방 먹이를 준 생쥐와 간세포 실험에서 오미자 추출물과 분획이 간 지방·혈중 지질 지표에 미친 영향을 살폈으며, 저자들도 사람 대상 확인이 필요하다고 밝혔다.",
+        "title": "Schisandra chinensis alleviates Hypertriglyceridemia in nonalcoholic fatty liver disease by modulating the gut microbiota and hepatic lipid metabolism: identification of its active fractions",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1715364",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
         "note": "약물·알코올 등으로 간을 손상시킨 동물 실험 54편을 모아 분석했으며, 간 보호 경향이 보였지만 사람 대상 확인이 더 필요하다고 정리했다.",
         "title": "Efficacy of Schisandra chinensis in liver injury: a systematic review and preclinical meta-analysis",
         "type": "동물 실험",
@@ -149,7 +168,7 @@
         "year": "2025"
       }
     ],
-    "summary": "최근 연구는 대부분 세포·동물 실험이며, 열매에 든 리그난(쉬산드린류 등)을 중심으로 간 보호·항산화 작용을 살핀 것이 많다. 2025년 체계적 문헌고찰도 동물 실험만 모은 것이라 사람에게 같은 효과가 있는지는 아직 확인이 더 필요하다."
+    "summary": "최근 연구는 대부분 세포·동물 실험이며, 열매에 든 리그난(쉬산드린류 등)을 중심으로 간 보호·항산화·지질 대사 관련 작용을 살핀 것이 많다. 2025년 체계적 문헌고찰과 2026년 지방간 연구도 동물·세포 수준이라, 사람에게 같은 효과가 있는지는 아직 확인되지 않았다."
   },
   "name": "오미자",
   "st": "ok",
@@ -157,5 +176,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1791925006218
+  "updatedAt": 1793307439832
 }

@@ -1,0 +1,134 @@
+{
+  "by": "auto",
+  "classic": {
+    "has": false
+  },
+  "faq": [
+    {
+      "a": "먹으면 안 된다. 떡잎 단계의 어린싹에 독성분이 가장 많고, 이를 나물처럼 먹은 집단 중독 사망 사례가 보고되어 있다.",
+      "q": "도꼬마리 어린싹을 나물로 먹어도 되나요?"
+    },
+    {
+      "a": "먹으면 안 된다. 씨에도 같은 독성분이 들어 있어, 한약재로 쓰이더라도 식품으로 먹을 수 없다.",
+      "q": "도꼬마리 열매(창이자)를 차로 끓여 먹어도 되나요?"
+    },
+    {
+      "a": "모양을 본다. 우엉 열매는 둥근 공 모양이고, 도꼬마리 열매는 길쭉한 타원형에 끝에 부리 두 개가 있다.",
+      "q": "옷에 붙은 가시 열매가 우엉인지 도꼬마리인지 어떻게 아나요?"
+    },
+    {
+      "a": "증상이 없어도 바로 병원에 가거나 119에 연락한다. 구토 뒤 갑자기 의식이 나빠질 수 있으므로 지켜보지 말고, 남은 식물을 가져간다.",
+      "q": "잘못 먹었을 때 어떻게 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Common cocklebur",
+    "family": "국화과",
+    "grade": "",
+    "habitat": "전국 낮은 지대의 길가, 빈터, 밭 주변처럼 흙이 파헤쳐진 양지에서 흔히 자라는 한해살이풀이다. 온대 지역에서는 봄(4~6월)에 씨에서 싹이 튼다.",
+    "look": {
+      "flower": "8~9월 가지 끝에 노란빛 작은 꽃이 모여 피며, 수꽃 머리는 위에, 암꽃 머리는 아래에 달린다.",
+      "fruit": "열매는 타원형으로 겉에 갈고리 가시가 빽빽해 옷이나 털에 잘 붙고, 끝에 굵은 부리 두 개가 있으며 안에 씨가 두 개 들어 있다.",
+      "leaf": "잎은 어긋나고 잎자루가 길며, 넓은 삼각형에 얕게 3~5갈래로 갈라지고 가장자리에 톱니가 있다. 큰 잎맥 3개가 뚜렷하고 양면이 거칠거칠하다.",
+      "stem": "줄기는 곧게 서서 1m 안팎까지 자라고 짧은 털이 있으며, 자주색 반점이 있는 경우가 많다. 어린싹은 길쭉한 떡잎 두 장과 붉은빛 밑줄기가 특징이다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Xanthium strumarium L.",
+    "season": {
+      "collect": [
+        4,
+        5,
+        6
+      ],
+      "flower": [
+        8,
+        9
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 도꼬마리",
+        "url": "https://encykorea.aks.ac.kr/Article/E0015532"
+      },
+      {
+        "title": "위키백과 - 도꼬마리",
+        "url": "https://ko.wikipedia.org/wiki/도꼬마리"
+      },
+      {
+        "title": "Fan et al. (2019) Xanthium strumarium L. 리뷰(Molecules, PMC)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6359306"
+      },
+      {
+        "title": "Purdue University - Toxic Plants: Cocklebur",
+        "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/cocklebur.html"
+      },
+      {
+        "title": "USDA Forest Service FEIS - Xanthium strumarium",
+        "url": "https://www.fs.usda.gov/database/feis/plants/forb/xanstr/all.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "위키백과 - 우엉",
+      "url": "https://ko.wikipedia.org/wiki/우엉"
+    },
+    {
+      "title": "한국민족문화대백과사전 - 도꼬마리",
+      "url": "https://encykorea.aks.ac.kr/Article/E0015532"
+    },
+    {
+      "title": "위키백과 - 도꼬마리",
+      "url": "https://ko.wikipedia.org/wiki/도꼬마리"
+    },
+    {
+      "title": "Purdue University - Toxic Plants: Cocklebur",
+      "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/cocklebur.html"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "둘 다 갈고리 가시가 있는 열매가 옷에 달라붙어 '가시 씨' 정도로 뭉뚱그려 알기 쉽다. 잎 뒷면과 열매 모양을 보면 구별된다.",
+      "name": "우엉",
+      "points": [
+        "우엉 잎은 큰 심장 모양이고 뒷면에 솜 같은 흰털이 빽빽하지만, 도꼬마리 잎은 넓은 삼각형이고 양면이 거칠며 흰 솜털이 없다.",
+        "우엉 열매는 갈고리 바늘이 달린 둥근 공 모양이고, 도꼬마리 열매는 길쭉한 타원형에 끝에 부리 두 개가 있다.",
+        "우엉은 7월에 검붉은 자줏빛 꽃이 피고, 도꼬마리는 8~9월에 눈에 잘 띄지 않는 노란빛 작은 꽃이 핀다."
+      ]
+    }
+  ],
+  "name": "도꼬마리",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "우엉",
+    "sources": [
+      {
+        "title": "Gurley et al. (2010) Fatal Outbreak from Consuming Xanthium strumarium Seedlings, Bangladesh (PMC)",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2841199/"
+      },
+      {
+        "title": "Purdue University - Toxic Plants: Cocklebur",
+        "url": "https://ag.purdue.edu/department/arge/PACs/sipac/toxic-plants/cocklebur.html"
+      },
+      {
+        "title": "Cornell University Poisonous Plants - Carboxyatractyloside",
+        "url": "https://www.poisonousplants.ansci.cornell.edu/toxicagents/carglyco.html"
+      },
+      {
+        "title": "USDA Forest Service FEIS - Xanthium strumarium",
+        "url": "https://www.fs.usda.gov/database/feis/plants/forb/xanstr/all.html"
+      },
+      {
+        "title": "주간경향 - 등산 중에 붙어 딸려오는 약재 씨앗들(2019)",
+        "url": "https://weekly.khan.co.kr/article/201911251401021"
+      }
+    ],
+    "text": "도꼬마리는 씨와, 싹이 막 튼 떡잎 단계의 어린싹에 카복시아트락틸로사이드라는 독성분이 많다. 이 성분은 세포의 에너지 생산을 막아 저혈당과 간 손상을 일으키며, 먹으면 구토, 복통, 졸림, 호흡곤란, 경련, 의식 저하가 나타나고 심하면 숨질 수 있다. 2007년 방글라데시에서 식량이 부족할 때 도꼬마리 어린싹을 나물처럼 먹은 주민 76명이 중독되어 19명이 숨졌는데, 모두 구토를 했고 간 수치가 크게 올랐다. 열매를 창이자라는 한약재로 쓰지만 독성이 있어 식품으로 먹을 수 없다. 잘못 먹었다면 바로 병원에 가거나 119에 연락하고, 남은 식물을 가져간다."
+  },
+  "updatedAt": 1793134791420
+}

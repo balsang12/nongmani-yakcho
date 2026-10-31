@@ -137,6 +137,14 @@
         "year": "2025"
       },
       {
+        "journal": "Journal of Clinical Medicine",
+        "note": "쑥속(Artemisia)과 샐비어속 식물의 임상시험을 정리한 리뷰로, 쑥 한 종만이 아니라 속 전체를 다루며 통계적으로 뚜렷한 근거가 아직 부족하다고 평가했다.",
+        "title": "Exploring the Therapeutic Potential of Artemisia and Salvia Genera in Cancer, Diabetes, and Cardiovascular Diseases: A Short Review of Clinical Evidence",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/jcm14031028",
+        "year": "2025"
+      },
+      {
         "journal": "Current Topics in Medicinal Chemistry",
         "note": "쑥속 식물들의 전통적 쓰임, 성분, 약리 작용과 독성 연구를 모아 정리했다.",
         "title": "Traditional uses, Phytochemistry, Pharmacology, and Toxicology of the Genus Artemisia L. (Asteraceae): A High-value Medicinal Plant",
@@ -145,7 +153,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 연구는 쑥속(Artemisia) 식물 전체의 성분·약리·독성을 정리한 리뷰와, 참쑥(A. princeps)의 영양 성분·항산화 활성 분석, 인도쑥(A. indica) 물 추출물이 혈당·콜레스테롤 이상 생쥐에 미치는 영향을 본 동물 실험이 중심이다. 쑥 추출물의 사람 대상 시험은 2023년 이전에 소규모로 보고된 바 있으나 최근 3년 안에서는 확인하지 못했고, 최근 근거는 대부분 실험실·동물 연구 수준이다."
+    "summary": "최근 3년 연구는 쑥속(Artemisia) 식물 전체의 성분·약리·독성을 정리한 리뷰와, 참쑥(A. princeps)의 영양 성분·항산화 활성 분석, 인도쑥(A. indica) 물 추출물이 혈당·콜레스테롤 이상 생쥐에 미치는 영향을 본 동물 실험이 중심이다. 쑥 추출물의 사람 대상 시험은 2023년 이전에 소규모로 보고된 바 있으나 최근 3년 안에서는 확인하지 못했고, 최근 근거는 대부분 실험실·동물 연구 수준이다. 2025년 쑥속 임상 리뷰는 사람 대상 시험이 있긴 하지만 통계적으로 의미 있는 근거가 제한적이라고 정리했다."
   },
   "name": "쑥",
   "st": "caution",
@@ -158,5 +166,5 @@
     ],
     "text": "한국민족문화대백과사전은 쑥을 한방에서 성질이 따뜻한 약재로 써 왔고, 말린 쑥은 뜸과 부싯깃으로 썼으며, 어린잎은 국과 떡에 넣어 먹어 왔다고 소개한다. 단오에 쑥으로 호랑이 모양을 만들어 나눠 주던 풍속과, 쑥잎을 짓이겨 멥쌀가루에 넣어 녹색 절편을 만들던 음식 문화도 함께 전한다."
   },
-  "updatedAt": 1792054918930
+  "updatedAt": 1793479770596
 }

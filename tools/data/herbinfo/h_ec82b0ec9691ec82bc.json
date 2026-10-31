@@ -47,6 +47,7 @@
     "eat": "씻어서 생으로 씹어 먹거나 차, 꿀절임으로 먹는다. 환·농축액·젤리 같은 가공품으로도 나온다.",
     "eng": "Wild-simulated ginseng",
     "family": "두릅나무과",
+    "grade": "좋은 삼은 나이(연근)가 가장 중요하며, 뇌두·가락지(가로 주름)·잔뿌리로 나이를 짐작하지만 뇌두는 사라지기도 해 정확한 판별은 어렵다. 한국임업진흥원은 뇌두가 촘촘하고 주름이 선명하며 몸통이 역삼각형에 가깝고, 황금빛 잔뿌리가 잘 발달해 단단하고 질긴 것을 좋은 삼으로 소개한다. 산양삼은 산지에서 농약 없이 보통 10년 안팎 기르며, 한국임업진흥원 품질검사 합격증이 붙은 것을 산다.",
     "habitat": "산림청 정의상 산양삼은 「산지관리법」의 산지에서 차광막 같은 인공시설 없이, 씨를 뿌리거나 산지에서 기른 묘를 옮겨 심어 농약·화학비료 없이 기른 인삼속 식물이며, 「임업 및 산촌 진흥촉진에 관한 법률」의 특별관리임산물로서 품질검사에 합격한 것만 산양삼으로 판매할 수 있다. 재배 적지는 여름 기온이 25℃ 이하로 서늘하고 바람이 잘 통하는 산록·계곡 경사지(경사 약 15~30°, 북·북동·북서·동향)로, 낙엽이 쌓인 부식질 토양(pH 5.5 안팎)에 나무 그늘이 80~90% 정도 드리운 혼효림이 좋다고 한다. 생산하려면 토양·종자 잔류농약을 보는 생산적합성조사를 거쳐 시·군·구에 생산신고를 해야 하고, 이식용 묘는 산지 임간 파종상이나 재배지의 1~3년근만 쓸 수 있으며 논밭에서 기른 묘는 쓸 수 없다.",
     "look": {
       "flower": "5~6월에 줄기 끝 꽃대에 연한 녹색의 작은 꽃이 모여 핀다. 씨로 기른 산양삼은 보통 5~6년이 지나야 꽃이 핀다.",
@@ -97,6 +98,10 @@
       {
         "title": "김기윤 외, 적변에 따른 연근별 산양삼 생육특성과 진세노사이드 함량, 한국자원식물학회지 34(5), 2021 (국립산림과학원)",
         "url": "https://koreascience.or.kr/article/JAKO202132060940716.pdf"
+      },
+      {
+        "title": "한국임업진흥원 - 산양삼 바로알기",
+        "url": "https://www.kofpi.or.kr/info/imupStory/forestStory_03_02.do"
       }
     ],
     "store": "산림청 자료에 따르면 캔 뿌리는 젖은 이끼(수태)로 싸서 약 5℃에서 한 달가량 둘 수 있고, 더 오래 둘 때는 단열 상자에 젖은 이끼를 위아래로 깔아 1℃ 안팎의 저온에 보관한다. 가정에서는 마르지 않게 싸서 냉장한다.",
@@ -160,6 +165,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Agriculture",
+        "note": "가공 황토와 왕겨를 함께 넣은 구역에서 산양삼의 발아율과 생육이 좋아졌고, 성분 함량 변화는 재배 연수에 따라 달랐다는 재배 시험이다.",
+        "title": "Growth and Phytochemical Production of Wild-Simulated Ginseng in Response to Processed Red Clay and Rice Husk",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/agriculture16030352",
+        "year": "2026"
+      },
+      {
         "journal": "Frontiers in Microbiology",
         "note": "산양삼 뿌리 주변에서 분리한 세균을 재배지에 처리해 초기 생장과 토양 미생물에 미치는 영향을 살폈다.",
         "title": "Isolation of plant growth-promoting rhizobacteria from wild-simulated ginseng and evaluation of soil health following its application in the field",
@@ -184,12 +197,12 @@
         "year": "2025"
       },
       {
-        "journal": "Applied Biological Chemistry",
-        "note": "4년생 산양삼을 달마다 캐서 생육과 부위별 진세노사이드 함량이 수확 시기에 따라 어떻게 달라지는지 살폈다.",
-        "title": "Changes in growth characteristics and ginsenoside contents of wild-simulated ginseng with different harvest times in South Korea",
+        "journal": "Applied Sciences",
+        "note": "경북 영주의 7년생과 13년생 산양삼을 비교해 13년생의 뇌두(근경)가 더 길었고 생육이 토양 세균 구성과 관련됐다고 보고했다.",
+        "title": "Correlation Analysis Between the Growth of Wild-Simulated Ginseng and the Soil Bacterial Community in the Central Region of South Korea",
         "type": "기타",
-        "url": "https://doi.org/10.1186/s13765-024-00920-8",
-        "year": "2024"
+        "url": "https://doi.org/10.3390/app15073465",
+        "year": "2025"
       }
     ],
     "summary": "최근 산양삼 연구는 재배림 종류(침엽수림·혼효림), 수확 시기, 수확 후 처리, 뿌리 주변 미생물 등 재배·품질 관리와 진세노사이드 함량 분석이 중심이다. 이번에 확인한 2023~2026년 논문은 모두 재배·성분 분석 연구이며, 산양삼을 사람에게 먹여 효과를 본 연구는 찾지 못했다(검색 도구 제한으로 목록이 완전하지 않을 수 있다)."
@@ -209,5 +222,5 @@
     ],
     "text": "한국민족문화대백과사전에 따르면 자연에서 자란 야생 인삼을 산삼이라 부르고, 고려 고종 때(1214~1260) 인삼을 사람이 재배했다는 기록이 전한다. 산에 씨를 뿌려 기른 삼을 산양삼이라 부르며, 흔히 쓰이는 '장뇌삼'은 뇌두가 긴 모양을 가리키는 말이라는 설명이 있다."
   },
-  "updatedAt": 1791862329067
+  "updatedAt": 1793264491890
 }

@@ -19,6 +19,10 @@
     {
       "a": "먹지 말고 되팔지도 마세요. 식품안전나라 '해외직구 위해식품 차단목록'에서 제품명을 검색해 볼 수 있습니다. 이미 먹고 피로·황달·짙은 소변 같은 증상이 있으면 병원에서 간 검사를 받으세요.",
       "q": "해외직구로 샀는데 어떻게 하나요?"
+    },
+    {
+      "a": "알기 어렵습니다. 국제암연구소(IARC) 자료에 따르면 피지에서 팔린 카바 뿌리 가루의 유효 성분이 기대치의 71~78%에 그쳤고, 톱밥·밀가루·흙이나 비슷하게 생긴 '가짜 카바' 식물이 섞인 사례가 보고됐습니다. 진짜든 가짜든 국내에서는 식품으로 팔 수 없습니다.",
+      "q": "카바 원료가 진짜인지 겉보기로 알 수 있나요?"
     }
   ],
   "id": {
@@ -62,9 +66,43 @@
     {
       "title": "Wikipedia — Kava (Piper methysticum)",
       "url": "https://en.wikipedia.org/wiki/Kava"
+    },
+    {
+      "title": "IARC Monographs Vol.108 Some Drugs and Herbal Products (2016) — Kava",
+      "url": "https://publications.iarc.who.int/_publications/media/download/6705/fe60af031d05553c0b0f2afa0069d85c6e4400dd.pdf"
+    },
+    {
+      "title": "Pacific Pests, Pathogens, Weeds & Pesticides — Spiked pepper (Piper aduncum)",
+      "url": "https://apps.lucidcentral.org/pppw_v13/text/web_full/entities/spiked_pepper_493.htm"
+    },
+    {
+      "title": "Wikipedia — Piper auritum",
+      "url": "https://en.wikipedia.org/wiki/Acuyo"
     }
   ],
-  "lookalikes": [],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "멕시코·중미 원산의 후추속 식물(Piper auritum)로 '가짜 카바'라고도 불리며, 카바와 비슷해 보여 대신 섞여 팔린 적이 있다. 잎 기름의 약 70%가 간에 해로운 사프롤이다.",
+      "name": "호하산타",
+      "points": [
+        "진짜 카바 뿌리줄기에는 레몬빛 수지 속 카바락톤이 있어 특유의 냄새가 나지만, 가짜 카바에는 카바락톤도 그 냄새도 없다.",
+        "호하산타 잎은 심장 모양에 벨벳처럼 보드라운 털이 있고 30cm 넘게 커지며, 식물 전체에서 사사프라스 같은 향이 난다.",
+        "카바 잎은 끝이 뾰족한 심장 모양으로 길이 8~25cm이고 양면이 모두 초록색이다."
+      ]
+    },
+    {
+      "danger": "주의",
+      "how": "열대 아메리카 원산의 후추속 관목(Piper aduncum)으로 태평양 섬에 퍼진 침입종이다. 피지에서 '가짜 카바'로 불리며, 수확 때 진짜 카바에 섞여 들어가 품질과 값을 떨어뜨린다.",
+      "name": "스파이크드페퍼",
+      "points": [
+        "스파이크드페퍼 잎은 어긋나게 달리고 길이 12~22cm, 폭 4~8cm의 길쭉한 타원형이며 뒷면에 보드라운 털이 있다.",
+        "카바 잎은 폭이 넓은 심장 모양이고 양면이 초록색이다.",
+        "스파이크드페퍼는 줄기 마디가 부풀고 버팀뿌리가 생기며 8m까지 자라는 관목·작은 나무다.",
+        "카바락톤이 없어 진짜 카바 특유의 냄새가 나지 않는다."
+      ]
+    }
+  ],
   "modern": {
     "papers": [
       {
@@ -81,7 +119,7 @@
   "name": "카바",
   "st": "ban",
   "toxic": {
-    "lookalike": "",
+    "lookalike": "호하산타, 스파이크드페퍼(가짜 카바) — 국내 산나물과 오인될 일은 거의 없는 외국 식물",
     "sources": [
       {
         "title": "식품안전나라, 인터넷 구매대행 수입식품 반입 불가 원료 목록(2020.7.23 기준, PDF)",
@@ -102,5 +140,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524927
+  "updatedAt": 1793220935740
 }

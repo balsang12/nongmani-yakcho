@@ -1,0 +1,131 @@
+{
+  "by": "auto",
+  "faq": [
+    {
+      "a": "먹으면 입안이 바로 화끈거리고 붓습니다. 열매와 알줄기에 바늘 모양 결정이 있어 점막을 찌르기 때문이며, 아이들이 옥수수로 알고 먹는 사고가 있으니 주의하세요.",
+      "q": "천남성 열매를 만지거나 먹으면 어떻게 되나요?"
+    },
+    {
+      "a": "아니요. 독성이 강한 독초라 이 마켓에서 판매 불가 품목입니다. 한약재 '천남성'은 가공을 거쳐 한의사 처방으로만 씁니다.",
+      "q": "천남성을 산나물이나 약초로 팔 수 있나요?"
+    },
+    {
+      "a": "원형일 때는 크기와 모양으로 구별합니다. 반하는 지름 1~1.5cm 공 모양으로 작고 천남성은 납작하고 큽니다. 썬 것은 구별이 어려우니 출처가 분명한 한약재만 쓰세요.",
+      "q": "반하와 천남성이 섞였는지 어떻게 아나요?"
+    },
+    {
+      "a": "잎이 올라오는 봄(4~5월)과 빨간 열매가 달리는 가을(9~10월)입니다. 습한 숲 그늘에 많습니다.",
+      "q": "산에서 천남성을 언제 조심해야 하나요?"
+    }
+  ],
+  "id": {
+    "eat": "",
+    "eng": "Amur jack-in-the-pulpit (약재명 Arisaematis Rhizoma)",
+    "family": "천남성과(Araceae)",
+    "grade": "",
+    "habitat": "전국 산지의 그늘지고 습한 숲 바닥에 자라는 여러해살이풀이다.",
+    "look": {
+      "flower": "5~6월에 꽃대 끝이 녹색(때로 자주색) 깔때기 모양의 불염포에 싸여 핀다. 불염포 위쪽이 모자처럼 앞으로 굽는다.",
+      "fruit": "가을(9~10월)에 옥수수 알처럼 촘촘히 모인 열매가 빨갛게 익어 눈에 잘 띈다.",
+      "leaf": "잎은 보통 1장(때로 2장)이며 새 발가락처럼 작은잎 5장 안팎으로 갈라진다. 천남성은 작은잎이 달걀꼴~긴 타원형이고 가장자리에 톱니가 있으며, 둥근잎천남성은 거꿀달걀꼴에 톱니가 없다.",
+      "root": "땅속에 납작한 공 모양의 알줄기(덩이줄기)가 있고 위쪽에 수염뿌리가 난다. 말린 것은 지름 1.5~4cm 정도다.",
+      "stem": "땅 위에 서는 줄기는 잎집이 겹친 헛줄기로, 키는 15~60cm 정도다."
+    },
+    "parts": "",
+    "prep": "",
+    "sci": "Arisaema amurense f. serratum (Nakai) Kitag. (= A. amurense var. serratum Nakai; 잎 가장자리가 밋밋한 것은 둥근잎천남성 A. amurense Maxim.)",
+    "season": {
+      "collect": [
+        4,
+        5,
+        9,
+        10
+      ],
+      "flower": [
+        5,
+        6
+      ]
+    },
+    "sources": [
+      {
+        "title": "한국민족문화대백과사전 - 천남성(天南星)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055805"
+      },
+      {
+        "title": "강준혁 외(2003) 천남성 2종의 기원식물과 약재 외부·내부 형태 기준, 대한본초학회지(Herbal Formula Science) 11(2)",
+        "url": "https://koreascience.or.kr/article/JAKO200304637269351.page"
+      },
+      {
+        "title": "Qi C 외(2021) Botanical, Traditional Use, Phytochemical, and Toxicological of Arisaematis rhizoma, Evid Based Complement Alternat Med",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8651355"
+      },
+      {
+        "title": "일본 후생노동성 자연독 리스크 프로파일 - 천남성류(テンナンショウ類) 상세판",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077665.html"
+      }
+    ],
+    "store": "",
+    "taste": ""
+  },
+  "lookSources": [
+    {
+      "title": "일본 후생노동성 자연독 리스크 프로파일 - 천남성류(テンナンショウ類) 상세판",
+      "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077665.html"
+    },
+    {
+      "title": "최영성 외(2007) 반하, 수반하 및 천남성의 형태 감별에 관한 연구, 대한본초학회지 22(2)",
+      "url": "https://www.koreascience.or.kr/article/JAKO200736038278244.page?lang=ko"
+    },
+    {
+      "title": "연합뉴스(2016.3.26) 봄철 산나물 잘 골라 드세요 - 산림청 국립수목원",
+      "url": "https://v.daum.net/v/20160326070804583?f=p"
+    }
+  ],
+  "lookalikes": [
+    {
+      "danger": "주의",
+      "how": "같은 천남성과로 덩이줄기 생김새와 속 조직이 비슷해 약재 상태에서 섞이기 쉽다. 반하도 날것은 독성이 있어 한약재로만 쓴다.",
+      "name": "반하",
+      "points": [
+        "반하 덩이줄기는 거의 공 모양에 지름 1~1.5cm로 작고, 천남성은 납작한 원형으로 더 크다.",
+        "반하는 위쪽 가운데가 오목하고 둘레에 곰보 같은 뿌리 자국이 있다. 천남성은 위쪽에 곁눈 자국과 뿌리 자국이 있다.",
+        "썰거나 가루 낸 것은 눈으로 구별하기 어려우므로 원형이 남아 있고 출처가 분명한 한약재만 쓴다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "빨갛게 익기 전의 천남성 열매송이가 작은 옥수수처럼 보여 아이들이 먹는 사고가 일본에서 여러 번 보고됐다.",
+      "name": "옥수수",
+      "points": [
+        "천남성 열매는 숲속 그늘의 풀 한 포기 끝에 한 송이씩 달리고, 익으면 선명한 빨간색이 된다.",
+        "산에서 '옥수수 같은 열매'를 보면 따거나 입에 넣지 않도록 아이들에게 알려 준다.",
+        "입에 넣었다가 곧바로 입안이 화끈거리고 부으면 천남성류를 의심한다."
+      ]
+    }
+  ],
+  "name": "천남성",
+  "st": "ban",
+  "toxic": {
+    "lookalike": "반하(약재), 덜 익은 열매를 옥수수로 착각",
+    "sources": [
+      {
+        "title": "일본 후생노동성 자연독 리스크 프로파일 - 천남성류(テンナンショウ類) 상세판",
+        "url": "https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000077665.html"
+      },
+      {
+        "title": "Qi C 외(2021) Botanical, Traditional Use, Phytochemical, and Toxicological of Arisaematis rhizoma, Evid Based Complement Alternat Med",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8651355"
+      },
+      {
+        "title": "홍민기 외(2003) 천남성 음독에 의한 구강과 인두의 충혈·통증·부종 1례, 대한임상독성학회지 1(1)",
+        "url": "https://koreascience.or.kr/article/JAKO200314222997724.page"
+      },
+      {
+        "title": "한국민족문화대백과사전 - 천남성(天南星)",
+        "url": "https://encykorea.aks.ac.kr/Article/E0055805"
+      }
+    ],
+    "text": "알줄기(덩이줄기)를 비롯해 식물 전체, 특히 열매와 알줄기에 바늘 모양의 옥살산칼슘 결정과 렉틴 같은 자극 성분이 들어 있다. 날것을 씹으면 30분 안에 입술·입안·목이 화끈거리고 저리며 붓고, 심하면 목이 부어 숨쉬기 어려워질 수 있다. 국내에서도 천남성을 먹고 입안과 인두가 충혈·부종된 환자가 보고됐다. 한방에서는 백반·생강 등으로 가공해 독성을 줄인 뒤 전문가 처방으로만 쓴다. 먹었다면 입을 헹구고 바로 응급실로 가며 남은 식물을 가져간다."
+  },
+  "updatedAt": 1793091939633
+}

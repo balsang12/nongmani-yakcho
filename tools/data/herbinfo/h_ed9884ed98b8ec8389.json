@@ -172,6 +172,24 @@
   },
   "name": "현호색",
   "st": "ban",
+  "toxic": {
+    "lookalike": "산괴불주머니",
+    "sources": [
+      {
+        "title": "CDC MMWR 42(47) - Jin Bu Huan Toxicity in Adults, Los Angeles, 1993",
+        "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/00022295.htm"
+      },
+      {
+        "title": "생약학회지 39(4) - 현호색의 품질 표준화 연구 (2008)",
+        "url": "https://koreascience.kr/article/JAKO200804748558570.pdf"
+      },
+      {
+        "title": "Clinical and Molecular Hepatology 15(4) - A case of acute cholestatic hepatitis induced by Corydalis speciosa Max. (2009)",
+        "url": "https://e-cmh.org/journal/view.php?number=913"
+      }
+    ],
+    "text": "현호색 무리의 덩이줄기에는 테트라하이드로팔마틴(THP)·코리달린 같은 이소퀴놀린 알칼로이드가 들어 있다. 미국 질병통제예방센터(CDC) 보고에 따르면 THP가 주성분인 생약 제품을 먹은 성인에게 급성 간염이 생겼고, 이 제품을 실수로 많이 삼킨 어린이들은 의식 저하·호흡 억제와 함께 맥박이 위험하게 느려졌다. 같은 현호색속인 산괴불주머니를 반복해 먹고 급성 담즙정체성 간염이 생긴 국내 사례도 보고되었다. 한약재로 쓰이지만 식품원료로 쓸 수 없으므로 나물·차·술로 먹지 않으며, 임신 중에는 특히 피한다. 잘못 먹었다면 병원에 가거나 119에 연락하고 남은 식물을 가져간다."
+  },
   "traditional": {
     "sources": [
       {
@@ -189,5 +207,5 @@
     ],
     "text": "현호색 덩이줄기는 통증을 가라앉히는 약재로 한방에서 널리 쓰여 왔고, 국산 소화제 활명수에도 다른 생약과 함께 들어간다. 한의학에서는 어혈을 푸는 처방에 들어가는 약재로 보아 임산부에게는 쓰지 않고, 몸이 허약한 사람에게도 주의해서 쓴다."
   },
-  "updatedAt": 1792919652818
+  "updatedAt": 1793134791420
 }
