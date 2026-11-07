@@ -1,18 +1,26 @@
 {
   "by": "auto",
   "classic": {
-    "book": "",
-    "bu": "",
-    "easy": [],
-    "han": "",
-    "has": false,
-    "ki": "",
-    "kiKo": "",
+    "book": "본초강목",
+    "bu": "과일(果部) 오과류(五果類)",
+    "easy": [
+      "이시진은 흰 매화꽃을 쓴 옛 처방은 보지 못했다고 적었다.",
+      "당시에는 반쯤 핀 꽃의 입구를 밀랍으로 봉해 꿀단지에 넣었다가, 철이 지난 뒤 한두 송이를 꿀 한 숟갈과 함께 끓는 물에 타 마시는 매화탕이 있다고 소개했다."
+    ],
+    "han": "白梅花",
+    "has": true,
+    "ki": "微酸，澀，無毒。",
+    "kiKo": "맛이 약간 시고 떫으며 독이 없다.",
     "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
-    "warn": ""
+    "orig": "【氣味】微酸，澀，無毒。【發明】時珍曰︰白梅花古方未見用者。近時有梅花湯︰用半開花，溶蠟封花口，投蜜罐中，過時以一兩朵同蜜一匙點沸湯服。",
+    "sources": [
+      {
+        "title": "本草綱目/果之一 (維基文庫)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%B8%80"
+      }
+    ],
+    "verified": true,
+    "warn": "약재로 주로 쓰인 것은 꽃이 아니라 열매다. 옛 기록의 쓰임은 오늘날 효능이나 먹는 법의 근거가 아니다."
   },
   "faq": [
     {
@@ -148,6 +156,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Cosmetics",
+        "note": "매화 꽃봉오리에서 플라보노이드 분획을 얻어 자외선을 쬔 사람 피부 세포의 산화 지표 변화를 살폈다.",
+        "title": "Purification and Identification of Flavonoids from Prunus mume and Its Anti-Photoaging Activities on UVB-Induced Human Keratinocytes",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/cosmetics12010019",
+        "year": "2025"
+      },
+      {
         "journal": "Ornamental Plant Research",
         "note": "매화 유전체 연구 현황을 정리하고 꽃 색·향과 관련된 유전자 연구를 소개했다.",
         "title": "Prunus mume genome research: current status and prospects",
@@ -180,7 +196,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 사이 매화(Prunus mume 꽃) 연구는 꽃 색과 향이 어떻게 만들어지는지를 밝히는 유전체·대사체 연구가 대부분이다. 매화 꽃을 먹거나 마셨을 때의 건강 영향을 사람에게서 확인한 연구는 찾지 못했다."
+    "summary": "최근 3년 사이 매화(Prunus mume 꽃) 연구는 꽃 색과 향이 어떻게 만들어지는지를 밝히는 유전체·대사체 연구가 대부분이고, 꽃봉오리 성분을 피부 세포에 처리한 화장품 분야 세포 실험이 있다. 매화 꽃을 먹거나 마셨을 때의 건강 영향을 사람에게서 확인한 연구는 찾지 못했다."
   },
   "name": "매화",
   "st": "ok",
@@ -193,5 +209,5 @@
     ],
     "text": "한국민족문화대백과사전에 따르면 『임원경제지』에 매화 꽃잎을 넣어 끓이는 죽이 소개되어 있고, 강희안의 『양화소록』은 매화를 소나무·대나무·연꽃과 함께 으뜸 등급의 꽃나무로 꼽았다. 약재로는 꽃보다 열매를 주로 써서, 덜 익은 매실을 소금에 절여 말린 백매와 연기에 그을려 말린 오매를 썼다."
   },
-  "updatedAt": 1792443723000
+  "updatedAt": 1793955353150
 }

@@ -74,6 +74,10 @@
       {
         "title": "문화일보(2018.4.4), 정재덕의 사계절 건강밥상: 돼지감자 장아찌",
         "url": "https://www.munhwa.com/article/11078897"
+      },
+      {
+        "title": "오양열 외, 새만금간척지에서 뚱딴지 재배시 염류 특성 변화 및 적정 자원 선발, 한국환경농학회지 37(2), 2018",
+        "url": "https://koreascience.kr/article/JAKO201822542574763.pdf"
       }
     ],
     "store": "",
@@ -130,6 +134,14 @@
         "year": "2026"
       },
       {
+        "journal": "Phytomedicine",
+        "note": "돼지감자 이눌린의 추출, 구조, 체내 동태와 식품·의약 분야 활용을 정리했다.",
+        "title": "Deciphering inulin from Jerusalem artichoke: Extraction, structural characteristics, bioactivities, structure-activity relationship, modifications, pharmacokinetics and applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.phymed.2025.157219",
+        "year": "2025"
+      },
+      {
         "journal": "Fitoterapia",
         "note": "돼지감자를 포함한 해바라기속 식물이 고혈당에 미치는 영향을 다룬 연구들을 모아 분석한 체계적 문헌고찰·메타분석이다.",
         "title": "The role of the Helianthus genus in Hyperglycemia: A systematic review with meta-analysis",
@@ -146,7 +158,7 @@
         "year": "2024"
       }
     ],
-    "summary": "2024~2026년 리뷰들은 돼지감자의 이눌린 등 성분과 혈당 관련 작용을 다루지만, 근거가 주로 세포·동물 실험이고 사람 대상 근거는 제한적이라고 정리했다. 2025년에는 해바라기속 식물의 고혈당 관련 연구를 모은 체계적 문헌고찰·메타분석도 나왔다. 이번 검색에서 2023년 이후의 사람 대상 무작위 시험은 확인하지 못했다."
+    "summary": "2024~2026년 리뷰들은 돼지감자의 이눌린 등 성분과 혈당·장내 미생물 관련 작용을 다루지만, 근거가 주로 세포·동물 실험이고 사람 대상 근거는 제한적이라고 정리했다. 2025년에는 해바라기속 식물의 고혈당 관련 연구를 모은 체계적 문헌고찰·메타분석도 나왔다. 이번 검색에서 2023년 이후의 사람 대상 무작위 시험은 확인하지 못했다."
   },
   "name": "돼지감자",
   "st": "ok",
@@ -167,5 +179,5 @@
     ],
     "text": "돼지감자는 북아메리카 원산으로 1911년 이전(19세기 말~20세기 초)에 우리나라에 들어온 작물이어서 동의보감 등 옛 의서에는 나오지 않는다. 관상과 식용을 위해 들여와 재배해 왔고, 덩이줄기를 먹거나 가축 사료와 알코올 원료로도 썼다."
   },
-  "updatedAt": 1792228597022
+  "updatedAt": 1793653020182
 }

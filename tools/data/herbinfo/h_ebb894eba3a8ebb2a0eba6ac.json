@@ -79,6 +79,14 @@
     {
       "title": "NC State Extension — Vaccinium oldhamii",
       "url": "https://plants.ces.ncsu.edu/plants/vaccinium-oldhamii/common-name/japanese-blueberries/"
+    },
+    {
+      "title": "NC State Extension - Vaccinium corymbosum",
+      "url": "https://plants.ces.ncsu.edu/plants/vaccinium-corymbosum/"
+    },
+    {
+      "title": "University of Maine Extension - Plant Description and Habitat of Aronia",
+      "url": "https://extension.umaine.edu/agriculture/?p=550"
     }
   ],
   "lookalikes": [
@@ -101,10 +109,36 @@
         "정금나무 열매는 블루베리보다 작고 더 검다.",
         "정금나무는 산에서 저절로 자라고, 블루베리는 대부분 밭에서 키운다."
       ]
+    },
+    {
+      "danger": "무해",
+      "how": "장미과 작물로 열매 크기와 색이 비슷해 냉동·건조품에서 헷갈릴 수 있다. 사전에 '아로니아'로 실려 있다.",
+      "name": "아로니아",
+      "points": [
+        "블루베리 열매는 파란빛~보랏빛이고 겉에 하얀 과분이 있다. 아로니아는 윤기 나는 검은 자줏빛이다.",
+        "블루베리는 생으로 먹어도 달지만, 아로니아는 떫은맛이 아주 강하다.",
+        "블루베리 꽃은 종·항아리 모양이고, 아로니아 꽃은 꽃잎 5장이 활짝 벌어진다."
+      ]
     }
   ],
   "modern": {
     "papers": [
+      {
+        "journal": "Frontiers in Physiology 15",
+        "note": "무작위 시험을 모아 혈관 내피 기능 지표를 분석했다. 대부분 소규모이고 연구 간 차이가 커서 출판 편향 가능성도 있다고 했다.",
+        "title": "Effect of blueberry intervention on endothelial function: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2024.1368892/abstract",
+        "year": "2024"
+      },
+      {
+        "journal": "Frontiers in Nutrition 11",
+        "note": "전문가 회의를 정리한 의견 논문으로, 근거 다수가 관찰 연구라고 했다. 미국 블루베리 업계 단체가 회의를 지원했다는 점을 감안해야 한다.",
+        "title": "The state of the science on the health benefits of blueberries: a perspective",
+        "type": "기타",
+        "url": "https://frontiersin.org/articles/10.3389/fnut.2024.1415737/full",
+        "year": "2024"
+      },
       {
         "journal": "Advances in Nutrition 11(2)",
         "note": "블루베리·안토시아닌에 관한 관찰 연구와 사람 시험을 정리한 리뷰로, 추가 임상 연구가 필요하다고 밝혔다.",
@@ -114,7 +148,7 @@
         "year": "2020"
       }
     ],
-    "summary": "블루베리와 색소 안토시아닌에 관해서는 관찰 연구와 소규모 사람 시험이 꽤 쌓였다. 2020년 리뷰는 긍정적인 결과가 늘고 있지만 사람 대상 임상 연구가 더 필요하다고 정리했다. 블루베리 생과는 식약처가 인정한 건강기능식품 원료가 아니다."
+    "summary": "2024년 메타분석은 혈관 내피 기능 지표의 변화를 보고했지만 대부분 소규모 연구이고, 같은 해 전문가 의견 논문(업계 단체 지원)도 장기 임상이 더 필요하다고 했다. 블루베리와 색소 안토시아닌에 관해서는 관찰 연구와 소규모 사람 시험이 꽤 쌓였다. 2020년 리뷰는 긍정적인 결과가 늘고 있지만 사람 대상 임상 연구가 더 필요하다고 정리했다. 블루베리 생과는 식약처가 인정한 건강기능식품 원료가 아니다."
   },
   "name": "블루베리",
   "st": "ok",
@@ -122,5 +156,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524922
+  "updatedAt": 1793696033001
 }

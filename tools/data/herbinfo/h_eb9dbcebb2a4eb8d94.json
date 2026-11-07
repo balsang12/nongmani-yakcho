@@ -125,6 +125,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Neuropsychopharmacology",
+        "note": "우울증 환자 498명을 실렉산, 설트랄린, 위약으로 나눈 시험을 항목별로 다시 살핀 탐색 분석이다.",
+        "title": "Effects of lavender oil preparation silexan on different symptoms of major depression – results from a randomized, controlled trial",
+        "type": "사람 대상",
+        "url": "https://doi.org/10.1093/ijnp/pyag041",
+        "year": "2026"
+      },
+      {
+        "journal": "European Archives of Psychiatry and Clinical Neuroscience",
+        "note": "라벤더 정유 캡슐의 작용과 임상시험 결과를 정리했고, 트림과 가벼운 위장 증상이 이상반응으로 보고되었다.",
+        "title": "Silexan in anxiety, depression, and related disorders: pharmacological background and clinical data",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s00406-024-01923-8",
+        "year": "2024"
+      },
+      {
+        "journal": "European Archives of Psychiatry and Clinical Neuroscience",
+        "note": "위약 대조 무작위 시험 5편을 합쳐 불안 점수 변화를 분석했다.",
+        "title": "Efficacy of Silexan in patients with anxiety disorders: a meta-analysis of randomized, placebo-controlled trials",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s00406-022-01547-w",
+        "year": "2023"
+      },
+      {
         "journal": "Phytomedicine 65",
         "note": "라벤더 경구 제제·흡입·마사지 연구 90편을 모아 분석했다. 대부분 연구의 질이 낮아 더 좋은 연구가 필요하다고 밝혔다.",
         "title": "Effects of lavender on anxiety: A systematic review and meta-analysis",
@@ -133,13 +157,18 @@
         "year": "2019"
       }
     ],
-    "summary": "사람 대상 연구는 주로 라벤더 정유를 캡슐로 먹거나(실렉산 80mg/일) 향을 맡는 방식으로 불안 점수를 본 것이다. 2019년 메타분석은 연구 수는 많지만 대부분 편향 위험이 높다고 평가했다. 꽃차를 마셔서 확인한 근거는 아니다. 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "사람 대상 근거는 대부분 표준화한 라벤더 정유 캡슐(실렉산)에서 나왔다. 2023년 메타분석은 무작위 시험 5편에서 불안 점수가 위약보다 낮았다고 보고했고, 2026년 시험은 우울증 환자의 증상별 탐색 분석이다. 2024년 리뷰 저자들은 제조사와 이해관계가 있어 감안해서 읽어야 한다. 꽃차를 마셔서 확인한 근거는 아니며, 식약처 인정 건강기능식품 원료도 아니다."
   },
   "name": "라벤더",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "EMA HMPC, Draft Community herbal monograph on Lavandula angustifolia, flos (2011)",
+        "url": "https://ema.europa.eu/en/documents/herbal-monograph/draft-community-herbal-monograph-lavandula-angustifolia-p-mill-flos_en.pdf"
+      }
+    ],
+    "text": "유럽의약품청(EMA) 약초의약품위원회의 2011년 초안 문서는 라벤더 꽃을 오랜 사용 경험에 근거해 가벼운 정신적 스트레스와 피로를 덜고 잠을 돕는 전통 약초 의약품으로 다루었다. 같은 문서는 임신·수유 중 안전성이 확립되지 않았고 12세 미만에게는 자료 부족으로 권하지 않는다고 적었다."
   },
-  "updatedAt": 1792243524918
+  "updatedAt": 1793653020182
 }

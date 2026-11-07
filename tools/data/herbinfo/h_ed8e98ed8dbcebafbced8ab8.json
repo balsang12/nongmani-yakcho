@@ -13,24 +13,21 @@
       "q": "어느 부위를 먹나요?"
     },
     {
-      "a": "페퍼민트는 잡종이라 씨를 거의 맺지 않습니다. 보통 모종이나 꺾꽂이, 포기나누기로 늘립니다.",
-      "q": "씨앗으로 키울 수 있나요?"
-    },
-    {
       "a": "정유는 멘톨이 40% 안팎인 진한 농축액이라 그대로 먹으면 속쓰림 등이 생길 수 있습니다. 잎 차와는 다른 물건으로 다뤄야 합니다.",
       "q": "페퍼민트 오일을 먹어도 되나요?"
     },
     {
-      "a": "잎 차를 연하게 마시는 것은 일상적인 식품 사용입니다. 다만 멘톨 정유를 어린아이 얼굴·가슴에 바르면 부작용이 생길 수 있어 피해야 합니다.",
+      "a": "유럽 의약품 평가는 잎 제품 대상을 4세가 넘는 어린이부터로 적었습니다. 멘톨 정유를 어린아이 얼굴·가슴에 바르면 부작용이 생길 수 있어 피해야 합니다.",
       "q": "어린아이에게도 괜찮나요?"
     },
     {
-      "a": "안 됩니다. 페퍼민트은(는) 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 '불면·소화·면역·다이어트에 좋다' 같은 표현은 쓸 수 없습니다. 향, 맛, 재배 방법, 우려 마시는 법으로 소개해 주세요.",
+      "a": "안 됩니다. 페퍼민트는 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 '불면·소화·면역·다이어트에 좋다' 같은 표현은 쓸 수 없습니다. 향, 맛, 재배 방법, 우려 마시는 법으로 소개해 주세요.",
       "q": "판매할 때 효능을 적어도 되나요?"
     }
   ],
   "id": {
     "eat": "생잎·말린 잎을 우려 차로 마신다. 생잎은 음료·디저트·샐러드에 넣는다.",
+    "eng": "Peppermint",
     "family": "꿀풀과 박하속",
     "grade": "",
     "habitat": "워터민트와 스피어민트가 자연 교잡해 생긴 유럽 원산의 여러해살이풀이다. 씨를 거의 맺지 않아 땅속줄기와 포기나누기로 번식하며, 축축한 땅에서 빠르게 퍼진다. 국내에서는 밭·화분에서 키운다.",
@@ -66,6 +63,10 @@
       {
         "title": "위키백과, 페퍼민트",
         "url": "https://ko.wikipedia.org/wiki/%ED%8E%98%ED%8D%BC%EB%AF%BC%ED%8A%B8"
+      },
+      {
+        "title": "EMA HMPC, Menthae piperitae folium",
+        "url": "https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium"
       }
     ],
     "store": "생잎은 젖은 키친타월에 싸서 냉장하면 4~5일 간다. 말린 잎은 밀폐 용기에 담아 서늘하고 어두운 곳에 둔다.",
@@ -117,6 +118,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Pharmaceuticals 18(5)",
+        "note": "임상 16건을 정리했다. 대부분 장용 캡슐 정유 연구이고, 추가 임상이 필요하다고 했다.",
+        "title": "Investigating the Health Potential of Mentha Species Against Gastrointestinal Disorders—A Systematic Review of Clinical Evidence",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12114791/",
+        "year": "2025"
+      },
+      {
+        "journal": "BMC Complementary Medicine and Therapies 24",
+        "note": "박하속 전체를 다룬 무작위 시험 7건(297명) 분석으로, 혈압 변화는 통계적으로 유의하지 않았고 근거 확실성은 낮음이었다.",
+        "title": "Effects of Mentha on blood pressure: a GRADE-assessed systematic review and meta-analysis of randomized controlled trials",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11587584/",
+        "year": "2024"
+      },
+      {
         "journal": "BMC Complementary and Alternative Medicine 19",
         "note": "페퍼민트 오일 캡슐 임상시험 12편(835명)을 모아 분석했다. 잎 차가 아닌 정유 캡슐 연구다.",
         "title": "The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data",
@@ -125,13 +142,18 @@
         "year": "2019"
       }
     ],
-    "summary": "사람 대상 연구는 주로 장에서 녹는 페퍼민트 오일 캡슐에 관한 것이다. 2019년 메타분석(임상시험 12편, 835명)은 과민성장증후군 증상에 대한 결과를 보고했다. 이는 의약품·캡슐 형태의 정유 연구이며 잎 차에 그대로 적용할 수 없다. 페퍼민트는 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "사람 대상 연구는 주로 장용 페퍼민트 오일 캡슐에 관한 것이다. 2019년 메타분석(12편·835명)과 2025년 정리(임상 16건)는 과민성장증후군 등의 증상 결과를 다뤘지만, 정유 캡슐 연구라 잎 차에 그대로 적용할 수 없다. 2024년 혈압 분석(박하속 시험 7건·297명)은 유의한 변화를 확인하지 못했고 근거 확실성은 낮음이었다. 페퍼민트는 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "페퍼민트",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "EMA HMPC, Menthae piperitae folium",
+        "url": "https://www.ema.europa.eu/en/medicines/herbal/menthae-piperitae-folium"
+      }
+    ],
+    "text": "유럽의약품청(EMA) 약초의약품위원회는 잎이 소화불량·더부룩함에 오래 쓰여 온 것을 전통적 사용으로 인정했다. 임상 근거는 제한적이라고 밝혔고, 역류·속쓰림이 심해질 수 있으며 담석이 있으면 조심하라고 적었다."
   },
-  "updatedAt": 1792243524928
+  "updatedAt": 1793739285432
 }

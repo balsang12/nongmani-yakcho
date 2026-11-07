@@ -70,9 +70,23 @@
     {
       "title": "Case of narcissus poisoning under CHP investigation (홍콩 위생서 보도자료, 2014)",
       "url": "https://www.info.gov.hk/gia/general/201403/03/P201403030618_print.htm"
+    },
+    {
+      "title": "홍콩 식품안전센터 - Only Consume Plants Known to be Safe",
+      "url": "https://www.cfs.gov.hk/english/whatsnew/whatsnew_fst/whatsnew_fst_Only_Consume_Plants_Known_to_be_Safe.html"
     }
   ],
   "lookalikes": [
+    {
+      "danger": "무해",
+      "how": "수선화 알뿌리는 겉모습이 양파와 닮아 잘못 먹으면 심한 중독이 올 수 있다. 홍콩 식품안전센터도 이 혼동을 경고한다. 잘랐을 때의 냄새로 확인한다.",
+      "name": "양파",
+      "points": [
+        "양파는 자르면 매운 냄새가 나고 눈이 맵지만, 수선화 알뿌리는 그런 냄새가 없다.",
+        "수선화 알뿌리는 넓은 달걀 모양이고 검은 껍질에 싸여 있다.",
+        "화분이나 화단에서 나온 알뿌리는 양파처럼 보여도 먹지 않는다."
+      ]
+    },
     {
       "danger": "무해",
       "how": "가늘고 긴 잎과 땅속의 둥근 알뿌리가 달래와 비슷해 보여 함께 캐는 실수가 생긴다. 파 냄새가 나는지 반드시 확인한다.",
@@ -97,7 +111,7 @@
   "name": "수선화",
   "st": "ban",
   "toxic": {
-    "lookalike": "달래, 부추",
+    "lookalike": "달래, 부추, 양파",
     "sources": [
       {
         "title": "Daffodils - Beautiful but Potentially Toxic (Poison Control, National Capital Poison Center)",
@@ -110,9 +124,13 @@
       {
         "title": "Food Confusion Between Edible and Poisonous Plants: A 22-Year Retrospective of the Southeastern France Poison Control Center",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11679472"
+      },
+      {
+        "title": "홍콩 식품안전센터 - Only Consume Plants Known to be Safe",
+        "url": "https://www.cfs.gov.hk/english/whatsnew/whatsnew_fst/whatsnew_fst_Only_Consume_Plants_Known_to_be_Safe.html"
       }
     ],
     "text": "식물 전체에 독이 있고, 주된 독성분인 리코린 같은 알칼로이드는 비늘줄기(알뿌리)에 가장 많다. 즙과 알뿌리에는 바늘 모양의 옥살산염 결정도 있어 입안과 목, 피부를 자극한다. 잎이나 알뿌리를 먹으면 보통 15~30분 안에 메스꺼움, 구토, 설사, 배앓이, 어지럼증이 나타나고, 드물게 시야 흐림, 두통, 땀, 입 저림, 혈압 저하, 경련이 생길 수 있다. 알뿌리를 양파로 잘못 알고 먹은 사례도 보고되어 있으며, 날것이든 익힌 것이든 위험하다."
   },
-  "updatedAt": 1792184768374
+  "updatedAt": 1793609745607
 }

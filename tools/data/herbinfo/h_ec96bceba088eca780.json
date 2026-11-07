@@ -122,9 +122,17 @@
         "type": "기타",
         "url": "https://www.kjmycology.or.kr/5403-02/",
         "year": "2026"
+      },
+      {
+        "journal": "BMC Plant Biology",
+        "note": "얼레지가 속한 얼레지속(Erythronium) 식물들의 엽록체 유전체를 비교해 서로의 계통 관계와 분포 역사를 추정했다.",
+        "title": "Plastome-based phylogeny and historical biogeography of Erythronium L.",
+        "type": "기타",
+        "url": "https://doi.org/10.1186/s12870-026-08677-6",
+        "year": "2026"
       }
     ],
-    "summary": "최근 3년 사이 얼레지(Erythronium japonicum)의 성분이나 효능을 다룬 논문은 찾지 못했다. 확인된 최신 연구는 국내 얼레지에 녹병균(Uromyces erythronii)이 생긴다는 첫 보고로, 식물 병해 연구이며 사람 건강과 관련된 근거는 아니다."
+    "summary": "최근 3년 사이 얼레지(Erythronium japonicum)의 성분이나 효능을 다룬 논문은 찾지 못했다. 확인된 최신 연구는 국내 얼레지에 녹병균(Uromyces erythronii)이 생긴다는 첫 보고와 얼레지속 전체의 계통·분포 역사를 엽록체 유전체로 살핀 연구로, 모두 식물학 연구이며 사람 건강과 관련된 근거는 아니다."
   },
   "name": "얼레지",
   "st": "caution",
@@ -141,5 +149,5 @@
     ],
     "text": "얼레지는 땅속 비늘줄기에서 녹말을 얻어 흉년에 먹는 구황 식물로 귀하게 여겨졌다. 한방에서는 '차전엽산자고'라는 이름으로 비늘줄기를 약재로 다루었고, 민간에서는 녹말을 종기나 습진, 삔 곳에 바르는 데 썼다고 전한다. 옛 의서에서 얼레지 항목은 찾지 못했다."
   },
-  "updatedAt": 1792573003680
+  "updatedAt": 1794084798077
 }

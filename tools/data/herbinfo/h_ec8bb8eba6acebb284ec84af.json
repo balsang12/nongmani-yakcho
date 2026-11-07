@@ -118,10 +118,19 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "2023년 이후 싸리버섯(Ramaria botrytis)을 직접 다룬 논문은 이번 조사에서 확인하지 못했다. 산림청 자료에 소개된 항산화·간 보호 등의 결과도 실험실·동물 실험 단계이고, 사람 대상 연구는 확인하지 못했다."
+    "papers": [
+      {
+        "journal": "International Journal of Medicinal Mushrooms",
+        "note": "히말라야 지역 야생 버섯 여러 종(싸리버섯 포함)의 추출물 항산화 활성을 시험관에서 비교한 연구다.",
+        "title": "Exploring the Antioxidant Potential of Methanolic Extracts of Wild Medicinal and Edible Mushrooms from Darma Valley, Pithoragaph, Kumaun (Himalaya, India)",
+        "type": "기타",
+        "url": "https://doi.org/10.1615/intjmedmushrooms.2023051350",
+        "year": "2024"
+      }
+    ],
+    "summary": "싸리버섯만을 다룬 최근 연구는 적고, 여러 야생 버섯을 함께 분석한 시험관 항산화 실험 수준이다. 사람 대상 연구는 확인하지 못했다."
   },
   "name": "싸리버섯",
   "st": "caution",
-  "updatedAt": 1792487178150
+  "updatedAt": 1793998434553
 }

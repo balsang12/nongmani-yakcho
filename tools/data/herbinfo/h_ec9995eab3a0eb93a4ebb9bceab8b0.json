@@ -102,6 +102,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Natural Product Research",
+        "note": "왕고들빼기의 페놀 성분을 함께 정량하는 분석법을 만들고 품질 지표가 될 성분 후보를 고른 분석 연구다.",
+        "title": "Integrated HPLC-DAD and multivariate analysis for exploratory prioritisation of candidate marker compounds in Lactuca indica",
+        "type": "기타",
+        "url": "https://doi.org/10.1080/14786419.2026.2708284",
+        "year": "2026"
+      },
+      {
+        "journal": "Natural Product Research",
+        "note": "새 화합물 3가지를 분리해 면역세포의 염증 신호 물질(NO) 생성을 시험관에서 살폈다.",
+        "title": "Lactucaindicas A-C: three newly identified compounds from Lactuca indica L. that inhibit NO production",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/14786419.2025.2591177",
+        "year": "2026"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "전통적 쓰임을 실마리로 성분을 분리해 면역세포와 암세포주에서 반응을 확인한 실험실 연구다.",
+        "title": "Discovery of anti-inflammatory phytoconstituents from Lactuca indica L. based on its traditional uses",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.fitote.2025.106902",
+        "year": "2025"
+      },
+      {
         "journal": "Food Chemistry: X",
         "note": "뿌리·줄기·잎·꽃·씨를 수확 시기별로 분석해 66개 성분을 확인했고, 꽃봉오리 시기 잎에 치코릭산이 가장 많았다고 보고했다.",
         "title": "Chemical profile and quantitative comparison of constituents in different medicinal parts of Lactuca indica during varied harvest periods using UPLC-MS/MS method",
@@ -118,7 +142,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 주로 중국 재배품종(Mengzao)의 부위별·수확 시기별 성분 분석과 추출법을 다룬 실험실 연구다. 항산화 등은 시험관 수준의 결과일 뿐이며, 사람 대상 근거는 찾지 못했다."
+    "summary": "최근 연구는 왕고들빼기의 성분 분석과 새 화합물 분리, 세포 수준의 염증 관련 시험이 중심이다. 모두 실험실 단계의 결과이며, 사람 대상 근거는 찾지 못했다."
   },
   "name": "왕고들빼기",
   "st": "ok",
@@ -135,5 +159,5 @@
     ],
     "text": "민간에서는 고채, 황고채, 활혈초 같은 이름으로 불렸고, 붓기를 가라앉히거나 열을 내리는 데 썼다고 국내 연구에 소개되어 있다. 동의학에서는 위를 튼튼히 하고 소화를 돕거나 열을 내리는 데 썼다고 전한다."
   },
-  "updatedAt": 1792529979983
+  "updatedAt": 1794041647093
 }

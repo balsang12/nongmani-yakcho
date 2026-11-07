@@ -21,12 +21,13 @@
       "q": "어디서 많이 키우나요?"
     },
     {
-      "a": "안 됩니다. 야콘은(는) 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 혈당·혈압·면역·다이어트 같은 표현은 쓸 수 없습니다. 산지, 수확 시기, 맛, 먹는 법으로 소개해 주세요. '프락토올리고당이 들어 있다'처럼 성분을 적을 때도 효능으로 읽히지 않게 주의하세요.",
+      "a": "안 됩니다. 야콘은 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 혈당·혈압·면역·다이어트 같은 표현은 쓸 수 없습니다. 산지, 수확 시기, 맛, 먹는 법으로 소개해 주세요. '프락토올리고당이 들어 있다'처럼 성분을 적을 때도 효능으로 읽히지 않게 주의하세요.",
       "q": "판매할 때 효능을 적어도 되나요?"
     }
   ],
   "id": {
     "eat": "껍질을 벗겨 생으로 깎아 먹거나 샐러드·무침·장아찌·김치·즙으로 먹는다. 볶음·조림에 넣어도 아삭함이 남는다. 줄기는 말려 차로 쓰기도 한다.",
+    "eng": "Yacon",
     "family": "국화과 스몰란투스속",
     "grade": "",
     "habitat": "남미 안데스 산맥 북부·중부(콜롬비아~아르헨티나 북부)의 중간 고도 산비탈이 원산지다. 국내에는 1980년대 후반 강원·충북·경북 농가에 보급됐고, 여름이 비교적 서늘한 강원·경상·충청의 중산간 밭에서 주로 키운다.",
@@ -62,6 +63,10 @@
       {
         "title": "식품안전나라 식품원료 목록 — 야콘 덩이뿌리·줄기 가능, 잎 제한적",
         "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04"
+      },
+      {
+        "title": "국제감자센터(CIP), yacon 소개",
+        "url": "https://cipotato.org/?p=23704"
       }
     ],
     "store": "저장 적온은 5~10℃다. 이보다 낮으면 냉해를 입으니 냉장고 채소칸보다는 서늘한 곳이나 땅속에 묻어 두고, 햇빛을 피한다. 껍질에 상처가 나면 쉽게 무르므로 조심해서 다룬다.",
@@ -101,21 +106,50 @@
   "modern": {
     "papers": [
       {
+        "journal": "Endocrinology, Diabetes & Metabolism 8(6)",
+        "note": "무작위 시험 7건(239명)에서 혈당·지질 지표에 전반적으로 유의한 개선이 없었고, 시험의 편향 위험이 높았다.",
+        "title": "The Effect of Yacon Consumption on Glycemic Control and Lipid Profiles: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12568385/",
+        "year": "2025"
+      },
+      {
+        "journal": "Nutrients 17(5)",
+        "note": "시럽 임상 7건(161명)을 정리했고, 가스·복부팽만이 흔하다고 보고했다.",
+        "title": "Impacts of Yacon Syrup (Smallanthus sonchifolius) on Human Health: A Systematic Review of Scientific Evidence from the Last Decade",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11902191/",
+        "year": "2025"
+      },
+      {
+        "journal": "Pharmaceuticals 17(5)",
+        "note": "야콘 가루 연구 7편을 정리했고, 표본이 작고 기간이 짧아 임상이 더 필요하다고 했다.",
+        "title": "Effects of Smallanthus sonchifolius Flour on Metabolic Parameters: A Systematic Review",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1424-8247/17/5/658",
+        "year": "2024"
+      },
+      {
         "journal": "Clinical Nutrition 28(2)",
         "note": "비만·경도 이상지질혈증 폐경 전 여성에게 야콘 시럽을 120일간 먹인 위약 대조 이중맹검 시험. 참여자 수가 적은 단일 연구다.",
         "title": "Yacon syrup: Beneficial effects on obesity and insulin resistance in humans",
-        "type": "임상",
+        "type": "사람 대상",
         "url": "https://ri.conicet.gov.ar/handle/11336/66057",
         "year": "2009"
       }
     ],
-    "summary": "야콘 덩이뿌리에는 프락토올리고당(FOS)이 마른 무게의 40~70% 들어 있다. 사람 연구로는 아르헨티나에서 비만 여성에게 야콘 시럽을 120일 먹인 소규모 이중맹검 시험(2009)이 있으나 규모가 작아 결론을 내리기 어렵다. 잎 추출물 연구는 대부분 시험관·동물 단계다. 식약처가 인정한 건강기능식품 원료가 아니다."
+    "summary": "야콘 덩이뿌리에는 프락토올리고당이 마른 무게의 40~70% 들어 있다. 2025년 메타분석(무작위 시험 7건·239명)은 혈당·지질 지표에 전반적으로 유의한 개선이 없었다고 했고, 8주 이상 하위 분석 결과는 있으나 시험 간 차이와 편향 위험이 커서 확정적이지 않다. 2025년 시럽 연구 정리에서는 가스·복부팽만이 흔했고 많이 먹으면 설사도 보고됐다. 식약처가 인정한 건강기능식품 원료가 아니다."
   },
   "name": "야콘",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "국제감자센터(CIP), yacon 소개",
+        "url": "https://cipotato.org/?p=23704"
+      }
+    ],
+    "text": "원산지 안데스에서는 뿌리를 갈아 천으로 짜낸 달고 시원한 음료를 마셨고, 스페인 식민지 시기에는 뱃사람의 식량으로도 썼다고 전한다."
   },
-  "updatedAt": 1792243524926
+  "updatedAt": 1793739285432
 }

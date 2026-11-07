@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "",
+    "eng": "Comfrey",
     "family": "지치과 컴프리속",
     "grade": "",
     "habitat": "유럽 원산으로 축축한 풀밭, 강둑, 도랑가에 자란다. 서아시아와 북아메리카에도 퍼졌다. 국내에는 1960년대에 들어와 녹즙·나물·튀김용으로 한때 많이 심었다.",
@@ -67,6 +68,14 @@
       {
         "title": "일본 후생노동성, 컴프리(심피툼) 및 이를 함유한 식품의 취급(2004)",
         "url": "https://www.mhlw.go.jp/topics/2004/06/tp0614-2.html"
+      },
+      {
+        "title": "EMA HMPC, Symphytum officinale 뿌리 평가 보고서",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-symphytum-officinale-l-radix_en.pdf"
+      },
+      {
+        "title": "국내산 컴프리의 형태학적 특성 및 Pyrrolizidine Alkaloids 분석, 한국식품영양과학회지 32(6), 2003",
+        "url": "https://koreascience.kr/article/JAKO200311921895586.do"
       }
     ],
     "store": "",
@@ -101,7 +110,7 @@
   ],
   "modern": {
     "papers": [],
-    "summary": "컴프리의 위험성은 사람에게서 실제로 생긴 간 정맥폐쇄병 사례와 독성분 연구로 확인됐다. 미국 FDA(2001)와 일본 후생노동성(2004)도 먹는 제품을 시장에서 거둬들이게 했다."
+    "summary": ""
   },
   "name": "컴프리",
   "st": "ban",
@@ -123,13 +132,21 @@
       {
         "title": "일본 후생노동성, 컴프리(심피툼) 및 이를 함유한 식품의 취급(2004)",
         "url": "https://www.mhlw.go.jp/topics/2004/06/tp0614-2.html"
+      },
+      {
+        "title": "EMA HMPC, Symphytum officinale 뿌리 평가 보고서",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-report/final-assessment-report-symphytum-officinale-l-radix_en.pdf"
+      },
+      {
+        "title": "국내산 컴프리의 형태학적 특성 및 Pyrrolizidine Alkaloids 분석, 한국식품영양과학회지 32(6), 2003",
+        "url": "https://koreascience.kr/article/JAKO200311921895586.do"
       }
     ],
-    "text": "식물 전체, 특히 어린잎과 뿌리에 피롤리지딘 알칼로이드가 들어 있다. 이 성분은 간에서 독성 물질로 바뀌어 간세포를 손상시키고, 손상이 몸에 쌓인다. 오래 먹으면 간의 작은 정맥이 막히는 간 정맥폐쇄병, 간경변, 간암으로 이어질 수 있다. 익혀도 독성이 줄어든다는 자료가 없다. 국내 규제: 식약처(당시 식약청)가 2001년 식품 원료 사용을 금지한 '식품에 사용할 수 없는 원료'다. 미국 FDA도 2001년 먹는 컴프리 제품의 회수를 권고했고, 일본은 2004년 제조·판매·수입을 중단시켰다."
+    "text": "식물 전체, 특히 어린잎과 뿌리에 피롤리지딘 알칼로이드가 들어 있다. 이 성분은 간에서 독성 물질로 바뀌어 간세포를 손상시키고, 손상이 몸에 쌓인다. 오래 먹으면 간의 작은 정맥이 막히는 간 정맥폐쇄병, 간경변, 간암으로 이어질 수 있다. 유럽 평가 자료의 한 분석에서는 뿌리 함량(1g당 1,380~8,320μg)이 잎(15~55μg)보다 훨씬 높았고, 작은 어린잎이 묵은 잎보다 많았다. 국내 12곳에서 키운 컴프리를 분석한 2003년 연구에서도 모든 시료에서 이 성분이 검출됐다. 익혀도 독성이 줄어든다는 자료가 없다. 국내 규제: 식약처(당시 식약청)가 2001년 식품 원료 사용을 금지한 '식품에 사용할 수 없는 원료'다. 미국 FDA도 2001년 먹는 컴프리 제품의 회수를 권고했고, 일본은 2004년 제조·판매·수입을 중단시켰다."
   },
   "traditional": {
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524928
+  "updatedAt": 1793739285432
 }

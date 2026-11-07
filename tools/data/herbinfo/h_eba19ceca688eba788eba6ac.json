@@ -119,6 +119,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology 398(1)",
+        "note": "식품 보존 용도로는 안전하다고 보면서도, 많은 양을 오래 먹을 때는 조심하라고 했다. 동물 실험을 포함한 독성 자료를 정리했다.",
+        "title": "Toxicity and safety of rosemary (Rosmarinus officinalis): a comprehensive review",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39096378/",
+        "year": "2025"
+      },
+      {
         "journal": "EFSA Journal 16(8)",
         "note": "식품첨가물 로즈마리 추출물(E392)을 사람이 먹는 양을 다시 계산했다. 독성을 새로 평가한 것은 아니다.",
         "title": "Refined exposure assessment of extracts of rosemary (E 392) from its use as food additive",
@@ -127,13 +135,18 @@
         "year": "2018"
       }
     ],
-    "summary": "로즈마리 잎 추출물(카르노스산·카르노솔)은 유럽 등에서 산화방지용 식품첨가물(E392)로 쓰이며, EFSA는 첨가물로 먹는 양을 평가했다. 효과에 관한 연구는 대부분 시험관·동물 연구다. 국내에는 로즈마리가 들어간 복합 추출물이 개별인정형 건강기능식품 원료로 인정된 사례가 있다(예: 로즈마리자몽추출복합물, '자외선에 의한 피부손상으로부터 피부건강을 유지하는데 도움을 줄 수 있음'). 이 표시는 인정받은 해당 제품에만 쓸 수 있고 로즈마리 잎에는 쓸 수 없다."
+    "summary": "2025년 안전성 리뷰는 식품 보존 용도로는 안전하다고 보되 많은 양을 오래 먹는 것은 조심하라고 정리했다. 로즈마리 잎 추출물(카르노스산·카르노솔)은 유럽 등에서 산화방지용 식품첨가물(E392)로 쓰이며, EFSA는 첨가물로 먹는 양을 평가했다. 효과에 관한 연구는 대부분 시험관·동물 연구다. 국내에는 로즈마리가 들어간 복합 추출물이 개별인정형 건강기능식품 원료로 인정된 사례가 있다(예: 로즈마리자몽추출복합물, '자외선에 의한 피부손상으로부터 피부건강을 유지하는데 도움을 줄 수 있음'). 이 표시는 인정받은 해당 제품에만 쓸 수 있고 로즈마리 잎에는 쓸 수 없다."
   },
   "name": "로즈마리",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "유럽의약품청(EMA), Rosmarini folium 허브 의약품 평가",
+        "url": "https://www.ema.europa.eu/en/medicines/herbal/rosmarini-folium"
+      }
+    ],
+    "text": "유럽의약품청(EMA) 허브위원회는 로즈마리 잎을 소화 불편에 차로 마시거나 근육·관절의 가벼운 불편에 목욕제로 써 온 전통 약초로 정리했다. 이는 임상시험이 아니라 오랜 사용 기록에 근거한 평가이고, 12세 미만, 임신·수유 중, 담도·간 질환이 있는 사람은 쓰지 말라고 했다. 판매 문구로는 쓸 수 없다."
   },
-  "updatedAt": 1792243524920
+  "updatedAt": 1793696033001
 }

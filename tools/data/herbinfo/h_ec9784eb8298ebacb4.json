@@ -26,10 +26,14 @@
       {
         "title": "홍콩 중의약규관리처 - 廣東海桐皮",
         "url": "https://www.cmro.gov.hk/files/gcmti/research/mmi/feature/07_GDHTP_tc.pdf"
+      },
+      {
+        "title": "本草綱目/木之二 - 維基文庫",
+        "url": "https://zh.wikisource.org/wiki/本草綱目/木之二"
       }
     ],
     "verified": false,
-    "warn": "한국한의학연구원 한의고전명저총서(탕액편 권3에 木部가 있음)와 위키문헌 원문은 열람이 되지 않아 직접 대조하지 못했고, 신문 기사에 인용된 내용만 확인했다. 옛 이름(엄나모 등)도 확인하지 못해 비웠다. 海桐皮라는 같은 이름으로 중국 등에서 다른 식물의 껍질(예: 홍콩 자료의 廣東海桐皮는 Bombax ceiba 껍질)이 쓰이기도 하므로, 고서의 해동피가 오늘날 우리 엄나무 껍질과 완전히 같다고 단정하기 어렵다. 옛 기록일 뿐 효능의 근거가 아니다."
+    "warn": "한국한의학연구원 한의고전명저총서(탕액편 권3에 木部가 있음)와 위키문헌 원문은 열람이 되지 않아 직접 대조하지 못했고, 신문 기사에 인용된 내용만 확인했다. 옛 이름(엄나모 등)도 확인하지 못해 비웠다. 海桐皮라는 같은 이름으로 중국 등에서 다른 식물의 껍질(예: 홍콩 자료의 廣東海桐皮는 Bombax ceiba 껍질)이 쓰이기도 하므로, 고서의 해동피가 오늘날 우리 엄나무 껍질과 완전히 같다고 단정하기 어렵다. 『본초강목』의 海桐 항목도 남쪽 지방의 나무(刺桐)로 그려 놓아 우리 엄나무와 다르다. 동의보감 해당 쪽은 이번에도 열리지 않았다. 옛 기록일 뿐 효능의 근거가 아니다."
   },
   "faq": [
     {
@@ -66,7 +70,7 @@
       "smell": "말린 줄기껍질에서 약한 향이 난다.",
       "stem": "줄기와 가지에 밑이 넓은 굵은 가시가 많이 붙어 있다. 큰 나무는 25~30m까지 자란다."
     },
-    "parts": "어린순(개두릅·엄나무순), 줄기껍질(약재 이름 해동피)",
+    "parts": "어린순(개두릅·엄나무순), 잎, 줄기, 나무껍질(약재 이름 해동피). 앱의 식약처 원료 구분상 뿌리는 먹는 부위에서 제외된다.",
     "prep": "어린순은 날로 먹지 말고 반드시 끓는 물에 살짝 데쳐 먹는다. 밑동의 껍질과 억센 가시는 칼로 다듬어 낸다.",
     "sci": "Kalopanax septemlobus (Thunb.) Koidz.",
     "season": {
@@ -161,6 +165,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Planta Medica",
+        "note": "피부 곰팡이 두 종에 대한 엄나무의 항진균 활성과 작용 기전을 살핀 실험실 연구다.",
+        "title": "The Antifungal Activity and Potential Mechanism of Kalopanax septemlobus against Trichophyton mentagrophytes and T. rubrum.",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40763762/",
+        "year": "2025"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
+        "note": "엄나무와 쇠무릎 혼합 추출물을 관절염 유도 생쥐에 시험한 연구로, 엄나무 단독 결과가 아니다.",
+        "title": "The Effect of the Mixed Extract of Kalopanax pictus Nakai and Achyranthes japonica Nakai on the Improvement of Degenerative Osteoarthritis through Inflammation Inhibition in the Monosodium Iodoacetate-Induced Mouse Model.",
+        "type": "동물 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/37623223/",
+        "year": "2023"
+      },
+      {
         "journal": "Fitoterapia",
         "note": "1966~2022년에 나온 엄나무의 성분, 약리 작용, 독성 연구를 정리한 리뷰다.",
         "title": "Kalopanax septemlobus: its phytochemistry, pharmacology and toxicity (1966–2022)",
@@ -169,7 +189,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 안의 연구로는 엄나무의 성분·약리·독성 연구를 모은 리뷰 1편을 확인했다. 지금까지의 연구는 주로 줄기껍질의 사포닌(헤데라게닌 계열) 성분과 세포·동물 실험에 머물러 있어, 사람에게 효과가 있다고 말할 근거는 부족하다."
+    "summary": "PubMed에서 2023년 이후 엄나무 논문은 소수이며, 성분·약리·독성 리뷰 1편과 실험실·동물 연구가 중심이다. 사람 대상 연구는 찾지 못해 사람에게 효과가 있다고 말할 근거는 부족하다."
   },
   "name": "엄나무",
   "st": "ok",
@@ -186,5 +206,5 @@
     ],
     "text": "줄기껍질과 뿌리껍질을 해동피라 하여 강장과 신경통에 써 왔다고 산림청 자료에 적혀 있다. 이른 봄 새순은 두릅 대신 먹는 나물로 쓰였고, 가시 달린 가지를 대문 위에 얹어 나쁜 기운을 막는다는 풍습도 있었다."
   },
-  "updatedAt": 1792314395227
+  "updatedAt": 1793825973240
 }

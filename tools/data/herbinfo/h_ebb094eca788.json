@@ -1,7 +1,25 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "제민요술(齊民要術) 종란향(種蘭香)",
+    "bu": "",
+    "easy": [
+      "옛 책은 난향이 곧 나륵이라고 적었다. 후조 임금 석륵의 이름을 피하려고 이름을 바꿨고, 그 뒤로 사람들이 그대로 불렀다고 설명한다."
+    ],
+    "han": "羅勒",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "蘭香",
+    "orig": "蘭香者，羅勒也。中國為石勒諱，故改。今人因以名焉。",
+    "sources": [
+      {
+        "title": "한전(漢典), 罗勒 — 『제민요술』 인용",
+        "url": "https://www.zdic.net/hant/罗勒"
+      }
+    ],
+    "verified": true,
+    "warn": "이름의 유래를 적은 기록이다. 효능 기록이 아니므로 판매 문구로 쓰면 안 된다."
   },
   "faq": [
     {
@@ -104,6 +122,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients 17(17)",
+        "note": "스위트바질과 홀리바질 연구를 함께 정리했다. 근거 대부분이 시험관·동물 연구이고, 사람 시험은 2~8주의 소규모라고 밝혔다.",
+        "title": "The Neuroprotective Potential of Ocimum Plant Species: Seasoning the Mind with Sweet and Holy Basil",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2072-6643/17/17/2877",
+        "year": "2025"
+      },
+      {
+        "journal": "Plants 12(24)",
+        "note": "스위트바질의 식물학, 성분, 약리 연구와 품종 개량 동향을 정리한 리뷰다.",
+        "title": "Sweet Basil (Ocimum basilicum L.)―A Review of Its Botany, Phytochemistry, Pharmacological Activities, and Biotechnological Development",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10748370",
+        "year": "2023"
+      },
+      {
         "journal": "EMA/HMPC 137212/2005",
         "note": "에스트라골이 든 허브 의약품에 대한 유럽의약품청 입장문이다. 스위트바질 식물체에 238~8,780ppm, 정유에 5~85% 들어 있다고 정리했다.",
         "title": "Public statement on the use of herbal medicinal products containing estragole",
@@ -112,7 +146,7 @@
         "year": "2005"
       }
     ],
-    "summary": "바질의 건강 효과를 사람에게서 확인한 좋은 연구는 확인되지 않았다. 바질 정유에는 에스트라골이 많이 들어 있는데, 유럽의약품청(EMA)은 이 성분이 동물에게 많은 양을 줄 때 간 종양을 일으켰다며 어린이·임신부의 노출을 줄이라고 권했다. 이는 약용 제품에 관한 의견이며 일반 요리 양에 대한 결론은 아니다. 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "2025년 리뷰도 근거 대부분은 시험관·동물 연구이고 사람 시험은 짧고 작다고 정리했다. 바질의 건강 효과를 사람에게서 확인한 좋은 연구는 확인되지 않았다. 바질 정유에는 에스트라골이 많이 들어 있는데, 유럽의약품청(EMA)은 이 성분이 동물에게 많은 양을 줄 때 간 종양을 일으켰다며 어린이·임신부의 노출을 줄이라고 권했다. 이는 약용 제품에 관한 의견이며 일반 요리 양에 대한 결론은 아니다. 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "바질",
   "st": "ok",
@@ -120,5 +154,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524921
+  "updatedAt": 1793696033001
 }

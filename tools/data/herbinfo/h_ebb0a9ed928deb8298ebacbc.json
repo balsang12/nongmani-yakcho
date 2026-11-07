@@ -142,12 +142,28 @@
   "modern": {
     "papers": [
       {
+        "journal": "Life",
+        "note": "갯기름나물에서 얻은 클로로겐산이 염증 자극을 준 사람 피부 섬유아세포에서 산화 스트레스와 염증 지표를 낮추는지 배양 세포로 살폈다.",
+        "title": "Chlorogenic Acid from Peucedanum japonicum Attenuates TNF-α-Induced Oxidative Stress and Inflammatory Damage in Human Dermal Fibroblasts",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/life15121934",
+        "year": "2025"
+      },
+      {
         "journal": "Horticulturae",
         "note": "보령에서 재배한 잎과 뿌리를 여러 용매로 추출해 비교했으며, 클로로겐산은 에탄올·메탄올에서, 피라노쿠마린은 아세톤에서 많이 나오고 뿌리에 더 많은 것으로 보고했다.",
         "title": "Simultaneous Quantification of Phenolic Compounds in the Leaves and Roots of Peucedanum japonicum Thunb. Using HPLC-PDA with Various Extraction Solvents",
         "type": "기타",
         "url": "https://doi.org/10.3390/horticulturae11030334",
         "year": "2025"
+      },
+      {
+        "journal": "Fitoterapia",
+        "note": "갯기름나물의 전통적 쓰임, 함유 성분, 약리 연구를 모아 정리한 문헌 리뷰다.",
+        "title": "The medicinal plant Peucedanum japonicum Thunberg: A review of traditional use, phytochemistry, and pharmacology",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39442677/",
+        "year": "2024"
       },
       {
         "journal": "Plants",
@@ -166,7 +182,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 갯기름나물 잎과 뿌리의 페놀류·쿠마린류 성분 함량을 추출 용매, 재배 지역(제주·울릉), 줄기·종자 색에 따라 비교한 성분 분석 연구가 중심이다. 항산화 활성은 시험관 측정 수준이며, 사람 대상 연구는 확인되지 않아 건강 효과의 근거 수준은 낮다."
+    "summary": "최근 연구는 갯기름나물 잎과 뿌리의 페놀류·쿠마린류 성분을 추출 용매, 재배 지역, 계통에 따라 비교한 성분 분석이 중심이고, 2024년에는 전통적 쓰임과 약리 연구를 정리한 리뷰가 나왔다. 효능 관련 결과는 시험관·배양 세포 수준이며 사람 대상 연구는 확인되지 않아 건강 효과의 근거 수준은 낮다."
   },
   "name": "방풍나물",
   "st": "ok",
@@ -187,5 +203,5 @@
     ],
     "text": "한국민족문화대백과사전은 『증보산림경제』에 이른 봄 방풍 새싹을 넣어 죽을 쑤는 법이, 『도문대작』에 방풍죽을 향이 오래 남는 음식으로 높이 친 기록이 있다고 소개한다. 다만 그 '방풍'이 오늘날의 갯기름나물인지는 확인되지 않는다. 현대에는 갯기름나물 어린 잎줄기를 '방풍나물'이라는 산채로 먹고, 뿌리는 식방풍이라 하여 방풍 대용 약재로 재배·유통해 왔다고 학술 문헌에 적혀 있다."
   },
-  "updatedAt": 1792098142664
+  "updatedAt": 1793523162847
 }

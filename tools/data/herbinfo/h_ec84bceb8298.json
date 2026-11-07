@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "",
+    "eng": "Senna",
     "family": "콩과 센나속",
     "grade": "",
     "habitat": "이집트 남부(누비아)와 수단 하르툼 부근이 원산이며, 인도·소말리아에서 재배한다. 국내에서는 자라지 않고, 잎·열매(꼬투리)가 변비약 원료로 수입된다.",
@@ -62,6 +63,10 @@
       {
         "title": "요코하마시 위생연구소, 센나(잎은 의약품, 줄기는 식품 취급)",
         "url": "https://en.city.yokohama.lg.jp/kenko-iryo-fukushi/kenko-iryo/eiken/yakuji/kenkohigai/senna.html"
+      },
+      {
+        "title": "EMA HMPC, Senna alexandrina 잎·열매 평가 보고서(2018)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-summary/final-assessment-report-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-1-folium-and-fructus-revision-1_en.pdf"
       }
     ],
     "store": "",
@@ -91,7 +96,7 @@
   ],
   "modern": {
     "papers": [],
-    "summary": "센나 잎·열매의 센노사이드는 의약품(변비약)으로 효과가 확인된 성분이라 식품에는 쓸 수 없다. 체중 감량 효과는 근거가 없다."
+    "summary": ""
   },
   "name": "센나",
   "st": "ban",
@@ -109,13 +114,17 @@
       {
         "title": "식품안전나라, 인터넷 구매대행 수입식품 반입 불가 원료 목록(2020.7.23 기준, PDF)",
         "url": "https://www.foodsafetykorea.go.kr/upload/20200722/20200722074043_1595414443977.pdf"
+      },
+      {
+        "title": "EMA HMPC, Senna alexandrina 잎·열매 평가 보고서(2018)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-summary/final-assessment-report-senna-alexandrina-mill-cassia-senna-l-cassia-angustifolia-vahl-1-folium-and-fructus-revision-1_en.pdf"
       }
     ],
-    "text": "잎과 열매(꼬투리)에 안트라퀴논 계열의 센노사이드가 들어 있다. 장을 자극해 설사를 일으키는 변비약 성분이다. 많이 먹으면 설사·복통·구토가 생기고, 계속 먹으면 탈수와 전해질 이상이 올 수 있다. 국내 규제: 식약처는 센노사이드를 '식품에 사용할 수 없는 의약품 성분'으로 보고, 이 성분이 든 식품을 수입·판매하면 식품위생법 위반으로 단속한다. 센나(Senna)와 센노사이드는 해외직구 반입 불가 원료로도 올라 있다. 센나를 식품 원료로 쓸 수 없다."
+    "text": "잎과 열매(꼬투리)에 안트라퀴논 계열의 센노사이드가 들어 있다. 장을 자극해 설사를 일으키는 변비약 성분이다. 많이 먹으면 설사·복통·구토가 생기고, 계속 먹으면 탈수와 전해질 이상이 올 수 있다. 의약품으로 쓰는 유럽 제품도 라벨에 사용 기간을 보통 1~2주로 제한하고, 12세 미만 금기를 적은 제품이 여럿이며, 임신 중 사용은 권장되지 않는다. 국내 규제: 식약처는 센노사이드를 '식품에 사용할 수 없는 의약품 성분'으로 보고, 이 성분이 든 식품을 수입·판매하면 식품위생법 위반으로 단속한다. 센나(Senna)와 센노사이드는 해외직구 반입 불가 원료로도 올라 있다. 센나를 식품 원료로 쓸 수 없다."
   },
   "traditional": {
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524924
+  "updatedAt": 1793739285432
 }

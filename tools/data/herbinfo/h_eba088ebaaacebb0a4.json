@@ -112,6 +112,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "BMC Complementary Medicine and Therapies 24",
+        "note": "무작위 시험 5건(302명)을 묶어 위약과 비교했다. 혈중 지질 수치가 낮게 나왔다고 보고했지만, 연구 수가 적고 대상자의 질환이 제각각이라는 한계를 밝혔다.",
+        "title": "Effects of Melissa officinalis (lemon balm) consumption on serum lipid profile: a meta-analysis of randomized controlled trials",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38575930/",
+        "year": "2024"
+      },
+      {
         "journal": "Phytotherapy Research 35(12)",
         "note": "레몬밤 임상시험을 모아 분석했다. 연구 수가 적고 연구마다 차이가 커서 더 좋은 연구가 필요하다고 했다.",
         "title": "The effects of lemon balm (Melissa officinalis L.) on depression and anxiety in clinical trials: A systematic review and meta-analysis",
@@ -120,13 +128,18 @@
         "year": "2021"
       }
     ],
-    "summary": "사람 대상 임상시험이 몇 편 있으나 대부분 추출물 캡슐을 쓴 소규모 연구이고, 2021년 메타분석은 연구 간 차이가 커서 조심해서 해석해야 한다고 밝혔다. 국내에서는 레몬밤이 들어간 일부 추출물이 개별인정형 건강기능식품 원료로 인정됐다: '레몬 밤 추출물 혼합분말'(2010-24호, '체지방 감소에 도움을 줄 수 있음'), '레몬밤민들레추출복합물'(2022-22호, '간건강에 도움을 줄 수 있음') 등. 이 표시는 인정받은 해당 건강기능식품에만 쓸 수 있고 레몬밤 잎·차에는 쓸 수 없다."
+    "summary": "2024년 메타분석은 무작위 시험 5건(302명)을 묶어 혈중 지질 변화를 살폈으나 소규모 연구가 적게 모인 결과다. 사람 대상 임상시험이 몇 편 있으나 대부분 추출물 캡슐을 쓴 소규모 연구이고, 2021년 메타분석은 연구 간 차이가 커서 조심해서 해석해야 한다고 밝혔다. 국내에서는 레몬밤이 들어간 일부 추출물이 개별인정형 건강기능식품 원료로 인정됐다: '레몬 밤 추출물 혼합분말'(2010-24호, '체지방 감소에 도움을 줄 수 있음'), '레몬밤민들레추출복합물'(2022-22호, '간건강에 도움을 줄 수 있음') 등. 이 표시는 인정받은 해당 건강기능식품에만 쓸 수 있고 레몬밤 잎·차에는 쓸 수 없다."
   },
   "name": "레몬밤",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "유럽의약품청(EMA), Melissae folium 허브 의약품 평가",
+        "url": "https://www.ema.europa.eu/en/medicines/herbal/melissae-folium"
+      }
+    ],
+    "text": "유럽의약품청(EMA) 허브위원회는 멜리사 잎을 가벼운 스트레스 증상, 잠, 더부룩함 같은 가벼운 소화 불편에 차로 써 온 전통 약초로 정리했다. 이는 임상시험이 아니라 오랜 사용 기록에 근거한 평가이고 12세 이상을 대상으로 한다. 판매 문구로는 쓸 수 없다."
   },
-  "updatedAt": 1792243524919
+  "updatedAt": 1793696033001
 }

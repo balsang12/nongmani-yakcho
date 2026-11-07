@@ -126,6 +126,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Phytochemistry Reviews",
+        "note": "별꽃 등 흔한 잡초 세 종의 전통적 쓰임과 성분·활성 연구를 정리했으며, 지금까지의 근거는 전통적 쓰임을 일부만 뒷받침한다고 결론지었다.",
+        "title": "From traditional use to modern phytochemistry – chemical composition and biological activity of cosmopolitan weed species: Stellaria media, Galium aparine and Galinsoga parviflora",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s11101-026-10287-x",
+        "year": "2026"
+      },
+      {
+        "journal": "Plant Science Today",
+        "note": "별꽃 헥산 분획의 성분을 분석하고, 전립선암 세포와 정상 피부 섬유아세포에서 세포 생존율 변화를 비교했다.",
+        "title": "Phytochemical profiling and selective cytotoxic activity of the hexane fraction of Stellaria media (L.) Vill. against human prostate cancer cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.14719/pst.13731",
+        "year": "2026"
+      },
+      {
         "journal": "Results in Chemistry",
         "note": "별꽃 메탄올 추출물의 성분과 항산화 활성을 살피고, 유방암 세포와 정상 세포에서 생존율 변화를 비교했다.",
         "title": "Biochemical and anticancer properties of Stellaria media extract in breast Cancer",
@@ -142,9 +158,9 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 별꽃 추출물의 항산화 활성, 효소 억제, 암세포 생존율 변화 등을 시험관·세포 실험과 컴퓨터 분석으로 살핀 것이 중심이다. 모두 실험실 수준의 결과이며 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+    "summary": "최근 별꽃(Stellaria media) 연구는 추출물의 성분 분석과 항산화·효소 억제 활성, 암세포 생존율 변화를 살핀 시험관·세포 실험이 중심이다. 2026년 리뷰는 염증·상처 등에 쓰던 전통적 쓰임을 현대 연구가 일부만 뒷받침하며 표준화된 연구가 더 필요하다고 정리했다. 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
   },
   "name": "별꽃",
   "st": "ok",
-  "updatedAt": 1792573003678
+  "updatedAt": 1794084798077
 }

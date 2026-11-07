@@ -93,6 +93,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Nutrition 13",
+        "note": "38개 연구(703명)를 묶어 운동 중 최대산소섭취량의 작은 차이를 보고했다. 주로 남성 연구이고 출판 편향 가능성이 있다.",
+        "title": "Effects of beetroot juice supplementation on maximal oxygen uptake during aerobic exercise: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1858216/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Nutrition 12",
+        "note": "남성 14명의 소규모 교차 시험으로 비트즙을 한 번 마신 뒤를 살폈다. 최대 근력 차이는 없었고 일부 지구력 지표만 달랐다.",
+        "title": "Effects of dietary nitrate supplementation on isometric performance and physiological responses in college bodybuilders: a randomized, double-blind, crossover study",
+        "type": "사람 대상",
+        "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1576712/full",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition 9",
+        "note": "고혈압 환자 연구 7건(218명)을 묶었다. 수축기 혈압 수치만 낮게 나왔고 이완기 혈압은 차이가 없었다.",
+        "title": "Nitrate Derived From Beetroot Juice Lowers Blood Pressure in Patients With Arterial Hypertension: A Systematic Review and Meta-Analysis",
+        "type": "리뷰",
+        "url": "https://frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.823039/full",
+        "year": "2022"
+      },
+      {
         "journal": "Biomolecules 8(4)",
         "note": "비트즙 질산염과 혈압에 관한 사람 시험 11건을 정리했으며, 결과가 시험마다 엇갈렸다.",
         "title": "Dietary Nitrate from Beetroot Juice for Hypertension: A Systematic Review",
@@ -101,7 +125,7 @@
         "year": "2018"
       }
     ],
-    "summary": "비트 뿌리는 질산염과 붉은 색소 베타닌이 많아, 비트즙의 질산염이 혈압에 주는 영향을 본 사람 시험이 여럿 있다. 2018년 체계적 문헌고찰(시험 11건)에서는 효과가 있었다는 시험과 차이가 없었다는 시험이 섞여 있어 결과가 일정하지 않았다. 식약처가 인정한 건강기능식품 원료가 아니다."
+    "summary": "2022년 메타분석(고혈압 환자 7건, 218명)은 수축기 혈압 수치만 낮았다고 보고했고, 2026년 메타분석(38건, 703명)은 운동 중 산소 이용 지표의 작은 차이를 보고했다. 모두 비트즙 질산염에 관한 소규모 연구 묶음이며 일반 비트 섭취 효과를 뜻하지는 않는다. 비트 뿌리는 질산염과 붉은 색소 베타닌이 많아, 비트즙의 질산염이 혈압에 주는 영향을 본 사람 시험이 여럿 있다. 2018년 체계적 문헌고찰(시험 11건)에서는 효과가 있었다는 시험과 차이가 없었다는 시험이 섞여 있어 결과가 일정하지 않았다. 식약처가 인정한 건강기능식품 원료가 아니다."
   },
   "name": "비트",
   "st": "ok",
@@ -109,5 +133,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524922
+  "updatedAt": 1793696033001
 }

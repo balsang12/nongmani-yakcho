@@ -37,12 +37,12 @@
       "q": "꿀풀과 광대나물·조개나물은 어떻게 구별하나요?"
     },
     {
-      "a": "식품으로 쓸 수 있는지는 식약처 식품원료목록에서 부위별로 확인해야 합니다. 이 문서를 쓸 때는 확인하지 못했으니, 판매자에게 식품 원료 여부를 물어보세요.",
+      "a": "이 앱의 식약처 원료 구분에는 먹는 부위가 순, 잎, 꽃대로 올라 있습니다. 판매 전 식품원료목록에서 사용 조건을 확인하세요.",
       "q": "하고초를 식품으로 먹어도 되나요?"
     }
   ],
   "id": {
-    "eat": "주로 말린 꽃이삭을 약재로 다룬다.",
+    "eat": "약재로는 말린 꽃이삭을 다루고, 식품 원료로는 순·잎·꽃대가 올라 있다.",
     "eng": "Self-heal",
     "family": "꿀풀과(Lamiaceae)",
     "grade": "",
@@ -53,8 +53,8 @@
       "leaf": "잎은 마주나고 잎자루가 있으며, 길쭉한 달걀꼴에 털이 있다.",
       "stem": "줄기는 네모지고 높이 20~30cm 정도이며 전체에 짧은 흰 털이 있다. 꽃이 진 뒤 밑동에서 곁가지가 나온다."
     },
-    "parts": "꽃이삭(약재 '하고초'는 꿀풀 또는 하고초 Prunella vulgaris의 꽃이삭을 쓴다)",
-    "prep": "꽃이삭을 따서 그늘에 말려 쓴다는 옛 기록이 있다. 식품 원료로 쓸 수 있는 부위와 조건은 식약처 식품원료목록에서 따로 확인해야 하며, 이 문서 작성 때는 확인하지 못했다.",
+    "parts": "순, 잎, 꽃대(앱의 식약처 원료 구분 기준 먹는 부위). 약재 '하고초'는 꿀풀 또는 Prunella vulgaris의 꽃이삭을 쓴다.",
+    "prep": "꽃이삭을 따서 그늘에 말려 쓴다는 옛 기록이 있다. 식품으로는 순·잎·꽃대를 쓰며, 사용 조건은 판매 전 식약처 식품원료목록에서 확인한다.",
     "sci": "Prunella vulgaris var. lilacina Nakai",
     "season": {
       "collect": [],
@@ -129,8 +129,33 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "이번 조사에서는 논문 검색 서비스 접속이 제한되어 2023~2026년 논문을 직접 확인하지 못했다. 그래서 최근 연구는 싣지 않았으며, 사람에게 효과가 있다는 근거 수준도 판단하지 않았다."
+    "papers": [
+      {
+        "journal": "Antioxidants",
+        "note": "덜 익은 녹색 이삭이 익은 적갈색 이삭보다 페놀산과 시험관 항산화 활성이 높았으나, 한 지역·한 번 수확한 시료의 결과다.",
+        "title": "Differences in Chemical Profiles, Phenolic Content, and Antioxidant Activity of Prunella vulgaris L. at Different Ripeness Stages",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/antiox14111270",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "무작위 시험 17편(1,366명)을 묶어 약 단독보다 일부 지표가 나았다고 보고했지만, 저자들은 근거의 질이 낮아 추가 시험이 필요하다고 밝혔다.",
+        "title": "Efficacy and safety of Prunella vulgaris L. combined with antithyroid drugs for hyperthyroidism: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1530152",
+        "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "소화기 종양 관련 유효 성분의 작용 기전을 정리한 리뷰로, 사람에게 치료 효과가 확인되었다는 뜻은 아니다.",
+        "title": "Anti-Tumor Effects and Toxicity Reduction Mechanisms of Prunella vulgaris: A Comprehensive Review",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules29081843",
+        "year": "2024"
+      }
+    ],
+    "summary": "사람 대상 근거로는 항갑상선제에 꿀풀 제제를 더한 무작위 시험을 묶은 2025년 메타분석이 있으나, 저자들은 근거의 질이 낮다고 밝혔고 약과 함께 쓴 결과라 식품 섭취에 그대로 적용할 수 없다. 항종양 관련 리뷰의 근거는 주로 실험실 수준이다. 꽃이삭의 익은 정도에 따른 성분 차이 연구도 나왔다."
   },
   "name": "하고초",
   "st": "ok",
@@ -147,5 +172,5 @@
     ],
     "text": "한방에서는 꽃이삭을 '하고초'라 하여 열을 내리고 눈을 밝히며 뭉친 것을 풀고 부기를 가라앉히는 약재로 분류한다. 민간에서는 눈병·두통·멍울 등에 써 왔다고 백과사전은 적고 있다."
   },
-  "updatedAt": 1792314395227
+  "updatedAt": 1793825973240
 }

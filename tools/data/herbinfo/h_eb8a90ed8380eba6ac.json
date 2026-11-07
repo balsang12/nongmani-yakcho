@@ -127,23 +127,31 @@
         "year": "2026"
       },
       {
+        "journal": "Comprehensive Reviews in Food Science and Food Safety",
+        "note": "느타리속 버섯의 임상·전임상 연구를 정리했으며, 연구 간 차이와 표준 제형 부족으로 단정하기 어렵다고 보았다.",
+        "title": "Pleurotus Mushrooms in Nutrition and Health: Clinical and Preclinical Insights for Nutraceutical Development",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1111/1541-4337.70279",
+        "year": "2025"
+      },
+      {
+        "journal": "Foods",
+        "note": "느타리 성분에 관한 세포·동물 연구와 소수의 작은 임상시험을 정리한 리뷰로, 저자들은 임상 연구가 더 필요하다고 밝혔다.",
+        "title": "The Emerging Role of Oyster Mushrooms as a Functional Food for Complementary Cancer Therapy",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods14010128",
+        "year": "2025"
+      },
+      {
         "journal": "Journal of Future Foods",
         "note": "느타리의 다당류·단백질·폴리페놀 등 성분 추출법과 실험실에서 보고된 작용을 정리했다.",
         "title": "Extraction and bioactivities of the chemical composition from Pleurotus ostreatus: a review",
         "type": "리뷰",
         "url": "https://doaj.org/article/44cf99feeb1f4b0d958600f1d1bfc4d6",
         "year": "2024"
-      },
-      {
-        "journal": "Journal of Mushrooms",
-        "note": "국내 병재배 느타리의 배지와 자실체에서 미생물 군집이 어떻게 바뀌는지 분석한 재배 연구다.",
-        "title": "느타리 배지 및 자실체 미생물 군집 변화 (Changes in the microbial community of substrate and fruit body of Pleurotus ostreatus)",
-        "type": "기타",
-        "url": "https://doi.org/10.14480/JM.2024.22.2.67",
-        "year": "2024"
       }
     ],
-    "summary": "느타리는 사람 대상 무작위 대조 연구가 몇 편 있지만, 규모가 작고 기간이 짧으며 결과도 엇갈린다. 예를 들어 4주 동안 분말을 먹은 시험에서 LDL 콜레스테롤은 달라지지 않았다. 항산화 같은 성분 작용은 주로 실험실 연구에서 나온 결과다."
+    "summary": "느타리는 사람 대상 무작위 대조 연구가 몇 편 있지만, 규모가 작고 기간이 짧으며 결과도 엇갈린다. 예를 들어 4주 동안 분말을 먹은 시험에서 LDL 콜레스테롤은 달라지지 않았다. 2025년 리뷰들도 연구마다 조건이 달라 단정하기 어렵고 임상 연구가 더 필요하다고 정리했다."
   },
   "name": "느타리",
   "st": "ok",
@@ -156,5 +164,5 @@
     ],
     "text": "한국민족문화대백과사전은 느타리의 한자 이름으로 천화심(天花蕈)과 만이(晩栮)를 들고 있다. 중국에서는 목이·표고 등과 함께 느타리를 다섯 가지 대표 버섯(오심, 五蕈)으로 꼽았다고 한다. 예부터 국거리, 나물, 구이, 부침개, 전골감 등 음식 재료로 써 왔다."
   },
-  "updatedAt": 1792487178148
+  "updatedAt": 1793955353150
 }

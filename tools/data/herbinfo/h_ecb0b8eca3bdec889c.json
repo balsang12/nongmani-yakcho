@@ -125,6 +125,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Nutrition",
+        "note": "홍차처럼 가공한 참죽잎을 대장염 생쥐에게 먹여 플라보노이드 함량과 장내 미생물 변화를 살폈다.",
+        "title": "Black tea-processed Toona sinensis leaves alleviate DSS-induced ulcerative colitis in mice by enriching flavonoids and modulating gut microbiota",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fnut.2026.1888003",
+        "year": "2026"
+      },
+      {
         "journal": "Foods",
         "note": "어린잎과 성숙한 잎, 가공 방법별로 성분을 비교해 어린잎을 발효한 차에서 플라보노이드·폴리페놀과 시험관 항산화 활성이 가장 높았다고 보고했다.",
         "title": "Comparative Effects of Maturity and Processing on Chemical Composition and Bioactivities in Toona sinensis Leaves",
@@ -149,9 +157,9 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 참죽나무 성분을 정리한 리뷰(2024)와 잎 가공 방법에 따른 성분·효소 억제 활성 비교(2025), 수확 뒤 저장 품질 연구(2024) 등이다. 효능 관련 결과는 시험관(세포·효소) 수준이며, 사람 대상 연구는 확인하지 못했다."
+    "summary": "최근 연구는 참죽나무 성분을 정리한 리뷰(2024), 잎 가공 방법에 따른 성분·효소 억제 활성 비교(2025), 수확 뒤 저장 품질 연구(2024), 가공한 잎을 대장염 생쥐에게 먹인 실험(2026) 등이다. 효능 관련 결과는 시험관과 동물 실험 수준이며, 사람 대상 연구는 확인하지 못했다."
   },
   "name": "참죽순",
   "st": "ok",
-  "updatedAt": 1792228597022
+  "updatedAt": 1793653020182
 }

@@ -1,19 +1,22 @@
 {
   "by": "auto",
   "classic": {
-    "book": "동의보감 탕액편",
-    "bu": "",
+    "book": "본초강목",
+    "bu": "과일(果部) 수과류(水果類), 연(蓮藕) 항목",
     "easy": [
-      "『동의보감』은 연밥(藕實)을 과일 부(果部) 맨 앞에 싣고 연의 여러 부위를 함께 다룬다고 소개된다.",
-      "연꽃(蓮花)은 마음을 안정시키고 몸을 가볍게 하며 얼굴이 늙지 않게 한다고 적었다고 인용된다."
+      "마음을 진정시키고 얼굴빛을 좋게 하며, 젊은 얼굴을 유지하고 몸을 가볍게 한다고 적었다(『대명』 인용)."
     ],
     "han": "蓮花",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "苦、甘，溫，無毒。忌地黃、蔥、蒜。",
+    "kiKo": "맛이 쓰고 달며 성질이 따뜻하고 독이 없다. 지황, 파, 마늘을 꺼린다고 했다.",
     "old": "",
-    "orig": "",
+    "orig": "【氣味】苦、甘，溫，無毒。忌地黃、蔥、蒜。【主治】鎮心益色。駐顏輕身（大明）。",
     "sources": [
+      {
+        "title": "本草綱目 蓮藕 (中醫古書, theqi.com)",
+        "url": "https://www.theqi.com/cmed/oldbook/book132/b132_37.html"
+      },
       {
         "title": "헬스경향 [한동하의 식의보감] 연(蓮)을 끊지 않고 먹으면 수명이 늘어난다 (2021)",
         "url": "https://www.k-health.com/news/articleView.html?idxno=54830"
@@ -23,8 +26,8 @@
         "url": "https://www.weeklyseoul.net/news/articleView.html?idxno=31388"
       }
     ],
-    "verified": false,
-    "warn": ""
+    "verified": true,
+    "warn": "『동의보감』 탕액편에도 연밥(藕實)과 함께 연꽃이 실렸다고 소개되지만 원문 페이지를 열지 못해 대조하지 못했다. 옛 기록의 쓰임은 오늘날 효능이나 먹는 법의 근거가 아니다."
   },
   "faq": [
     {
@@ -203,6 +206,14 @@
         "year": "2025"
       },
       {
+        "journal": "Nutrients",
+        "note": "만성 스트레스를 준 생쥐에게 연꽃잎을 주고 기억력과 우울 유사 행동, 혈중 스트레스 호르몬 변화를 살폈다.",
+        "title": "Nelumbo nucifera Petals Ameliorate Depressive-like Symptom and Cognitive Deficit in Unpredictable Chronic Mild Stress Mouse Model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu17010094",
+        "year": "2025"
+      },
+      {
         "journal": "Polymers",
         "note": "연꽃과 연밥송이에서 얻은 다당류의 구조를 분석하고, 시험관 항산화 실험과 대식세포 실험으로 활성을 살폈다.",
         "title": "Lotus-Flower- and Lotus-Seedpod-Derived Polysaccharide: Structural Characterization and Biological Activity",
@@ -211,7 +222,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 사이 연꽃 연구는 꽃 추출물·다당류의 항산화·염증 관련 지표를 살핀 시험관·세포 실험과, 꽃 추출 오일을 생쥐에게 먹인 동물 실험, 연 전체를 다룬 리뷰 정도다. 연꽃이나 연꽃차를 사람에게 먹인 연구는 찾지 못해, 근거는 실험실·동물 수준에 머문다."
+    "summary": "최근 3년 사이 연꽃 연구는 꽃 추출물·다당류의 항산화·염증 관련 지표를 살핀 시험관·세포 실험과, 꽃잎이나 꽃 추출 오일을 생쥐에게 준 동물 실험, 연 전체를 다룬 리뷰 정도다. 연꽃이나 연꽃차를 사람에게 먹인 연구는 찾지 못해, 근거는 실험실·동물 수준에 머문다."
   },
   "name": "연꽃",
   "st": "ok",
@@ -219,5 +230,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792443723000
+  "updatedAt": 1793955353150
 }

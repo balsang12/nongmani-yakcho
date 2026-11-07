@@ -114,6 +114,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Ethnobotany Research and Applications",
+        "note": "비파나무의 민간 쓰임과 성분, 실험 연구를 정리한 리뷰로, 동물 실험에서 잎 물 추출물의 급성 독성이 낮았다는 보고도 소개했다.",
+        "title": "Eriobotrya japonica (Thunb.) Lindl.: Ethnomedicinal uses, phytochemical contents and pharmacological properties: A Review",
+        "type": "리뷰",
+        "url": "https://ethnobotanyjournal.org/index.php/era/article/view/6901",
+        "year": "2025"
+      },
+      {
         "journal": "Molecules",
         "note": "비파잎 추출물이 제브라피시 배아 발달과 행동, 생화학 지표에 어떤 영향을 주는지 살핀 연구다.",
         "title": "Effects of Eriobotrya japonica (Thunb.) Lindl. Leaf Extract on Zebrafish Embryogenesis, Behavior, and Biochemical Pathways",
@@ -130,7 +138,7 @@
         "year": "2025"
       }
     ],
-    "summary": "최근 비파잎 연구는 대부분 시험관·세포 실험이나 동물(제브라피시 등) 실험 단계로, 잎 추출물과 우르솔산 같은 성분의 항산화·항염 관련 작용을 살핀 것이다. 이번 조사에서 사람을 대상으로 한 최근 연구는 확인하지 못했다."
+    "summary": "최근 비파잎 연구는 대부분 시험관·세포 실험이나 동물(제브라피시 등) 실험 단계이며, 2025년 리뷰가 민간 쓰임·성분·실험 결과를 정리했다. 이번 조사에서 사람을 대상으로 한 최근 연구는 확인하지 못했다."
   },
   "name": "비파잎",
   "st": "limit",
@@ -147,5 +155,5 @@
     ],
     "text": "비파나무 잎은 예로부터 폐의 열을 내리고 기침과 가래를 가라앉히며 위를 돕는다고 전해져, 기관지염·구역·딸꾹질·부기 등에 잎을 달여 마셨다고 한다. 대한민국약전에도 '비파엽'이라는 한약재로 실려 있다."
   },
-  "updatedAt": 1792487178149
+  "updatedAt": 1793998434553
 }

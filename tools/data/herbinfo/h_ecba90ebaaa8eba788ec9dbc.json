@@ -9,15 +9,11 @@
       "q": "저먼캐모마일과 로만캐모마일은 뭐가 다른가요?"
     },
     {
-      "a": "꽃송이를 말려 차로 씁니다. 식약처 농산물 분류에서 식용꽃(허브류)으로 다룹니다.",
-      "q": "어느 부위를 먹나요?"
-    },
-    {
-      "a": "국화과 식물이라 돼지풀 등 국화과 꽃가루 알레르기가 있으면 반응이 생길 수 있습니다. 판매할 때 '국화과 식물'임을 알려 주면 좋습니다.",
+      "a": "국화과 식물 알레르기가 있으면 피해야 합니다. 드물지만 아나필락시스 사례도 보고됐습니다. 판매할 때 '국화과 식물'임을 알려 주세요.",
       "q": "알레르기가 있는 사람도 마셔도 되나요?"
     },
     {
-      "a": "혈액응고를 막는 약과 함께 먹으면 상호작용이 있을 수 있다고 알려져 있습니다. 이런 약을 먹는 분은 의사·약사와 상의하도록 안내하세요.",
+      "a": "와파린, 사이클로스포린과의 상호작용 가능성을 보고한 사례가 있습니다. 이런 약을 먹는 분은 의사·약사와 상의하도록 안내하세요.",
       "q": "약을 먹는 사람도 괜찮나요?"
     },
     {
@@ -25,12 +21,13 @@
       "q": "언제 꽃을 따나요?"
     },
     {
-      "a": "안 됩니다. 캐모마일은(는) 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 '불면·소화·면역·다이어트에 좋다' 같은 표현은 쓸 수 없습니다. 향, 맛, 재배 방법, 우려 마시는 법으로 소개해 주세요.",
+      "a": "안 됩니다. 캐모마일은 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 '불면·소화·면역·다이어트에 좋다' 같은 표현은 쓸 수 없습니다. 향, 맛, 재배 방법, 우려 마시는 법으로 소개해 주세요.",
       "q": "판매할 때 효능을 적어도 되나요?"
     }
   ],
   "id": {
     "eat": "말린 꽃을 뜨거운 물에 5분쯤 우려 차로 마신다. 다른 허브차와 섞기도 한다.",
+    "eng": "German chamomile",
     "family": "국화과",
     "grade": "",
     "habitat": "유럽 남부·동부 원산의 한해살이풀로, 지금은 세계 곳곳에서 자란다. 햇볕이 잘 들고 물빠짐 좋은 모래흙을 좋아하며 추위에 강하다. 떨어진 씨로 해마다 다시 나기도 한다. 국내에서는 밭과 화분에서 키운다.",
@@ -65,6 +62,14 @@
       {
         "title": "위키백과, 캐모마일",
         "url": "https://ko.wikipedia.org/wiki/%EC%BA%90%EB%AA%A8%EB%A7%88%EC%9D%BC"
+      },
+      {
+        "title": "EMA HMPC, Matricaria flower 요약(2015)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-summary/matricaria-flower-summary-public_en.pdf"
+      },
+      {
+        "title": "Complementary Therapies in Medicine 91 (2025), Chamomile: A systematic review of adverse events",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0965229925000676"
       }
     ],
     "store": "완전히 말린 꽃을 밀폐 용기에 담아 빛과 습기를 피해 둔다. 습하면 곰팡이가 피기 쉽다.",
@@ -116,6 +121,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Complementary Therapies in Medicine 91",
+        "note": "임상 72건과 사례 보고 11건을 정리했다. 위장 증상·졸음은 대개 가벼웠고, 사례 보고에는 아나필락시스 3건이 있었으며 임신·수유 자료는 부족했다.",
+        "title": "Chamomile: A systematic review of adverse events",
+        "type": "리뷰",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0965229925000676",
+        "year": "2025"
+      },
+      {
+        "journal": "Complementary Therapies in Medicine 84",
+        "note": "연구 10건(772명)을 분석해 밤중에 깨는 횟수 변화를 보고했고, 총 수면 시간에는 뚜렷한 차이가 없었다.",
+        "title": "Effects of chamomile (Matricaria chamomilla L.) on sleep: A systematic review and meta-analysis of clinical trials",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39106912/",
+        "year": "2024"
+      },
+      {
         "journal": "Phytotherapy Research 33(6)",
         "note": "캐모마일 무작위 임상시험 12편을 모아 분석했다. 불안·불면에 대한 연구는 1~3편뿐이라 근거가 적다고 했다.",
         "title": "Therapeutic efficacy and safety of chamomile for state anxiety, generalized anxiety disorder, insomnia, and sleep quality: A systematic review and meta-analysis",
@@ -124,13 +145,18 @@
         "year": "2019"
       }
     ],
-    "summary": "사람 대상 임상시험이 있으나 수가 적다. 2019년 메타분석(무작위 시험 12편)은 수면의 질과 범불안장애에서 결과를 보고했지만, 불안·불면에 대한 근거는 적다고 밝혔다. 대부분 캡슐 추출물 연구다. 캐모마일은 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "사람 대상 임상시험이 있으나 대부분 캡슐 추출물 연구다. 2024년 메타분석(10건·772명)은 밤중에 깨는 횟수가 줄었다고 보고했지만 총 수면 시간에는 뚜렷한 변화가 없었고, 2019년 분석은 불안·불면 근거가 적다고 밝혔다. 2025년 안전성 정리는 대체로 가벼운 이상 반응을 보고했으나 드문 알레르기 사례가 있고 임신·수유 자료는 부족하다고 했다. 캐모마일은 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "캐모마일",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "EMA HMPC, Matricaria flower 요약(2015)",
+        "url": "https://www.ema.europa.eu/en/documents/herbal-summary/matricaria-flower-summary-public_en.pdf"
+      }
+    ],
+    "text": "유럽의약품청(EMA) 약초의약품위원회는 꽃이 가벼운 위장 불편, 감기 증상, 입안 염증 등에 오래 쓰여 온 것을 전통적 사용으로 인정했다. 임상 근거는 부족하다고 밝혔고, 국화과 알레르기가 있는 사람은 쓰지 말라고 적었다."
   },
-  "updatedAt": 1792243524927
+  "updatedAt": 1793739285432
 }

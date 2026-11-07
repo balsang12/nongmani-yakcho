@@ -10,7 +10,12 @@
     "kiKo": "",
     "old": "",
     "orig": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "대한한의학원전학회지 - 東醫寶鑑 湯液篇의 本草 분류에 대한 연구 (2010, 卷二 草部 목록에 決明子 수록)",
+        "url": "https://koreascience.kr/article/JAKO201019254751670.pdf"
+      }
+    ],
     "verified": false,
     "warn": ""
   },
@@ -38,7 +43,7 @@
   ],
   "id": {
     "eat": "볶은 결명자를 물 1L에 10~15g 넣고 끓기 시작하면 약불로 줄여 20분쯤 더 끓여 보리차처럼 마신다. 너무 많이 넣거나 오래 끓이면 쓴맛이 난다.",
-    "eng": "",
+    "eng": "Sickle senna",
     "family": "콩과",
     "grade": "약전 기준으로 결명차 씨는 길이 3~6mm, 지름 2~4mm의 짧은 원기둥 모양으로 한쪽 끝이 뾰족하고, 결명 씨는 겉이 녹갈색~어두운 갈색으로 매끈하고 광택이 난다. 볶은 제품은 국산과 중국산을 눈으로 가리기 어려우므로 원산지가 분명한 곳에서 사고, 같은 곳의 볶지 않은 씨를 함께 확인하는 것이 좋다.",
     "habitat": "한해살이풀로 국내에서는 밭에 심어 기른다. 주산지는 전라북도·충청북도이며, 국립식량과학원이 육성한 '명윤결명' 품종이 있다. 대한민국약전은 결명차(Cassia tora)와 결명(Cassia obtusifolia) 두 종의 씨를 모두 결명자로 인정한다.",
@@ -80,6 +85,10 @@
       {
         "title": "Caesalpinioideae of Malesia - Senna obtusifolia",
         "url": "https://caesalpinioideae.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?id=91932"
+      },
+      {
+        "title": "NParks Flora & Fauna Web - Senna tora",
+        "url": "https://www.nparks.gov.sg/florafaunaweb/flora/5/4/5456"
       }
     ],
     "store": "방습제를 넣은 밀폐 용기에 담아 덥고 습한 곳을 피해 서늘하고 바람이 잘 통하는 곳에 둔다. 짧게 둘 것은 냉장, 오래 둘 것은 냉동 보관이 좋다.",
@@ -196,5 +205,5 @@
     ],
     "text": "결명자라는 이름은 '눈을 밝게 하는 씨'라는 뜻으로, 한방에서 약재로 써 왔고 우리나라에서는 예부터 차로도 흔히 마셨다. 대한민국약전에 결명차와 결명의 잘 익은 씨가 '결명자'로 실려 있다. 한방에서는 성질이 약간 차다고 보며, 볶으면 찬 성질이 조금 누그러진다고 설명한다."
   },
-  "updatedAt": 1792400388863
+  "updatedAt": 1793912231408
 }

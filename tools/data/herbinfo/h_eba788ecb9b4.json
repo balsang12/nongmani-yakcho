@@ -98,6 +98,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients 17(1)",
+        "note": "21건 중 17건이 동물 실험이고 사람 연구는 4건뿐이다. 연구 간 차이와 출판 편향이 커서 사람 근거가 더 필요하다고 했다.",
+        "title": "Effects of Maca (Lepidium meyenii Walp.) on Physical Performance in Animals and Humans: A Systematic Review and Meta-Analysis",
+        "type": "리뷰",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11723211/",
+        "year": "2024"
+      },
+      {
+        "journal": "Antioxidants 13(9)",
+        "note": "연구 11건을 검토해 8건을 묶어 산화 스트레스 지표를 분석했다. 사람 근거는 제한적이라고 밝혔다.",
+        "title": "The Effects of Maca (Lepidium meyenii Walp) on Cellular Oxidative Stress: A Systematic Review and Meta-Analysis",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2076-3921/13/9/1046",
+        "year": "2024"
+      },
+      {
         "journal": "Frontiers in Pharmacology 15",
         "note": "마카 연구를 종합한 리뷰로, 대부분이 시험관·동물 연구이고 사람 연구는 제한적이라고 정리했다.",
         "title": "Exploring the chemical and pharmacological variability of Lepidium meyenii: a comprehensive review of the effects of maca",
@@ -114,7 +130,7 @@
         "year": "2007"
       }
     ],
-    "summary": "2024년 리뷰에 따르면 마카 연구 상당수가 시험관·동물 연구이고, 사람 연구는 남성 생식 건강 등 일부 주제의 소규모 시험에 그친다. 2~3g/일을 12주까지 먹은 사람 시험에서 심각한 부작용은 보고되지 않았지만, 독일 BfR(2007)은 자료가 부족해 안전한 섭취량을 정할 수 없다고 했다. 식약처는 '마카젤라틴화분말'을 개별인정형 건강기능식품 원료(제2011-7호, 2011.2.16)로 인정했고, 인정 현황 자료에는 '갱년기 남성의 건강에 도움' 기능성으로 올라 있다. 같은 자료에 마카 젤라틴화 분말이 '정자 운동성 개선' 기능성 항목으로도 집계돼 있다. 이 기능성은 인정받은 원료로 만든 건강기능식품 제품에만 표시할 수 있고, 일반 마카 가루·뿌리에는 쓸 수 없다."
+    "summary": "2024년 메타분석 두 편도 근거 대부분이 동물·세포 실험이고 사람 연구는 매우 적다고 정리했다. 2024년 리뷰에 따르면 마카 연구 상당수가 시험관·동물 연구이고, 사람 연구는 남성 생식 건강 등 일부 주제의 소규모 시험에 그친다. 2~3g/일을 12주까지 먹은 사람 시험에서 심각한 부작용은 보고되지 않았지만, 독일 BfR(2007)은 자료가 부족해 안전한 섭취량을 정할 수 없다고 했다. 식약처는 '마카젤라틴화분말'을 개별인정형 건강기능식품 원료(제2011-7호, 2011.2.16)로 인정했고, 인정 현황 자료에는 '갱년기 남성의 건강에 도움' 기능성으로 올라 있다. 같은 자료에 마카 젤라틴화 분말이 '정자 운동성 개선' 기능성 항목으로도 집계돼 있다. 이 기능성은 인정받은 원료로 만든 건강기능식품 제품에만 표시할 수 있고, 일반 마카 가루·뿌리에는 쓸 수 없다."
   },
   "name": "마카",
   "st": "limit",
@@ -122,5 +138,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524920
+  "updatedAt": 1793696033001
 }

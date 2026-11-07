@@ -40,7 +40,7 @@
     "eat": "꽃송이에 튀김옷을 입혀 튀기거나, 꽃잎차·꽃술로 담근다.",
     "eng": "black locust",
     "family": "콩과",
-    "grade": "",
+    "grade": "공공기관의 등급 기준은 확인하지 못했다. 2022년 시판 꽃차 23종 조사에서 말린 아카시아꽃 제품은 일반세균·황색포도상구균·살모넬라가 모두 검출된 제품군에 들었고, 연구진은 찬물로 우려 마시는 경우를 고려하면 유해세균 관리가 필요하다고 지적했다. 제조처와 위생 관리 표시가 분명한 제품을 고른다.",
     "habitat": "북아메리카 원산으로 19세기 말~20세기 초에 국내에 들어와 심어졌다. 지금은 야산, 하천 제방, 마을 근처 등 전국 낮은 산과 들에서 흔히 자란다.",
     "look": {
       "flower": "5~6월 길이 10~20cm 꽃대에 흰 나비 모양 꽃이 포도송이처럼 늘어져 달리고, 꽃잎 밑부분이 노르스름하다.",
@@ -93,6 +93,10 @@
       {
         "title": "농촌진흥청 웹진 - 식용 꽃 손질과 보관 (2025년 4월)",
         "url": "https://rda.go.kr/webzine/2025/04/sub_45.html"
+      },
+      {
+        "title": "Lee 외, 시판 23종 꽃차의 유해세균, 중금속 및 잔류농약 평가, Journal of Life Science 32(6) (2022)",
+        "url": "https://koreascience.kr/article/JAKO202219455131550.pdf"
       }
     ],
     "store": "따서 바로 쓰는 것이 가장 좋고, 남으면 마르지 않게 밀폐용기에 담아 냉장 보관한다.",
@@ -175,6 +179,14 @@
         "year": "2024"
       },
       {
+        "journal": "Polymers",
+        "note": "아까시나무 꽃 추출물을 미세입자에 담아 모의 소화 과정에서 항산화 성분이 풀려나는 양상과 세포 반응을 살핀 실험실 연구다.",
+        "title": "Stabilization of Black Locust Flower Extract via Encapsulation Using Alginate and Alginate–Chitosan Microparticles",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/polym16050688",
+        "year": "2024"
+      },
+      {
         "journal": "Plants",
         "note": "크로아티아산 아까시나무 잎과 꽃 추출물의 페놀 성분과 항산화·항균·세포독성 활성을 비교했으며, 잎 추출물의 항산화 활성이 더 높았다.",
         "title": "Invasive Alien Species as a Potential Source of Phytopharmaceuticals: Phenolic Composition and Antimicrobial and Cytotoxic Activity of Robinia pseudoacacia L. Leaf and Flower Extracts",
@@ -183,7 +195,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 사이 아까시나무(Robinia pseudoacacia) 연구는 주로 꽃·잎·껍질의 페놀 성분과 항산화·항균 활성을 시험관에서 분석한 것이다. 꽃을 직접 다룬 연구는 잎과 꽃 추출물을 비교한 한 편 정도이며, 사람 대상 연구는 찾지 못해 근거는 실험실 수준이다."
+    "summary": "최근 3년 사이 아까시나무(Robinia pseudoacacia) 연구는 주로 꽃·잎·껍질의 페놀 성분과 항산화·항균 활성을 시험관에서 분석한 것이다. 꽃을 직접 다룬 연구로는 잎과 꽃 추출물을 비교한 논문과 꽃 추출물을 미세입자에 담는 실험이 있으며, 사람 대상 연구는 찾지 못해 근거는 실험실 수준이다."
   },
   "name": "아카시아꽃",
   "st": "ok",
@@ -204,5 +216,5 @@
     ],
     "text": "아까시나무는 북아메리카에서 근대에 들어온 나무여서 옛 의서에 항목이 없다. 국내에서는 꿀을 얻는 밀원식물로 가장 중요하게 쓰여 국내 양봉 산물의 약 70%가 이 나무에서 나온다고 산림청·국립산림과학원은 설명한다. 꽃은 예부터 아이들이 따서 단맛을 즐겼고, 튀김이나 꽃술로도 먹는다."
   },
-  "updatedAt": 1792443723000
+  "updatedAt": 1793955353150
 }

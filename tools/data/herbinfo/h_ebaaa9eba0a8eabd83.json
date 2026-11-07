@@ -104,11 +104,27 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "목련 추출물이 뼈를 만드는 세포의 분화에 영향을 주는지 실험실 수준에서 살핀 연구로, 사람에게서 확인된 결과는 아니다.",
+        "title": "Novel Osteoblastogenic Activity of Magnolia kobus: The Pharmacological Potential for Osteoporosis",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/ijms27052472",
+        "year": "2026"
+      },
+      {
         "journal": "Scientific Reports",
         "note": "세 가지 목련류 꽃봉오리의 정유 성분을 비교해, 종과 채취 시기에 따라 품질 지표가 달라진다고 보고했다.",
         "title": "Assessment of quality in volatile oil from three basic sources of Xinyi from Hubei by anatomy, GC-MS, and chemometric methods",
         "type": "기타",
         "url": "https://doi.org/10.1038/s41598-025-91477-z",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "아데닌으로 신장 손상을 일으킨 생쥐에게 목련 추출물을 준 실험으로, 신장 지표 변화를 보고했다.",
+        "title": "Magnolia kobus DC. Alleviates adenine-induced chronic kidney disease by regulating ferroptosis in C57BL/6 mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2025.1548660",
         "year": "2025"
       },
       {
@@ -118,9 +134,17 @@
         "type": "기타",
         "url": "https://doi.org/10.1186/s40538-024-00625-6",
         "year": "2024"
+      },
+      {
+        "journal": "Preventive Nutrition and Food Science",
+        "note": "혈관 평활근 세포를 배양해 목련 추출물이 세포 증식 관련 단백질에 주는 영향을 살폈다.",
+        "title": "Magnolia kobus DC. Regulates Vascular Smooth Muscle Cell Proliferation by Modulating O-GlcNAc and MOF Expression",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3746/pnf.2024.29.4.430",
+        "year": "2024"
       }
     ],
-    "summary": "최근 연구는 목련류 꽃봉오리의 성분 분석과 시험관 실험이 중심이다. 이번 조사에서 확인한 논문은 성분·품질 비교와 시험관 항산화·항균 실험 수준이며, 사람 대상 연구는 확인하지 못했다."
+    "summary": "최근 연구는 목련류 꽃봉오리의 성분·품질 분석과, 목련 추출물을 쓴 세포·동물 실험이 중심이다. 동물·세포 실험 논문들은 어느 부위 추출물인지 논문마다 달라 꽃봉오리 차에 그대로 옮겨 말할 수 없으며, 사람 대상 연구는 확인하지 못했다."
   },
   "name": "목련꽃",
   "st": "ok",
@@ -133,5 +157,5 @@
     ],
     "text": "백목련 등 목련류의 꽃봉오리를 봄에 따서 그늘에 말린 것을 신이(辛夷)라는 생약으로 써 왔다."
   },
-  "updatedAt": 1792487178149
+  "updatedAt": 1793998434553
 }

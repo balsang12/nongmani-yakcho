@@ -136,8 +136,16 @@
         "journal": "Chemistry & Biodiversity",
         "note": "명아주 무리의 화학 성분 다양성과 영양·약리 측면을 다룬 논문이다.",
         "title": "Chemical Diversity and Health-Promoting Attributes of Chenopodium album: Nutritional and Pharmacological Perspectives",
-        "type": "기타",
+        "type": "리뷰",
         "url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cbdv.202403456",
+        "year": "2025"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "명아주 지상부 추출 분획을 혈전을 유도한 제브라피시 유생에게 처리해 혈전 형성과 관련 신호 경로 변화를 살폈다.",
+        "title": "Antithrombotic Effect of Chenopodium album L. Extract and Its Fractions via Regulating TLRs and the Downstream MAPKs and PI3K/AKT Signaling Pathways in Zebrafish",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms26052118",
         "year": "2025"
       },
       {
@@ -149,7 +157,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 대부분 명아주 무리(Chenopodium album)의 영양 성분과 페놀·플라보노이드 같은 성분, 조리·가공에 따른 변화를 정리한 리뷰다. 항산화·항염 같은 활성은 주로 세포·동물 실험 단계이며, 사람에서는 먹은 뒤 햇볕을 쬐어 생긴 광독성 피부염 사례 보고가 있다."
+    "summary": "최근 연구는 대부분 명아주 무리(Chenopodium album)의 영양 성분과 페놀·플라보노이드 같은 성분, 조리·가공에 따른 변화를 정리한 리뷰다. 항산화·항염 같은 활성은 주로 세포·동물 실험 단계이며, 사람에서는 먹은 뒤 햇볕을 쬐어 생긴 광독성 피부염 사례 보고가 있다. 2025년에는 제브라피시에서 추출 분획을 시험한 동물 실험도 나왔으나 사람에게 적용할 수 있는 결과는 아니다."
   },
   "name": "명아주",
   "st": "ok",
@@ -166,5 +174,5 @@
     ],
     "text": "명아주는 어린잎을 나물로 먹고, 다 자란 줄기는 지팡이 재료로 써 왔다. 민간에서는 달여 먹거나 찧어 벌레 물린 곳에 붙이는 등 약으로도 썼다고 전한다."
   },
-  "updatedAt": 1792487178149
+  "updatedAt": 1793955353150
 }

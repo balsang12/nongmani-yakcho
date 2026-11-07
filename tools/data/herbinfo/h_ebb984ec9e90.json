@@ -41,7 +41,7 @@
       "q": "제주 비자림에서 열매를 주워도 되나요?"
     },
     {
-      "a": "확인이 필요합니다. 식약처 식품원료 목록에서 비자(비자나무 씨)의 등재 여부와 사용 조건을 이번에 직접 확인하지 못했으므로, 식품으로 팔거나 가공하기 전에 식품안전나라의 식품원료 목록을 확인하세요.",
+      "a": "네, 이 앱의 품목표에는 식약처 기준 먹는 부위가 열매·씨앗으로 정리되어 있습니다. 식품으로 팔거나 가공하기 전에는 식품안전나라 식품원료 목록에서 현재 기준을 다시 확인하세요.",
       "q": "비자는 식품원료로 등록되어 있나요?"
     }
   ],
@@ -148,6 +148,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "씨에서 분리한 페놀 화합물의 작용을 컴퓨터로 예측하고 씨 추출물로 대식세포 실험을 했으며, 저자들은 동물·임상 검증이 더 필요하다고 밝혔다.",
+        "title": "Integrative Discovery Through Network Pharmacology and Molecular Docking Approaches of Phenolic Compounds Isolated from Torreya nucifera to Treat Rheumatoid Arthritis",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms262311629",
+        "year": "2025"
+      },
+      {
         "journal": "Plants",
         "note": "제주·진주·화순의 비자나무 잎 정유를 계절별로 분석해 수율은 지역에 따라 달랐고 리모넨·카렌이 주성분이었다고 보고했다.",
         "title": "Seasonal and Regional Effects on the Yield and Bioactive Constituents of Torreya nucifera Essential Oils in South Korea",
@@ -156,7 +164,7 @@
         "year": "2025"
       }
     ],
-    "summary": "최근 3년 연구는 많지 않고, 국내 비자나무 잎 정유의 성분과 수율을 지역·계절별로 비교한 연구가 대표적이다. 씨 추출물의 항염·항균 작용은 그 이전의 세포·동물 실험에서 보고된 수준이라 사람에게서의 효과는 확인되지 않았다."
+    "summary": "최근 3년 연구는 많지 않다. 씨의 페놀 화합물을 컴퓨터 예측과 대식세포 실험으로 살핀 연구, 국내 비자나무 잎 정유의 성분과 수율을 지역·계절별로 비교한 연구가 있다. 씨 추출물 연구는 세포·동물 실험 수준이라 사람에게서의 효과는 확인되지 않았다."
   },
   "name": "비자",
   "st": "ok",
@@ -169,5 +177,5 @@
     ],
     "text": "한의학 자료에서 비자는 성질이 평하고 맛이 달며, 기생충을 없애고 체한 것을 내리며 장을 윤택하게 해 변비·치질 등에 써 왔다고 정리한다. 가을에 거둔 씨를 말려 깨거나 살짝 볶아 썼고, 많이 먹는 것은 피하라고 했다."
   },
-  "updatedAt": 1792400388863
+  "updatedAt": 1793912231408
 }

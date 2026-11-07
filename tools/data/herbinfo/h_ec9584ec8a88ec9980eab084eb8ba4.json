@@ -17,7 +17,7 @@
       "q": "해외직구 아슈와간다는 괜찮나요?"
     },
     {
-      "a": "드물지만 간 손상 사례가 보고됐습니다. 임산부는 피해야 하고, 국내 인정 제품도 영·유아·어린이·임산부·수유부는 섭취를 피하고 신경안정제 같은 졸음 유발 약과 같이 먹지 말라고 표시합니다. 덴마크는 2023년 건강보조식품에 아슈와간다 사용을 금지했습니다.",
+      "a": "드물지만 심각한 간 손상 사례가 보고됐습니다. 2026년 문헌 조사에는 환자 25명이 정리되어 있고, 간이식과 사망 사례도 있었습니다. 임신·수유 중에는 피해야 하고, 국내 인정 제품도 영·유아·어린이·임산부·수유부는 섭취를 피하고 신경안정제 같은 졸음 유발 약과 같이 먹지 말라고 표시합니다. 덴마크는 2023년 건강보조식품에 아슈와간다 사용을 금지했습니다.",
       "q": "부작용은 없나요?"
     },
     {
@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "식약처 식품원료 목록(사용 가능·제한적 사용 원료)에 올라 있지 않아, 뿌리·가루·차를 일반 식품으로 팔 수 없다.",
+    "eng": "Ashwagandha",
     "family": "가지과 위타니아속",
     "grade": "",
     "habitat": "인도·네팔·스리랑카와 중동·북아프리카·남유럽 등 건조한 지역에 자라고, 인도의 건조 지대에서 많이 재배한다. 햇볕이 잘 들고 돌이 섞인 마른 땅을 좋아한다. 국내 자생종은 없고, 국내 유통품은 대부분 수입 추출물이다.",
@@ -68,6 +69,14 @@
       {
         "title": "식품안전나라 식품원료 목록 — 아슈와간다 미등재(2026.10 확인)",
         "url": "https://www.foodsafetykorea.go.kr/portal/safefoodlife/foodMeterial/foodMeterialDB.do?menu_no=2966&menu_grp=MENU_NEW04"
+      },
+      {
+        "title": "미국 NCCIH, Ashwagandha: Usefulness and Safety",
+        "url": "https://www.nccih.nih.gov/health/ashwagandha"
+      },
+      {
+        "title": "Cureus 18(5):e109764 (2026), Ashwagandha-Associated Liver Injury: A Scoping Review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367407/"
       }
     ],
     "store": "",
@@ -94,6 +103,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology 17",
+        "note": "무작위 임상 20건(1,249명)을 묶어 인지·근력 지표의 변화를 보고했고, 근거 확실성은 중간~매우 낮음이었다.",
+        "title": "Effects of Withania somnifera (L.) Dunal (Ashwagandha) on cognitive and physical function in adults: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1799467/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Cureus 18(5)",
+        "note": "13편에 실린 간 손상 환자 25명을 정리한 사례 조사로, 진행된 간 질환자는 피하도록 권했다.",
+        "title": "Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review of Clinical Characteristics and Safety Considerations",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367407/",
+        "year": "2026"
+      },
+      {
+        "journal": "Explore 20(6)",
+        "note": "무작위 임상 9건(558명)을 묶어 분석했고, 장기 안전성 정보가 더 필요하다고 했다.",
+        "title": "Effects of Ashwagandha (Withania Somnifera) on stress and anxiety: A systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39348746/",
+        "year": "2024"
+      },
+      {
         "journal": "PLoS ONE 16(9)",
         "note": "무작위 임상 5건을 모은 메타분석. 효과 크기는 작고 근거 수준은 중간~낮음이며, 장기 안전성 자료가 부족하다고 정리했다.",
         "title": "Effect of Ashwagandha (Withania somnifera) extract on sleep: A systematic review and meta-analysis",
@@ -102,7 +135,7 @@
         "year": "2021"
       }
     ],
-    "summary": "사람 대상 무작위 임상시험이 여러 건 있다. 2021년 메타분석(임상 5건)은 뿌리 추출물이 위약보다 수면 점수를 조금 높였다고 보고했지만, 근거 수준은 '중간~낮음'이고 장기 안전성 자료는 부족하다고 밝혔다. 국내에서 인정된 기능성은 특정 추출물(제2022-27호)의 '수면건강에 도움을 줄 수 있음' 하나뿐이며, 그 원료로 만든 인정 건강기능식품에만 쓸 수 있다."
+    "summary": "사람 대상 무작위 임상이 여러 건 있고 대부분 뿌리 추출물 제품 연구다. 2024년 메타분석(9건·558명)은 스트레스·불안 점수가 위약보다 낮았다고 보고했고, 2026년 메타분석(20건·1,249명)은 일부 인지·근력 지표 변화를 보고했지만 근거 확실성은 중간~매우 낮음이었다. 반면 2026년 사례 조사는 드물지만 심각한 간 손상을 정리했다. 국내에서 인정된 기능성은 특정 추출물(제2022-27호)의 '수면건강에 도움을 줄 수 있음' 하나뿐이며, 그 원료로 만든 인정 건강기능식품에만 쓸 수 있다."
   },
   "name": "아슈와간다",
   "st": "check",
@@ -120,13 +153,26 @@
       {
         "title": "NutraIngredients, 아슈와간다 각국 규제 연표(2026.7.6)",
         "url": "https://www.nutraingredients.com/Article/2026/07/06/timeline-will-authorities-de-throne-the-king-of-herbs/"
+      },
+      {
+        "title": "미국 NCCIH, Ashwagandha: Usefulness and Safety",
+        "url": "https://www.nccih.nih.gov/health/ashwagandha"
+      },
+      {
+        "title": "Cureus 18(5):e109764 (2026), Ashwagandha-Associated Liver Injury: A Scoping Review",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42367407/"
       }
     ],
-    "text": "국내 규제: 아슈와간다는 식약처 식품원료 목록(사용 가능·제한적 사용 원료)에 없어 뿌리·가루·차를 일반 식품으로 팔 수 없다. 식약처가 인정한 것은 코스맥스엔비티의 '아쉬아간다 추출물(Shoden®)' 한 가지로, 건강기능식품 개별인정형 원료(제2022-27호, '수면건강에 도움을 줄 수 있음', 하루 120mg)다. 이 인정은 해당 원료로 만든 건강기능식품에만 적용된다. 안전성: 드물게 간 손상 사례가 보고됐고, 임신 중에는 피해야 한다. 호르몬에 민감한 질환이 있는 사람도 피하라는 권고가 있다. 해외에서는 덴마크가 2023년 건강보조식품 사용을 금지했고, 네덜란드는 2024년 섭취를 권하지 않는다고 발표했다."
+    "text": "국내 규제: 아슈와간다는 식약처 식품원료 목록(사용 가능·제한적 사용 원료)에 없어 뿌리·가루·차를 일반 식품으로 팔 수 없다. 식약처가 인정한 것은 코스맥스엔비티의 '아쉬아간다 추출물(Shoden®)' 한 가지로, 건강기능식품 개별인정형 원료(제2022-27호, '수면건강에 도움을 줄 수 있음', 하루 120mg)다. 이 인정은 해당 원료로 만든 건강기능식품에만 적용된다. 안전성: 드물게 간 손상 사례가 보고됐고, 임신 중에는 피해야 한다. 호르몬에 민감한 질환이 있는 사람도 피하라는 권고가 있다. 해외에서는 덴마크가 2023년 건강보조식품 사용을 금지했고, 네덜란드는 2024년 섭취를 권하지 않는다고 발표했다. 2026년 문헌 조사는 간 손상 환자 25명의 사례를 모아, 여러 주 복용 뒤 황달·가려움과 함께 나타나는 경우가 많고 대부분 중단 후 회복했지만 간이식 1명과 간경변 환자 사망 3명이 있었다고 보고했다. 미국 NCCIH는 임신·수유 중에는 피하고, 갑상선·자가면역 질환자나 수술을 앞둔 사람, 호르몬 민감성 전립선암 환자는 조심하라고 안내한다."
   },
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "미국 NCCIH, Ashwagandha: Usefulness and Safety",
+        "url": "https://www.nccih.nih.gov/health/ashwagandha"
+      }
+    ],
+    "text": "인도 전통의학 아유르베다에서 오랫동안 약초로 써 온 식물이다. 다만 이는 전통적 쓰임을 소개한 것이고, 국내에서 뿌리·가루·차를 식품으로 팔 수 있다는 뜻은 아니다."
   },
-  "updatedAt": 1792243524925
+  "updatedAt": 1793739285432
 }

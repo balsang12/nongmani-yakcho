@@ -1,17 +1,27 @@
 {
   "by": "auto",
   "classic": {
-    "book": "동의보감 탕액편",
-    "bu": "",
-    "easy": [],
-    "han": "山査子",
+    "book": "본초강목",
+    "bu": "과일(果部)",
+    "easy": [
+      "달인 물을 마시면 묽은 설사를 멎게 한다고 적었다.",
+      "달인 물로 머리를 감고 몸을 씻어 부스럼과 가려움에 썼다고 적었다.",
+      "먹은 음식이 쌓인 데, 특히 고기를 먹고 체한 데 쓴다고 적었다.",
+      "서리가 내린 뒤 9월에 익은 것을 따서 씨를 빼고 말리거나, 쪄서 껍질과 씨를 뺀 뒤 떡처럼 빚어 말렸다고 적었다."
+    ],
+    "han": "山楂",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "酸, 冷, 無毒",
+    "kiKo": "맛은 시고 성질은 차며 독이 없다고 적었다.",
     "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
+    "orig": "煮汁服,止水痢。沐頭洗身,治瘡癢。… 消食積,補脾,治小腸疝氣,發小兒瘡疹。… 化飲食,消肉積症瘕,痰飲痞滿吞酸,滯血痛脹。",
+    "sources": [
+      {
+        "title": "위키문헌 本草綱目/果之二 (山楂)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%BA%8C"
+      }
+    ],
+    "verified": true,
     "warn": ""
   },
   "faq": [
@@ -143,6 +153,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Foods",
+        "note": "중국 산사 유전자원의 분포와 종별 성분·기능성 비교, 가공·활용 현황을 묶어 정리한 리뷰로, 산사나무(C. pinnatifida)를 중심 종으로 다룬다.",
+        "title": "The Hawthorn (Crataegus spp.) Value Chain: An Integrated Analysis of Resource Availability, Phytochemical Characterization, and Therapeutic Applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods15010148",
+        "year": "2026"
+      },
+      {
         "journal": "Agrobiodiversity for Improving Nutrition, Health and Life Quality",
         "note": "큰 열매 계통(넓은잎산사) 열매와 씨의 크기·무게를 재고, 폴리페놀·안토시아닌 함량과 항산화 활성을 실험실에서 측정했다.",
         "title": "Morphometric Traits, Phenolic Content, and Antioxidant Capacity of Crataegus pinnatifida Bge. var. major N. E. Brown",
@@ -180,5 +198,5 @@
     ],
     "text": "산림청 자료는 산사나무 열매가 예로부터 소화를 돕는 약재(건위제)로 쓰였고, 강장 목적이나 심장·혈관 관련 증상에도 쓰였다고 소개한다. 서양에서는 산사나무류를 울타리용으로 많이 심었다."
   },
-  "updatedAt": 1792400388863
+  "updatedAt": 1793912231408
 }

@@ -148,6 +148,14 @@
         "type": "기타",
         "url": "https://www.sciencedirect.com/science/article/abs/pii/S0367326X24000522",
         "year": "2024"
+      },
+      {
+        "journal": "Chemistry & Biodiversity",
+        "note": "뽀리뱅이 전초에서 세스퀴테르펜 락톤 성분들을 분리하고 세포에 대한 독성(세포 생존율 저하)을 시험관에서 살폈다.",
+        "title": "Discovery of Sesquiterpene Lactones with Cytotoxicity from the Herb of Youngia japonica",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1002/cbdv.202401063",
+        "year": "2024"
       }
     ],
     "summary": "최근 연구는 뽀리뱅이에서 세스퀴테르펜 락톤 성분을 분리해 염증·종양 관련 활성을 살핀 실험 연구와, 전체 유전체·엽록체 유전체를 해독한 연구가 중심이다. 효능 관련 연구는 실험실 수준이며 사람 대상 연구는 찾지 못했다."
@@ -163,5 +171,5 @@
     ],
     "text": "한방에서는 뿌리나 전초를 황암채(黃鵪菜)라 하여, 봄에는 전초를, 가을에는 뿌리를 캐어 생으로 또는 말려 썼다고 소개된다. 성질이 서늘하다고 보아 열을 내리고 부기를 빼는 데 쓰고, 짓찧어 종기 등에 붙이기도 했다고 전한다. 이는 옛 쓰임에 대한 소개이며 효능이 확인된 것은 아니다."
   },
-  "updatedAt": 1792573003679
+  "updatedAt": 1794084798077
 }

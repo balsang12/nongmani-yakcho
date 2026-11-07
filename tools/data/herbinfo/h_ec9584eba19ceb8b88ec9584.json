@@ -145,6 +145,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Endocrinology, Diabetes & Metabolism",
+        "note": "사람 대상 무작위 시험 7편을 묶어 분석한 결과 체중과 공복혈당에 뚜렷한 차이가 없었고, 시험은 작고 기간이 4~13주로 짧았다.",
+        "title": "The Effect of Aronia melanocarpa (Chokeberry) on Body Weight and Fasting Blood Sugar: A Systematic Review and Meta-Analysis of Randomised Controlled Trials",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12664649/",
+        "year": "2025"
+      },
+      {
         "journal": "The North African Journal of Food and Nutrition Research",
         "note": "사람 대상 시험 4편(200명)을 모은 결과 장내 미생물 다양성 전체에는 변화가 없었고, 일부 유익균 증가가 관찰됐으나 혈관 기능·공복 혈당은 달라지지 않았다.",
         "title": "The Impact of Black Chokeberry (Aronia melanocarpa) on Gut Microbiota and Human Health: Systematic Review and Meta-analysis of Randomized Controlled Trials in Humans",
@@ -169,7 +177,7 @@
         "year": "2024"
       }
     ],
-    "summary": "아로니아는 안토시아닌·클로로겐산 등 폴리페놀이 많아 연구가 활발하다. 그러나 사람 대상 무작위 대조시험 10편을 모은 2025년 메타분석에서는 혈압·혈중지질·혈당·체중에 뚜렷한 개선이 없었고 근거 확실성도 '매우 낮음'으로 평가됐다. 장내 미생물 관련 시험도 소규모여서 효과를 단정할 수 없다."
+    "summary": "아로니아는 안토시아닌·클로로겐산 등 폴리페놀이 많아 연구가 활발하다. 그러나 사람 대상 무작위 대조시험을 모은 2025년 메타분석 두 편에서 혈압·혈중지질·혈당·체중에 뚜렷한 개선이 없었고, 한 편은 근거 확실성을 '매우 낮음'으로 평가했다. 장내 미생물 관련 시험도 소규모여서 효과를 단정할 수 없다."
   },
   "name": "아로니아",
   "st": "ok",
@@ -182,5 +190,5 @@
     ],
     "text": "북미 원산이라 동아시아 고서에는 기록이 없다. 학술 리뷰에 따르면 북미 포타와토미 원주민은 열매로 차를 끓여 감기에 썼고, 미국 북동부에서는 열매를 말린 고기와 섞은 보존식(페미컨)에 넣었으며, 정착민들은 열매와 나무껍질을 수렴제로 썼다. 이후 러시아(옛 소련)와 동유럽으로 건너가 과일 작물로 재배되었다."
   },
-  "updatedAt": 1792357325694
+  "updatedAt": 1793868934020
 }

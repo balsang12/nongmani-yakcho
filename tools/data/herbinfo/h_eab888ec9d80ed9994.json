@@ -147,8 +147,25 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "이번 조사에서는 논문 검색 서비스 접속이 제한되어 2023~2026년 논문을 직접 확인하지 못했다. 그래서 최근 연구는 싣지 않았으며, 사람에게 효과가 있다는 근거 수준도 판단하지 않았다."
+    "papers": [
+      {
+        "journal": "Acta Materia Medica",
+        "note": "인동덩굴 성분이 염증 신호에 관여하는 경로를 정리하고, 임상 적용까지의 어려움도 함께 짚은 리뷰다.",
+        "title": "Therapeutic potential of Lonicera japonica Thunb. in inflammation: mechanistic insights from molecular targets",
+        "type": "리뷰",
+        "url": "https://doi.org/10.15212/AMM-2025-0068",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Oncology",
+        "note": "금은화에서 밝혀진 화합물 507종을 정리하고 항암 기전 연구, 체내 동태, 품질 관리, 독성 자료를 모은 문헌 리뷰다.",
+        "title": "Lonicerae Japonicae Flos with the homology of medicine and food: a review of active ingredients, anticancer mechanisms, pharmacokinetics, quality control, toxicity and applications",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/articles/10.3389/fonc.2024.1446328/full",
+        "year": "2024"
+      }
+    ],
+    "summary": "금은화 최근 연구는 클로로겐산·루테올린 같은 성분의 작용 기전을 정리한 리뷰가 중심이다. 항암·항염 작용을 다룬 리뷰도 대부분 실험실 연구를 모은 것이고, 사람에게 효과가 확인되었다는 뜻은 아니며 임상으로 이어지기까지 한계가 남았다고 밝힌다. 이번 조사에서 금은화 단독의 사람 대상 시험은 찾지 못했다."
   },
   "name": "금은화",
   "st": "limit",
@@ -169,5 +186,5 @@
     ],
     "text": "한방에서는 인동덩굴의 꽃봉오리를 '금은화', 잎과 줄기를 '인동'이라는 서로 다른 약재로 구분한다. 민간에서는 열이 심한 감기·몸살이나 종기에 줄기를 달여 썼다고 전한다."
   },
-  "updatedAt": 1792314395227
+  "updatedAt": 1793782518465
 }

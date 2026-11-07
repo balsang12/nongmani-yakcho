@@ -160,6 +160,14 @@
         "year": "2026"
       },
       {
+        "journal": "Frontiers in Nutrition",
+        "note": "말차·녹차 성분과 코르티솔·테스토스테론의 관계를 다룬 연구를 체계적으로 모았으나, 근거 확실성은 낮거나 매우 낮다고 평가했다.",
+        "title": "A CE/TA-stratified systematic review and evidence map of matcha and green tea bioactives in endocrine stress regulation: testosterone, cortisol, and the T:C ratio",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fnut.2026.1925871",
+        "year": "2026"
+      },
+      {
         "journal": "Blood Press",
         "note": "성인 대상 무작위 대조시험을 모아 녹차 보충과 혈압의 관계를 용량별로 분석하고 근거 수준을 평가했다.",
         "title": "Effect of green tea supplementation on blood pressure in adults: a GRADE-assessed systematic review and dose-response meta-analysis of randomised controlled trials.",
@@ -174,17 +182,9 @@
         "type": "리뷰",
         "url": "https://doi.org/10.1016/j.clinthera.2025.09.011",
         "year": "2025"
-      },
-      {
-        "journal": "Am J Chin Med",
-        "note": "녹차와 주요 카테킨 성분(EGCG)이 암 예방과 관련이 있는지 기존 연구를 체계적으로 검토했다.",
-        "title": "Green Tea and Epigallocatechin Gallate (EGCG) for Cancer Prevention: A Systematic Review and Meta-Analysis.",
-        "type": "리뷰",
-        "url": "https://doi.org/10.1142/s0192415x2550065x",
-        "year": "2025"
       }
     ],
-    "summary": "최근 3년 사이 녹차(Camellia sinensis) 연구는 사람 대상 무작위 대조시험을 모은 메타분석이 많으며 혈압, 대사증후군, 인지 기능, 암 예방 등과의 관련성을 살폈다. 연구마다 대상·용량·제품(차 또는 추출물)이 달라 결과를 일반화하기 어렵고, 근거는 관련성 또는 보조적 수준에 머문다."
+    "summary": "최근 3년 사이 녹차(Camellia sinensis) 연구는 사람 대상 시험을 모은 메타분석과 체계적 고찰이 많으며 혈압, 대사증후군, 인지 기능, 스트레스 호르몬과의 관련성을 살폈다. 연구마다 대상·용량·제품(차 또는 추출물)이 달라 결과를 일반화하기 어렵고, 근거는 관련성 또는 보조적 수준에 머문다."
   },
   "name": "녹차",
   "st": "ok",
@@ -192,5 +192,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792443723000
+  "updatedAt": 1793955353150
 }

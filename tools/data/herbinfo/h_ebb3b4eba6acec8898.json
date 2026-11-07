@@ -10,9 +10,14 @@
     "kiKo": "",
     "old": "",
     "orig": "",
-    "sources": [],
+    "sources": [
+      {
+        "title": "위키문헌 本草綱目 木之三 (胡頹子 항목)",
+        "url": "https://zh.wikisource.org/wiki/本草綱目/木之三"
+      }
+    ],
     "verified": false,
-    "warn": "동의보감에서 보리수나무 열매 항목을 확인하지 못했다. 원문 데이터베이스에 접속하지 못해 항목이 없다고 단정하지는 못한다."
+    "warn": "동의보감에서 보리수나무 열매 항목은 찾지 못했다(탕액편 전체를 다 대조하지는 못해 없다고 단정하지는 않는다). 본초강목 권36의 胡頹子 항목은 같은 보리수나무속 식물을 적은 것으로 열매를 '酸，平，無毒', '止水痢'라 했으나, 이 항목이 보리수나무(E. umbellata)와 같은 종인지 확인하지 못해 고서 기록으로 싣지 않았다."
   },
   "faq": [
     {
@@ -144,6 +149,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "동결 건조한 열매 추출물을 먹인 예쁜꼬마선충에서 지방 축적과 활성산소, 움직임 변화를 살폈다.",
+        "title": "Autumn Olive (Elaeagnus umbellata Thunb.) Berries Improve Lipid Metabolism and Delay Aging in Middle-Aged Caenorhabditis elegans",
+        "type": "동물 실험",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10970442/",
+        "year": "2024"
+      },
+      {
         "journal": "Saudi Journal of Biological Sciences",
         "note": "보리수나무 열매의 영양 성분과 폴리페놀, 실험에서 보고된 항산화·항염 작용 등을 정리한 문헌 리뷰다.",
         "title": "Elaeagnus umbellata: A miraculous shrub with potent health-promoting benefits from Northwest Himalaya",
@@ -160,7 +173,7 @@
         "year": "2023"
       }
     ],
-    "summary": "보리수나무 열매에는 안토시아닌 등 폴리페놀과 비타민 C가 들어 있고, 라이코펜 원료로도 연구된다. 다만 건강 관련 내용은 대부분 세포·동물 실험을 정리한 리뷰에 근거하며, 사람 대상 연구는 확인하지 못했다. 뜰보리수는 열매 크기·당도 같은 품종 특성 연구가 주를 이룬다."
+    "summary": "보리수나무 열매에는 안토시아닌 등 폴리페놀과 비타민 C가 들어 있고, 라이코펜 원료로도 연구된다. 다만 건강 관련 내용은 세포·동물 실험과 이를 정리한 리뷰, 2024년 선충 실험 수준이며, 사람 대상 연구는 확인하지 못했다. 뜰보리수는 열매 크기·당도 같은 품종 특성 연구가 주를 이룬다."
   },
   "name": "보리수",
   "st": "ok",
@@ -177,5 +190,5 @@
     ],
     "text": "보리수나무는 우리나라 민간에서 소화불량과 기침에 써 온 민간약으로 알려져 있다. 생약학 연구에서는 이 민간약의 기원이 보리수나무(Elaeagnus umbellata)의 가지라고 밝혔으며, 열매가 아니라 가지를 쓴 것이라는 점에 주의해야 한다. 뜰보리수는 중국·한국·일본에서 오래 재배되며 전통 의약에 쓰였다고 보고된다."
   },
-  "updatedAt": 1792357325694
+  "updatedAt": 1793868934020
 }

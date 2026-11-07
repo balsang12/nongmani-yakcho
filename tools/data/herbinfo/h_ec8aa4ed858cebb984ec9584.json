@@ -21,18 +21,15 @@
       "q": "언제 거두나요?"
     },
     {
-      "a": "서리에 약해 노지에서는 겨울을 나기 어렵습니다. 어미 포기를 하우스에서 겨울나게 한 뒤 봄에 꺾꽂이로 모종을 만듭니다.",
-      "q": "겨울을 나나요?"
-    },
-    {
       "a": "안 됩니다. 스테비아 잎은 식약처가 기능성을 인정한 건강기능식품 원료가 아니어서 혈당·다이어트 같은 표현은 쓸 수 없습니다. '설탕 대신 단맛을 내는 잎' 정도로 맛과 쓰임새를 소개해 주세요.",
       "q": "판매할 때 효능을 적어도 되나요?"
     }
   ],
   "id": {
     "eat": "말린 잎을 차로 우리거나 다른 차에 조금 섞어 단맛을 낸다. 잎 가루를 음료·요리에 소량 넣기도 한다.",
+    "eng": "Stevia",
     "family": "국화과 스테비아속",
-    "grade": "",
+    "grade": "공인된 등급 기준은 확인하지 못했다. 건조 연구를 보면 높은 온도로 말린 잎은 엽록소가 줄어 색이 변하고 단맛 성분도 줄 수 있으므로, 초록빛이 남고 바싹 마른 잎을 고른다. 잎을 조금 씹어 단맛이 분명한지 확인한다.",
     "habitat": "남미 파라과이와 브라질 국경 지대가 원산지다. 따뜻하고 습한 곳을 좋아하고 서리를 견디지 못해, 우리나라에서는 봄에 꺾꽂이 모종을 밭에 심어 가을에 거두는 한해살이처럼 키운다. 전북 고창·정읍 등에서 재배한 기록이 있고, 지금도 소규모 농가와 텃밭에서 키운다.",
     "look": {
       "flower": "가을에 낮이 짧아지면 줄기 끝에 흰색(옅은 보랏빛이 도는) 작은 꽃이 모여 핀다. 향은 거의 없다.",
@@ -41,7 +38,7 @@
       "stem": "높이 30~60cm 안팎으로 자라며 가지가 많이 갈라진다. 줄기에 잔털이 있다."
     },
     "parts": "잎(식품원료 목록상 사용 부위는 잎)",
-    "prep": "꽃이 피기 직전에 줄기째 베어 잎을 훑어 그늘이나 낮은 온도에서 말린다. 줄기는 단맛이 적어 골라낸다.",
+    "prep": "꽃이 피기 직전에 줄기째 베어 잎을 훑어 그늘이나 낮은 온도에서 말린다. 줄기는 단맛이 적어 골라낸다. 갓 딴 잎은 수분이 80%쯤이라 바로 말리지 않으면 검게 변하기 쉽다. 바람이 잘 통하는 곳에서 말리고, 너무 높은 온도는 피한다.",
     "sci": "Stevia rebaudiana (Bertoni) Bertoni",
     "season": {
       "collect": [
@@ -72,6 +69,14 @@
       {
         "title": "식품음료신문, 한국스테비아, 단맛 허브 '스테비아'로 세계 진출(2006.12.8)",
         "url": "https://www.thinkfood.co.kr/news/articleView.html?idxno=20572"
+      },
+      {
+        "title": "Foods 14(16):2801 (2025), Drying Technologies for Stevia rebaudiana Bertoni",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12385502"
+      },
+      {
+        "title": "Giuffré 외, Stevia, ka'a he'e, wild sweet herb from South America — An overview, Emir. J. Food Agric. 25(10), 2013",
+        "url": "https://core.ac.uk/download/287792774.pdf"
       }
     ],
     "store": "바싹 말린 잎을 밀폐 용기에 담아 빛과 습기를 피해 서늘한 곳에 둔다.",
@@ -115,6 +120,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Nutrition 13",
+        "note": "성분·안전성·제조를 폭넓게 정리한 서술형 리뷰로, 전체 근거 수준을 낮음~중간으로 평가했다.",
+        "title": "The progress on stevia (Stevia rebaudiana Bertoni): chemical composition, pharmacokinetics, pharmacological effects, safety, applications, and biosynthesis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1728578/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrients 18(12)",
+        "note": "고순도 정제 성분 대상 사람 연구를 정리했고, 잎 가루와 조추출물은 검토 대상에서 뺐다. 혈당·혈중 지질 등에 뚜렷한 영향이 없었다고 요약했다.",
+        "title": "Stevia Rebaudiosides Usage as a Sugar Reduction Tool: A Narrative Review of Their Metabolic, Gut Microbiome and Weight Management Effects in Human Clinical Studies",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2072-6643/18/12/2002",
+        "year": "2026"
+      },
+      {
+        "journal": "Obesity Reviews 26(6)",
+        "note": "임상 11건(428명)을 묶어 분석했고, 식욕 점수에 유의한 변화가 없었다고 보고했다.",
+        "title": "Effects of stevia consumption on appetite in adults: A systematic review and dose-response meta-analysis of randomized controlled trials",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39887829/",
+        "year": "2025"
+      },
+      {
         "journal": "Molecules 28",
         "note": "스테비올배당체의 단맛, 시험관·동물·사람 연구, 안전성 평가와 각국 허가 현황을 정리했다. 사람 대상 연구가 부족하다고 결론지었다.",
         "title": "Steviol Glycosides from Stevia rebaudiana: An Updated Overview of Their Sweetening Activity, Pharmacological Properties, and Safety Aspects",
@@ -131,13 +160,18 @@
         "year": "1981"
       }
     ],
-    "summary": "연구는 주로 잎에서 뽑아 정제한 단맛 성분(스테비올배당체)에 관한 것이다. 시험관·동물 연구가 많고 사람 대상 연구는 적으며 결과도 엇갈린다. 정제 성분은 감미료(식품첨가물)로 허용되어 있고 국제 기준 하루 섭취 허용량은 체중 1kg당 4mg(스테비올 기준)이다. 말린 잎 자체를 다룬 사람 연구는 거의 없고, 식약처가 인정한 건강기능식품 원료도 아니다."
+    "summary": "연구는 대부분 잎에서 뽑아 정제한 단맛 성분(스테비올배당체)에 관한 것이고, 말린 잎 자체를 다룬 사람 연구는 거의 없다. 2025년 메타분석(임상 11건·428명)은 식욕 점수에 유의한 변화가 없었다고 했고, 2026년 서술형 리뷰도 정제 성분이 혈당·혈중 지질에 뚜렷한 영향을 주지 않았다고 요약했다. 2026년 다른 리뷰는 전체 근거 수준을 낮음~중간으로 평가했다. 정제 성분의 국제 하루 섭취 허용량은 체중 1kg당 4mg(스테비올 기준)이며, 식약처가 인정한 건강기능식품 원료는 아니다."
   },
   "name": "스테비아",
   "st": "ok",
   "traditional": {
-    "sources": [],
-    "text": ""
+    "sources": [
+      {
+        "title": "Giuffré 외, Stevia, ka'a he'e, wild sweet herb from South America — An overview, Emir. J. Food Agric. 25(10), 2013",
+        "url": "https://core.ac.uk/download/287792774.pdf"
+      }
+    ],
+    "text": "남미 원주민 과라니족은 유럽인이 오기 전부터 잎을 쓴 마테차와 약초 달임물에 넣어 단맛을 내고, 잎을 그대로 씹기도 했다고 전한다. 1800년대에는 파라과이·브라질·아르헨티나에서 일상적으로 쓰였다는 기록이 있다."
   },
-  "updatedAt": 1792243524924
+  "updatedAt": 1793739285432
 }

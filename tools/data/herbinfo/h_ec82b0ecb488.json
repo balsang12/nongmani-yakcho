@@ -3,16 +3,25 @@
   "classic": {
     "book": "동의보감 탕액편",
     "bu": "나무(木部)",
-    "easy": [],
+    "easy": [
+      "향명을 초피나무 열매로 달아 놓았으니 오늘날의 초피에 가까운 항목이다.",
+      "속을 따뜻하게 하고, 살갗이 감각을 잃은 데와 차고 습해서 저리고 아픈 데 쓴다고 적었다.",
+      "8월에 열매를 따서 그늘에 말린다고 적었다."
+    ],
     "han": "蜀椒",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "性熱, 味辛, 有毒(一云小毒)",
+    "kiKo": "성질은 뜨겁고 맛은 매우며 독이 있다고 적었다(독이 약간 있다는 설도 함께 적었다).",
     "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
-    "warn": ""
+    "orig": "性熱, 味辛, 有毒一云小毒. 溫中. 主皮膚死肌, 寒濕痺痛.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 木部 2.42 蜀椒",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2696"
+      }
+    ],
+    "verified": true,
+    "warn": "열매에 독이 있다고 적었으므로 옛 기록의 쓰임을 음식 효과로 받아들이면 안 된다."
   },
   "faq": [
     {
@@ -147,6 +156,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Foods",
+        "note": "산초나무속 전체의 쓰임과 얼얼한 맛·향 성분, 유전체 연구를 정리한 리뷰로, 산초나무는 화초와 비교해 일부 다룬다.",
+        "title": "Economic Uses, Specific Metabolites and Molecular Biology Research of the Genus Zanthoxylum",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods15030540",
+        "year": "2026"
+      },
+      {
         "journal": "Korean Journal of Pharmacognosy",
         "note": "산초나무 열매의 씨와 열매껍질에 든 화학 성분을 서로 비교한 국내 성분 연구이다.",
         "title": "Comparative Study on the Chemical Constituents of the Seed and Pericarp of Zanthoxylum schinifolium Fruit",
@@ -196,5 +213,5 @@
     ],
     "text": "산초는 향신료이면서 전통적으로 소화불량 등에 쓰인 약재로 소개된다. 국내 생약 연구에서는 예부터 통증, 위장 장애, 류마티스 등에 쓰여 왔다고 정리한다."
   },
-  "updatedAt": 1792400388863
+  "updatedAt": 1793912231408
 }

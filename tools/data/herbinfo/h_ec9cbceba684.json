@@ -3,16 +3,26 @@
   "classic": {
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
-    "easy": [],
-    "han": "通草",
+    "easy": [
+      "산에서 손가락 굵기의 덩굴로 자라고 가지 끝에 잎이 5장 난다고 적었다.",
+      "열매는 작은 모과 같고 씨는 검고 속은 희며 맛이 달아 먹을 만하다고 하며, 연복자(鷰覆子)라 부른다고 적었다.",
+      "열매는 위의 열과 먹은 것을 되넘기는 증상에 쓴다고 적었다.",
+      "덩굴은 오줌이 잘 나오지 않는 증상에 쓴다고 적었다."
+    ],
+    "han": "通草(열매 鷰覆子)",
     "has": true,
-    "ki": "",
-    "kiKo": "",
-    "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
-    "warn": "동의보감에서 으름덩굴은 '通草' 항목(지금의 목통)에 해당하지만, 원문 사이트(mediclassics.kr, 위키문헌)에 접속하지 못해 원문과 열매(燕覆子) 기록을 직접 확인하지 못했다. 확인 전까지 성미·풀이는 비워 둔다."
+    "ki": "通草 性平一云微寒, 味辛甘, 無毒. / 子 性寒, 味甘.",
+    "kiKo": "덩굴은 성질이 평하고(약간 차다고도 한다) 맛이 맵고 달며 독이 없고, 열매는 성질이 차고 맛이 달다.",
+    "old": "으흐름너출",
+    "orig": "通草 性平一云微寒, 味辛甘, 無毒. 治五淋, 利小便, 開關格. … 生山中, 作藤蔓, 大如指. 每節有二三枝, 枝頭出五葉, 結實如小木瓜, 核黑瓤白, 食之甘美. 謂之鷰覆子. … 子 性寒, 味甘. 主胃熱反胃.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 草部 1.10 通草",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2518"
+      }
+    ],
+    "verified": true,
+    "warn": "덩굴(通草)에 유산을 일으킨다(墮胎)는 기록이 있어 임신 중에는 줄기를 달여 먹지 않는다. 동의보감은 목통과 통초를 같은 것으로 보아 기록이 섞여 있고, 강원도의 노란 덩굴은 다른 식물이라고 따로 적었다."
   },
   "faq": [
     {
@@ -132,6 +142,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "씨 추출물을 폐암 세포와 생쥐 모델에 시험했으며, 세포 사멸은 관찰됐지만 추출물을 직접 투여한 모델에서는 종양 성장이 줄지 않았다.",
+        "title": "Therapeutic Effects of Akebia quinata Seeds Through Apoptosis and Immunogenic Cell Death in Non-Small Cell Lung Cancer",
+        "type": "동물 실험",
+        "url": "https://www.mdpi.com/1422-0067/27/7/3114",
+        "year": "2026"
+      },
+      {
         "journal": "Plants",
         "note": "으름 씨의 표지 성분 8종을 정량하는 분석법을 만들고, 씨 추출물과 성분이 사람 암세포주에 미치는 영향을 실험실에서 살폈다.",
         "title": "Simultaneous Component Analysis of Akebia quinata Seeds (Lardizabalaceae) by Ultra-Performance Liquid Chromatography–Tandem Mass Spectrometry for Quality and Cytotoxicity Assessment",
@@ -148,7 +166,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 으름의 씨·열매·잎 추출물 성분을 분석하고 실험실에서 생리활성을 살핀 것이 대부분이다. 모두 세포·실험실 단계 결과이며, 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
+    "summary": "최근 연구는 으름의 씨·열매·잎 추출물 성분을 분석하고 실험실에서 생리활성을 살핀 것이 대부분이며, 2026년 씨 추출물 연구도 세포·생쥐 단계다. 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
   },
   "name": "으름",
   "st": "ok",
@@ -169,5 +187,5 @@
     ],
     "text": "으름덩굴 줄기를 말린 목통은 대한민국약전에 실린 한약재이며, 동아시아 전통 의학에서는 소변이 잘 나오지 않는 증상 등 비뇨기 질환에 써 왔다. 열매는 예부터 산에서 따 먹는 과일이었고, 봄 새순은 나물로 먹었다."
   },
-  "updatedAt": 1792357325694
+  "updatedAt": 1793868934020
 }

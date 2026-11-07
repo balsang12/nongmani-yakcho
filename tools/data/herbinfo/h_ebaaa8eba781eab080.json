@@ -109,6 +109,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Drug Design, Development and Therapy 20",
+        "note": "사람 연구와 증례 22건을 서술형으로 정리했다. 소규모 연구가 많고, 드물게 과민 반응·간 손상 같은 심각한 이상 사례 보고가 있다고 했다(인과관계는 미확정).",
+        "title": "Moringa oleifera Lamk. as a Promising Adjunct Therapeutic Candidate: A Narrative Review of Human Studies and Published Case Reports",
+        "type": "리뷰",
+        "url": "https://www.dovepress.com/moringa-oleifera-lamk-as-a-promising-adjunct-therapeutic-candidate-a-n-peer-reviewed-fulltext-article-DDDT",
+        "year": "2026"
+      },
+      {
+        "journal": "Nutrients 17",
+        "note": "무작위 시험 9건을 분석해 심혈관·대사 지표에서 일관된 이득을 뒷받침하지 못한다고 결론 냈다. 근거 확실성은 모든 항목에서 '매우 낮음'이다.",
+        "title": "Effects of Moringa oleifera Lam. Supplementation on Cardiometabolic Outcomes: A Meta-Analysis of Randomized Controlled Trials with GRADE Assessment",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu17223501",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition 12",
+        "note": "아프리카의 HIV 감염 성인 연구를 묶은 예비 결과다. 연구 간 차이가 크고 장기·고용량 안전성은 확립되지 않았다고 했다.",
+        "title": "Effects of Moringa oleifera supplementation on immune and nutritional biomarkers in adults living with HIV: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1667158/full",
+        "year": "2025"
+      },
+      {
         "journal": "Anais da Academia Brasileira de Ciências 93(suppl 4)",
         "note": "모링가를 식품 소재로 쓴 연구를 정리했다. 사람 연구는 소규모 1건 수준이고, 동물 독성 결과가 엇갈려 안전한 양이 정해지지 않았다고 지적했다.",
         "title": "Moringa oleifera potential as a functional food and a natural food additive: a biochemical approach",
@@ -117,7 +141,7 @@
         "year": "2021"
       }
     ],
-    "summary": "잎의 성분 분석, 시험관 연구, 동물 연구가 대부분이고, 사람 대상 연구는 소규모로 몇 건뿐이다. 동물 독성 연구 결과가 서로 엇갈려 안전한 섭취량이 정해져 있지 않다. 브라질(2019)과 호주·뉴질랜드(2025)는 안전성 근거 부족을 이유로 식품 사용을 허용하지 않았다. 식약처가 인정한 건강기능식품 원료도 아니다."
+    "summary": "2025년 메타분석(무작위 시험 9건)은 심혈관·대사 지표에서 일관된 이득을 뒷받침하지 못한다고 결론 냈고 근거 확실성은 '매우 낮음'이었다. 2026년 서술형 리뷰는 드문 심각한 이상 사례 보고도 함께 정리했다. 잎의 성분 분석, 시험관 연구, 동물 연구가 대부분이고, 사람 대상 연구는 소규모로 몇 건뿐이다. 동물 독성 연구 결과가 서로 엇갈려 안전한 섭취량이 정해져 있지 않다. 브라질(2019)과 호주·뉴질랜드(2025)는 안전성 근거 부족을 이유로 식품 사용을 허용하지 않았다. 식약처가 인정한 건강기능식품 원료도 아니다."
   },
   "name": "모링가",
   "st": "ok",
@@ -125,5 +149,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524921
+  "updatedAt": 1793696033001
 }

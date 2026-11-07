@@ -1,7 +1,25 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "본초강목",
+    "bu": "",
+    "easy": [
+      "서쪽 이슬람권 땅과 아라비아(천방국)에서 나며, 그곳의 홍화에 해당한다고 적었다. 사프란을 홍화에 빗댄 이름의 혼동이 옛 책에도 보인다."
+    ],
+    "han": "番紅花",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "",
+    "orig": "番紅花出西番回回地面及天方國，即彼地紅藍花也。",
+    "sources": [
+      {
+        "title": "한전(漢典), 番紅花 — 『본초강목』 인용",
+        "url": "https://www.zdic.net/hant/番紅花"
+      }
+    ],
+    "verified": true,
+    "warn": "확인한 원문은 산지를 적은 이 대목뿐이다. 효능 부분은 대조하지 못해 옮기지 않았고, 판매 문구로 쓰면 안 된다."
   },
   "faq": [
     {
@@ -32,7 +50,7 @@
   "id": {
     "eat": "말린 암술머리 몇 가닥을 따뜻한 물에 불려 그 물째 쌀 요리(파에야·필라프), 수프, 빵·과자에 넣어 노란색과 향을 낸다. 아주 적은 양만 쓴다.",
     "family": "붓꽃과 크로커스속",
-    "grade": "",
+    "grade": "정품 사프란 실은 길이 2~3.5cm로 끝이 세 갈래이고, 진한 붉은색~적갈색이며, 아래쪽에 노란 암술대가 아주 조금만 남아 있다. 국제규격 ISO 3632는 실·자른 실·가루를 등급 3개(Category I~III)로 나누고 색(크로신)·맛(피크로크로신)·향(사프라날) 측정값과 이물질, 수분으로 판정한다. 비싼 물건은 시험성적서로 등급과 규격 판본을 확인한다.",
     "habitat": "지중해 동부~서아시아에서 재배되어 온 작물로, 야생에서는 자라지 않는다. 씨를 맺지 못해 알줄기(구근)를 나눠 심어 늘린다. 국내에서는 경북 청송 등 소규모 농가가 노지에서 키운 사례가 있고(2021년 약 4,000㎡에서 3.5kg 수확), 텃밭·화분에서도 키운다.",
     "look": {
       "flower": "10~11월에 연보라~진보라 꽃이 높이 15cm쯤으로 핀다. 꽃 하나에 붉은 암술머리가 세 갈래로 갈라져 늘어지고, 노란 수술은 3개다.",
@@ -65,6 +83,14 @@
       {
         "title": "영남일보, 청송군, 금보다 비싼 향신료 '사프란' 노지재배 성공(2021.12.7)",
         "url": "https://www.yeongnam.com/web/view.php?key=20211207010000726"
+      },
+      {
+        "title": "ISO 3632-1:2011 Spices — Saffron — Part 1: Specification (규격 소개, 2025 개정판으로 대체)",
+        "url": "https://standards.iteh.ai/catalog/standards/iso/64682741-d420-4c06-bfcc-41c6ecd33516/iso-3632-1-2011"
+      },
+      {
+        "title": "홍콩 위생서 중약재 표준(HKCMMS) 제5권, Croci Stigma",
+        "url": "https://www.cmro.gov.hk/hkcmms/vol5/pdf_e/Croci_Stigma_v5_e.pdf"
       }
     ],
     "store": "빛과 습기에 약하다. 밀폐 용기에 담아 어둡고 서늘한 곳에 두고, 가루보다 실(가닥) 형태로 보관한다.",
@@ -128,6 +154,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Endocrinology 16",
+        "note": "이란의 무작위 시험 5건(261명)을 묶었다. 염증 지표 하나만 차이가 있었고 나머지는 차이가 없어 근거가 부족하다고 했다.",
+        "title": "The efficacy of saffron supplementation on inflammation and oxidative stress in patients with type-2 diabetes mellitus: a meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/articles/10.3389/fendo.2025.1634982/full",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Nutrition 11",
+        "note": "이란의 무작위 시험 10건(562명)을 묶어 혈당 수치를 살폈다. 짧고 작은 시험이 많고 연구 간 차이가 크다는 한계가 있다.",
+        "title": "Effect of saffron supplementation on the glycemic outcomes in diabetes: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://frontiersin.org/articles/10.3389/fnut.2024.1349006/pdf",
+        "year": "2024"
+      },
+      {
         "journal": "Longhua Chinese Medicine 5",
         "note": "사프란의 성분·안전성·위조 실태를 정리한 서술형 리뷰다. 안전한 섭취량이 정해지지 않았고, 홍화·강황·치자·수술 섞기가 주요 위조라고 정리했다.",
         "title": "Saffron (Crocus sativus L.) as a valuable spice and food product: a narrative review",
@@ -144,7 +186,7 @@
         "year": "2014"
       }
     ],
-    "summary": "사프란 추출물로 한 사람 대상 소규모 임상시험이 여러 건 있지만, 대부분 기간이 짧고 규모가 작아 결론을 내리기 어렵다. 안전한 하루 섭취량은 정해져 있지 않고, 요리용 소량은 위험이 낮지만 고농축 추출물은 주의가 필요하다고 정리된다. 위조가 흔해 홍화 등을 가려내는 DNA 검사법 같은 품질 연구도 많다. 식약처가 인정한 건강기능식품 원료로는 확인되지 않았다."
+    "summary": "2024~2025년 메타분석 두 편은 당뇨 환자의 혈당·염증 지표를 살폈는데, 시험이 모두 이란에서 이뤄진 소규모 연구라 일반화하기 어렵다. 사프란 추출물로 한 사람 대상 소규모 임상시험이 여러 건 있지만, 대부분 기간이 짧고 규모가 작아 결론을 내리기 어렵다. 안전한 하루 섭취량은 정해져 있지 않고, 요리용 소량은 위험이 낮지만 고농축 추출물은 주의가 필요하다고 정리된다. 위조가 흔해 홍화 등을 가려내는 DNA 검사법 같은 품질 연구도 많다. 식약처가 인정한 건강기능식품 원료로는 확인되지 않았다."
   },
   "name": "사프란",
   "st": "ok",
@@ -152,5 +194,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524923
+  "updatedAt": 1793696033001
 }

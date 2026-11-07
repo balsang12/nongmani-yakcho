@@ -144,10 +144,19 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "고마리(Persicaria thunbergii, 이명 Polygonum thunbergii)를 대상으로 한 2023~2026년 논문을 이번 조사에서 확인하지 못했다(학술 DB 조회가 접속 제한으로 막혀 검색 결과에만 의존함). 고마리 추출물의 피부 관련 특허 출원이 있다는 정도만 확인되며, 사람 대상 연구 근거는 찾지 못했다."
+    "papers": [
+      {
+        "journal": "Rhizosphere",
+        "note": "광산 연못에 자연적으로 자라는 고마리가 꽃 피고 씨 맺는 시기에 철(Fe)을 견디는 힘이 커지는지 살핀 생태·생리 연구다.",
+        "title": "Enhancement of Fe tolerance in Polygonum thunbergii naturally growing in mine pond at the reproduction stage",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.rhisph.2025.101068",
+        "year": "2025"
+      }
+    ],
+    "summary": "2023~2026년 고마리(Persicaria thunbergii, 이명 Polygonum thunbergii)를 직접 다룬 논문으로는 광산 연못에 자라는 고마리의 철 내성을 본 식물 생리 연구 1편을 확인했다. 식품 성분이나 건강 효과를 다룬 사람·동물 대상 연구는 찾지 못했다."
   },
   "name": "고마리",
   "st": "ok",
-  "updatedAt": 1792616180342
+  "updatedAt": 1794084798077
 }

@@ -94,6 +94,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Pharmaceuticals 17(6)",
+        "note": "레몬그라스 정유와 추출물의 미생물·세포 실험 결과를 정리한 리뷰다. 먹어서 같은 결과가 나온다는 뜻은 아니다.",
+        "title": "Antiviral, Antibacterial, Antifungal, and Anticancer Activity of Plant Materials Derived from Cymbopogon citratus (DC.) Stapf Species",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/ph17060705",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceuticals 17(2)",
+        "note": "정유를 입안·피부에 쓴 사람 연구 8건을 정리했다. 규모가 작고 위약이 없는 연구도 있어 장기 안전성은 아직 불확실하다고 했다.",
+        "title": "Exploring the Clinical Applications of Lemongrass Essential Oil: A Scoping Review",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1424-8247/17/2/159",
+        "year": "2024"
+      },
+      {
         "journal": "Frontiers in Pharmacology 13",
         "note": "레몬그라스를 포함한 개솔새속의 성분·독성·연구 현황을 정리했다. 근거 대부분이 시험관·동물 연구이고 사람 연구는 적다.",
         "title": "Review of phytomedicine, phytochemistry, ethnopharmacology, toxicology, and pharmacological activities of Cymbopogon genus",
@@ -102,7 +118,7 @@
         "year": "2022"
       }
     ],
-    "summary": "연구는 대부분 레몬그라스 정유(시트랄 성분)와 추출물을 시험관·동물에서 살핀 기초 연구다. 사람을 대상으로 한 연구는 매우 적고 규모도 작다. 식약처가 인정한 건강기능식품 원료가 아니다. 리뷰 논문은 임신·수유 중 과량 섭취와 피부 접촉 알레르기에 주의하라고 적고 있다."
+    "summary": "2024년 범위 고찰은 정유를 입안·피부에 바른 사람 연구 8건을 모았는데, 규모가 작고 장기 안전성·약물 상호작용은 불확실하다고 했다. 먹는 차나 요리 재료에 관한 근거는 아니다. 연구는 대부분 레몬그라스 정유(시트랄 성분)와 추출물을 시험관·동물에서 살핀 기초 연구다. 사람을 대상으로 한 연구는 매우 적고 규모도 작다. 식약처가 인정한 건강기능식품 원료가 아니다. 리뷰 논문은 임신·수유 중 과량 섭취와 피부 접촉 알레르기에 주의하라고 적고 있다."
   },
   "name": "레몬그라스",
   "st": "ok",
@@ -110,5 +126,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792243524919
+  "updatedAt": 1793696033001
 }

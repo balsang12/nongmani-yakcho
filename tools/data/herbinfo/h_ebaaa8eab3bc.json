@@ -1,18 +1,26 @@
 {
   "by": "auto",
   "classic": {
-    "book": "동의보감 탕액편",
+    "book": "본초강목",
     "bu": "과일(果部)",
-    "easy": [],
+    "easy": [
+      "습기로 저리고 아픈 증상에 쓴다고 적었다.",
+      "곽란으로 심하게 토하고 설사하며 근육이 뒤틀리는 것이 멎지 않을 때 쓴다고 적었다."
+    ],
     "han": "木瓜",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "酸, 溫, 無毒",
+    "kiKo": "맛은 시고 성질은 따뜻하며 독이 없다고 적었다.",
     "old": "",
-    "orig": "",
-    "sources": [],
-    "verified": false,
-    "warn": ""
+    "orig": "濕痺邪氣,霍亂大吐下,轉筋不止。",
+    "sources": [
+      {
+        "title": "위키문헌 本草綱目/果之二 (木瓜)",
+        "url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9E%9C%E4%B9%8B%E4%BA%8C"
+      }
+    ],
+    "verified": true,
+    "warn": "본초강목은 木瓜와 榠楂를 서로 다른 항목으로 나누어 적었다. 옛 이름과 오늘날의 식물이 꼭 맞아떨어진다고 볼 수 없으므로, 이 기록을 우리 모과(Chaenomeles sinensis)에 그대로 옮겨 읽지 않는다."
   },
   "faq": [
     {
@@ -128,12 +136,28 @@
   "modern": {
     "papers": [
       {
+        "journal": "Journal of Functional Foods",
+        "note": "모과를 유산균으로 발효하면서 대사물질 변화와 항산화 활성을 살핀 실험 연구다.",
+        "title": "Fermentation of Chaenomeles sinensis (Thouin) Koehne with lactic acid bacteria: dynamic changes in metabolites and enhancement of antioxidant activity",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1756464626001817",
+        "year": "2026"
+      },
+      {
         "journal": "Plant Foods for Human Nutrition",
         "note": "모과 조각을 진공 튀김으로 가공하는 조건을 비교하고, 시험관 장내 발효 모델에서 짧은사슬지방산 변화를 살폈다.",
         "title": "Modulating the Quality of Chinese Quince Slices via Vacuum Frying: Focus on Sensory Attributes, gut Microbiota After In Vitro Fermentation, and SCFA Production",
         "type": "기타",
         "url": "https://doi.org/10.1007/s11130-026-01541-w",
         "year": "2026"
+      },
+      {
+        "journal": "Nutrition Research",
+        "note": "고지방 먹이를 먹인 생쥐에게 모과 폴리페놀을 주고 비만과 지방간 지표를 살핀 동물 실험으로, 사람에게 같은 결과가 나오는지는 확인되지 않았다.",
+        "title": "Chaenomeles sinensis (Thouin) Koehne fruit polyphenols alleviate high-fat diet–induced obesity and liver steatosis by improving lipid metabolism in mice",
+        "type": "동물 실험",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0271531724000101",
+        "year": "2024"
       },
       {
         "journal": "International Journal of Molecular Sciences",
@@ -165,5 +189,5 @@
     ],
     "text": "한국민족문화대백과사전은 모과나무 열매를 과실주로 담그거나 차 대용으로 마시고 약재로도 써 왔다고 소개하며, 산림경제·임원경제지·본초강목 등을 참고문헌으로 든다."
   },
-  "updatedAt": 1792400388863
+  "updatedAt": 1793912231408
 }

@@ -139,10 +139,51 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "이번 조사에서는 웹 검색 한도와 Europe PMC 접속 제한(요청 거절) 때문에 2023~2026년 닭의장풀(Commelina communis) 논문 목록을 확인하지 못해 논문을 싣지 않았다. 홍콩이공대 한약 자료는 말린 지상부를 열을 내리고 부기를 빼는 약재로 소개하지만, 이는 전통 약재 설명이며 사람 대상 임상 근거로 확인된 것은 아니다."
+    "papers": [
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "닭의장풀을 미리 먹인 생쥐에서 독감 바이러스 감염 뒤 생존율과 체중 감소가 나아졌고, 세포 실험에서는 인터페론 신호가 강해지는 것이 관찰되었다.",
+        "title": "Pretreatment with Commelina communis L. improves survival following influenza a virus infection and enhances innate interferon signaling",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2026.1924427",
+        "year": "2026"
+      },
+      {
+        "journal": "Toxins",
+        "note": "곰팡이 독소(푸모니신 B1)에 노출된 돼지 장 상피세포에서 닭의장풀 추출물을 함께 처리하자 세포 사멸 관련 변화가 일부 줄어드는 것을 시험관에서 관찰했다.",
+        "title": "Commelina communis Mitigates FB1-Induced Apoptotic Responses in Porcine Intestinal Epithelial Cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/toxins18100445",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "닭의장풀에서 당단백질 두 가지를 분리해 구조를 밝히고 면역 보체 반응을 억제하는 활성을 실험실에서 살폈다.",
+        "title": "Isolation, structural characterization, and anticomplement activity of two glycoproteins derived from Commelina communis L",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.ijbiomac.2025.147706",
+        "year": "2025"
+      },
+      {
+        "journal": "Bioorganic Chemistry",
+        "note": "닭의장풀에서 새로운 다당류를 분리해 구조를 밝히고, 장내 세균(박테로이데스)의 증식을 돕는지 실험실에서 살폈다.",
+        "title": "Structural characterization and Bacteroides proliferation promotion activity of a novel homogeneous arabinoglucuronoxylan from Commelina communis L.",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.bioorg.2024.107790",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants",
+        "note": "닭의장풀 메탄올 추출물에서 세균을 억제하는 성분과 그 작용 방식을 실험실에서 살폈다.",
+        "title": "Antibacterial Components and Modes of the Methanol-Phase Extract from Commelina communis Linn",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants12040890",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 닭의장풀(Commelina communis) 연구는 추출물·다당류·당단백질의 성분 구조와 항균·면역 관련 활성을 살핀 실험실 연구, 그리고 생쥐에게 미리 먹인 뒤 독감 바이러스 감염을 본 동물 실험이 중심이다. 근거는 모두 세포·동물 실험 수준이며, 사람을 대상으로 효과를 확인한 연구는 찾지 못했다."
   },
   "name": "닭의장풀",
   "st": "ok",
-  "updatedAt": 1792616180342
+  "updatedAt": 1794084798077
 }

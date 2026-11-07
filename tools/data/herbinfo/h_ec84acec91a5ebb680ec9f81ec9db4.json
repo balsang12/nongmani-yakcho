@@ -152,9 +152,17 @@
         "type": "기타",
         "url": "https://doi.org/10.1016/j.fbio.2024.104224",
         "year": "2024"
+      },
+      {
+        "journal": "Journal of Medicinal Food",
+        "note": "유전자 조작 생쥐와 근육 세포에 추출물을 주어 근육 섬유 변화를 살핀 기초 연구다.",
+        "title": "Aster glehni Extract, Including Caffeoylquinic Acids as the Main Constituents, Induces PPAR β/δ-Dependent Muscle-Type Change and Myogenesis in Apolipoprotein E Knockout Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1089/jmf.2024.k.0027",
+        "year": "2024"
       }
     ],
-    "summary": "최근 3년 연구는 섬쑥부쟁이 추출물과 주성분 3,5-디카페오일퀸산을 다룬 세포 실험 등 기초 연구가 대부분이다. 사람 대상 연구는 찾지 못했으므로, 먹어서 나타나는 효과는 확인되지 않았다."
+    "summary": "최근 3년 연구는 섬쑥부쟁이 추출물과 주성분 카페오일퀸산류를 다룬 세포 실험과 생쥐 실험 같은 기초 연구가 대부분이다. 사람 대상 연구는 찾지 못했으므로, 나물로 먹어서 나타나는 효과는 확인되지 않았다."
   },
   "name": "섬쑥부쟁이",
   "st": "ok",
@@ -167,5 +175,5 @@
     ],
     "text": "학술 논문에서는 섬쑥부쟁이를 먹을 수 있는 나물이면서 전통적으로 약초로도 쓰인 식물로 소개한다. 국내에서는 기침, 열, 통증, 불면을 누그러뜨리는 데 써 왔다고 적었다."
   },
-  "updatedAt": 1792529979983
+  "updatedAt": 1794041647093
 }

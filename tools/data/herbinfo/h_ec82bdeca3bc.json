@@ -4,22 +4,30 @@
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
     "easy": [
-      "(원문 미대조) 『동의보감』 탕액편 풀(草部)에 朮 항목이 있고, 옛 한글 이름 '삽듓 불휘'가 白朮에 붙어 있다. 성미와 쓰임 풀이는 신뢰할 만한 원문 자료로 대조하지 못해 싣지 않았다."
+      "백출은 비위를 튼튼하게 하고 설사를 멎게 하며 습을 없애고, 음식을 삭이고 땀을 멎게 하는 데 쓴다고 적었다.",
+      "백출은 산에서 나고 뿌리 생김이 거칠며 색이 옅은 갈색이고, 맛과 향이 약간 맵고 쓰되 강하지 않다고 했다.",
+      "창출은 위·가운데·아래의 습병을 다스리고 속을 넓히며 땀을 내게 한다고 적었고, 굵기는 손가락만 하며 살지고 구슬을 꿴 듯하고 껍질은 갈색, 맛은 맵고 강하다고 했다.",
+      "옛 《본경》에는 창출과 백출의 구분이 없었으나 근래에는 백출을 많이 쓴다고 적었다.",
+      "백출은 쌀뜨물에 반나절 담갔다가 노두를 없애고, 창출은 쌀뜨물에 하룻밤 담근 뒤 새 물에 하루 더 담갔다가 겉껍질을 벗겨 누렇게 볶아 쓴다고 했다."
     ],
-    "han": "朮(白朮·蒼朮)",
+    "han": "白朮·蒼朮",
     "has": true,
-    "ki": "",
-    "kiKo": "",
-    "old": "삽듓 불휘",
-    "orig": "",
+    "ki": "백출 性溫, 味苦甘, 無毒 / 창출 性溫, 味苦辛, 無毒",
+    "kiKo": "성질은 따뜻하고 독이 없으며, 맛은 백출이 쓰고 달고 창출이 쓰고 맵다.",
+    "old": "삽듓불휘",
+    "orig": "性溫, 味苦甘, 無毒. 健脾强胃, 止瀉除濕, 消食止汗, 除心下急滿, 及霍亂吐瀉不止, 利腰臍間血, 療胃虛冷痢. 生山中, 處處有之. 其形麄促, 色微褐. 氣味微辛苦而不烈. 一名乞力伽, 此白朮也. 《本草》 (백출 항목 첫머리만 옮김)",
     "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권2 草部 白朮·蒼朮",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2462"
+      },
       {
         "title": "어듸메 - 동의보감 탕액편 향명 전사본 (白朮 삽듓 불휘)",
         "url": "https://akorn.bab2min.pe.kr/doc/270?p=5"
       }
     ],
-    "verified": false,
-    "warn": "원문 한문을 직접 대조하지 못해 원문·성미·풀이 칸은 비워 두었다. 옛 한글 이름은 탕액편 향명 전사본에서 확인했다."
+    "verified": true,
+    "warn": "옛 기록의 쓰임을 소개한 것이며, 오늘날 효능이 확인되었다는 뜻은 아니다."
   },
   "faq": [
     {
@@ -124,6 +132,14 @@
         "year": "2026"
       },
       {
+        "journal": "Antioxidants",
+        "note": "삽주류 뿌리줄기(창출) 추출물이 초미세먼지로 생긴 생쥐의 폐 손상에 주는 영향을 살핀 실험이다.",
+        "title": "Protective Effects of Atractylodis Rhizoma Extracts on Lung Injury Induced by Particulate Matter 2.5 in Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/antiox14020127",
+        "year": "2025"
+      },
+      {
         "journal": "Nutrients",
         "note": "유산균으로 발효한 삽주 뿌리줄기 추출물이 생쥐의 밀 알레르기 반응을 줄였다고 보고한 동물 실험이다.",
         "title": "Atractylodes Japonica Rhizome Extract Fermented with a Plant-Derived Lacticaseibacillus paracasei (Lactobacillus paracasei) IJH-SONE68 Improves the Wheat Gliadin-Induced Food Allergic Reaction in Mice",
@@ -144,5 +160,5 @@
   },
   "name": "삽주",
   "st": "limit",
-  "updatedAt": 1792270942621
+  "updatedAt": 1793782518465
 }

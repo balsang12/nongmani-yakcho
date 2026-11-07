@@ -3,21 +3,30 @@
   "classic": {
     "book": "동의보감 탕액편",
     "bu": "나무(木部)",
-    "easy": [],
+    "easy": [
+      "화살나무를 위모(衛矛)라 하고 귀전(鬼箭)이라고도 부른다고 적었다.",
+      "줄기에 화살 깃 같은 날개가 세 줄 붙어 있다고 생김새를 설명했다.",
+      "음력 8월·11월·12월에 거두어 껍질과 날개를 벗겨 쓴다고 적었다.",
+      "배 속 벌레를 없애고 월경을 통하게 하며, 뭉친 덩어리와 산후 어혈 통증에 쓴다고 기록했다."
+    ],
     "han": "衛矛(鬼箭)",
     "has": true,
-    "ki": "",
-    "kiKo": "",
-    "old": "",
-    "orig": "",
+    "ki": "性寒, 味苦, 無毒(一云小毒)",
+    "kiKo": "성질은 차고 맛은 쓰며 독이 없다고 적었고, 약간 독이 있다는 설도 함께 실었다.",
+    "old": "ᄇᆞᄃᆡ회",
+    "orig": "性寒, 味苦, 無毒一云小毒. 主蠱疰, 中惡腹痛. 除邪殺鬼, 及百邪鬼魅, 殺腹藏蟲, 通月經, 破癥結, 止血崩帶下, 産後瘀痛, 消風毒腫, 能落胎. … 其幹有三羽, 狀如箭翎. 八月十一月十二月採, 削取皮羽用之.",
     "sources": [
       {
-        "title": "한국한의학연구원 한의고전명저총서 - 동의보감",
-        "url": "https://mediclassics.kr/books/8"
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 木部 2.52 衛矛",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2706"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (衛矛 ᄇᆞᄃᆡ회)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=7"
       }
     ],
-    "verified": false,
-    "warn": "원문 미대조: 동의보감 원문 페이지를 열지 못해 항목 이름과 부(部)만 적었다. 성미·원문·풀이는 원문을 확인한 뒤 채워야 한다."
+    "verified": true,
+    "warn": "옛 기록의 대상은 봄나물 순이 아니라 가지의 날개·껍질이다. 원문에 '能落胎'(태아를 떨어뜨릴 수 있다)고 적혀 있으니 임신 중에는 가지 날개를 달여 먹지 않는다."
   },
   "faq": [
     {
@@ -138,11 +147,27 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "성분과 혈당 관련 작용 기전을 정리한 리뷰로, 임상 연구 9건은 대부분 여러 약재를 섞은 처방이고 근거의 질이 낮다고 평가했다.",
+        "title": "Euonymus alatus in diabetes: a review of phytochemistry, pharmacokinetics, and anti-diabetic mechanisms",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1848743/full",
+        "year": "2026"
+      },
+      {
         "journal": "Biomedicines",
         "note": "잎 추출물의 폴리페놀 성분과 항산화·당분해효소 억제 활성을 시험관·세포에서 살폈고, 일부 생쥐 실험도 곁들였다.",
         "title": "Bioactivity Evaluation and Phytochemical Characterization of Euonymus alatus (Thunb.) Siebold Leaf Extract",
         "type": "세포 실험",
         "url": "https://www.mdpi.com/2227-9059/12/12/2928",
+        "year": "2024"
+      },
+      {
+        "journal": "Foods",
+        "note": "치매 모델 생쥐에게 잎 추출물을 먹여 기억 행동과 염증·아밀로이드 지표의 변화를 살폈다.",
+        "title": "Oral Administration of Euonymus alatus Leaf Extract Ameliorates Alzheimer's Disease Phenotypes in 5xFAD Transgenic Mice",
+        "type": "동물 실험",
+        "url": "https://www.mdpi.com/2304-8158/13/5/682",
         "year": "2024"
       },
       {
@@ -160,17 +185,9 @@
         "type": "동물 실험",
         "url": "https://doaj.org/article/80276ebdfbdd435ca44788ccfa5d7f84",
         "year": "2023"
-      },
-      {
-        "journal": "Nutrients",
-        "note": "잔가지 추출물이 약물로 기억력을 떨어뜨린 생쥐와 신경세포에서 관련 신호 변화를 완화했다고 보고했다.",
-        "title": "Euonymus alatus Twig Extract Protects against Scopolamine-Induced Changes in Brain and Brain-Derived Cells via Cholinergic and BDNF Pathways",
-        "type": "동물 실험",
-        "url": "https://www.mdpi.com/2072-6643/15/1/128",
-        "year": "2023"
       }
     ],
-    "summary": "최근 연구는 잎·가지·코르크층 추출물을 쓴 동물·세포 실험이 대부분이며, 면역·뼈·기억력·항산화 관련 지표 변화가 보고되었다. 사람을 대상으로 효과를 확인한 연구는 찾지 못했으므로 효능을 단정할 수 없다."
+    "summary": "최근 연구는 잎·가지·코르크층 추출물을 쓴 동물·세포 실험이 대부분이며, 면역·뼈·기억력·항산화·혈당 관련 지표 변화가 보고되었다. 2026년 리뷰가 찾은 임상 연구 9건도 대부분 복합 처방이고 규모가 작아 근거의 질이 낮다고 평가되었으므로, 화살나무만의 효능을 단정할 수 없다."
   },
   "name": "화살나무",
   "st": "ok",
@@ -187,5 +204,5 @@
     ],
     "text": "가지에 붙은 코르크질 날개를 귀전우(鬼箭羽)라 하여 말려 약재로 썼으며, 성질은 차고 맛은 쓰다고 본다. 뭉친 피를 풀고 월경을 통하게 한다고 하여 월경불순이나 산후 어혈로 인한 복통 등에 썼다. 봄 새순은 '홑잎나물'이라 하여 데쳐 먹는 산나물로 이용해 왔다."
   },
-  "updatedAt": 1792357325694
+  "updatedAt": 1793868934020
 }
