@@ -132,14 +132,30 @@
     "papers": [
       {
         "journal": "Metabolites",
+        "note": "꽃봉오리가 자라는 네 단계에서 폴리페놀과 세포벽 성분 변화를 함께 살펴, 성숙할수록 폴리페놀이 대체로 늘어난다고 보고했다.",
+        "title": "Multomics Analysis of the Characteristic Changes in Polyphenol Accumulation and Cell Wall Polysaccharide Remodelling During the Development of Zingiber mioga Roscoe Flower Buds",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2218-1989/16/5/316",
+        "year": "2026"
+      },
+      {
+        "journal": "Metabolites",
         "note": "꽃봉오리를 네 단계로 나눠 분석한 결과 대부분의 성분이 성숙기로 갈수록 늘어나는 경향을 보였다.",
         "title": "UPLC-ESI-QTRAP-MS-Based Metabolomics Revealed Changes in Biostimulant-Related Metabolite Profiles in Zingiber mioga Flower Buds During Development",
         "type": "기타",
         "url": "https://doi.org/10.3390/metabo15060358",
         "year": "2025"
+      },
+      {
+        "journal": "Food Research International",
+        "note": "자라는 시기별로 꽃봉오리의 향기 성분이 어떻게 바뀌는지 분석해 양하 특유의 향이 만들어지는 과정을 살펴본 연구다.",
+        "title": "The dynamic changes in volatile metabolites provide a new understanding for the special flavor formation in z. Mioga flower buds during the growth stages",
+        "type": "기타",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0963996924004174",
+        "year": "2024"
       }
     ],
-    "summary": "최근 3년 사이 확인된 연구는 꽃봉오리가 자라는 단계에 따라 성분이 어떻게 달라지는지 분석한 성분 연구 정도이다. 건강 효과와 관련된 국내 연구는 대부분 그 이전의 동물·시험관 실험 단계이며, 사람 대상 연구는 확인되지 않았다."
+    "summary": "최근 3년 사이 연구는 꽃봉오리가 자라는 단계에 따라 향기 성분·폴리페놀·세포벽 성분이 어떻게 바뀌는지 분석한 성분·품질 연구가 중심이다. 건강 효과에 관한 연구는 대부분 그 이전의 동물·시험관 실험 단계이고, 사람 대상 연구는 확인되지 않았다."
   },
   "name": "양하",
   "st": "ok",
@@ -147,5 +163,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792660004727
+  "updatedAt": 1794171043150
 }

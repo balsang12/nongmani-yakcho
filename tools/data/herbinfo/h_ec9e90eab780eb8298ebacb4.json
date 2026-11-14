@@ -27,8 +27,12 @@
   },
   "faq": [
     {
-      "a": "식품으로 써도 되는지 확인하지 못했으므로 권하지 않습니다. 식약처 식품원료 목록에서 사용 가능 여부를 먼저 확인하고, 약재로 쓰려면 한의사와 상의하세요.",
+      "a": "아니요, 식품으로는 잎과 꽃만 쓸 수 있습니다. 나무껍질(합환피)은 식약처 식품원료 부위가 아니므로 한약재로만 쓰이며, 약으로 쓰려면 한의사와 상의하세요.",
       "q": "자귀나무 껍질(합환피)을 차로 끓여 먹어도 되나요?"
+    },
+    {
+      "a": "잎과 꽃입니다. 식약처 식품원료 기준으로 잎과 꽃은 먹을 수 있고, 꽃은 6~7월 피었을 때 따서 말려 차로 씁니다.",
+      "q": "자귀나무에서 먹을 수 있는 부위는 어디인가요?"
     },
     {
       "a": "6~7월에 핍니다. 가지 끝에 위쪽이 붉고 아래쪽이 흰 긴 수술이 모여 분홍 솔처럼 보입니다.",
@@ -41,14 +45,10 @@
     {
       "a": "정상입니다. 자귀나무 작은잎은 밤이나 비 올 때 접히며, 『동의보감』에도 해 질 무렵 잎이 오므라든다고 적혀 있습니다.",
       "q": "자귀나무 잎이 밤에 접히는 게 정상인가요?"
-    },
-    {
-      "a": "작은잎 크기를 봅니다. 자귀나무 작은잎은 폭 2.5~4mm로 가늘고, 왕자귀나무는 길이 15~26mm, 폭 8~11mm로 큽니다.",
-      "q": "자귀나무와 왕자귀나무는 어떻게 구별하나요?"
     }
   ],
   "id": {
-    "eat": "잎을 달여 차로 마시고, 말린 꽃은 물에 달여 마시거나 소주에 담가 술로 마신다.",
+    "eat": "잎이나 꽃을 말려 차로 우리거나 달여 마신다.",
     "eng": "Silk tree (Persian silk tree)",
     "family": "콩과",
     "grade": "",
@@ -59,11 +59,14 @@
       "leaf": "잎은 어긋나며 두 번 갈라지는 깃꼴겹잎이고, 작은잎은 길이 6~15mm의 낫 모양으로 좌우가 비대칭이다. 밤이나 비 올 때 작은잎이 서로 포개지듯 접힌다.",
       "stem": "나무껍질은 짙은 회녹색이며 나이가 들면 세로 줄무늬가 생긴다. 어린 가지는 털이 없고 모가 져 있다."
     },
-    "parts": "나무껍질(한약재 합환피). 꽃도 한방에서 쓰인다고 알려져 있으나 식품 사용 가능 부위는 확인하지 못했다.",
-    "prep": "자귀나무(합환피)는 식약처 식품원료 목록에서 사용 가능 부위를 확인하지 못했다. 식품으로 쓸 수 있는지 확인되기 전에는 차·즙 등으로 먹지 말고, 약재로 쓰려면 한의사 등 전문가와 상의한다.",
+    "parts": "잎과 꽃(식약처 식품원료로 먹을 수 있는 부위). 나무껍질은 한약재 합환피로 쓰이며 식품 부위가 아니다.",
+    "prep": "식품으로는 잎과 꽃만 쓴다. 나무껍질(합환피)은 식품원료 부위가 아니므로 차·즙 등으로 먹지 말고, 약재로 쓰려면 한의사 등 전문가와 상의한다.",
     "sci": "Albizia julibrissin Durazz.",
     "season": {
-      "collect": [],
+      "collect": [
+        6,
+        7
+      ],
       "flower": [
         6,
         7
@@ -134,11 +137,27 @@
   "modern": {
     "papers": [
       {
+        "journal": "Complementary Medicine Research",
+        "note": "자귀나무 껍질과 조구등 물 추출물을 섞어 파킨슨병 모델 세포와 생쥐에서 신경세포 보호 지표를 살핀 전임상 연구다.",
+        "title": "Synergistic Neuroprotective Effects of Cortex of Albizia julibrissin Durazzini and Stems and Branches of Uncariae rhynchophylla (Miq.) Miq. in Models of 6-Hydroxydopamine-Induced Parkinson's Disease",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1159/000553261",
+        "year": "2026"
+      },
+      {
         "journal": "International Journal of Molecular Sciences",
         "note": "2004~2024년 연구를 모아 자귀나무 유래 성분(사포닌·플라보노이드·리그난)과 보고된 활성을 정리한 리뷰로, 대부분 세포·동물 실험 결과다.",
         "title": "Pharmacological Spectrum of Substances Derived from Albizia julibrissin Durazz",
         "type": "리뷰",
         "url": "https://doi.org/10.3390/ijms26167778",
+        "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Sustainable Food Systems",
+        "note": "자귀나무 잎과 꼬투리에서 다당류를 초음파로 뽑는 조건을 찾고, 성질과 시험관 속 보체 억제 활성을 비교한 실험실 연구다.",
+        "title": "Ultrasonic-assisted extraction of polysaccharides from Albizia julibrissin Durazz. leaf and pod: process optimization, physicochemical properties and anticomplementary activity",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fsufs.2025.1590775",
         "year": "2025"
       },
       {
@@ -150,7 +169,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 주로 자귀나무 껍질·꽃에 든 사포닌(쥴리브로사이드), 플라보노이드, 리그난 성분이 우울·불안 관련 지표나 종양세포 등에 미치는 영향을 살폈다. 근거는 대부분 세포·동물 실험이고, 사람 자료는 중국 처방 단위 임상 연구가 일부 요약된 정도라 효과를 단정하기 어렵다."
+    "summary": "최근 연구는 자귀나무 껍질·꽃·잎에 든 사포닌, 플라보노이드, 다당류 등의 성분과 신경 보호·우울 관련 지표, 면역(보체) 반응에 대한 영향을 살폈다. 근거는 대부분 시험관·세포·동물 실험이고 사람 대상 자료는 중국 처방 단위 임상이 리뷰에 일부 요약된 정도라 효과를 단정할 수 없다."
   },
   "name": "자귀나무",
   "st": "ok",
@@ -158,5 +177,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792919652818
+  "updatedAt": 1794473905631
 }

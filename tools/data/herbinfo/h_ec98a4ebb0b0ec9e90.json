@@ -147,6 +147,14 @@
         "type": "동물 실험",
         "url": "https://doi.org/10.3389/fmicb.2025.1589946",
         "year": "2025"
+      },
+      {
+        "journal": "Molecules",
+        "note": "오배자 추출물과 성분(PGG 등)이 시험관에서 아밀로이드 단백질 응집을 억제했다고 보고한 기초 연구다.",
+        "title": "Anti-Amyloid Aggregation Effects of Gobaishi (Galla chinensis) and Its Active Constituents",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/molecules30132720",
+        "year": "2025"
       }
     ],
     "summary": "오배자는 가수분해형 타닌(갈로타닌) 함량이 매우 높아, 추출물의 항균·충치균 억제 작용 등이 연구되고 있다. 최근 연구는 세포·동물 실험 수준이며, 사람 대상 근거는 이번 조사에서 확인하지 못했다."
@@ -158,5 +166,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559816788
 }

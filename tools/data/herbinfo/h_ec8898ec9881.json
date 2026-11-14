@@ -137,6 +137,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Metabolic Brain Disease",
+        "note": "수영 추출물이 신경세포와 동물 모델에서 학습·기억 관련 지표에 미치는 영향을 살폈다.",
+        "title": "Rumex acetosa L. enhance learning and cognitive function by modulating NMDA receptor and BDNF pathways in vitro and in vivo.",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1007/s11011-025-01608-8",
+        "year": "2025"
+      },
+      {
+        "journal": "Veterinary and Animal Science",
+        "note": "수영이 속한 마디풀과 식물들을 가축 사료와 수의 약리 쪽 쓰임을 중심으로 정리한 리뷰다.",
+        "title": "Multiple benefits of herbs: Polygonaceae species in veterinary pharmacology and livestock nutrition.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.vas.2024.100416",
+        "year": "2025"
+      },
+      {
         "journal": "Natural Product Sciences",
         "note": "수영 추출물과 분획물의 항산화 활성과, 생쥐 대식세포(RAW 264.7)에서 염증 반응에 미치는 영향을 살폈다.",
         "title": "Antioxidant and Anti-inflammatory Activities of Rumex acetosa",
@@ -153,7 +169,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년 안에 수영(Rumex acetosa)을 직접 다룬 연구로는 추출물의 항산화·항염 활성을 세포에서 본 실험과, 재배 수영의 비타민 C·폴리페놀·옥살산 함량을 다른 소리쟁이속 식물과 비교한 성분 분석이 확인됐다. 사람 대상 연구는 찾지 못했으며, 근거는 실험실 수준에 머문다."
+    "summary": "최근 3년 안에 수영(Rumex acetosa)을 다룬 연구로는 추출물의 항산화·항염 활성을 본 세포 실험, 학습·기억 지표를 본 세포·동물 실험, 재배 수영의 비타민 C·폴리페놀·옥살산 함량 비교, 그리고 마디풀과 식물을 가축 영양 쪽에서 정리한 리뷰가 확인됐다. 사람 대상 연구는 찾지 못했으며 근거는 실험실·동물 수준이다."
   },
   "name": "수영",
   "st": "caution",
@@ -166,5 +182,5 @@
     ],
     "text": "한국민족문화대백과사전은 수영을 한방에서 '산모(酸模)'라 부르며, 열을 내리고 소변을 잘 나오게 하는 약재로 소변이 잘 나오지 않는 증상, 피를 토하는 증상, 피부 헌데 등에 써 왔다고 소개한다. 연한 줄기와 잎은 나물로도 먹어 왔다."
   },
-  "updatedAt": 1792616180342
+  "updatedAt": 1794128329143
 }

@@ -159,6 +159,14 @@
         "year": "2026"
       },
       {
+        "journal": "Frontiers in Fungal Biology",
+        "note": "1980~2025년 잎새버섯 생리활성 논문 605편의 흐름을 분석해, 연구 주제가 베타글루칸·면역에서 장내 미생물·기능성 식품 쪽으로 옮겨 가고 있다고 정리한 계량 분석이다.",
+        "title": "Bioactivity research in Grifola frondosa: a global scientometric analysis of emerging bioactivities and translational applications",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/ffunb.2026.1940029",
+        "year": "2026"
+      },
+      {
         "journal": "International Journal of Biological Macromolecules",
         "note": "잎새버섯 다당류의 구조와 실험실 수준의 생리활성, 생산량을 늘리는 방법을 정리한 리뷰로, 구조와 작용의 관계는 아직 밝혀지지 않은 부분이 많다고 했다.",
         "title": "Grifola frondosa polysaccharides: A review on structure/activity, biosynthesis and engineering strategies",
@@ -180,5 +188,5 @@
     ],
     "text": "『동의보감』 탕액편이나 『본초강목』에서 잎새버섯(舞茸) 항목은 이번 조사에서 확인하지 못했다. 국내 공공 연구자료(경기도농업기술원)는 잎새버섯을 먹는 버섯이자 약용으로도 쓰이는 버섯으로 소개하며, 일본에서는 표고·팽이·만가닥 다음으로 많이 생산되는 버섯이라고 적었다. 이런 소개는 쓰임새에 관한 것이지 효과가 확인되었다는 뜻은 아니다."
   },
-  "updatedAt": 1792962021102
+  "updatedAt": 1794516746714
 }

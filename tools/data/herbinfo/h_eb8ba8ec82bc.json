@@ -189,6 +189,14 @@
     "papers": [
       {
         "journal": "Frontiers in Pharmacology",
+        "note": "쥐·생쥐 골다공증 모델 연구 24편을 모은 메타분석으로 골밀도 지표가 나아졌다고 보았지만, 저자들 스스로 확실성이 낮은 동물 근거이며 사람에게 바로 적용하기 어렵다고 밝혔다.",
+        "title": "Pharmacological effects of Salvia miltiorrhiza-derived interventions on osteoporosis in animal models: a systematic review and meta-analysis",
+        "type": "리뷰",
+        "url": "https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1740974/full",
+        "year": "2026"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
         "note": "척수 손상 동물 실험 35편을 모아 분석했으며, 사람에게 같은 효과가 있는지는 확인되지 않았다.",
         "title": "Danshen (Salvia miltiorrhiza) extract in spinal cord injury (SCI): a systematic review and meta-analysis",
         "type": "동물 실험",
@@ -216,5 +224,5 @@
   },
   "name": "단삼",
   "st": "ok",
-  "updatedAt": 1792745954823
+  "updatedAt": 1794300796356
 }

@@ -131,6 +131,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "원지·고본·용안육 세 가지를 섞은 추출물 크림을 당뇨 생쥐 상처에 발랐을 때 염증이 줄고 회복이 빨라지는 경향을 본 동물 실험으로, 고본 단독 효과는 아니다.",
+        "title": "Extract of Polygala tenuifolia, Angelica tenuissima, and Dimocarpus longan improve skin wound healing in streptozotocin-induced diabetic mouse",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3389/fphar.2026.1779494",
+        "year": "2026"
+      },
+      {
         "journal": "Pathogens",
         "note": "고본 추출물이 배양 세포에서 인플루엔자 A 감염에 따른 세포 손상을 줄이는 경향을 보였다는 예비 연구다.",
         "title": "Antiviral Activity of Angelica Tenuissima Nakai against Influenza A Virus",
@@ -147,7 +155,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 많지 않으며, 세포 실험에서 인플루엔자 바이러스 감염 억제 경향을 본 연구와, 유전자·성분 분석으로 고본과 다른 Angelica속 약재의 관계를 비교한 연구가 확인되었다. 사람 대상 근거는 이번 검색에서 확인하지 못했다."
+    "summary": "최근 연구는 많지 않으며, 세포 실험에서 인플루엔자 바이러스 감염 억제 경향을 본 연구, 고본이 들어간 복합 추출물을 당뇨 생쥐 상처에 바른 동물 실험, 유전자·성분 분석으로 고본과 다른 Angelica속 약재의 관계를 비교한 연구가 확인되었다. 사람 대상 근거는 이번 검색에서 확인하지 못했다."
   },
   "name": "고본",
   "st": "limit",
@@ -160,5 +168,5 @@
     ],
     "text": "고본은 옛사람들이 향료로 많이 써서 붙은 이름이라고 『본초강목』을 인용해 설명된다. 성질은 따뜻하고 맛은 매운 약재로 분류되어, 감기로 인한 두통(특히 정수리 통증)이나 차고 습한 환경에서 생긴 팔다리 저림 등에 쓰였다고 소개된다. 빈혈로 인한 두통에는 쓰지 않는다고 적혀 있다."
   },
-  "updatedAt": 1792703340527
+  "updatedAt": 1794214398559
 }

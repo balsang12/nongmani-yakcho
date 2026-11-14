@@ -131,6 +131,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Separations",
+        "note": "러시아 연해주 숲에서 채집한 깽깽이풀(Plagiorhegma dubium, 같은 종의 다른 학명) 뿌리와 잎의 성분을 분석해, 뿌리에는 마그노플로린 같은 알칼로이드가, 잎에는 플라보노이드가 많고 사포닌류도 처음 보고했다.",
+        "title": "Untargeted UHPLC–HRMS/MS Profiling of Secondary Metabolites in Roots and Aerial Parts of Plagiorhegma dubium",
+        "type": "기타",
+        "url": "https://www.mdpi.com/2297-8739/13/11/323",
+        "year": "2026"
+      },
+      {
         "journal": "Plants",
         "note": "깽깽이풀 씨의 배가 가을에 자라기 시작해 이듬해 3월 뿌리가 나올 때까지 효소 활성이 계절에 따라 어떻게 변하는지 살핀 증식 연구다.",
         "title": "Seasonal Pattern of Endo-β-Mannanase Activity During Germination of Jeffersonia dubia, Exhibiting Morphophysiological Dormancy",
@@ -139,7 +147,7 @@
         "year": "2025"
       }
     ],
-    "summary": "최근 3년 사이 확인한 논문은 종자 발아와 휴면을 다룬 증식 연구 1편으로, 효능을 사람에서 확인한 연구는 찾지 못했다. 보전·증식 쪽 연구가 중심이다."
+    "summary": "최근 3년 사이 확인한 논문은 종자 발아·휴면을 다룬 증식 연구와 뿌리·잎의 성분 분석 연구로, 모두 실험실 수준이다. 사람에서 효능을 확인한 연구는 찾지 못했다."
   },
   "name": "깽깽이풀",
   "st": "check",
@@ -156,5 +164,5 @@
     ],
     "text": "뿌리에 쓴맛을 내는 알칼로이드인 베르베린이 들어 있어, 우리나라에서는 뿌리줄기를 황련·조황련이라 부르며 쓴맛으로 소화를 돕는 약재로 써 왔다고 기록돼 있다. 뿌리는 노란색 천연 염료로도 쓰였다."
   },
-  "updatedAt": 1792745954823
+  "updatedAt": 1794300768347
 }

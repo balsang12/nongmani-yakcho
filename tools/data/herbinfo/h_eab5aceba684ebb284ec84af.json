@@ -120,6 +120,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Microbes & Immunity",
+        "note": "구름버섯 다당류(PSK·PSP)를 중심으로 수술 뒤 보조요법 임상시험 자료를 모아 정리하고 앞으로 필요한 임상시험 설계를 제안한 리뷰로, 수술 전 사용에 대한 직접 근거는 아직 없다고 밝혔다.",
+        "title": "Potential of medicinal mushroom extracts as adjunctive agents to enhance conversion therapy in colorectal cancer with liver and peritoneal metastases",
+        "type": "리뷰",
+        "url": "https://doi.org/10.36922/MI025220047",
+        "year": "2026"
+      },
+      {
         "journal": "Frontiers in Toxicology",
         "note": "귀리에 배양한 구름버섯 분말을 쥐에 90일 먹인 시험과 유전독성 시험에서 독성 영향이 보이지 않았다고 보고했으며, 제조사가 연구비를 지원했다.",
         "title": "A toxicological assessment of Hericium erinaceus (Lion's mane) and Trametes versicolor (Turkey tail) mushroom powders",
@@ -152,7 +160,7 @@
         "year": "2023"
       }
     ],
-    "summary": "구름버섯 다당류(PSK·PSP 등)는 세포·동물 실험에서 면역 조절, 항균, 항암 관련 작용이 많이 보고되었다. 사람 대상으로는 대장암 환자에게 항암치료와 함께 PSK를 쓴 임상시험 7건을 모은 코크런 리뷰(2022)가 있으나, 5년 생존에 작은 이득이 있을 수 있다는 정도의 낮은 확실성 근거였고 부작용 감소 효과는 불확실했다. 귀리 배양 분말에 대한 쥐 90일 독성시험에서는 시험한 최고 용량까지 독성 영향이 없었다."
+    "summary": "구름버섯 다당류(PSK·PSP 등)는 세포·동물 실험에서 면역 조절, 항균, 항암 관련 작용이 많이 보고되었다. 사람 대상으로는 대장암 환자에게 항암치료와 함께 PSK를 쓴 임상시험 7건을 모은 코크런 리뷰(2022)가 있으나, 5년 생존에 작은 이득이 있을 수 있다는 정도의 낮은 확실성 근거였고 부작용 감소 효과는 불확실했다. 2026년 리뷰도 수술 뒤 보조요법 자료를 바탕으로 한 가설 제안 수준이며, 귀리 배양 분말에 대한 쥐 90일 독성시험에서는 시험한 최고 용량까지 독성 영향이 없었다."
   },
   "name": "구름버섯",
   "st": "ok",
@@ -170,5 +178,5 @@
     ],
     "text": "구름버섯은 중국에서 '운지(雲芝)'라는 이름으로 오래전부터 차나 가루로 먹어 온 버섯으로 소개된다. 일본에서는 구름버섯 추출물(PSK)이 암 치료 보조제로 승인되어 쓰였다. 본초강목 지(芝)류 원문을 확인한 범위에서는 '운지' 항목을 찾지 못했다."
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559816788
 }

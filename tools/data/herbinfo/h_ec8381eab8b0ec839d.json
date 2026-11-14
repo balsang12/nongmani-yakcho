@@ -139,6 +139,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Metabolites",
+        "note": "상기생 약재의 성분 구성을 대사체 분석과 HPLC 지문으로 정리해 품질을 평가하는 방법을 제시했다.",
+        "title": "Comprehensive Phytochemical Characterization and Quality Evaluation of Taxillus chinensis via Integrated Widely Targeted Metabolomics, HPLC Fingerprinting, and Multi-Component Quantification",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/metabo16070446",
+        "year": "2026"
+      },
+      {
+        "journal": "Biomedical Chromatography",
+        "note": "상기생을 먹은 뒤 혈액으로 흡수되는 성분을 분석하고 네트워크 약리학으로 작용 후보를 추정한 기초 연구다.",
+        "title": "Exploring the Material Basis of Taxillus chinensis in the Treatment of Hyperuricemia Nephropathy Through Absorbed Into Blood Component Analysis and Network Pharmacology",
+        "type": "기타",
+        "url": "https://doi.org/10.1002/bmc.70066",
+        "year": "2025"
+      },
+      {
         "journal": "International Journal of Molecular Sciences",
         "note": "상기생 추출물과 성분 하나(4-indolecarbaldehyde)가 시험관에서 세균 막 투과성을 높여 항균 작용을 보였다고 보고했다.",
         "title": "Antibacterial Activity and Mechanism of Taxillus chinensis (DC.) Danser and Its Active Ingredients",
@@ -147,7 +163,7 @@
         "year": "2024"
       }
     ],
-    "summary": "상기생은 플라보노이드 등 성분의 항균·항염 작용과, 붙어 자란 나무에 따라 성분과 간 독성이 달라지는 문제가 주로 세포·동물 실험 수준에서 연구되고 있다. 최근 3년 안의 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+    "summary": "상기생은 플라보노이드 등 성분의 항균 작용과 성분 분석·품질 평가, 붙어 자란 나무에 따른 성분 차이가 주로 실험실 수준에서 연구되고 있다. 최근 3년 안의 사람 대상 근거는 이번 조사에서 확인하지 못했다."
   },
   "name": "상기생",
   "st": "hanyak",
@@ -156,5 +172,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793048842816
+  "updatedAt": 1794603087921
 }

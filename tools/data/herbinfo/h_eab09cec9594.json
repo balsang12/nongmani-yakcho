@@ -127,6 +127,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients",
+        "note": "개암나무 수꽃 추출물을 먹인 생쥐에서 인지 기능 저하 지표와 장내 미생물 변화를 살핀 연구다.",
+        "title": "From Microbiota to Metabolomics: How Corylus heterophylla Fisch. Male Flower Extract Shields Mice from Cognitive Decline",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/nu17243958",
+        "year": "2025"
+      },
+      {
+        "journal": "Industrial Crops and Products",
+        "note": "개암에서 속이 빈 열매(쭉정이)가 생기는 원인을 당 운반 장애로 설명한 재배 생리 연구다.",
+        "title": "Obstacles in sugar transportation lead to blank nut formation in hazel (Corylus heterophylla)",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.indcrop.2024.120365",
+        "year": "2025"
+      },
+      {
         "journal": "Food Science (食品科学)",
         "note": "개암과 유럽개암나무 교잡종의 잎·가지 등 부산물 추출물에서 항산화 활성이 페놀 함량과 함께 높게 측정됐다는 시험관 연구다.",
         "title": "Different Solvent Extracts from By-products of Corylus heterophylla Fisch. × Corylus avellana L.: Bioactivity Evaluation and Phenolic Composition Analysis by Ultra-high Performance Liquid Chromatography-Mass Spectrometry",
@@ -143,7 +159,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 국내산 개암 품종이나 개암 교잡종 부산물 추출물의 항산화 성분을 시험관·세포 수준에서 살핀 기초 연구다. 사람 대상 연구는 찾지 못했다."
+    "summary": "최근 연구는 열매 부산물·수꽃 추출물의 세포·동물 실험과, 빈 열매(쭉정이) 발생 원인 같은 재배 연구가 중심이다. 사람 대상 연구는 찾지 못했으므로 건강 효과는 실험실·동물 단계 근거로 보아야 한다."
   },
   "name": "개암",
   "st": "ok",
@@ -156,5 +172,5 @@
     ],
     "text": "개암은 한자로 진(榛)이라 쓰며, 예부터 과일로 먹었다. 『세종실록지리지』와 『경상도지리지』에는 경상·전라·경기·충청·강원도에서 개암이 난다고 기록돼 있다."
   },
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387277793
 }

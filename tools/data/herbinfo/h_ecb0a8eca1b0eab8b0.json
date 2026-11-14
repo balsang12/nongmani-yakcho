@@ -1,7 +1,28 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "본초강목",
+    "bu": "풀(草部) 芳草類",
+    "easy": [
+      "찬 기운으로 생긴 병과 배가 더부룩한 데 쓰고, 입맛을 돋우며 음식이 잘 내려가게 한다고 적었다.",
+      "겉의 찬 기운을 흩어 땀을 내게 하고, 가래를 삭이며 숨찬 것을 가라앉힌다고 했다.",
+      "생선·게를 먹고 탈이 난 데 쓰고, 잎을 날로 먹거나 국을 끓이면 생선·고기 독을 푼다고 적었다.",
+      "끓여 마시는 것이 더 좋고 귤껍질과 잘 어울린다고 했다."
+    ],
+    "han": "蘇 (紫蘇, 莖葉)",
+    "has": true,
+    "ki": "辛，溫，無毒",
+    "kiKo": "맛은 맵고 성질은 따뜻하며 독이 없다고 했다.",
+    "old": "",
+    "orig": "莖葉 【氣味】辛，溫，無毒。【主治】…除寒熱，治一切冷氣，治心腹脹滿，止霍亂轉筋，開胃下食，止腳氣，通大小腸（《日華》）。通心經，益脾胃，煮飲尤勝，與橘皮相宜（蘇頌）。解肌發表，散風寒，行氣寬中，消痰利肺，和血溫中止痛，定喘安胎，解魚蟹毒，治蛇犬傷（時珍）。以葉生食作羹，殺一切魚肉毒（甄權）。(주치 일부만 옮김)",
+    "sources": [
+      {
+        "title": "本草綱目/草之三 (위키문헌)",
+        "url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E8%8D%89%E4%B9%8B%E4%B8%89"
+      }
+    ],
+    "verified": true,
+    "warn": "『본초강목』은 잉어와 함께 먹지 말라는 옛 주의도 덧붙였다. 옛 기록의 쓰임을 소개한 것이며 오늘날 효능이 확인되었다는 뜻은 아니다. 동의보감 탕액편 菜部에도 紫蘇 항목이 있는 것으로 알려져 있으나 이번에는 원문 페이지를 읽지 못했다."
   },
   "faq": [
     {
@@ -118,6 +139,14 @@
         "year": "2025"
       },
       {
+        "journal": "Plants",
+        "note": "잎 뒷면만 보라색인 형과 양면 보라색인 형을 다섯 산지에서 길러 비교했더니, 수확량은 앞쪽이, 잎의 안토시아닌 함량은 양면 보라색 형이 높았다는 재배 연구다.",
+        "title": "Quantitative Comparison of Yield, Quality, and Metabolic Products of Different Medicinal Parts of Two Types of Perilla frutescens Cultivated in a New Location from Different Regions",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14101486",
+        "year": "2025"
+      },
+      {
         "journal": "Antioxidants",
         "note": "자줏빛 차조기(var. crispa f. purpurea) 등 세 변종의 잎 추출물로 항산화 성질과 암세포주 반응을 시험관에서 살펴본 연구로, 사람에게서 확인한 결과는 아니다.",
         "title": "Assessing the Antioxidant Properties, In Vitro Cytotoxicity and Antitumoral Effects of Polyphenol-Rich Perilla leaves Extracts",
@@ -151,5 +180,5 @@
     ],
     "text": "보라색 잎을 가진 차조기의 잎과 연한 줄기 끝을 말린 것을 한약재 '자소엽(紫蘇葉)'이라 부른다. 맛은 맵고 성질은 따뜻하며, 전통적으로 찬 기운으로 인한 감기 증상을 풀고 기운의 흐름을 도와 속을 편하게 하며, 생선·게를 먹고 탈이 났을 때 쓰는 약재로 정리되어 있다."
   },
-  "updatedAt": 1792962021102
+  "updatedAt": 1794516746714
 }

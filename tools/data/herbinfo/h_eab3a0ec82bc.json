@@ -4,23 +4,29 @@
     "book": "동의보감 탕액편",
     "bu": "풀(草部)",
     "easy": [
-      "고삼을 열독풍(熱毒風)으로 피부에 생기는 부스럼, 심한 피부병, 치통, 음부가 헌 증상 등에 쓴다고 적었다고 소개된다.",
-      "쓰기 전에 찹쌀 뜨물에 하룻밤 담갔다가 오래 쪄서 볕에 말리고, 주로 환약으로 썼다고 전한다."
+      "열독풍으로 살갗에 부스럼이 나는 것, 심한 피부병으로 눈썹이 빠지는 것에 쓰고, 열이 심해 자꾸 잠이 쏟아지는 것을 없애며 눈을 밝게 하고 눈물을 멎게 한다고 적었다.",
+      "속에 숨은 열, 이질, 소변이 누렇고 붉은 것, 치통과 악창, 음부가 허는 데에도 쓴다고 했다.",
+      "잎이 회화나무 잎과 매우 닮아 수괴(水槐)·지괴(地槐)라고도 부르며, 음력 3월·8월·10월에 뿌리를 캐 볕에 말린다고 했다.",
+      "맛이 몹시 써서 먹으면 바로 토할 정도라 위가 약한 사람은 조심하라고 했고, 찹쌀뜨물에 하룻밤 담갔다 쪄서 말린 뒤 주로 환약으로 쓰며 탕약에는 넣지 않는다고 했다."
     ],
     "han": "苦參",
     "has": true,
-    "ki": "",
-    "kiKo": "",
+    "ki": "性寒, 味苦, 無毒",
+    "kiKo": "성질은 차고 맛은 쓰며 독이 없다",
     "old": "",
-    "orig": "",
+    "orig": "性寒, 味苦, 無毒. 治熱毒風, 皮肌生瘡, 赤癩眉脫. 除大熱嗜睡, 明目止淚. 養肝膽氣. 除伏熱, 腸澼, 小便黃赤. 療齒痛及惡瘡, 下部䘌. (항목 첫머리만 옮김)",
     "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 草部 苦參",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2515"
+      },
       {
         "title": "주간경향 - 고삼차, 게임의 벌칙으로 안전한 걸까? (2019)",
         "url": "https://weekly.khan.co.kr/article/201912061603441"
       }
     ],
-    "verified": false,
-    "warn": "동의보감은 맛이 쓰고 독이 없다고 적었으나, 너무 써서 위가 약한 사람은 조심해야 한다고 소개된다. 현대 연구는 고삼 함유 제품의 간 등 안전성 감시가 필요하다고 본다."
+    "verified": true,
+    "warn": "원문은 독이 없다고 했지만 너무 써서 위가 약한 사람은 조심하라고 적었다. 현대 연구는 고삼이 든 제품의 간 등 안전성을 지켜봐야 한다고 본다."
   },
   "faq": [
     {
@@ -127,6 +133,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Clinical Pharmacy",
+        "note": "중국 한 병원에서 산후 질 미생물 불균형 여성 126명에게 고삼 성분 질 필름을 표준 치료에 더해 쓴 비무작위 공개 시험으로, 개선 비율이 더 높았다고 보고했지만 설계상 한계가 크다.",
+        "title": "Effectiveness, safety, and pharmacoeconomic profile of Sophora flavescens film in the treatment of postpartum vaginal dysbiosis: a non-randomized controlled trial",
+        "type": "사람 대상",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13176005/",
+        "year": "2026"
+      },
+      {
+        "journal": "Chinese Herbal Medicines",
+        "note": "고삼 플라보노이드 약 128종과 세포·동물 실험의 항암 관련 결과를 정리한 리뷰로, 대부분 전임상 단계이고 일부 성분은 고용량에서 간독성 우려가 있다고 짚었다.",
+        "title": "Chemical composition, antitumor properties and underlying mechanism of Sophora flavescens flavonoids: A review",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13069629/",
+        "year": "2026"
+      },
+      {
         "journal": "Frontiers in Pharmacology",
         "note": "고삼 등 다섯 약재로 만든 장용 캡슐의 대장염 연구를 비판적으로 정리했으며, 완제품의 효능·안전성은 아직 입증되지 않았고 간 등 위험 감시가 필요하다고 보았다.",
         "title": "Five-flavor Sophora flavescens enteric-coated capsules for ulcerative colitis: ethnopharmacological rationale, pharmacology, clinical evidence, and safety",
@@ -151,7 +173,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 주로 중국에서 고삼 유래 주사제·캡슐을 암 환자 보조 치료나 궤양성 대장염에 쓴 임상시험을 모은 메타분석과 리뷰다. 포함된 연구의 비뚤림 위험과 이질성이 커서 근거 수준은 낮음~중등도로 평가되며, 생뿌리나 차를 먹는 것과는 다른 제제에 대한 결과다. 안전성(간 등)을 지켜봐야 한다는 지적도 함께 나온다."
+    "summary": "최근 연구는 주로 중국에서 고삼 유래 주사제·캡슐·질 필름 같은 제제를 쓴 임상시험과 이를 모은 메타분석, 성분 리뷰다. 사람 대상 연구는 비뚤림 위험과 이질성이 커서 근거 수준이 낮음~중등도이고, 성분 리뷰의 항암 결과는 대부분 세포·동물 실험이다. 생뿌리나 차를 먹는 것과는 다른 제제에 대한 결과이며, 간 등 안전성을 지켜봐야 한다는 지적이 함께 나온다."
   },
   "name": "고삼",
   "st": "hanyak",
@@ -164,5 +186,5 @@
     ],
     "text": "고삼은 맛이 너무 써서 달여 마시는 탕약보다는 환약이나 씻는 약으로 주로 써 왔고, 피부 화농·습진·가려움에 달인 물로 환부를 씻었다고 정리된다. 민간에서는 변소에 넣어 구더기가 생기지 않게 할 만큼 살충력이 있는 풀로 알려졌다."
   },
-  "updatedAt": 1792745954823
+  "updatedAt": 1794300768347
 }

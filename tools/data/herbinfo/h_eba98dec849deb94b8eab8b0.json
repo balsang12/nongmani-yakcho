@@ -145,6 +145,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "멍석딸기의 전통적 쓰임, 성분, 약리 연구를 모아 정리하고 사람에게 적용하기까지의 과제를 짚은 총설이다.",
+        "title": "Ethnopharmacology, phytochemistry, and pharmacology of Rubus parvifolius L (Máomèi): evidence and translational challenges",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2026.1871424",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecular & Cellular Toxicology",
+        "note": "멍석딸기 뿌리 추출물이 생쥐의 만성 간 손상 모델에서 염증·섬유화 관련 지표를 바꿨다고 보고했다.",
+        "title": "Rubus parvifolius L. root extract protects against chronic liver injury in mice involves the modulation of Nrf-2/HO-1 and NLRP3/IL-17A/TGF-β1 levels",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.1007/s13273-026-00669-9",
+        "year": "2026"
+      },
+      {
         "journal": "Life",
         "note": "멍석딸기 잎 추출물이 염증을 일으킨 피부각질세포(HaCaT)에서 염증성 사이토카인·케모카인 분비를 줄였다고 보고했으며, 동물·사람에서는 확인되지 않았다.",
         "title": "Phytochemical Profiling and Anti-Inflammatory Activity of Rubus parvifolius Leaf Extract in an Atopic Dermatitis Model",
@@ -169,7 +185,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 주로 세포 실험과 시험관 분석 수준이며, 사람 대상 연구는 찾지 못함. 잎 추출물의 항염 반응(세포), 열매의 항산화능 비교(시험관), 추출물 약리 연구 총설이 있다."
+    "summary": "2026년에 나온 총설이 전통적 쓰임과 약리 연구를 정리했지만, 근거 대부분은 세포·동물 실험이며 사람 대상 연구는 찾지 못했다. 잎·뿌리 추출물의 항염 효과와 열매의 안토시아닌·페놀 성분 분석이 주로 보고되었다."
   },
   "name": "멍석딸기",
   "st": "ok",
@@ -186,5 +202,5 @@
     ],
     "text": "2025년 논문 서론에 따르면 멍석딸기는 동아시아에서 전통적으로 염증 관련 증상에 쓰였다고 한다. 중국에서는 '茅莓(모매)'라는 이름으로 추출물의 약리 연구가 이어지고 있다."
   },
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387277793
 }

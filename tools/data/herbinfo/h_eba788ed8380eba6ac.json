@@ -123,6 +123,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Foods",
+        "note": "약물로 대장염을 일으킨 생쥐에게 마타리 추출물을 먹여 염증 지표와 장내 세균 구성의 변화를 살폈다.",
+        "title": "Patrinia scabiosaefolia L. Modulates the Intestinal Microecology to Treat DSS-Induced Ulcerative Colitis: UHPLC-OE-MS/MS, Network Pharmacology, and Experimental Validation",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/foods14071145",
+        "year": "2025"
+      },
+      {
         "journal": "Scientific Reports",
         "note": "시장에서 팔리는 마타리속 약재가 어떤 종인지 생김새, 박층크로마토그래피 성분 무늬, DNA 바코드를 함께 써서 가려내는 방법을 제안했다.",
         "title": "A systematic approach for authentication of medicinal Patrinia species using an integration of morphological, chemical and molecular methods",
@@ -131,7 +139,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 3년 안에서 직접 확인한 논문은 시중에 유통되는 마타리속 약재(마타리·뚝갈)를 생김새·성분·DNA로 구별하는 방법을 다룬 2024년 연구 1편이다. 유럽 논문 데이터베이스 검색에서는 2025~2026년에 대장암 세포나 장염 동물 모델 등 실험실 연구가 여럿 나왔으나 내용을 직접 읽어 확인하지 못해 싣지 않았고, 사람 대상 연구는 확인하지 못했다. 현재 근거는 대부분 실험실 수준이다."
+    "summary": "최근 3년 안에서 직접 확인한 마타리(Patrinia scabiosifolia) 논문은 2편이다. 하나는 시중의 마타리속 약재를 생김새·성분·DNA로 구별하는 방법을 다룬 2024년 연구이고, 다른 하나는 대장염을 일으킨 생쥐에 추출물을 먹인 2025년 동물 실험이다. 사람 대상 연구는 확인하지 못해 근거는 아직 실험실·동물 단계다."
   },
   "name": "마타리",
   "st": "ok",
@@ -148,5 +156,5 @@
     ],
     "text": "농사로 자료에 따르면 마타리 뿌리는 패장(敗醬)이라는 생약명으로 불리며, 가을에 캐어 햇볕에 말려 썼다. 민간에서는 뿌리 달인 물로 눈병을 씻거나, 달여 마셔 대하나 산후 조리 등에 썼다고 전한다. 한국민족문화대백과사전도 비슷한 식물인 뚝갈을 패장이라 부르며 한방에서 써 왔다고 소개한다."
   },
-  "updatedAt": 1792616180342
+  "updatedAt": 1794128329143
 }

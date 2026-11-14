@@ -137,6 +137,14 @@
         "year": "2025"
       },
       {
+        "journal": "Molecules",
+        "note": "복령 다당류가 장내 미생물에 미치는 영향을 다룬 연구들을 정리한 리뷰로, 근거 대부분은 동물 실험이다.",
+        "title": "The Role of Wolfiporia cocos (F. A. Wolf) Ryvarden and Gilb. Polysaccharides in Regulating the Gut Microbiota and Its Health Benefits",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules30061193",
+        "year": "2025"
+      },
+      {
         "journal": "Nutrients",
         "note": "불면을 호소하는 21명이 복령 추출물을 먹기 전후의 수면을 비교한 소규모 연구로, 대조군이 없어 결과 해석에 한계가 있다.",
         "title": "Efficacy of Poria Cocos Extract on Sleep Quality Enhancement: A Clinical Perspective with Implications for Functional Foods",
@@ -154,5 +162,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559816788
 }

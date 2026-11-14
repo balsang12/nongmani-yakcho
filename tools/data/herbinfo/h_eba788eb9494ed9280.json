@@ -126,6 +126,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Jundishapur Journal of Natural Pharmaceutical Products",
+        "note": "대장염을 일으킨 생쥐에게 마디풀 가루를 먹였더니 대장 염증 지표가 낮아지고 항산화 관련 유전자 발현이 늘었다고 보고한 동물 실험이다.",
+        "title": "Effects of Polygonum aviculare Ingestion on Inflammatory and Antioxidant Status and Colonic Microbial Count in Acetic Acid-Induced Murine Colitis",
+        "type": "동물 실험",
+        "url": "https://brieflands.com/journals/jjnpp/articles/170044",
+        "year": "2026"
+      },
+      {
+        "journal": "Veterinary and Animal Science",
+        "note": "유럽 산지의 마디풀과 식물 49종을 가축 건강·사료 관점에서 체계적으로 검토한 리뷰로, 마디풀은 그중 하나로 다뤄졌다.",
+        "title": "Multiple benefits of herbs: Polygonaceae species in veterinary pharmacology and livestock nutrition",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.vas.2024.100416",
+        "year": "2025"
+      },
+      {
         "journal": "Plants",
         "note": "마디풀 에탄올 추출물이 생쥐 대식세포에서 HO-1을 늘리고 iNOS를 억제하는 방식으로 염증 반응을 낮췄다고 보고한 세포 실험이다.",
         "title": "Hydroethanolic Extract of Polygonum aviculare L. Mediates the Anti-Inflammatory Activity in RAW 264.7 Murine Macrophages Through Induction of Heme Oxygenase-1 and Inhibition of Inducible Nitric Oxide Synthase",
@@ -142,7 +158,7 @@
         "year": "2024"
       }
     ],
-    "summary": "2023~2026년에 확인한 마디풀 연구는 모두 세포 실험 단계다. 추출물이 대식세포에서 염증 관련 물질을 줄였다는 보고와 추출물의 항산화·세포 증식 억제 활성을 본 연구가 있으며, 사람 대상 연구는 찾지 못했다."
+    "summary": "2023~2026년에 확인한 마디풀 연구는 세포 실험과 동물 실험 단계다. 추출물이 대식세포에서 염증 관련 물질을 줄였다는 세포 실험, 생쥐 대장염 모델에서 마디풀 가루가 염증 지표를 낮췄다는 동물 실험(2026), 가축 사료·약용 가능성을 다룬 마디풀과 식물 리뷰(2025)가 있다. 사람 대상 연구는 찾지 못했다."
   },
   "name": "마디풀",
   "st": "ok",
@@ -163,5 +179,5 @@
     ],
     "text": "한국민족문화대백과사전은 마디풀 전체를 말린 것을 '편축'이라 하며 약재로 널리 써 왔다고 소개한다. 오줌을 잘 나오게 하는 데 주로 썼고, 황달·이질 등에도 썼다고 적었다. 동의보감 탕액편 풀(草部)에도 萹蓄(온ᄆᆞᄃᆞᆸ)이라는 이름이 올라 있다."
   },
-  "updatedAt": 1792875515254
+  "updatedAt": 1794430209735
 }

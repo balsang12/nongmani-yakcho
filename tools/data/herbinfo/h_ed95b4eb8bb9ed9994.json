@@ -128,6 +128,14 @@
         "year": "2025"
       },
       {
+        "journal": "Molecules",
+        "note": "해당화를 포함한 장미속 5종의 성분과 보고된 작용, 식품·화장품 활용을 정리하면서 표준화와 사람 대상 연구가 부족하다고 짚은 리뷰다.",
+        "title": "Recent Advances in Bioactive Compounds, Health Functions, and Utilization of Rose (Rosa spp.)",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/molecules30193869",
+        "year": "2025"
+      },
+      {
         "journal": "Plants",
         "note": "해당화 꽃봉오리에서 페놀 화합물 9가지를 분리하고, 그중 두 성분이 염증 자극을 준 피부 세포에서 활성산소를 줄였다고 보고한 실험실 연구다.",
         "title": "Rosarugosides A and D from Rosa rugosa Flower Buds: Their Potential Anti-Skin-Aging Effects in TNF-α-Induced Human Dermal Fibroblasts",
@@ -136,7 +144,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 주로 꽃·꽃봉오리와 열매의 페놀 화합물, 다당류, 항산화 성분을 분석한 것이다. 건강과 관련된 결과는 대부분 실험실(세포)과 동물 실험 수준이며, 사람에게서 효과가 확인된 것은 아니다. 이번 조사에서는 Europe PMC 검색이 접속 제한(429)으로 막혀 웹 검색으로 확인된 논문만 실었다."
+    "summary": "최근 연구는 주로 꽃·꽃봉오리와 열매의 페놀 화합물, 다당류, 항산화 성분을 분석한 것이다. 건강과 관련된 결과는 대부분 실험실(세포)과 동물 실험 수준이며, 사람에게서 효과가 확인된 것은 아니다. 2025년 장미속 리뷰도 사람 대상 효능 연구와 성분 표준화가 앞으로의 과제라고 정리했다."
   },
   "name": "해당화",
   "st": "ok",
@@ -153,5 +161,5 @@
     ],
     "text": "국립원예특작과학원 연구사의 기고에 따르면 해당화 꽃은 매괴화(玫瑰花)라는 이름으로 약재로 쓰였고, 어린 순은 나물로, 꽃은 그늘에 말려 차나 향료로, 열매는 잼 같은 가공식품으로 이용되었다. 약재로는 피기 전 꽃봉오리를 5월 무렵 따서 그늘에 말려 쓴다고 소개된다."
   },
-  "updatedAt": 1792962021102
+  "updatedAt": 1794516746714
 }

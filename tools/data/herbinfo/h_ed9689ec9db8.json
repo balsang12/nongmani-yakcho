@@ -135,6 +135,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "BMC Plant Biology",
+        "note": "행인 기원 식물들을 ITS2 유전자 바코드로 구별하고 기후에 따른 재배 적지를 예측한 연구다.",
+        "title": "Assessment of suitable habitat of Semen Armeniacae Amarum. in China under different climatic conditions by Internal Transcribed Spacer 2 and Maxent model",
+        "type": "기타",
+        "url": "https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-025-06627-2",
+        "year": "2025"
+      },
+      {
         "journal": "Advances in Pharmacological and Pharmaceutical Sciences",
         "note": "쓴 살구씨 추출물이 쥐에서 통증·염증 지표와 상처 회복에 영향을 주는지 살핀 실험 연구다.",
         "title": "Analgesic, Antioxidant, Anti-Inflammatory, and Wound-Treating Actions of Bitter Apricot Kernel Extract",
@@ -151,7 +159,7 @@
         "year": "2024"
       }
     ],
-    "summary": "행인의 주성분인 아미그달린과 지방유를 중심으로 기침·염증 관련 작용이 주로 세포·동물 실험에서 연구되고 있으며, 같은 성분이 시안 중독의 원인이라는 독성 연구도 함께 이루어진다. 사람 대상 근거는 이번 조사에서 확인하지 못했다."
+    "summary": "행인의 주성분인 아미그달린과 지방유를 중심으로 기침·염증 관련 작용이 주로 동물 실험에서 연구되고, 같은 성분이 시안 중독의 원인이라는 독성 연구와 기원 식물을 유전자로 구별하는 연구도 이루어진다. 사람 대상 근거는 이번 조사에서 확인하지 못했다."
   },
   "name": "행인",
   "st": "hanyak",
@@ -165,5 +173,5 @@
     ],
     "text": "동의보감 탕액편 과일 부(果部)에도 살구씨(杏仁·杏核仁) 항목이 있어, 성질이 따뜻하고 맛이 달고 쓰며 독이 있다(조금 있다고도 함)고 적었고 씨 알맹이가 두 개인 것은 사람을 죽인다고 경고했다고 연구 논문에 소개되어 있다. 동의보감 원문은 이번에 직접 대조하지 못했다."
   },
-  "updatedAt": 1793048842816
+  "updatedAt": 1794603087921
 }

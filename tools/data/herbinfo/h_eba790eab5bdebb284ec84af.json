@@ -162,6 +162,14 @@
         "year": "2025"
       },
       {
+        "journal": "Microorganisms",
+        "note": "발칸 지역 말굽버섯 3개 균주의 추출물 성분을 비교하고 시험관·세포에서 항산화와 효소 억제, 세포 증식 억제 활성을 재었다.",
+        "title": "Bioactive Potential of Balkan Fomes fomentarius Strains: Novel Insights into Comparative Mycochemical Composition and Antioxidant, Anti-Acetylcholinesterase, and Antiproliferative Activities",
+        "type": "세포 실험",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12195499/",
+        "year": "2025"
+      },
+      {
         "journal": "Lilloa",
         "note": "말굽버섯 무리의 쓰임을 정리하면서 유전자 분석상 숨은 계통이 여럿 있어 종 구분을 더 정확히 해야 한다고 지적했다.",
         "title": "Fomes: A comprehensive review of traditional and modern biotechnological applications in medicine, food, and materials",
@@ -188,5 +196,5 @@
     ],
     "text": "말굽버섯의 말린 살은 불이 잘 붙어 유럽에서 오래전부터 부싯깃으로 썼고, 18~19세기에는 피를 멎게 하는 드레싱으로도 썼다. 중국에서는 '화균지(Hua jun zhi)'라는 이름으로 민간에서 소화불량 등에 썼다고 2025년 리뷰가 정리했다. 본초강목 지(芝)류 원문을 확인한 범위에서는 말굽버섯에 해당하는 항목을 찾지 못했다."
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559816788
 }

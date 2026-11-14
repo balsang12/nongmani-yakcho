@@ -150,6 +150,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Journal of Functional Foods",
+        "note": "줄기(목통)가 아닌 으름 열매 추출물을 생쥐 대장염 모델에 먹여 장내 미생물 변화를 살핀 연구다.",
+        "title": "Akebia quinata fruit ethanol extract alleviates dextran sulfate sodium–induced ulcerative colitis in mice through gut microbiota–metabolite crosstalk",
+        "type": "동물 실험",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1756464626002574",
+        "year": "2026"
+      },
+      {
         "journal": "Molecular & Cellular Toxicology",
         "note": "말린 으름덩굴 줄기 추출물이 대식세포의 염증 물질 생성을 줄이는지 추출 용매별로 비교했다.",
         "title": "Anti-inflammatory activity of Akebia quinata D. extracts by inhibiting MAPK and NF-κB signaling pathways in LPS-induced RAW 264.7 cells according to extraction solvents",
@@ -158,7 +166,7 @@
         "year": "2024"
       }
     ],
-    "summary": "으름덩굴 줄기 추출물의 항염 작용 등이 연구되고 있으나 이번에 확인한 최근 연구는 세포 실험 수준이며, 사람 대상 근거는 확인하지 못했다. 안전성 면에서는 등칡(관목통)으로 바뀐 '목통' 처방이 아리스톨로크산 신장병을 일으킨 사례가 유럽의약품청 등에 정리되어 있다."
+    "summary": "으름덩굴 줄기 추출물의 항염 작용이 세포 실험에서, 같은 식물의 열매 추출물이 동물 실험에서 연구되고 있으나 사람 대상 근거는 확인하지 못했다. 안전성 면에서는 등칡(관목통)으로 바뀐 '목통' 처방이 아리스톨로크산 신장병을 일으킨 사례가 유럽의약품청 등에 정리되어 있다."
   },
   "name": "목통",
   "st": "hanyak",
@@ -167,5 +175,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793048842816
+  "updatedAt": 1794603087921
 }

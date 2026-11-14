@@ -131,9 +131,17 @@
         "type": "기타",
         "url": "https://accesson.kr/jebhm/assets/pdf/58618/journal-7-1-1.pdf",
         "year": "2026"
+      },
+      {
+        "journal": "Journal of Plant Growth Regulation",
+        "note": "쥐똥나무 묘목을 가뭄 정도별로 30일 키운 뒤 다시 물을 주며 생장·생리 변화를 비교한 재배 연구로, 먹는 것과는 관계없다.",
+        "title": "Estimating the Morphological and Physiological Plasticity of Ligustrum obtusifolium Seedlings in Response to Drought Stress and Subsequent Rewatering",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/s00344-023-11208-4",
+        "year": "2024"
       }
     ],
-    "summary": "최근 3년 안에 쥐똥나무만을 깊게 다룬 연구는 드물게 찾아졌다. 확인된 연구는 제주 자생 쥐똥나무속 열매를 한약재 여정실과 비교한 시험관(실험실) 분석으로, 항산화 활성과 성분 함량을 비교했을 뿐 사람 대상 근거는 아니다."
+    "summary": "쥐똥나무를 직접 다룬 최근 연구는 많지 않다. 제주 자생 쥐똥나무속 열매를 여정실과 비교해 성분·항산화 활성을 본 실험실 연구와 묘목의 가뭄 반응을 본 재배 연구 정도이며, 사람 대상 연구는 찾지 못했다."
   },
   "name": "쥐똥나무",
   "st": "hanyak",
@@ -150,5 +158,5 @@
     ],
     "text": "쥐똥나무 열매는 수랍과(水蠟果)라는 이름으로 한방 약재로 써 왔으며, 성질은 평하고 맛은 달며 몸을 보하고 피를 멎게 하며 땀을 거두는 쓰임이 있다고 전해진다. 몸이 허약할 때, 신허(腎虛), 저절로 땀이 날 때(자한), 변에 피가 섞일 때 썼다고 정리되어 있다. 일부 신문 기사에서는 쥐똥나무 열매를 남정실(男貞實), 광나무 열매를 여정실(女貞實)로 구분해 부르기도 한다."
   },
-  "updatedAt": 1792789248963
+  "updatedAt": 1794343825262
 }

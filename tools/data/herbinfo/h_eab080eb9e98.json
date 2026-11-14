@@ -111,6 +111,14 @@
         "year": "2025"
       },
       {
+        "journal": "International Journal of Biological Macromolecules",
+        "note": "가래나무 껍질의 플라보노이드 추출물이 지방 분해 효소(췌장 리파아제)를 억제하고 고지방식 생쥐의 지방 축적 지표를 낮췄다고 보고했다.",
+        "title": "Total flavonoids from Cortex Juglandis Mandshuricae inhibits pancreatic lipase activity and reduces fat accumulation in vivo",
+        "type": "동물 실험",
+        "url": "https://bioweb.supagro.inrae.fr/ESTHER/paper/Wang_2025_Int.J.Biol.Macromol__145586",
+        "year": "2025"
+      },
+      {
         "journal": "Molecules",
         "note": "버려지는 가지에서 정제한 플라보노이드가 간암 세포(HepG2)의 증식을 억제했다고 보고했다.",
         "title": "Enrichment and Evaluation of Antitumor Properties of Total Flavonoids from Juglans mandshurica Maxim",
@@ -135,7 +143,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 3년 연구는 주로 성분 분리와 세포 실험 수준이며, 사람 대상 연구는 찾지 못했다. 덜 익은 열매 겉껍질과 가지에서 얻은 성분의 실험실 활성이 보고되고 있고, 열매 형질을 비교한 육종 연구도 있다."
+    "summary": "최근 3년 연구는 성분 분리, 세포 실험, 동물 실험 수준이며 사람 대상 연구는 찾지 못했다. 나무껍질·가지·덜 익은 열매 겉껍질에서 얻은 성분의 실험실 활성이 주로 보고되었고, 열매 형질을 비교한 육종 연구도 있다. 먹는 알맹이(씨앗)에 대한 건강 효과는 아직 확인된 근거가 부족하다."
   },
   "name": "가래",
   "st": "ok",
@@ -152,5 +160,5 @@
     ],
     "text": "우리 백과사전에는 가래나무 껍질이 열을 내리고 수렴하는 성질이 있어 장염과 이질에 썼다고 적혀 있고, 산추자·추자·산핵도 등의 옛 이름이 있다. 중국에서는 덜 익은 열매 겉껍질과 나무껍질을 민간 약재로 써 왔으나, 겉껍질을 과량 쓰면 부작용이 생길 수 있다고 정리되어 있다."
   },
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387277792
 }

@@ -142,6 +142,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "BMC Plant Biology",
+        "note": "중국 40개 집단 822개체의 앵두나무 유전 다양성을 분석해 지역에 따라 두 무리로 나뉜다고 보고했다.",
+        "title": "Genetic characteristics of endemic Prunus tomentosa in China based on microsatellites",
+        "type": "기타",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40069666/",
+        "year": "2025"
+      },
+      {
         "journal": "Technology and Health Care",
         "note": "쥐 실험에서 앵두나무 총 플라보노이드가 요산 수치와 발목 붓기를 낮췄다고 보고했다(사용 부위는 확인 못 함).",
         "title": "Antigout effects and mechanisms of total flavonoids from prunus tomentosa",
@@ -162,5 +170,5 @@
   },
   "name": "앵두",
   "st": "ok",
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387277794
 }

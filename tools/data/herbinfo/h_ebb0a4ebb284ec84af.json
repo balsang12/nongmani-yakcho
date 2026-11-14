@@ -112,6 +112,14 @@
         "type": "기타",
         "url": "https://doi.org/10.3390/plants14182884",
         "year": "2025"
+      },
+      {
+        "journal": "Ethnobotany of the Caucasus (Springer)",
+        "note": "코카서스 지역의 민속 식물·버섯 이용을 정리한 참고서의 밤버섯 항목이다.",
+        "title": "Calocybe gambosa (Fr.) Donk Lyophyllaceae",
+        "type": "기타",
+        "url": "https://doi.org/10.1007/978-3-031-91369-3_549",
+        "year": "2025"
       }
     ],
     "summary": "최근 연구는 밤버섯의 영양 성분과 풀밭에 균륜을 만드는 생태를 다룬 것이 대부분이다. 항산화·항균 활성은 실험실 분석 수준에서 보고되었을 뿐 사람에게서 확인된 효과는 없다."
@@ -122,5 +130,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792962021102
+  "updatedAt": 1794516746714
 }

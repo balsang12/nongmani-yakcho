@@ -1,7 +1,25 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "동의보감 탕액편 풀(草部)에 대계(大薊, 항가ᄉᆡ)와 나란히 소계(小薊)가 '조방가ᄉᆡ'라는 우리말 이름으로 실려 있다. 이번에는 향명 전사본으로만 확인했고, 본문 원문은 아직 대조하지 못했다."
+    ],
+    "han": "小薊",
+    "has": true,
+    "ki": "",
+    "kiKo": "",
+    "old": "조방가ᄉᆡ",
+    "orig": "",
+    "sources": [
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (小薊 조방가ᄉᆡ)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "verified": false,
+    "warn": ""
   },
   "faq": [
     {
@@ -122,8 +140,25 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "이번 조사에서는 학명(Cirsium setosum, Breea segeta)으로 2023~2026년 논문을 검색하려 했으나 논문 데이터베이스 접속이 제한되어 실제로 확인한 논문이 없다. 따라서 최근 연구 근거 수준은 이 문서에서 제시하지 않는다."
+    "papers": [
+      {
+        "journal": "Molecules",
+        "note": "엉겅퀴와 조뱅이를 함께 추출해 성분을 분석하고, 토끼에서 출혈 시간과 염증 지표의 변화를 살폈다.",
+        "title": "Study on the Compositional Analysis, Extraction Process, and Hemostatic and Anti-Inflammatory Activities of Cirsium japonicum Fisch. ex DC.–Cirsium setosum (Willd.) MB Extracts",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/molecules29091918",
+        "year": "2024"
+      },
+      {
+        "journal": "Chinese Journal of Integrative Medicine",
+        "note": "엉겅퀴속 식물의 항균 성분과 실험실 연구 결과를 모아 정리했으며 대부분 시험관 수준 근거라고 밝혔다.",
+        "title": "Antibacterial Activity of Plants in Cirsium: A Comprehensive Review.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1007/s11655-024-3757-2",
+        "year": "2024"
+      }
+    ],
+    "summary": "최근 3년 사이 조뱅이(소계, Cirsium setosum)를 다룬 연구로는 엉겅퀴속 식물의 항균 연구를 정리한 2024년 리뷰와, 엉겅퀴(대계)·조뱅이(소계) 혼합 추출물의 지혈·항염 작용을 토끼에서 본 2024년 동물 실험이 확인됐다. 사람 대상 연구는 찾지 못해 근거는 실험실·동물 단계다."
   },
   "name": "조뱅이",
   "st": "ok",
@@ -140,5 +175,5 @@
     ],
     "text": "한국민족문화대백과사전은 조뱅이의 땅 위 부분을 소계(小薊)라는 한약재로 써 왔으며, 피를 멎게 하는 목적으로 소변·대변 출혈이나 코피 등에 썼다고 소개한다. 또 옛 이름 '조방거색'이 『동의보감』의 '조방가시'를 거쳐 '조뱅이'가 되었을 것으로 본다. 국립생물자원관 전통지식 조사 자료에도 조뱅이가 소계라는 생약명으로 실려 있다."
   },
-  "updatedAt": 1792616180342
+  "updatedAt": 1794128329143
 }

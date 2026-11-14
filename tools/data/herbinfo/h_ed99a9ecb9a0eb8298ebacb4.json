@@ -138,6 +138,14 @@
       },
       {
         "journal": "Current Issues in Molecular Biology",
+        "note": "황칠나무에서 얻은 성분 덴드로판옥사이드를 사람 피부 세포 배양에 처리해 콜라겐 분해·염증 지표 변화를 본 세포 실험이다.",
+        "title": "Evaluation of the Antiaging Potential of the Dendropanax morbiferus-Derived Compound Dendropanoxide in TNF-α-Stimulated Human Dermal Fibroblasts",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/cimb47030188",
+        "year": "2025"
+      },
+      {
+        "journal": "Current Issues in Molecular Biology",
         "note": "황칠나무 추출물의 미백·항염·항균 효과를 다룬 연구 16편을 묶어 분석했는데, 모두 세포·세균 실험이라 사람에게 그대로 적용하기는 어렵다.",
         "title": "Dendropanax morbifera Extracts for Cosmetic Applications: Systematic Review and Meta-Analysis",
         "type": "리뷰",
@@ -166,5 +174,5 @@
     ],
     "text": "황칠나무 줄기에 상처를 내 받은 노란 수액(황칠)은 투명한 금빛 천연 도료로, 예로부터 갑옷과 왕실 물품 등 목공예·금속·가죽·종이에 칠하는 데 써 왔다. 민간에서는 잎·뿌리·씨앗·줄기를 여러 질환에 쓰는 약재로 이용해 왔다고 학술 문헌에 정리되어 있다."
   },
-  "updatedAt": 1792789248964
+  "updatedAt": 1794343825262
 }

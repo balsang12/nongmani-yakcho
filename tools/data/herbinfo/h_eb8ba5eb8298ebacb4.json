@@ -143,6 +143,22 @@
         "year": "2025"
       },
       {
+        "journal": "Forests",
+        "note": "국립산림과학원 연구진이 한지 원료 닥나무를 꺾꽂이로 늘릴 때 배지와 발근제 조합에 따른 뿌리내림을 비교한 재배 연구다.",
+        "title": "Effects of Rooting Substrates and Plant Growth Regulators on Rooting Performance, Photosynthetic Characteristics, and Soil Properties of Broussonetia × kazinoki Sieb. Cuttings",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/f16111752",
+        "year": "2025"
+      },
+      {
+        "journal": "Food Science and Preservation",
+        "note": "닥나무 가지 추출물을 피부세포·비만세포 배양에 넣어 알레르기 염증 관련 물질 변화를 본 실험실 연구로, 사람에게 같은 결과가 나오는지는 알 수 없다.",
+        "title": "Inhibitory effects of Broussonetia kazinoki twig extract on allergic inflammatory reactions in TNF-α/IFN-γ-stimulated HaCaT and IgE-sensitized RBL-2H3 cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.11002/fsp.2024.31.2.307",
+        "year": "2024"
+      },
+      {
         "journal": "Pharmaceutical Biology",
         "note": "닥나무 뿌리에서 얻은 성분 카지놀 B가 산소 부족 후 재공급 손상을 준 쥐 심근세포에서 세포 손상 지표를 줄였다는 세포 실험이다.",
         "title": "Kazinol B protects H9c2 cardiomyocytes from hypoxia/reoxygenation-induced cardiac injury by modulating the AKT/AMPK/Nrf2 signalling pathway",
@@ -151,7 +167,7 @@
         "year": "2023"
       }
     ],
-    "summary": "2023~2026년 닥나무 연구는 뿌리 성분(카지놀 B)을 이용한 세포 실험, 닥나무 가루를 뼈 재생 지지체 재료로 쓴 동물 실험, 일본 닥나무(교잡종)의 유전 다양성 분석 정도이며, 먹는 것과 관련된 사람 대상 연구는 찾지 못했다. 최근 분자 연구에서는 재배 닥나무가 꾸지나무 계통과의 교잡종으로 보고되고 있다."
+    "summary": "2023~2025년 닥나무 연구는 뿌리 성분(카지놀 B)과 가지 추출물을 이용한 세포 실험, 닥나무 가루를 뼈 재생 지지체 재료로 쓴 동물 실험, 꺾꽂이 번식·유전 다양성 같은 재배 연구가 중심이다. 먹는 것과 관련된 사람 대상 연구는 찾지 못했다."
   },
   "name": "닥나무",
   "st": "ok",
@@ -168,5 +184,5 @@
     ],
     "text": "닥나무 속껍질 섬유는 고려 때부터 한지의 주원료로 쓰였고, 조선 시대에는 나라에서 집집마다 닥나무를 심도록 하고 『경국대전』에 닥나무밭 관리 규정을 두었다. 옛날에는 껍질로 저포라는 천을 짜기도 했다. 열매는 한방에서 기력이 떨어지거나 몸이 붓는 데 약재로 쓰였다고 기록되어 있다."
   },
-  "updatedAt": 1792789248966
+  "updatedAt": 1794343825262
 }

@@ -125,8 +125,25 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "최근 3년(2023~2026) 안에 자운영(Astragalus sinicus)을 직접 다룬 논문 가운데 학술지·연도·링크까지 확인된 것을 찾지 못해 목록에 싣지 않았다. 생쥐 폐경 모델과 세포 실험에서 자운영 추출물을 시험한 국내 연구 발표가 검색되었으나 서지 정보를 확인하지 못했고, 같은 황기속(Astragalus)의 약리 연구 대부분은 황기(A. membranaceus) 뿌리에 관한 것이라 자운영 근거로 볼 수 없다. 사람 대상 근거는 없는 수준이다."
+    "papers": [
+      {
+        "journal": "Journal of Microbiology and Biotechnology",
+        "note": "자운영 에탄올 추출물을 세포와 난소를 제거한 생쥐에 써서 갱년기 관련 지표의 변화를 살폈다.",
+        "title": "Effect of Astragalus sinicus Ethanol Extract on Menopausal Symptoms in an Ovariectomized (OVX) Mouse Model",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.4014/jmb.2510.10033",
+        "year": "2026"
+      },
+      {
+        "journal": "Cosmetics",
+        "note": "자운영 지상부 추출물이 남성호르몬으로 손상시킨 사람 모낭 세포에 어떤 영향을 주는지 실험실에서 살폈다.",
+        "title": "Hair Growth-Promoting Effects of Astragalus sinicus Extracts in Human Follicle Dermal Papilla Cells",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/cosmetics12010006",
+        "year": "2025"
+      }
+    ],
+    "summary": "최근 3년 사이 자운영(Astragalus sinicus) 자체를 다룬 건강 관련 연구는 많지 않다. 확인한 것은 난소를 제거한 생쥐에서 갱년기 지표를 본 2026년 동물·세포 실험과, 사람 모낭 세포에서 추출물의 영향을 본 2025년 세포 실험이다. 사람 대상 연구는 찾지 못해 근거는 실험실 단계다."
   },
   "name": "자운영",
   "st": "ok",
@@ -143,5 +160,5 @@
     ],
     "text": "한국민족문화대백과사전은 자운영 전초를 말려 약재로 써 왔으며, 열을 내리고 독을 푸는 데 쓰여 기침·목 아픔·가래에 달여 쓰고, 종기나 상처에는 짓찧어 붙였다고 소개한다. 중국 『본초강목』 채부(菜部)에는 '翹搖'라는 나물 항목이 있어 맛이 맵고 성질이 평하며 독이 없고 익혀 먹는다고 적었으나, 이 책은 翹搖를 소소채(小巢菜)로 풀이하고 있어 자운영과 같은 식물인지는 확정하지 못했다."
   },
-  "updatedAt": 1792616180342
+  "updatedAt": 1794128329143
 }

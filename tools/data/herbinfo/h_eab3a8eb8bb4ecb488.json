@@ -140,6 +140,14 @@
         "year": "2026"
       },
       {
+        "journal": "Acta Pharmaceutica Sinica",
+        "note": "골담초를 포함한 골담초속 식물에서 보고된 항염 관련 성분과 실험 결과를 정리한 리뷰로, 이번 조사에서는 제목과 서지만 확인했다.",
+        "title": "Progress in the study of anti-inflammatory active components with anti-inflammatory effects and mechanisms in Caragana Fabr.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.16438/j.0513-4870.2024-0587",
+        "year": "2025"
+      },
+      {
         "journal": "Journal of Ethnopharmacology",
         "note": "골담초 다당류가 약물로 면역을 떨어뜨린 생쥐에서 면역 지표와 장내 미생물 구성에 변화를 주었다고 보고했다.",
         "title": "Caragana sinica (Buc'hoz) Rehd. (jin ji er) polysaccharide regulates the immune function and intestinal microbiota of cyclophosphamide (CTX) induced immunosuppressed mice",
@@ -153,14 +161,6 @@
         "title": "Skin Wound Healing and Anti-Wrinkle-Promoting In Vitro Biological Activities of Caragana sinica Flower Absolute and Its Chemical Composition",
         "type": "세포 실험",
         "url": "https://doi.org/10.3390/ph16020235",
-        "year": "2023"
-      },
-      {
-        "journal": "ACS Omega",
-        "note": "뿌리의 핵심 성분을 찾아 관절염 모델 쥐와 시험관 염증 실험으로 작용 가능성을 살폈다.",
-        "title": "Core Constituents of Caragana sinica Root for Rheumatoid Arthritis Treatment and the Potential Mechanism",
-        "type": "동물 실험",
-        "url": "https://doi.org/10.1021/acsomega.2c07094",
         "year": "2023"
       }
     ],
@@ -185,5 +185,5 @@
     ],
     "text": "뿌리를 말린 것을 금작근(金雀根)이라 하며, 민간과 한방에서 신경통·관절통 같은 통증에 달이거나 술에 담가 써 왔다고 전해진다. 말린 꽃도 기침 등에 쓰였다고 소개된다. 영주 부석사 조사당 옆의 '선비화'가 골담초로, 의상대사의 지팡이에서 자랐다는 이야기가 전한다."
   },
-  "updatedAt": 1792789248965
+  "updatedAt": 1794343825262
 }

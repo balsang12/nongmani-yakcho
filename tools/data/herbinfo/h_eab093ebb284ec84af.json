@@ -115,6 +115,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "큰갓버섯에서 얻은 다당류 분획이 시험관에서 항산화력과 염증 관련 효소 억제를 보였고, 대장암 세포의 증식을 줄였다고 보고했다.",
+        "title": "Chemical Characterization and In Vitro Antioxidant, Anti-Inflammatory, and Colon Cancer-Preventive Potential of a Polysaccharide Fraction from Macrolepiota procera",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/ijms26209978",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Fungi",
+        "note": "턱받이포도버섯과 큰갓버섯의 영양 성분과 기존에 보고된 생리활성 연구를 함께 정리한 문헌 리뷰다.",
+        "title": "Nutritional and Therapeutic Potential of Stropharia rugosoannulata and Macrolepiota procera: From Composition to Health-Promoting Effect",
+        "type": "리뷰",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12028555/",
+        "year": "2025"
+      },
+      {
         "journal": "Journal of Fungi",
         "note": "루마니아 6곳에서 모은 야생 식용버섯과 흙의 중금속을 재어 보니 큰갓버섯이 카드뮴·크롬을 상대적으로 많이 모아 주의가 필요하다고 보았다.",
         "title": "Heavy Metals and Associated Risks of Wild Edible Mushrooms Consumption: Transfer Factor, Carcinogenic Risk, and Health Risk Index",
@@ -123,7 +139,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 주로 야생 큰갓버섯의 영양 성분과 중금속 축적을 다룬다. 2024년 루마니아 조사에서는 야생 식용버섯 6종 가운데 큰갓버섯이 흙에 비해 카드뮴·크롬을 많이 모으는 편이라 섭취 위험 요인으로 지적됐다. 효능에 관한 사람 대상 연구는 이번 조사에서 확인하지 못했다."
+    "summary": "최근 연구는 주로 야생 큰갓버섯의 영양 성분, 다당류의 생리활성, 중금속 축적을 다룬다. 2025년 연구에서는 다당류 분획이 시험관·세포 실험에서 항산화와 염증 효소 억제를 보였지만 동물·사람 대상 확인은 없었고, 2024년 루마니아 조사에서는 큰갓버섯이 카드뮴·크롬을 상대적으로 많이 모으는 편이라 섭취 위험 요인으로 지적됐다. 효능에 관한 사람 대상 연구는 이번 조사에서 확인하지 못했다."
   },
   "name": "갓버섯",
   "st": "caution",
@@ -132,5 +148,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559816788
 }

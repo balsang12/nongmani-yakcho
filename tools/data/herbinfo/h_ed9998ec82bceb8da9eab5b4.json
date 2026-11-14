@@ -101,6 +101,14 @@
     {
       "title": "한국민족문화대백과사전 - 환삼덩굴",
       "url": "https://encykorea.aks.ac.kr/Article/E0064986"
+    },
+    {
+      "title": "UMass Amherst Extension - Burcucumber (Sicyos angulatus)",
+      "url": "https://www.umass.edu/agriculture-food-environment/landscape/publications-resources/weed-identification/burcucumber--sicyos-angulatus"
+    },
+    {
+      "title": "전북일보 - 가시박 생태계교란종 관련 기사(2025)",
+      "url": "https://www.jjan.kr/article/20250916580306"
     }
   ],
   "lookalikes": [
@@ -114,18 +122,21 @@
         "환삼덩굴 줄기는 아래로 향한 가시가 훨씬 거칠게 나 있다.",
         "환삼덩굴은 잎맥에 뻣뻣한 털이 있고, 호프는 잎 뒷면에 부드러운 털만 있다."
       ]
+    },
+    {
+      "danger": "주의",
+      "how": "하천변·밭둑을 덮는 외래 덩굴식물로, 환경부가 2009년 생태계교란 생물로 지정했다. 손바닥처럼 갈라진 잎과 까끌한 덩굴이 환삼덩굴과 비슷해 보인다.",
+      "name": "가시박",
+      "points": [
+        "가시박은 용수철처럼 꼬인 덩굴손으로 감아 오르고, 환삼덩굴은 덩굴손 없이 줄기 자체가 감기며 아래로 향한 잔가시로 걸린다.",
+        "가시박 잎은 어긋나고, 환삼덩굴 잎은 마주난다.",
+        "가시박 열매는 긴 가시털이 덮인 작은 오이 모양 열매가 여러 개 뭉쳐 달리고, 환삼덩굴은 렌즈 모양의 작은 열매가 이삭 속에 든다.",
+        "가시박 꽃은 흰빛~연녹색의 꽃잎 5장짜리 꽃이고, 환삼덩굴 꽃은 연한 황록색의 작은 꽃이삭이다."
+      ]
     }
   ],
   "modern": {
     "papers": [
-      {
-        "journal": "대한한방소아과학회지",
-        "note": "10년간 연구 28편을 분석해 대부분이 실험 연구이며 잘 설계된 임상 연구가 더 필요하다고 정리했다.",
-        "title": "한삼덩굴에 대한 최근 국내외 연구 동향 분석 - 의약학 연구를 중심으로 -",
-        "type": "리뷰",
-        "url": "https://www.akop.or.kr/file/202408/1725237530.pdf",
-        "year": "2024"
-      },
       {
         "journal": "Frontiers in Immunology",
         "note": "환삼덩굴 꽃가루 알레르기 환자 93명의 혈청 가운데 69명이 Hum j 1 단백질에 반응했다고 보고한 실험실 연구다.",
@@ -133,14 +144,6 @@
         "type": "기타",
         "url": "https://doi.org/10.3389/fimmu.2025.1588870",
         "year": "2025"
-      },
-      {
-        "journal": "Allergy, Asthma & Immunology Research",
-        "note": "환자 22명의 혈청으로 꽃가루 주요 알레르기 단백질 Hum j 6을 확인했으며, 환삼덩굴을 동아시아 잡초 꽃가루병의 주요 원인으로 다뤘다.",
-        "title": "Characterization of Hum j 6, a Major Allergen From Humulus japonicus Pollen, the Primary Cause of Weed Pollinosis in East Asia.",
-        "type": "기타",
-        "url": "https://doi.org/10.4168/aair.2023.15.6.767",
-        "year": "2023"
       },
       {
         "journal": "Journal of Medicinal Food",
@@ -157,6 +160,22 @@
         "type": "동물 실험",
         "url": "https://doi.org/10.3892/mmr.2025.13496",
         "year": "2025"
+      },
+      {
+        "journal": "대한한방소아과학회지",
+        "note": "10년간 연구 28편을 분석해 대부분이 실험 연구이며 잘 설계된 임상 연구가 더 필요하다고 정리했다.",
+        "title": "한삼덩굴에 대한 최근 국내외 연구 동향 분석 - 의약학 연구를 중심으로 -",
+        "type": "리뷰",
+        "url": "https://www.akop.or.kr/file/202408/1725237530.pdf",
+        "year": "2024"
+      },
+      {
+        "journal": "Allergy, Asthma & Immunology Research",
+        "note": "환자 22명의 혈청으로 꽃가루 주요 알레르기 단백질 Hum j 6을 확인했으며, 환삼덩굴을 동아시아 잡초 꽃가루병의 주요 원인으로 다뤘다.",
+        "title": "Characterization of Hum j 6, a Major Allergen From Humulus japonicus Pollen, the Primary Cause of Weed Pollinosis in East Asia.",
+        "type": "기타",
+        "url": "https://doi.org/10.4168/aair.2023.15.6.767",
+        "year": "2023"
       }
     ],
     "summary": "2014~2023년 국내외 연구 28편을 정리한 종설에 따르면 27편이 세포·동물 실험이고 사람 대상 임상은 1편뿐이어서 근거는 대부분 전임상 단계다. 최근에는 꽃가루 알레르기 원인 단백질(Hum j 1, Hum j 6)을 환자 혈청으로 확인한 연구와, 생쥐에서 신경염증·인지 기능을 살핀 연구가 나왔다."
@@ -167,5 +186,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792660004727
+  "updatedAt": 1794171043150
 }

@@ -1,7 +1,32 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "동의보감 탕액편",
+    "bu": "풀(草部)",
+    "easy": [
+      "소리쟁이 뿌리를 양제근이라 하여 어디에서나 자란다고 적었다.",
+      "뿌리는 머리가 빠지는 병, 옴과 헌데, 치질 같은 피부·항문 질환과 벌레를 없애는 데 쓰고, 부은 데는 발랐다고 기록했다.",
+      "열매는 금교맥이라고도 부르며 이질에 쓴다고 했다.",
+      "잎은 아이의 감충(기생충으로 여윈 병)에 쓰고, 채소로 먹을 수 있다고 적었다. 바로 이어 수영(酸摸, 승아)도 함께 실려 있다."
+    ],
+    "han": "羊蹄根",
+    "has": true,
+    "ki": "性寒, 味苦辛, 無毒一云有小毒",
+    "kiKo": "성질은 차고 맛은 쓰고 매우며 독이 없다고 했으나, 약간 독이 있다는 설도 함께 실었다.",
+    "old": "솔옷불휘",
+    "orig": "性寒, 味苦辛, 無毒一云有小毒. … / 實: 性平, 味苦澁, 無毒. … / 葉: 治小兒疳蟲, 可作菜食之.",
+    "sources": [
+      {
+        "title": "한국한의학연구원 내손안에 동의보감 - 탕액편 권3 草部 1.101 羊蹄根",
+        "url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/2609"
+      },
+      {
+        "title": "어듸메, 동의보감 탕액편 향명 전사본 (羊蹄根 솔옷 불휘)",
+        "url": "https://akorn.bab2min.pe.kr/doc/270?p=6"
+      }
+    ],
+    "verified": true,
+    "warn": "원문에도 약간 독이 있다는 설이 함께 적혀 있다. 뿌리는 약재로 다뤄진 부분이니 나물로는 어린잎만 데쳐 먹는다."
   },
   "faq": [
     {
@@ -116,8 +141,49 @@
     }
   ],
   "modern": {
-    "papers": [],
-    "summary": "이번 조사에서는 Europe PMC 조회가 접속 제한으로 실패해 2023~2026년 Rumex crispus 논문을 직접 확인하지 못했고, 그래서 논문을 싣지 않았다. 소리쟁이에 대해 사람 대상으로 확인된 최근 근거는 이 문서에 없다."
+    "papers": [
+      {
+        "journal": "Natural Product Research",
+        "note": "소리쟁이에서 새 성분을 분리해, 지방을 쌓이게 한 사람 간암 유래 세포에서 지방 축적이 어떻게 달라지는지 살폈다.",
+        "title": "A new diphenylmethanone from Rumex crispus L. ameliorates sodium palmitate-oleate induced steatosis in HepG2 cells.",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/14786419.2025.2493180",
+        "year": "2026"
+      },
+      {
+        "journal": "Plants (Basel)",
+        "note": "국내 여러 지역 소리쟁이 집단의 유전적 다양성과 집단 구조를 분자 표지로 분석했다.",
+        "title": "Genetic Diversity and Population Structure of Rumex crispus in South Korea Based on Genome-Derived Microsatellite Markers.",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/plants14243806",
+        "year": "2025"
+      },
+      {
+        "journal": "International Immunopharmacology",
+        "note": "소리쟁이의 식물학적 특징, 전통적 쓰임, 성분, 약리 연구와 안전성 자료를 한데 정리했다.",
+        "title": "Rumex crispus L.: A comprehensive review on botany, traditional uses, phytochemistry, pharmacology, and safety.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.intimp.2024.113569",
+        "year": "2024"
+      },
+      {
+        "journal": "Molecules",
+        "note": "잎과 꽃 추출물이 탄수화물 분해 효소를 억제하는지 보고, 당뇨를 일으킨 쥐에서 30일간 혈당 변화를 살폈다.",
+        "title": "Evaluation of α-Glucosidase Inhibition and Antihyperglycemic Activity of Extracts Obtained from Leaves and Flowers of Rumex crispus L.",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/molecules28155760",
+        "year": "2023"
+      },
+      {
+        "journal": "Life (Basel)",
+        "note": "소리쟁이 추출물이 배양한 세포의 증식과 세포 사멸에 어떤 영향을 주는지 실험했다.",
+        "title": "Anti-Proliferative and Apoptotic Activities of Rumex crispus.",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.3390/life14010008",
+        "year": "2023"
+      }
+    ],
+    "summary": "최근 3년 사이 소리쟁이(Rumex crispus) 연구로는 식물학·전통 쓰임·성분·약리·안전성을 정리한 2024년 리뷰가 있고, 그 밖에는 간세포·암세포를 이용한 세포 실험과 당뇨 쥐 실험이 중심이다. 한국 자생 소리쟁이의 유전적 다양성을 분석한 연구도 나왔다. 사람 대상 연구는 확인하지 못해 근거는 실험실·동물 단계다."
   },
   "name": "소리쟁이",
   "st": "caution",
@@ -138,5 +204,5 @@
     ],
     "text": "한국민족문화대백과사전은 소리쟁이 뿌리를 약재로 써 왔고, 성질은 차고 맛은 쓰며 변을 잘 통하게 하거나 출혈·부기를 다스리는 데 썼다고 적는다. 농촌진흥청 농사로는 뿌리를 우이대황(牛耳大黃)이라는 이름의 약재로 소개한다. 한약재 양제근(羊蹄根)은 같은 속의 참소리쟁이 뿌리를 주로 쓴다."
   },
-  "updatedAt": 1792616180342
+  "updatedAt": 1794128329143
 }

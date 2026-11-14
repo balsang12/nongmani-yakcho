@@ -89,6 +89,10 @@
     {
       "title": "Minnesota Wildflowers - Persicaria hydropiper (Marsh Waterpepper)",
       "url": "https://www.minnesotawildflowers.info/flower/marsh-waterpepper"
+    },
+    {
+      "title": "한국교육신문 - 여뀌, 시골 아낙네같이 예쁜 꽃",
+      "url": "https://www.hangyo.com/news/article.html?no=83101"
     }
   ],
   "lookalikes": [
@@ -102,25 +106,35 @@
         "개여뀌 턱잎집 위 가장자리에는 길이가 비슷한 긴 털이 줄지어 난다.",
         "개여뀌 줄기는 흔히 붉은 자줏빛을 띠며 비스듬히 자라다 땅에 닿은 마디에서 뿌리를 내린다."
       ]
+    },
+    {
+      "danger": "무해",
+      "how": "물가에 여뀌와 함께 무리 지어 자라는 같은 여뀌속 풀이지만 잎 모양이 달라 비교적 쉽게 구별된다.",
+      "name": "고마리",
+      "points": [
+        "고마리 잎은 밑부분이 귀처럼 양옆으로 벌어진 방패(창) 모양이고, 여뀌 잎은 가늘고 긴 피침형이다.",
+        "여뀌 잎은 씹으면 톡 쏘는 매운맛이 나는 것이 가장 확실한 구별점이다."
+      ]
+    },
+    {
+      "danger": "무해",
+      "how": "쪽물 염료로 쓰는 같은 여뀌속 식물로 잎과 꽃이삭이 여뀌와 닮았다.",
+      "name": "쪽",
+      "points": [
+        "여뀌 잎 표면은 매끈하고, 쪽 잎은 쭈글쭈글하며 약간 울퉁불퉁하다.",
+        "여뀌는 잎에서 매운맛이 나고, 쪽은 그렇지 않다."
+      ]
     }
   ],
   "modern": {
     "papers": [
       {
-        "journal": "Pharmaceutical Biology",
-        "note": "1980~2022년 문헌을 바탕으로 성분 324종과 항균·살충·항산화 등 실험 결과를 정리했다.",
-        "title": "The traditional herb Polygonum hydropiper from China: a comprehensive review on phytochemistry, pharmacological activities and applications",
-        "type": "리뷰",
-        "url": "https://doi.org/10.1080/13880209.2023.2208639",
-        "year": "2023"
-      },
-      {
-        "journal": "Nutrients",
-        "note": "추출물의 페놀 성분과 세포·소형 갑각류 독성 시험, 추출 후 남은 찌꺼기의 활용 가능성을 함께 살폈다.",
-        "title": "New Perspectives on the Old Uses of Traditional Medicinal and Edible Herbs: Extract and Spent Material of Persicaria hydropiper (L.) Delarbre",
-        "type": "기타",
-        "url": "https://doi.org/10.3390/nu16193368",
-        "year": "2024"
+        "journal": "Journal of Alzheimer's Disease",
+        "note": "신경세포주에서 추출물이 산화 스트레스와 아밀로이드 독성을 줄이는지 본 세포 실험으로, 저자들도 동물 연구가 필요하다고 밝혔다.",
+        "title": "Persicaria hydropiper attenuates oxidative stress and reactive oxygen species, and inhibits amyloid-beta/tau in SH-SY5Y cell lines via multiple pathways of Alzheimer's disease",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1177/13872877261418555",
+        "year": "2026"
       },
       {
         "journal": "Phytomedicine",
@@ -131,12 +145,20 @@
         "year": "2025"
       },
       {
-        "journal": "Journal of Alzheimer's Disease",
-        "note": "신경세포주에서 추출물이 산화 스트레스와 아밀로이드 독성을 줄이는지 본 세포 실험으로, 저자들도 동물 연구가 필요하다고 밝혔다.",
-        "title": "Persicaria hydropiper attenuates oxidative stress and reactive oxygen species, and inhibits amyloid-beta/tau in SH-SY5Y cell lines via multiple pathways of Alzheimer's disease",
-        "type": "세포 실험",
-        "url": "https://doi.org/10.1177/13872877261418555",
-        "year": "2026"
+        "journal": "Nutrients",
+        "note": "추출물의 페놀 성분과 세포·소형 갑각류 독성 시험, 추출 후 남은 찌꺼기의 활용 가능성을 함께 살폈다.",
+        "title": "New Perspectives on the Old Uses of Traditional Medicinal and Edible Herbs: Extract and Spent Material of Persicaria hydropiper (L.) Delarbre",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/nu16193368",
+        "year": "2024"
+      },
+      {
+        "journal": "Pharmaceutical Biology",
+        "note": "1980~2022년 문헌을 바탕으로 성분 324종과 항균·살충·항산화 등 실험 결과를 정리했다.",
+        "title": "The traditional herb Polygonum hydropiper from China: a comprehensive review on phytochemistry, pharmacological activities and applications",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1080/13880209.2023.2208639",
+        "year": "2023"
       }
     ],
     "summary": "2023년 종설은 여뀌에서 300여 가지 성분이 분리되었고 항균·항산화·항염 등 활성이 보고되었다고 정리했지만, 근거는 대부분 실험실 단계다. 최근 연구도 생쥐 대장염 모델이나 신경세포 실험이 중심이어서 사람에게 같은 효과가 있는지는 확인되지 않았다."
@@ -156,5 +178,5 @@
     ],
     "text": "아시아와 유럽 여러 지역에서 땅 위 부분이나 잎즙을 지혈, 이뇨, 월경 관련 증상 등에 민간에서 써 왔다고 소개된다. 일부 지역에서는 뿌리를 임신 중단에 썼다는 기록도 있어 임신 중에는 쓰지 않는 것이 안전하다. 인도 일부 지역에서는 물고기를 잡는 데 쓰기도 했다."
   },
-  "updatedAt": 1792660004727
+  "updatedAt": 1794171043150
 }

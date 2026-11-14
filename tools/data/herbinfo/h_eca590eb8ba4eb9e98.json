@@ -154,6 +154,14 @@
     "papers": [
       {
         "journal": "Molecules",
+        "note": "다래와 쥐다래 열매 추출물을 수지로 정제해 폴리페놀 조성과 시험관 내 항산화·당화 억제 활성을 비교했다.",
+        "title": "Purification-Driven Modulation of Polyphenol Profile and Protein Glycation-Inhibitory Potential of Actinidia arguta and Actinidia kolomikta Fruit Extracts",
+        "type": "기타",
+        "url": "https://www.mdpi.com/1420-3049/31/11/1935",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules",
         "note": "다래·쥐다래·개다래 열매를 비교했으며, 쥐다래(특히 'Vitakola' 품종)의 총 폴리페놀 함량과 항산화 활성이 가장 높게 측정됐다.",
         "title": "Biological and Health-Promoting Potential of Fruits from Three Cold-Hardy Actinidia Species",
         "type": "기타",
@@ -169,7 +177,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 연구는 주로 유럽에서 기른 쥐다래 재배 품종 열매의 폴리페놀 함량과 항산화 활성을 시험관에서 측정한 성분 분석 수준이다. 같은 다래속의 다래·개다래보다 폴리페놀과 항산화 수치가 높게 나왔다는 보고가 있으나, 사람 대상 연구는 찾지 못했다."
+    "summary": "최근 연구는 쥐다래 열매의 폴리페놀 성분 분석과 시험관 내 항산화·당화 억제 실험이 중심이며, 사람 대상 연구는 찾지 못했다. 열매가 비타민 C와 페놀 성분이 풍부하다는 분석은 있으나 건강 효과는 실험실 단계 근거다."
   },
   "name": "쥐다래",
   "st": "ok",
@@ -177,5 +185,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387333215
 }

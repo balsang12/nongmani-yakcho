@@ -148,11 +148,27 @@
   "modern": {
     "papers": [
       {
+        "journal": "Foods",
+        "note": "까마중 열매에서 솔라마진·솔라닌 계열 성분을 분리해 시험관에서 항산화·항균 활성을 쟀으며, 서론에서 이 성분들이 까마중 독성의 주원인이라고 짚었다.",
+        "title": "Saponins from Solanum nigrum L. Fruit: Extraction Optimization, Structural Characterization, and Dual-Functional Efficacy",
+        "type": "기타",
+        "url": "https://doi.org/10.3390/foods14132370",
+        "year": "2025"
+      },
+      {
         "journal": "Cancer Medicine",
         "note": "까마중의 알칼로이드·사포닌·다당류·폴리페놀 성분과 실험에서 보고된 항암 기전을 정리하고 연구의 빈틈을 짚었다.",
         "title": "Main chemical constituents and mechanism of anti-tumor action of Solanum nigrum L",
         "type": "리뷰",
         "url": "https://doi.org/10.1002/cam4.7314",
+        "year": "2024"
+      },
+      {
+        "journal": "Applied Food Research",
+        "note": "까마중과 근연종의 잎과 덜 익은 열매를 익혀 말린 시료로 영양 성분과 항산화력을 분석한 실험실 연구다.",
+        "title": "Assessment of the antioxidant and nutritive profile of the leaves and berries of Solanum nigrum and Solanum torvum Swart",
+        "type": "기타",
+        "url": "https://doaj.org/article/76cac72e14e342e2b51ab8ff76cced50",
         "year": "2024"
       },
       {
@@ -164,7 +180,7 @@
         "year": "2023"
       }
     ],
-    "summary": "까마중의 스테로이드 알칼로이드(솔라닌·솔라마진·솔라소닌 등)가 여러 암세포의 증식을 억제한다는 연구가 많지만, 대부분 세포·동물 실험 수준이다. 같은 성분이 독성의 원인이기도 해, 리뷰에서도 까마중 자체의 독성을 한계로 지적한다."
+    "summary": "까마중의 스테로이드 알칼로이드(솔라닌·솔라마진·솔라소닌 등)가 여러 암세포의 증식을 억제한다는 연구가 많지만, 대부분 세포·동물 실험 수준이다. 2024~2025년 연구는 잎·열매의 영양 성분과 열매 성분의 항산화·항균 활성을 시험관에서 살폈을 뿐 사람에게 안전성을 확인한 것은 아니다. 같은 성분이 독성의 원인이기도 해, 리뷰와 최근 논문 모두 덜 익은 열매 등의 독성을 한계로 지적한다."
   },
   "name": "까마중",
   "st": "hanyak",
@@ -173,5 +189,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793005462003
+  "updatedAt": 1794559849990
 }

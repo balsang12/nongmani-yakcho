@@ -142,11 +142,19 @@
         "type": "동물 실험",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12035596",
         "year": "2025"
+      },
+      {
+        "journal": "China Tea Processing (中国茶叶加工)",
+        "note": "고욤나무 잎의 영양 성분을 분석하고 녹차 가공법을 응용해 대용차로 만들어 관능 평가를 했다.",
+        "title": "Nutritional Value, Edible Safety, Development and Utilization of Diospyros lotus Leaves as a Substitute Tea",
+        "type": "기타",
+        "url": "https://www.sciopen.com/article/10.15905/j.zgcyjg.2095-0306.2025.03.04",
+        "year": "2025"
       }
     ],
     "summary": "최근 연구는 주로 고욤나무 잎 추출물을 대상으로 한 실험실·동물 연구이며, 열매 자체를 다룬 사람 연구는 찾지 못했다. 홍오크라와 고욤나무 배합 원료로 지방 배출을 본 짧은 기간의 사람 대상 시험이 1건 있으나, 고욤 열매를 먹는 효과로 볼 수는 없다."
   },
   "name": "고욤",
   "st": "ok",
-  "updatedAt": 1792832316687
+  "updatedAt": 1794387333215
 }
