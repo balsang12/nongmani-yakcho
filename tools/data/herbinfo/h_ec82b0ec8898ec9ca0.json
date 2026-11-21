@@ -135,6 +135,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Pharmacology",
+        "note": "산수유 열매의 대표 성분인 모로니사이드의 분포·분리 방법과 보고된 작용을 모은 문헌 고찰로, 근거 대부분이 세포·동물 실험이라 임상 시험이 더 필요하다고 저자들이 밝혔다.",
+        "title": "A review of the sources and pharmacological research of morroniside",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2024.1423062",
+        "year": "2024"
+      },
+      {
         "journal": "Frontiers in Nutrition",
         "note": "산수유의 성분과 식품·약품 활용 가능성을 정리한 리뷰로, 근거 대부분이 세포·동물 실험이며 임상 연구가 더 필요하다고 정리했다.",
         "title": "A comprehensive review of Cornus officinalis: health benefits, phytochemistry, and pharmacological effects for functional drug and food development",
@@ -151,7 +159,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 연구는 산수유 열매의 이리도이드(로가닌·모로니사이드 등)와 폴리페놀 성분, 가공(술·소금 법제)에 따른 성분 변화를 주로 다룬다. 보고된 생리 효과는 대부분 세포 실험과 동물 실험 수준이며, 사람 대상 임상 근거는 아직 부족하다고 리뷰 저자들도 밝히고 있다."
+    "summary": "최근 연구는 산수유 열매의 이리도이드(로가닌·모로니사이드 등)와 폴리페놀 성분, 가공(술·소금 법제)에 따른 성분 변화를 주로 다룬다. 보고된 생리 효과는 대부분 세포 실험과 동물 실험 수준이며, 사람 대상 임상 근거는 아직 부족하다고 리뷰 저자들도 밝히고 있다. 2024년 문헌 고찰은 열매 성분 모로니사이드의 작용이 주로 세포·동물 실험에서 보고된 것이라고 정리했다."
   },
   "name": "산수유",
   "st": "caution",
@@ -164,5 +172,5 @@
     ],
     "text": "예부터 산수유는 익은 열매의 씨를 발라내고 과육만 말려 약재와 차·술 재료로 썼다. 국립산림과학원 자료도 씨를 뺀 과육을 그늘이나 햇볕에 말려 자양강장 용도로 쓰고 술을 담근다고 소개한다. 씨를 빼는 까닭은 동의보감 산수유 항목에 '씨는 정을 새게 하므로 뺀다'고 적혀 있다."
   },
-  "updatedAt": 1793307439832
+  "updatedAt": 1794862339184
 }

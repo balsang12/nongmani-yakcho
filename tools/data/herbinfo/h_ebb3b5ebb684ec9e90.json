@@ -163,6 +163,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Scientific Reports",
+        "note": "복분자 성분을 입힌 치과용 티타늄 임플란트를 쥐에 심어 주변 뼈 회복을 본 실험으로, 낮은 용량에서 결과가 좋았지만 미세CT 측정값에는 집단 간 뚜렷한 차이가 없었다.",
+        "title": "Investigating the role of Rubus coreanus in enhancing peri-implant bone healing in healthy and estrogen-deficient rats",
+        "type": "동물 실험",
+        "url": "https://www.nature.com/articles/s41598-025-29521-1",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Food Science and Technology",
+        "note": "복분자 추출물을 여러 유산균으로 발효해 항산화·항균·지방세포 실험을 비교한 실험실 연구로, 식물성 유산균(L. plantarum) 발효물이 가장 좋은 값을 보였다.",
+        "title": "Antioxidant, antimicrobial, and anti-obesity activity of lactic acid bacteria- bioconversioned black raspberry (Rubus Coreanus Miquel) extract",
+        "type": "세포 실험",
+        "url": "https://link.springer.com/article/10.1007/s13197-025-06474-x",
+        "year": "2025"
+      },
+      {
         "journal": "Antioxidants",
         "note": "복분자딸기는 산딸기·멍석딸기·곰딸기 같은 붉은 열매 종보다 안토시아닌이 많았지만, 항산화 활성은 안토시아닌 양보다 총 페놀·플라보노이드와 더 관련이 있었다고 보고했다.",
         "title": "Evaluation of Anthocyanin Profiling, Total Phenolic and Flavonoid Content, and Antioxidant Activity of Korean Rubus Accessions for Functional Food Applications and Breeding",
@@ -187,9 +203,9 @@
         "year": "2023"
       }
     ],
-    "summary": "2023~2026년에는 덜 익은 블랙라즈베리 추출물을 남성 30명에게 12주 먹인 소규모 예비 임상시험과, 복분자딸기를 포함한 국내 산딸기속 15개 자원의 안토시아닌·항산화 성분을 비교한 분석 연구가 확인되었다. 사람 대상 연구는 규모가 작은 예비 연구라 효과를 단정할 수 없고, 나머지는 성분 분석 수준이다. Europe PMC와 PubMed는 접속 제한(429)으로 직접 목록을 확인하지 못해 놓친 논문이 있을 수 있다."
+    "summary": "2023~2025년에는 덜 익은 블랙라즈베리 추출물을 남성 30명에게 12주 먹인 소규모 예비 임상시험, 국내 산딸기속 자원의 안토시아닌·항산화 성분 비교 분석, 그리고 발효 추출물·신장·뼈 회복을 다룬 세포·동물 실험이 확인되었다. 사람 대상 연구는 규모가 작은 예비 연구라 효과를 단정할 수 없고, 나머지는 실험실·동물 단계 결과다."
   },
   "name": "복분자",
   "st": "ok",
-  "updatedAt": 1793351717671
+  "updatedAt": 1794905473698
 }

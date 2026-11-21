@@ -81,6 +81,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Fitoterapia",
+        "note": "돌나물에서 성분을 분리해 손상시킨 신경세포에서 보호 효과가 있는지 살핀 세포 실험이다.",
+        "title": "Chemical constituents from Sedum sarmentosum Bunge and their neuroprotective effects via MPP+-induced SH-SY5Y cells.",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1016/j.fitote.2026.107557",
+        "year": "2026"
+      },
+      {
+        "journal": "Drug Metabolism and Disposition",
+        "note": "돌나물 추출물이 면역억제제 사이클로스포린 A의 몸속 처리에 영향을 줄 수 있는지 살핀 약물 상호작용 연구다.",
+        "title": "Potential herb-drug interaction risk of Sedum sarmentosum Bunge extract and cyclosporine A.",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.dmd.2026.100321",
+        "year": "2026"
+      },
+      {
         "journal": "Journal of Pharmacy and Pharmacology",
         "note": "돌나물에서 보고된 174가지 성분과 간·신장 보호, 항산화 등 실험 연구를 정리하며 작용 원리는 더 연구가 필요하다고 했다.",
         "title": "Traditional uses, phytochemistry, and pharmacological effects of Sedum sarmentosum: a review",
@@ -97,7 +113,7 @@
         "year": "2023"
       }
     ],
-    "summary": "돌나물(Sedum sarmentosum)은 중국에서 간 질환 관련 전통 약재로 쓰여, 성분과 간 보호 작용 등을 정리한 리뷰와 재배 조건에 따른 플라보노이드 함량·동물 실험 연구가 있다. 사람 대상 연구는 찾지 못했고 대부분 실험실·동물 수준이라 근거는 제한적이다."
+    "summary": "돌나물(Sedum sarmentosum)은 중국에서 간 관련 전통 약재로 쓰여 성분과 실험 연구를 정리한 리뷰가 있고, 2026년에는 분리 성분의 신경세포 실험과 면역억제제(사이클로스포린)와의 상호작용 위험을 살핀 연구가 나왔다. 사람 대상 연구는 찾지 못했고 근거는 대부분 세포·동물 수준이며, 약을 먹는 사람은 진하게 달인 것이나 추출물을 먹기 전에 전문가와 상의하는 것이 좋다."
   },
   "name": "돌나물",
   "st": "ok",
@@ -110,5 +126,5 @@
     ],
     "text": "돌나물은 돈나물, 불갑초(佛甲草), 석상채(石上菜)라고도 불리며 봄부터 여름까지 어린 잎과 줄기를 나물로 먹어 왔다. 한방에서는 열을 내리고 독을 풀며 부기를 가라앉히는 약재로 여겨, 봄~가을에 거둬 말리거나 생것을 달이거나 즙을 내어 썼고, 짓찧어 상처에 붙이기도 했다고 소개된다."
   },
-  "updatedAt": 1793479770596
+  "updatedAt": 1794992101405
 }

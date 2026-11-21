@@ -128,6 +128,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Exploration of Foods and Foodomics",
+        "note": "꽃송이버섯을 열수·고온고압수·에탄올로 추출해 성분과 항산화 활성을 비교하고, 생쥐 대식세포에서 염증 물질 변화를 본 실험실 연구다.",
+        "title": "Antioxidant and anti-inflammatory properties of Sparassis crispa extracts",
+        "type": "세포 실험",
+        "url": "https://journal.hep.com.cn/eff/EN/10.37349/eff.2026.1010122",
+        "year": "2026"
+      },
+      {
         "journal": "Food Chemistry",
         "note": "꽃송이버섯속 다당류의 추출법·구조·생리활성·활용을 정리한 리뷰로, 효과 근거는 주로 실험실 연구에서 나온 것으로 보아야 한다.",
         "title": "Polysaccharides from the edible mushroom genus Sparassis: A review of extraction, structural characteristics, biological activities, and applications",
@@ -158,14 +166,6 @@
         "type": "동물 실험",
         "url": "https://doi.org/10.1002/fsn3.71653",
         "year": "2026"
-      },
-      {
-        "journal": "International Journal of Biological Macromolecules",
-        "note": "꽃송이버섯 다당류를 분리·정제해 구조를 밝힌 연구로, 제목처럼 뼈 건강 관련 가능성을 제시했지만 사람 대상 근거는 아니다.",
-        "title": "Potential osteoporosis-blocker Sparassis crispa polysaccharide: Isolation, purification and structure elucidation",
-        "type": "기타",
-        "url": "https://europepmc.org/article/MED/38311133",
-        "year": "2024"
       }
     ],
     "summary": "2024~2026년에 꽃송이버섯의 성분·다당류·가공·산업화를 정리한 리뷰가 여럿 나왔으며, 마른 무게의 최대 40% 안팎에 이르는 베타글루칸 함량이 주로 주목받는다. 다만 리뷰 저자들도 밝히듯 면역·항산화 등 효과 연구는 대부분 세포·동물 실험이고, 사람을 대상으로 한 임상시험은 매우 드물어 근거 수준은 낮다."
@@ -185,5 +185,5 @@
     ],
     "text": "이번 조사에서는 동의보감 등 옛 의서에서 꽃송이버섯 항목을 확인하지 못했다. 국내에서는 인공 재배가 비교적 최근(약 30년 이내)에 자리 잡았으며, 산림청 자료는 베타글루칸 함량이 높은 버섯으로서 건강기능식품·화장품 소재와 임업인의 새 소득원으로 소개하고 있다. 북한에서는 '꽃잎버섯'이라고도 부른다."
   },
-  "updatedAt": 1793437350629
+  "updatedAt": 1794948579083
 }

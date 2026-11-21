@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "씨나 껍질을 뺄 필요 없이 그대로 먹는다. 냉동해 두고 요거트·스무디에 넣거나 잼·청·주스·소스·제과에 쓴다.",
+    "eng": "Blueberry",
     "family": "진달래과 산앵도나무속",
     "grade": "",
     "habitat": "북미 원산의 낙엽 떨기나무다. 산성 흙(pH 4.2~5.2)을 좋아한다. 국내 재배 기록은 2007년 약 2.4ha에서 시작해 전국으로 퍼졌다. 추위에 강한 북부 하이부시는 전국에서, 남부 하이부시와 래빗아이는 남부 지방에서 주로 키운다.",
@@ -124,6 +125,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients 17(17)",
+        "note": "영아기에 블루베리를 먹은 아기들에서 알레르기 증상, 면역 지표, 장내 미생물이 어떻게 달라지는지 살핀 사람 대상 연구다.",
+        "title": "Blueberry Consumption in Early Life and Its Effects on Allergy, Immune Biomarkers, and Their Association with the Gut Microbiome",
+        "type": "사람 대상",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12430458/",
+        "year": "2025"
+      },
+      {
         "journal": "Frontiers in Physiology 15",
         "note": "무작위 시험을 모아 혈관 내피 기능 지표를 분석했다. 대부분 소규모이고 연구 간 차이가 커서 출판 편향 가능성도 있다고 했다.",
         "title": "Effect of blueberry intervention on endothelial function: a systematic review and meta-analysis",
@@ -148,7 +157,7 @@
         "year": "2020"
       }
     ],
-    "summary": "2024년 메타분석은 혈관 내피 기능 지표의 변화를 보고했지만 대부분 소규모 연구이고, 같은 해 전문가 의견 논문(업계 단체 지원)도 장기 임상이 더 필요하다고 했다. 블루베리와 색소 안토시아닌에 관해서는 관찰 연구와 소규모 사람 시험이 꽤 쌓였다. 2020년 리뷰는 긍정적인 결과가 늘고 있지만 사람 대상 임상 연구가 더 필요하다고 정리했다. 블루베리 생과는 식약처가 인정한 건강기능식품 원료가 아니다."
+    "summary": "2025년에는 영아기 블루베리 섭취와 알레르기·면역 지표·장내 미생물을 살핀 사람 대상 연구가 나왔지만 규모가 작은 초기 연구다. 2024년 메타분석은 혈관 내피 기능 지표의 변화를 보고했지만 대부분 소규모 연구이고, 같은 해 전문가 의견 논문(업계 단체 지원)도 장기 임상이 더 필요하다고 했다. 2020년 리뷰 역시 사람 대상 임상 연구가 더 필요하다고 정리했다. 블루베리 생과는 식약처가 인정한 건강기능식품 원료가 아니다."
   },
   "name": "블루베리",
   "st": "ok",
@@ -156,5 +165,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795207823792
 }

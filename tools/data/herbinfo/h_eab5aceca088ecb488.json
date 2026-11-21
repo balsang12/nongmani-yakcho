@@ -119,6 +119,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Animals",
+        "note": "만성 스트레스 상태의 비글견에게 구절초 추출물을 먹인 뒤 생리 지표와 혈중 단백질 변화를 살핀 동물 연구다.",
+        "title": "Physiological and Proteomic Responses to Chronic Stress and the Effects of Chrysanthemum zawadskii var. latilobum (Maxim.) Kitam. Extract in Beagle Dogs",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ani16172679",
+        "year": "2026"
+      },
+      {
         "journal": "PLOS ONE",
         "note": "구절초 지상부 에탄올 추출물이 배양 세포에서 사람 코로나바이러스 증식을 줄였는지 살핀 실험실 연구다.",
         "title": "Chrysanthemum zawadskii ethanol extract inhibits the replication of alpha-coronavirus and beta-coronavirus",
@@ -141,6 +149,14 @@
         "type": "기타",
         "url": "https://doi.org/10.3390/molecules30030553",
         "year": "2025"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences",
+        "note": "아슈와간다와 구절초를 섞은 추출물을 고지방 식이 생쥐에게 먹여 체중·지방 관련 지표 변화를 본 동물 연구다.",
+        "title": "Withania somnifera and Chrysanthemum zawadskii Herbich var. latilobum (Maxim.) Kitamura Complex Attenuates Obesity in High-Fat-Diet-Induced Obese Mice",
+        "type": "동물 실험",
+        "url": "https://doi.org/10.3390/ijms26115230",
+        "year": "2025"
       }
     ],
     "summary": "최근 연구는 대부분 실험실 세포·세균 실험과 동물 실험으로, 구절초 추출물이나 꽃 정유의 항바이러스·항균·항염 가능성을 살펴본 수준이다. 사람을 대상으로 한 임상 연구는 이번 조사에서 찾지 못했으므로, 효과가 사람에게서 확인된 것은 아니다."
@@ -160,5 +176,5 @@
     ],
     "text": "구절초는 예로부터 민간에서 월경이 고르지 않거나 아랫배가 찬 증상 같은 부인과 질환에 썼다고 백과사전에 적혀 있다. 줄기와 잎을 말려 달여 차처럼 마셨고, 속을 보하고 소화를 돕거나 배가 차고 아픈 데 쓴 것으로 소개된다. 산구절초·바위구절초 같은 가까운 종이 민간 약재로 구절초와 섞여 쓰였다고도 한다."
   },
-  "updatedAt": 1793782518465
+  "updatedAt": 1795294210326
 }

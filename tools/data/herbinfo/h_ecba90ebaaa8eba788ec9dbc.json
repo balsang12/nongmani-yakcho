@@ -129,6 +129,14 @@
         "year": "2025"
       },
       {
+        "journal": "Pharmaceutical Biology 63(1)",
+        "note": "무작위 임상 11건을 모아 염증 지표 변화를 살폈고, 저자들은 근거가 아직 제한적이라 더 큰 연구가 필요하다고 했다.",
+        "title": "Anti-inflammatory effect of chamomile from randomized clinical trials: a systematic review and meta-analyses",
+        "type": "리뷰",
+        "url": "https://doaj.org/article/060bbcf9926048d3b022bb7633b476ed",
+        "year": "2025"
+      },
+      {
         "journal": "Complementary Therapies in Medicine 84",
         "note": "연구 10건(772명)을 분석해 밤중에 깨는 횟수 변화를 보고했고, 총 수면 시간에는 뚜렷한 차이가 없었다.",
         "title": "Effects of chamomile (Matricaria chamomilla L.) on sleep: A systematic review and meta-analysis of clinical trials",
@@ -145,7 +153,7 @@
         "year": "2019"
       }
     ],
-    "summary": "사람 대상 임상시험이 있으나 대부분 캡슐 추출물 연구다. 2024년 메타분석(10건·772명)은 밤중에 깨는 횟수가 줄었다고 보고했지만 총 수면 시간에는 뚜렷한 변화가 없었고, 2019년 분석은 불안·불면 근거가 적다고 밝혔다. 2025년 안전성 정리는 대체로 가벼운 이상 반응을 보고했으나 드문 알레르기 사례가 있고 임신·수유 자료는 부족하다고 했다. 캐모마일은 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "사람 대상 임상시험이 있으나 대부분 캡슐 추출물 연구다. 2024년 메타분석(10건·772명)은 밤중에 깨는 횟수가 줄었다고 보고했지만 총 수면 시간에는 뚜렷한 변화가 없었고, 2019년 분석은 불안·불면 근거가 적다고 밝혔다. 2025년 안전성 정리는 대체로 가벼운 이상 반응을 보고했으나 드문 알레르기 사례가 있고 임신·수유 자료는 부족하다고 했다. 2025년 메타분석(무작위 임상 11건)은 염증 지표에 관한 가능성을 언급했지만 근거가 제한적이라고 밝혔다. 캐모마일은 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "캐모마일",
   "st": "ok",
@@ -158,5 +166,5 @@
     ],
     "text": "유럽의약품청(EMA) 약초의약품위원회는 꽃이 가벼운 위장 불편, 감기 증상, 입안 염증 등에 오래 쓰여 온 것을 전통적 사용으로 인정했다. 임상 근거는 부족하다고 밝혔고, 국화과 알레르기가 있는 사람은 쓰지 말라고 적었다."
   },
-  "updatedAt": 1793739285432
+  "updatedAt": 1795250993983
 }

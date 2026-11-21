@@ -166,11 +166,19 @@
         "type": "리뷰",
         "url": "https://doi.org/10.3390/molecules30122523",
         "year": "2025"
+      },
+      {
+        "journal": "Frontiers in Pharmacology",
+        "note": "중국 우슬(회우슬)과 천우슬이 류마티스 관절염 모델에서 보인 작용과 기전 연구를 모아 정리한 문헌 고찰로, 대부분 실험실·동물 연구에 바탕을 둔다.",
+        "title": "Effects and molecular mechanisms of Achyranthes bidentata Blume and Cyathula officinalis K.C. Kuan in the treatment of rheumatoid arthritis",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3389/fphar.2025.1619776",
+        "year": "2025"
       }
     ],
     "summary": "최근 우슬 연구는 주로 중국 우슬(Achyranthes bidentata)의 다당류와 사포닌 성분을 다룬 리뷰와 세포·동물 실험이며, 국내 쇠무릎(A. japonica)만 다룬 최신 연구는 이번 조사에서 찾지 못했다. 사람 대상 임상 근거는 확인되지 않았다."
   },
   "name": "우슬",
   "st": "ok",
-  "updatedAt": 1793782518465
+  "updatedAt": 1795294210326
 }

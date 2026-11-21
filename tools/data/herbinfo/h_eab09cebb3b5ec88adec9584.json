@@ -40,7 +40,7 @@
     "eat": "과육으로 설탕 절임(청)을 담가 물에 타 마신다. 씨는 넣지 않거나 숙성 중 건더기와 함께 건져낸다.",
     "eng": "",
     "family": "장미과",
-    "grade": "",
+    "grade": "공공기관의 공식 등급 기준은 확인하지 못했다. 산복사나무 열매를 5월과 7월에 거둬 비교한 국내 연구에서 5월에 딴 어린 열매의 폴리페놀·플라보노이드 함량이 더 높게 측정되어, 청 담금용은 채취 시기를 판매자에게 확인하는 것이 좋다. 재배 복숭아를 솎은 풋열매와는 겉모습으로 가리기 어려우니 채취 장소도 함께 확인한다.",
     "habitat": "야생 돌복숭아는 우리나라 곳곳의 산과 들에서 저절로 자란다고 보고되어 있다. '개복숭아'는 시장에서 쓰는 이름이라 국가표준식물목록에 같은 이름의 항목은 확인하지 못했고, 복사나무(Prunus persica)의 야생형으로 보는 경우가 많다. 다만 연구에 따라 같은 열매를 Prunus persica var. davidiana(돌복숭아)나 산복사(Prunus davidiana)로 적기도 해 학명은 참고용이다.",
     "look": {
       "flower": "복사나무는 꽃받침과 씨방에 털이 많다. 꽃받침에 털이 없으면 산복사 쪽이다.",
@@ -141,6 +141,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Frontiers in Nutrition",
+        "note": "적과 때 솎아낸 복숭아 풋열매를 말려 가루로 만든 뒤 케이크의 버터 일부를 대신하는 식품 소재로 시험한 가공 연구다.",
+        "title": "Construction, characterization, and application of immature peach powder-stabilized Pickering emulsion gel",
+        "type": "기타",
+        "url": "https://doi.org/10.3389/fnut.2025.1643308",
+        "year": "2025"
+      },
+      {
         "journal": "Foods",
         "note": "솎아낸 복숭아 풋열매 179계통의 폴리페놀을 비교했고, 야생 계통이 재배 품종보다 폴리페놀과 항산화 활성이 높게 측정되었다.",
         "title": "Ultrasound-Assisted Extraction Optimization and Cultivar Screening for Polyphenol Recovery from Thinned Peach Fruit: A Comprehensive Evaluation of 179 Cultivars",
@@ -157,7 +165,7 @@
         "year": "2023"
       }
     ],
-    "summary": "개복숭아만을 따로 다룬 최근 연구는 찾지 못했고, 재배 복숭아(Prunus persica)의 솎은 풋열매와 씨를 다룬 실험실 연구와 리뷰가 있다. 풋열매의 폴리페놀·항산화 성분 측정 등 실험 단계 결과이며, 사람에게서 확인된 효과는 아니다."
+    "summary": "개복숭아만을 따로 다룬 최근 연구는 찾지 못했고, 재배 복숭아(Prunus persica)의 솎은 풋열매와 씨를 다룬 실험실 연구·리뷰가 있다. 풋열매의 폴리페놀 측정이나 식품 소재 가공 시험 등 실험 단계 결과이며, 사람에게서 확인된 효과는 아니다."
   },
   "name": "개복숭아",
   "st": "caution",
@@ -165,5 +173,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793393557899
+  "updatedAt": 1794905473698
 }

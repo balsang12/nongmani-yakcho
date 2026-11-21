@@ -103,6 +103,14 @@
         "year": "2025"
       },
       {
+        "journal": "Current Topics in Pharmacology 29",
+        "note": "유럽 이상사례 자발 보고 자료를 분석해 간 관련 이상 반응 보고 비율이 비교 약물보다 높았다고 했으나, 자발 보고라 인과관계를 증명하지는 못한다.",
+        "title": "Hepatotoxic reactions and pharmacological interactions related to Hypericum perforatum medical use : a disproportionality analysis of EudraVigilance data",
+        "type": "기타",
+        "url": "https://www.um.edu.mt/library/oar/handle/123456789/146781",
+        "year": "2025"
+      },
+      {
         "journal": "Pharmaceuticals 17(12)",
         "note": "문헌을 정리한 리뷰로, 피임약·항응고제·면역억제제·항우울제와의 상호작용을 경고하며 스스로 복용하지 말고 전문가와 상의하라고 했다.",
         "title": "Documentary Analysis of Hypericum perforatum (St. John's Wort) and Its Effect on Depressive Disorders",
@@ -111,7 +119,7 @@
         "year": "2024"
       }
     ],
-    "summary": "2024년 문헌 리뷰와 2025년 학회 초록은 약물 상호작용을 거듭 경고하며 전문가 상담 없이 스스로 복용하지 말라고 했다. 유럽(EMA)에서는 가벼운 우울 증상 등에 쓰는 허브 의약품으로 평가받았고, 국내에서도 의약품으로 쓰인다. 식품으로서 안전성을 따로 인정받은 적은 없다."
+    "summary": "2024년 문헌 리뷰와 2025년 학회 초록은 약물 상호작용을 거듭 경고하며 전문가 상담 없이 스스로 복용하지 말라고 했다. 2025년 유럽 이상사례 보고 분석은 간 관련 이상 반응 신호를 지적했다(인과관계는 미확인). 유럽(EMA)에서는 가벼운 우울 증상 등에 쓰는 허브 의약품으로 평가받았고, 국내에서도 의약품으로 쓰인다. 식품으로서 안전성을 따로 인정받은 적은 없다."
   },
   "name": "세인트존스워트",
   "st": "limit",
@@ -141,5 +149,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795250993983
 }

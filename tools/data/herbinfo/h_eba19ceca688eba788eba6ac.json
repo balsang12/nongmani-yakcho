@@ -31,6 +31,7 @@
   ],
   "id": {
     "eat": "고기·생선 구이, 감자 요리, 소스에 생잎이나 말린 잎을 조금 넣는다. 말린 잎은 차로도 우린다. 굵은 줄기는 꼬치로 쓰기도 한다.",
+    "eng": "Rosemary",
     "family": "꿀풀과",
     "grade": "",
     "habitat": "지중해 연안 원산의 늘푸른 작은키나무다. 국내에서는 화분이나 밭에서 키운다. 건조에 강하고 물이 고이면 뿌리가 상한다. 추위를 견디는 정도는 품종마다 달라, 'Arp' 같은 품종은 영하 20℃ 안팎까지 견딘다고 알려져 있다.",
@@ -119,6 +120,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Plants 15(1)",
+        "note": "채취 계절과 지역에 따라 로즈마리 성분 구성이 어떻게 달라지는지 비교하고 실험실에서 활성을 살핀 연구다.",
+        "title": "Therapeutic Potential of Salvia rosmarinus: Seasonal and Geographical Variation in Phytochemical Composition, Bioactivity, and Synergistic Effects of Rosmarinic Acid with 5-FU",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/2223-7747/15/1/1",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences 26(9)",
+        "note": "로즈마리·자몽 추출물 혼합물을 실험실 모델과 사람에게 시험해 자외선에 대한 피부 지표를 살핀 연구로, 로즈마리 잎 자체를 먹은 연구는 아니다.",
+        "title": "Skin Photoprotection and Anti-Aging Benefits of a Combination of Rosemary and Grapefruit Extracts: Evidence from In Vitro Models and Human Study",
+        "type": "사람 대상",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12071866/",
+        "year": "2025"
+      },
+      {
         "journal": "Naunyn-Schmiedeberg's Archives of Pharmacology 398(1)",
         "note": "식품 보존 용도로는 안전하다고 보면서도, 많은 양을 오래 먹을 때는 조심하라고 했다. 동물 실험을 포함한 독성 자료를 정리했다.",
         "title": "Toxicity and safety of rosemary (Rosmarinus officinalis): a comprehensive review",
@@ -135,7 +152,7 @@
         "year": "2018"
       }
     ],
-    "summary": "2025년 안전성 리뷰는 식품 보존 용도로는 안전하다고 보되 많은 양을 오래 먹는 것은 조심하라고 정리했다. 로즈마리 잎 추출물(카르노스산·카르노솔)은 유럽 등에서 산화방지용 식품첨가물(E392)로 쓰이며, EFSA는 첨가물로 먹는 양을 평가했다. 효과에 관한 연구는 대부분 시험관·동물 연구다. 국내에는 로즈마리가 들어간 복합 추출물이 개별인정형 건강기능식품 원료로 인정된 사례가 있다(예: 로즈마리자몽추출복합물, '자외선에 의한 피부손상으로부터 피부건강을 유지하는데 도움을 줄 수 있음'). 이 표시는 인정받은 해당 제품에만 쓸 수 있고 로즈마리 잎에는 쓸 수 없다."
+    "summary": "2025년 안전성 리뷰는 식품 보존 용도로는 안전하다고 보되 많은 양을 오래 먹는 것은 조심하라고 정리했다. 로즈마리 잎 추출물은 유럽 등에서 산화방지용 식품첨가물(E392)로 쓰이며 EFSA가 섭취량을 평가했다. 2025년 사람 대상 연구는 로즈마리·자몽 추출물 혼합물을 쓴 것이고, 2026년 연구는 계절·지역에 따른 성분 차이를 다룬 실험실 연구다. 효과 연구는 대부분 시험관·동물 수준이며, 국내에서 인정된 '로즈마리자몽추출복합물' 기능성 표시는 해당 제품에만 쓸 수 있고 로즈마리 잎에는 쓸 수 없다."
   },
   "name": "로즈마리",
   "st": "ok",
@@ -148,5 +165,5 @@
     ],
     "text": "유럽의약품청(EMA) 허브위원회는 로즈마리 잎을 소화 불편에 차로 마시거나 근육·관절의 가벼운 불편에 목욕제로 써 온 전통 약초로 정리했다. 이는 임상시험이 아니라 오랜 사용 기록에 근거한 평가이고, 12세 미만, 임신·수유 중, 담도·간 질환이 있는 사람은 쓰지 말라고 했다. 판매 문구로는 쓸 수 없다."
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795207823792
 }

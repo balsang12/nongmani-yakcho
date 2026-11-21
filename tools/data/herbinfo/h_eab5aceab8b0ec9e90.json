@@ -145,6 +145,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Foods",
+        "note": "구기자나무(L. chinense)를 포함한 구기자류 열매의 폴리페놀(페놀산·플라보노이드·안토시아닌) 구성과 보고된 활성을 정리한 문헌 고찰로, 근거는 주로 세포·동물 실험이다.",
+        "title": "Polyphenolic Spectrum of Goji Berries and Their Health-Promoting Activity",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/foods14081387",
+        "year": "2025"
+      },
+      {
         "journal": "Exploration of Foods and Foodomics",
         "note": "영하구기자를 식품으로 먹었을 때에 관한 연구를 모았으며, 사람 대상 연구 약 30건이 대부분 소규모라 더 크고 긴 대조 시험이 필요하다고 정리했다.",
         "title": "From botany to bedside: a review of the health benefits of Lycium barbarum as a functional food",
@@ -178,5 +186,5 @@
     ],
     "text": "구기자는 구기자나무 또는 영하구기자의 익은 열매를 말린 한약재로, 한의 문헌에서는 주로 눈을 밝게 하는 약재로 다뤄져 왔다. 같은 나무의 잎(구기엽)과 뿌리껍질(지골피)도 각각 따로 쓰였다."
   },
-  "updatedAt": 1793307439832
+  "updatedAt": 1794862339184
 }

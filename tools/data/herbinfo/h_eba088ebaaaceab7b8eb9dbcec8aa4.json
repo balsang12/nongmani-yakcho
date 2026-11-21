@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "말린 잎은 차로 우리고, 생 밑동은 얇게 썰거나 두드려 국물 요리(똠얌 등)·볶음·카레에 넣어 향을 낸다. 질긴 섬유질은 먹기 전에 건져 낸다.",
+    "eng": "Lemongrass",
     "family": "벼과 개솔새속",
     "grade": "",
     "habitat": "남아시아와 동남아시아 열대 원산의 여러해살이풀이다. 25~30℃에서 잘 자라고 서리를 견디지 못하며, 10℃ 아래가 오래 이어지면 죽을 수 있다. 국내에서는 아열대 채소로 하우스나 화분에서 키우고, 노지에서는 봄에 심어 가을까지 거둔다.",
@@ -94,6 +95,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Plants 14(9)",
+        "note": "레몬그라스 정유를 배양한 암세포에 처리하고 컴퓨터 모델로 작용을 살핀 실험실 연구로, 잎을 차로 마시는 것과는 다른 이야기다.",
+        "title": "Anticancer Potential of Cymbopogon citratus L. Essential Oil: In Vitro and In Silico Insights into Mitochondrial Dysfunction and Cytotoxicity in Cancer Cells",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/2223-7747/14/9/1341",
+        "year": "2025"
+      },
+      {
         "journal": "Pharmaceuticals 17(6)",
         "note": "레몬그라스 정유와 추출물의 미생물·세포 실험 결과를 정리한 리뷰다. 먹어서 같은 결과가 나온다는 뜻은 아니다.",
         "title": "Antiviral, Antibacterial, Antifungal, and Anticancer Activity of Plant Materials Derived from Cymbopogon citratus (DC.) Stapf Species",
@@ -118,7 +127,7 @@
         "year": "2022"
       }
     ],
-    "summary": "2024년 범위 고찰은 정유를 입안·피부에 바른 사람 연구 8건을 모았는데, 규모가 작고 장기 안전성·약물 상호작용은 불확실하다고 했다. 먹는 차나 요리 재료에 관한 근거는 아니다. 연구는 대부분 레몬그라스 정유(시트랄 성분)와 추출물을 시험관·동물에서 살핀 기초 연구다. 사람을 대상으로 한 연구는 매우 적고 규모도 작다. 식약처가 인정한 건강기능식품 원료가 아니다. 리뷰 논문은 임신·수유 중 과량 섭취와 피부 접촉 알레르기에 주의하라고 적고 있다."
+    "summary": "2024년 범위 고찰은 정유를 입안·피부에 바른 사람 연구 8건을 모았는데, 규모가 작고 장기 안전성·약물 상호작용은 불확실하다고 했다. 2025년 연구도 정유를 배양 세포에 처리한 실험실 수준이다. 연구는 대부분 레몬그라스 정유(시트랄 성분)와 추출물을 다룬 기초 연구라, 잎을 차나 요리 재료로 먹었을 때의 근거는 아니다. 식약처가 인정한 건강기능식품 원료가 아니며, 리뷰 논문은 임신·수유 중 과량 섭취와 피부 접촉 알레르기에 주의하라고 적고 있다."
   },
   "name": "레몬그라스",
   "st": "ok",
@@ -126,5 +135,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795207823792
 }

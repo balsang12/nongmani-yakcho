@@ -1,7 +1,31 @@
 {
   "by": "auto",
   "classic": {
-    "has": false
+    "book": "동의보감 탕액편",
+    "bu": "나물(菜部)",
+    "easy": [
+      "들에 많이 나며 마늘을 닮았으나 아주 가늘고 작아 사람들이 캐어 먹는다고 적었다.",
+      "성질·맛·쓰임은 족지(小蒜)와 대체로 같다고 했다.",
+      "족지는 속을 따뜻하게 하고 음식 소화를 돕는 데 쓴다고 적었다."
+    ],
+    "han": "野蒜",
+    "has": true,
+    "ki": "性味功用, 略與小蒜同 (小蒜: 性溫, 味辛, 有小毒)",
+    "kiKo": "성질과 맛, 쓰임이 족지(小蒜)와 거의 같다고 했고, 족지는 성질이 따뜻하고 맛이 매우며 독이 조금 있다고 적었다.",
+    "old": "ᄃᆞᆯ랑괴",
+    "orig": "野蒜 性味功用, 略與小蒜同. 多生田野中, 似蒜而極細小, 人採食之.《俗方》 (참고 小蒜: 性溫一云熱, 味辛, 有小毒. 溫中, 消穀, 止霍亂吐瀉. 根苗皆如葫而細小.)",
+    "sources": [
+      {
+        "title": "한국한의학연구원 한의고전명저총서 - 동의보감 탕액편 菜部 4.27 大蒜(小蒜·野蒜)",
+        "url": "https://app.mediclassics.kr/books/동의보감/pages/2424"
+      },
+      {
+        "title": "한국민족문화대백과사전 — 달래",
+        "url": "https://encykorea.aks.ac.kr/Article/E0013719"
+      }
+    ],
+    "verified": true,
+    "warn": "언해 이름 'ᄃᆞᆯ랑괴'는 달래의 옛말로 보이지만, 野蒜이라는 이름은 산달래 등 비슷한 부추속 식물을 함께 가리키기도 해 오늘날의 달래(Allium monanthum) 한 종과 정확히 일치한다고 단정하기는 어렵다."
   },
   "faq": [
     {
@@ -123,6 +147,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients",
+        "note": "한국 사찰음식의 식물성 식단을 정리한 리뷰로, 달래는 여러 재료 가운데 하나로 다뤄진다.",
+        "title": "Korean Buddhist Temple Food: A Traditional Plant-Based Dietary Pattern Linking Gut Microbiota, Metabolic Health, and Mindful Living.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/nu18203331",
+        "year": "2026"
+      },
+      {
+        "journal": "Plant Diversity",
+        "note": "부추속 식물의 꽃 형태를 비교한 분류학 연구로, 달래를 포함한 근연종의 구별 형질을 다룬다.",
+        "title": "Flower morphology of Allium (Amaryllidaceae) and its systematic significance.",
+        "type": "기타",
+        "url": "https://doi.org/10.1016/j.pld.2023.06.009",
+        "year": "2024"
+      },
+      {
         "journal": "Materials",
         "note": "국내 연구진이 달래 추출물로 구리 나노입자를 합성해 시험관 항균·항산화 활성과 컴퓨터 모의 결합을 살핀 연구로, 달래를 먹었을 때의 효과를 본 것은 아니다.",
         "title": "Biological Synthesis of Copper Nanoparticles Using Edible Plant Allium monanthum: Characterization of Antibacterial, Antioxidant, and Anti-Inflammatory Properties Using In Silico Molecular Docking Analysis",
@@ -131,7 +171,7 @@
         "year": "2023"
       }
     ],
-    "summary": "최근 3년(2023~2026) 사이 달래(Allium monanthum)를 직접 다룬 논문은 드물며, 확인한 것은 달래 추출물로 구리 나노입자를 만들어 시험관에서 항균·항산화 활성을 본 재료 연구 1편이다. 사람 대상 연구나 식품으로서 건강 효과를 본 최근 연구는 찾지 못해, 근거 수준은 실험실 단계에 머문다."
+    "summary": "최근 3년(2023~2026) 사이 달래(Allium monanthum)만을 다룬 건강 연구는 드물다. 한국 사찰음식을 정리한 리뷰에서 재료로 다뤄졌고, 부추속 꽃 형태 분류 연구와 달래 추출물로 나노입자를 만든 재료 연구가 있을 뿐이며, 사람 대상으로 달래 섭취 효과를 본 연구는 찾지 못해 근거 수준은 낮다."
   },
   "name": "달래",
   "st": "ok",
@@ -142,7 +182,7 @@
         "url": "https://encykorea.aks.ac.kr/Article/E0013719"
       }
     ],
-    "text": "한국민족문화대백과사전은 달래를 野蒜·小蒜·山蒜·小摠 등의 한자 이름으로 기록해 왔으나 족지·산마늘과 혼동되기도 한다고 소개하고, 달인 물을 불면이나 보혈에 쓰고 짓찧은 잎을 독벌레 물린 데, 밀가루와 반죽해 타박상에 붙였다는 민간의 쓰임을 전한다. 『동의보감』 탕액편 小蒜 항목 원문은 이번에도 직접 대조하지 못했고, 고서의 小蒜이 지금의 달래와 같은 식물인지도 확인하지 못해 고서 항목으로 싣지 않았다."
+    "text": "한국민족문화대백과사전은 달래를 野蒜·小蒜·山蒜 등의 한자 이름으로 기록해 왔으나 족지·산마늘과 혼동되기도 한다고 소개하고, 짓찧은 잎을 벌레 물린 데 붙이는 등 민간에서 쓰였다고 전한다."
   },
-  "updatedAt": 1793437365789
+  "updatedAt": 1794992101405
 }

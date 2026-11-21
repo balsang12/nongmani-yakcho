@@ -27,6 +27,7 @@
   ],
   "id": {
     "eat": "생잎이나 말린 잎을 뜨거운 물에 우려 차로 마신다. 생잎은 샐러드·음료·디저트 장식, 생선 요리에도 쓴다.",
+    "eng": "Lemon balm",
     "family": "꿀풀과",
     "grade": "",
     "habitat": "유럽 남부·지중해·서아시아 원산의 여러해살이풀이다. 추위에 강해 국내 노지에서도 겨울을 나고, 겨울에 지상부가 말랐다가 봄에 다시 올라온다. 씨와 포기나누기로 잘 퍼져 밭에서 쉽게 키운다.",
@@ -112,6 +113,30 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients 18(22)",
+        "note": "차·추출물 같은 섭취 형태와 흡수, 섭취량에 따라 연구 결과를 어떻게 봐야 하는지 비판적으로 검토한 리뷰다.",
+        "title": "Lemon Balm (Melissa officinalis L.) in Human Nutrition: The Importance of Preparation Type, Bioavailability, and Dose for Health Outcomes—A Critical Review",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2072-6643/18/22/3848",
+        "year": "2026"
+      },
+      {
+        "journal": "Plants 15(4)",
+        "note": "레몬밤 성분과 실험실·동물 연구부터 사람 대상 연구까지의 근거를 한데 모아 정리한 리뷰다.",
+        "title": "Melissa officinalis L. (Lemon Balm): An Integrative Review of Phytochemistry and Evidence from Preclinical Research to Clinical Studies",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2223-7747/15/4/650",
+        "year": "2026"
+      },
+      {
+        "journal": "International Journal of Molecular Sciences 26(21)",
+        "note": "레몬밤이 인지 기능과 수면의 질에 어떤 영향을 주는지 다룬 연구들을 서술적으로 정리한 리뷰다.",
+        "title": "Unraveling the Effects of Melissa officinalis L. on Cognition and Sleep Quality: A Narrative Review",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1422-0067/26/21/10566",
+        "year": "2025"
+      },
+      {
         "journal": "BMC Complementary Medicine and Therapies 24",
         "note": "무작위 시험 5건(302명)을 묶어 위약과 비교했다. 혈중 지질 수치가 낮게 나왔다고 보고했지만, 연구 수가 적고 대상자의 질환이 제각각이라는 한계를 밝혔다.",
         "title": "Effects of Melissa officinalis (lemon balm) consumption on serum lipid profile: a meta-analysis of randomized controlled trials",
@@ -128,7 +153,7 @@
         "year": "2021"
       }
     ],
-    "summary": "2024년 메타분석은 무작위 시험 5건(302명)을 묶어 혈중 지질 변화를 살폈으나 소규모 연구가 적게 모인 결과다. 사람 대상 임상시험이 몇 편 있으나 대부분 추출물 캡슐을 쓴 소규모 연구이고, 2021년 메타분석은 연구 간 차이가 커서 조심해서 해석해야 한다고 밝혔다. 국내에서는 레몬밤이 들어간 일부 추출물이 개별인정형 건강기능식품 원료로 인정됐다: '레몬 밤 추출물 혼합분말'(2010-24호, '체지방 감소에 도움을 줄 수 있음'), '레몬밤민들레추출복합물'(2022-22호, '간건강에 도움을 줄 수 있음') 등. 이 표시는 인정받은 해당 건강기능식품에만 쓸 수 있고 레몬밤 잎·차에는 쓸 수 없다."
+    "summary": "2025~2026년에는 인지·수면 연구, 섭취 형태와 용량 문제, 성분부터 임상까지의 근거를 정리한 리뷰가 잇따라 나왔다. 2024년 메타분석은 무작위 시험 5건(302명)을 묶어 혈중 지질 변화를 살폈으나 소규모 연구가 적게 모인 결과이고, 2021년 메타분석도 연구 간 차이가 커서 조심해서 해석해야 한다고 밝혔다. 사람 시험은 대부분 추출물 캡슐을 쓴 소규모 연구다. 국내에서 레몬밤이 들어간 일부 추출물이 개별인정형 건강기능식품 원료로 인정됐지만(예: '레몬 밤 추출물 혼합분말', '레몬밤민들레추출복합물'), 그 표시는 인정받은 해당 제품에만 쓸 수 있고 레몬밤 잎·차에는 쓸 수 없다."
   },
   "name": "레몬밤",
   "st": "ok",
@@ -141,5 +166,5 @@
     ],
     "text": "유럽의약품청(EMA) 허브위원회는 멜리사 잎을 가벼운 스트레스 증상, 잠, 더부룩함 같은 가벼운 소화 불편에 차로 써 온 전통 약초로 정리했다. 이는 임상시험이 아니라 오랜 사용 기록에 근거한 평가이고 12세 이상을 대상으로 한다. 판매 문구로는 쓸 수 없다."
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795207823792
 }

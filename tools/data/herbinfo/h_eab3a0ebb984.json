@@ -20,7 +20,7 @@
       }
     ],
     "verified": false,
-    "warn": ""
+    "warn": "2026년 11월 재조사에서 한국한의학연구원 동의보감 탕액편 菜部 원문 페이지를 여러 장 확인했으나 薇 항목 페이지는 찾지 못해 원문을 대조하지 못했다. 위 풀이는 2차 자료(신문 칼럼)에 근거한 것이다."
   },
   "faq": [
     {
@@ -151,6 +151,38 @@
   "modern": {
     "papers": [
       {
+        "journal": "Natural Product Research",
+        "note": "고비에서 성분을 분리해 세포에서 염증 관련 물질(NO) 생성을 줄이는지 살핀 실험이다.",
+        "title": "Chemical compounds from Osmunda japonica and their NO inhibitory activity.",
+        "type": "세포 실험",
+        "url": "https://doi.org/10.1080/14786419.2024.2362427",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Ethnopharmacology",
+        "note": "고비를 포함해 먹는 고사리류의 전통 이용·성분·실험 연구를 정리한 리뷰다.",
+        "title": "The traditional utilization, biological activity and chemical composition of edible fern species.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1016/j.jep.2024.117818",
+        "year": "2024"
+      },
+      {
+        "journal": "Plants (Basel)",
+        "note": "양치식물 성분과 건강 관련 가능성을 정리한 리뷰로, 대부분 실험실 근거라고 본다.",
+        "title": "Insights into Chemical Diversity and Potential Health-Promoting Effects of Ferns.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.3390/plants13182668",
+        "year": "2024"
+      },
+      {
+        "journal": "Journal of Ethnobiology and Ethnomedicine",
+        "note": "일본의 야생 식용식물 전통 이용을 정리한 리뷰로, 고비 같은 산나물의 먹는 방식을 다룬다.",
+        "title": "Ethnobotanical review of traditional use of wild food plants in Japan.",
+        "type": "리뷰",
+        "url": "https://doi.org/10.1186/s13002-024-00736-2",
+        "year": "2024"
+      },
+      {
         "journal": "Food Bioscience",
         "note": "고비에서 얻은 다당류가 면역 관련 신호 경로(MAPK·NF-κB)에 미치는 영향을 살폈다.",
         "title": "Exploring the immunomodulatory mechanisms of Osmunda japonica Thunb polysaccharides: Activation of MAPK and NF-κB signaling pathways",
@@ -159,7 +191,7 @@
         "year": "2024"
       }
     ],
-    "summary": "최근 3년 사이 고비(Osmunda japonica)를 다룬 연구는 매우 적으며, 확인된 것은 고비 다당류의 면역 조절 기전을 살핀 실험 연구 정도다. 근거는 실험실 수준에 머물러 있고 사람 대상 연구는 찾지 못했다."
+    "summary": "고비(Osmunda japonica)를 직접 다룬 최근 연구는 많지 않다. 고비에서 분리한 성분의 염증 관련 지표(NO) 억제와 다당류의 면역 신호 영향을 본 실험실 연구가 있고, 먹는 고사리류의 전통 이용과 성분을 정리한 리뷰가 있다. 사람 대상 연구는 찾지 못해 근거는 실험실 수준이다."
   },
   "name": "고비",
   "st": "caution",
@@ -172,5 +204,5 @@
     ],
     "text": "산림청 자료에 따르면 고비 뿌리줄기는 한약재명 자기(紫萁)로 불리며, 민간에서는 봄·여름에 채취해 말린 줄기와 잎을 인후통에, 뿌리를 이뇨에 쓰기도 했다. 나물로는 어린 순의 솜털을 없앤 뒤 끓는 물에 데쳐 말려서 먹는다."
   },
-  "updatedAt": 1793479770596
+  "updatedAt": 1794992101405
 }

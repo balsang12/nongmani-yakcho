@@ -136,6 +136,14 @@
   "modern": {
     "papers": [
       {
+        "journal": "Journal of Medicinal Food",
+        "note": "눈 조직 세포에 눈개승마 추출물을 처리했을 때 세포 스트레스·염증·산화 지표가 낮아졌다는 실험실 결과로, 사람에게도 같은지는 확인되지 않았다.",
+        "title": "Aruncus Dioicus Var. Kamtschaticus Extract Prevents Ocular Endoplasmic Reticulum Stress, Inflammation, and Oxidative Stress In Vitro",
+        "type": "세포 실험",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/39973273/",
+        "year": "2025"
+      },
+      {
         "journal": "Horticulturae",
         "note": "눈개승마 잎에서 상추에 있는 카로티노이드인 락투카잔틴을 처음 확인했고, 그 양이 붉은 상추보다 많았다는 성분 분석 연구다.",
         "title": "Aruncus dioicus var. kamtschaticu: A Newly Identified Source of Lactucaxanthin (ε,ε-Carotene-3,3′-diol)",
@@ -144,7 +152,7 @@
         "year": "2024"
       }
     ],
-    "summary": "2023~2026년에 확인된 연구는 잎의 성분을 분석한 실험 연구 1편뿐이다. 눈개승마 잎에서 카로티노이드(락투카잔틴)와 오메가-3 지방산이 확인되었지만, 성분 분석 단계여서 사람에게 어떤 효과가 있는지는 밝혀지지 않았다."
+    "summary": "2023~2026년에 확인된 연구는 잎 성분 분석 1편과 눈 세포를 쓴 실험실 연구 1편이다. 잎에서 카로티노이드(락투카잔틴) 등이 확인되었고 추출물이 세포에서 스트레스 지표를 낮췄다는 보고가 있지만, 모두 성분 분석·세포 실험 단계여서 사람에게 어떤 효과가 있는지는 밝혀지지 않았다."
   },
   "name": "눈개승마",
   "st": "ok",
@@ -161,5 +169,5 @@
     ],
     "text": "고서 본초 항목은 확인되지 않았다. 울릉도에서는 이른 봄 어린순을 나물로 먹어 왔고, 명절·잔치 때 육개장을 끓이거나 제사상에 올렸다고 소개된다. 학술 발표에서는 전초를 예로부터 해독과 편도선염에 써 왔다고 소개한다."
   },
-  "updatedAt": 1793523162847
+  "updatedAt": 1795035046120
 }

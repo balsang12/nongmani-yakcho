@@ -49,6 +49,7 @@
   ],
   "id": {
     "eat": "생잎을 샐러드·토마토 요리·피자·파스타에 올리고, 갈아서 페스토를 만든다. 요리에는 마지막에 넣는다. 씨는 물에 불리면 젤리처럼 부풀어 음료·디저트에 넣는다.",
+    "eng": "Sweet basil",
     "family": "꿀풀과",
     "grade": "",
     "habitat": "아프리카 중부~동남아시아 열대 원산으로, 국내에서는 한해살이로 키운다. 추위에 아주 약해 서리 걱정이 없는 늦봄에 밭에 옮겨 심는다. 햇볕과 물빠짐 좋은 흙을 좋아한다.",
@@ -122,6 +123,22 @@
   "modern": {
     "papers": [
       {
+        "journal": "International Journal of Molecular Sciences 27(12)",
+        "note": "저·중소득 국가에서 바질 등 오키뭄속 식물의 전통적 쓰임과 성분, 실험 연구를 체계적으로 모은 리뷰다.",
+        "title": "Ethnobotany, Phytochemistry, and Pharmacological Activities of Ocimum Species in Low- and Middle-Income Countries: A Systematic Review",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/1422-0067/27/12/5540",
+        "year": "2026"
+      },
+      {
+        "journal": "Molecules 30(15)",
+        "note": "이라크에서 자란 바질의 아미노산 구성을 분석하고 배양 세포에 대한 독성을 살핀 실험실 연구다.",
+        "title": "Amino Acid Analysis and Cytotoxicity Study of Iraqi Ocimum basilicum Plant",
+        "type": "세포 실험",
+        "url": "https://www.mdpi.com/1420-3049/30/15/3232",
+        "year": "2025"
+      },
+      {
         "journal": "Nutrients 17(17)",
         "note": "스위트바질과 홀리바질 연구를 함께 정리했다. 근거 대부분이 시험관·동물 연구이고, 사람 시험은 2~8주의 소규모라고 밝혔다.",
         "title": "The Neuroprotective Potential of Ocimum Plant Species: Seasoning the Mind with Sweet and Holy Basil",
@@ -146,7 +163,7 @@
         "year": "2005"
       }
     ],
-    "summary": "2025년 리뷰도 근거 대부분은 시험관·동물 연구이고 사람 시험은 짧고 작다고 정리했다. 바질의 건강 효과를 사람에게서 확인한 좋은 연구는 확인되지 않았다. 바질 정유에는 에스트라골이 많이 들어 있는데, 유럽의약품청(EMA)은 이 성분이 동물에게 많은 양을 줄 때 간 종양을 일으켰다며 어린이·임신부의 노출을 줄이라고 권했다. 이는 약용 제품에 관한 의견이며 일반 요리 양에 대한 결론은 아니다. 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "2025~2026년 리뷰들도 근거 대부분은 시험관·동물 연구이고 사람 시험은 짧고 작다고 정리했다. 바질의 건강 효과를 사람에게서 확인한 좋은 연구는 확인되지 않았다. 바질 정유에는 에스트라골이 많이 들어 있는데, 유럽의약품청(EMA)은 동물에게 많은 양을 줄 때 간 종양을 일으켰다며 어린이·임신부의 노출을 줄이라고 권했다. 이는 약용 제품에 관한 의견이며 일반 요리 양에 대한 결론은 아니다. 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "바질",
   "st": "ok",
@@ -154,5 +171,5 @@
     "sources": [],
     "text": ""
   },
-  "updatedAt": 1793696033001
+  "updatedAt": 1795207823792
 }

@@ -118,11 +118,35 @@
   "modern": {
     "papers": [
       {
+        "journal": "Nutrients 18(2)",
+        "note": "기존 체계적 고찰들을 정리한 리뷰로, 과민성장증후군 관련 식물 원료 가운데 근거가 가장 많이 쌓인 것은 페퍼민트 오일이라고 했다.",
+        "title": "Plant-Derived Treatments for IBS: Clinical Outcomes, Mechanistic Insights, and Their Position in International Guidelines",
+        "type": "리뷰",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/41599795/",
+        "year": "2026"
+      },
+      {
         "journal": "Pharmaceuticals 18(5)",
         "note": "임상 16건을 정리했다. 대부분 장용 캡슐 정유 연구이고, 추가 임상이 필요하다고 했다.",
         "title": "Investigating the Health Potential of Mentha Species Against Gastrointestinal Disorders—A Systematic Review of Clinical Evidence",
         "type": "리뷰",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12114791/",
+        "year": "2025"
+      },
+      {
+        "journal": "Journal of Clinical Medicine 14(14)",
+        "note": "무작위 임상 19건을 메타분석해 정유 흡입과 메스꺼움의 관계를 살폈고, 보조 요법으로서 가능성은 있으나 확실하지 않다고 했다.",
+        "title": "Inhaling Peppermint Essential Oil as a Promising Complementary Therapy in the Treatment of Nausea and Vomiting",
+        "type": "리뷰",
+        "url": "https://www.mdpi.com/2077-0383/14/14/5069",
+        "year": "2025"
+      },
+      {
+        "journal": "Iranian Journal of Nursing and Midwifery Research 30(6)",
+        "note": "작은 무작위 임상 5건(499명)을 정리했으며, 연구 질이 낮아 질 높은 임상이 더 필요하다고 했다.",
+        "title": "The Effects of Peppermint on Menstrual Disorders: A Systematic Review of Randomized Controlled Trials",
+        "type": "리뷰",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12655842",
         "year": "2025"
       },
       {
@@ -132,17 +156,9 @@
         "type": "리뷰",
         "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11587584/",
         "year": "2024"
-      },
-      {
-        "journal": "BMC Complementary and Alternative Medicine 19",
-        "note": "페퍼민트 오일 캡슐 임상시험 12편(835명)을 모아 분석했다. 잎 차가 아닌 정유 캡슐 연구다.",
-        "title": "The impact of peppermint oil on the irritable bowel syndrome: a meta-analysis of the pooled clinical data",
-        "type": "리뷰",
-        "url": "https://doaj.org/article/5d768ce383694ac1b2d6039fcca38816",
-        "year": "2019"
       }
     ],
-    "summary": "사람 대상 연구는 주로 장용 페퍼민트 오일 캡슐에 관한 것이다. 2019년 메타분석(12편·835명)과 2025년 정리(임상 16건)는 과민성장증후군 등의 증상 결과를 다뤘지만, 정유 캡슐 연구라 잎 차에 그대로 적용할 수 없다. 2024년 혈압 분석(박하속 시험 7건·297명)은 유의한 변화를 확인하지 못했고 근거 확실성은 낮음이었다. 페퍼민트는 식약처 인정 건강기능식품 원료가 아니다."
+    "summary": "사람 대상 연구는 대부분 장용 정유 캡슐이나 정유 흡입에 관한 것이라 잎 차에 그대로 적용할 수 없다. 2025~2026년 정리들은 과민성장증후군·메스꺼움 등에서 가능성을 보고했지만 연구 규모가 작고 이질적이어서 근거 확실성은 대체로 낮거나 중간이다. 2024년 혈압 분석(박하속 시험 7건)은 유의한 변화를 확인하지 못했다. 페퍼민트는 식약처 인정 건강기능식품 원료가 아니다."
   },
   "name": "페퍼민트",
   "st": "ok",
@@ -155,5 +171,5 @@
     ],
     "text": "유럽의약품청(EMA) 약초의약품위원회는 잎이 소화불량·더부룩함에 오래 쓰여 온 것을 전통적 사용으로 인정했다. 임상 근거는 제한적이라고 밝혔고, 역류·속쓰림이 심해질 수 있으며 담석이 있으면 조심하라고 적었다."
   },
-  "updatedAt": 1793739285432
+  "updatedAt": 1795250993983
 }
